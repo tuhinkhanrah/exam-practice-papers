@@ -1,0 +1,415 @@
+<question type="multichoice">
+  <name><text>[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_MCQ_Q01 - Inheritance of ABO blood groups in humans</text></name>
+  <questiontext format="html"><![CDATA[<p>Which of the following parental blood group combinations can produce a biological child with blood group O?</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Human ABO blood groups are controlled by the gene \(I\), which has three alleles: \(I^A\), \(I^B\), and \(i\). Alleles \(I^A\) and \(I^B\) are co-dominant with each other and completely dominant over the recessive allele \(i\).</p><p><strong>Step 2: Evaluation</strong><br/>A child with blood group O must have the homozygous recessive genotype \(ii\), meaning one \(i\) allele must be inherited from each parent. An individual with blood group AB has the genotype \(I^A I^B\) and lacks the \(i\) allele, so any cross involving a blood group AB parent cannot produce a child with genotype \(ii\).</p><p><strong>Step 3: Application</strong><br/>When one parent has blood group A (heterozygous \(I^A i\)) and the other parent has blood group B (heterozygous \(I^B i\)), each parent can contribute an \(i\) gamete, yielding a \(\frac{1}{4}\) probability of an \(ii\) (blood group O) child.</p><p><strong>Step 4: Final Conclusion</strong><br/>Therefore, the parental blood group combination A and B can produce a child with blood group O.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>AB and O</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>A and B</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>AB and A</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>AB and AB</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:multiple_alleles_and_blood_groups</text></tag>
+    <tag><text>chapter:genetics_and_evolution</text></tag>
+    <tag><text>typology:mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_MCQ_Q02 - Haplodiploid sex determination in honey bees</text></name>
+  <questiontext format="html"><![CDATA[<p>In the haplodiploid sex-determination system of honey bees (<em>Apis mellifera</em>), which of the following statements is correct regarding male honey bees (drones)?</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>In honey bees, sex determination is based on the number of sets of chromosomes an individual receives (haplodiploidy). Females (queen and workers) are diploid (\(2n = 32\)) and develop from fertilised eggs, whereas males (drones) are haploid (\(n = 16\)) and develop from unfertilised eggs by parthenogenesis.</p><p><strong>Step 2: Evaluation</strong><br/>Because males are haploid, they cannot undergo meiosis to produce gametes; instead, they produce sperms by mitosis. Furthermore, since males develop from unfertilised eggs, they do not have a father and cannot have sons, though they have a grandfather and can have grandsons.</p><p><strong>Step 3: Final Conclusion</strong><br/>Thus, male honey bees are haploid and produce sperms by mitosis.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>They are diploid and produce sperms by meiosis.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>They develop from fertilised eggs and have both a father and sons.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>They are haploid and produce sperms by meiosis.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>They are haploid and produce sperms by mitosis.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:sex_determination</text></tag>
+    <tag><text>chapter:genetics_and_evolution</text></tag>
+    <tag><text>typology:mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_MCQ_Q03 - Genetic basis of alpha and beta thalassemia</text></name>
+  <questiontext format="html"><![CDATA[<p>Which of the following correctly distinguishes \(\alpha\)-thalassemia from \(\beta\)-thalassemia in humans?</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Thalassemia is an autosome-linked recessive blood disorder caused by either mutation or deletion resulting in reduced rate of synthesis of one of the globin chains (\(\alpha\) or \(\beta\)) that make up haemoglobin. It is a quantitative problem of synthesising too few globin molecules.</p><p><strong>Step 2: Evaluation</strong><br/>Production of \(\alpha\)-globin chain is controlled by two closely linked genes, \(HBA1\) and \(HBA2\), on chromosome 16 of each parent. In contrast, production of \(\beta\)-globin chain is controlled by a single gene, \(HBB\), on chromosome 11 of each parent.</p><p><strong>Step 3: Final Conclusion</strong><br/>Therefore, \(\alpha\)-thalassemia is controlled by two closely linked genes on chromosome 16, whereas \(\beta\)-thalassemia is controlled by a single gene on chromosome 11.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(\alpha\)-thalassemia is controlled by two closely linked genes on chromosome 16, whereas \(\beta\)-thalassemia is controlled by a single gene on chromosome 11.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\alpha\)-thalassemia is controlled by a single gene on chromosome 11, whereas \(\beta\)-thalassemia is controlled by two closely linked genes on chromosome 16.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\alpha\)-thalassemia is an X-linked recessive disorder, whereas \(\beta\)-thalassemia is an autosomal dominant disorder.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\alpha\)-thalassemia is a qualitative defect in globin structure, whereas \(\beta\)-thalassemia is a quantitative defect in globin synthesis.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:mendelian_disorders</text></tag>
+    <tag><text>chapter:genetics_and_evolution</text></tag>
+    <tag><text>typology:mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_MCQ_Q04 - Meselson and Stahl semiconservative DNA replication</text></name>
+  <questiontext format="html"><![CDATA[<p><em>Escherichia coli</em> cells with completely heavy (\(^{15}\text{N}/^{15}\text{N}\)) DNA are transferred to a medium containing only \(^{14}\text{NH}_4\text{Cl}\) and allowed to divide for 60 minutes. Assuming a generation time of 20 minutes, what will be the ratio of hybrid (\(^{15}\text{N}/^{14}\text{N}\)) DNA molecules to completely light (\(^{14}\text{N}/^{14}\text{N}\)) DNA molecules at the end of 60 minutes?</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Initial DNA is \(100\%\) heavy (\(^{15}\text{N}/^{15}\text{N}\)). Total incubation time in \(^{14}\text{N}\) medium is \(60\text{ minutes}\), and the generation time of <em>E. coli</em> is \(20\text{ minutes}\).</p><p><strong>Step 2: Assumptions and Model</strong><br/>DNA replicates semiconservatively: each parental strand acts as a template for a new complementary strand synthesized exclusively with \(^{14}\text{N}\) nucleotides.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Number of generations \(n = \frac{\text{Total time}}{\text{Generation time}}\). After \(n\) generations, one original DNA molecule produces \(2^n\) DNA molecules, of which exactly \(2\) molecules remain hybrid (\(^{15}\text{N}/^{14}\text{N}\)) and \(2^n - 2\) molecules are completely light (\(^{14}\text{N}/^{14}\text{N}\)).</p><p><strong>Step 4: Step-by-Step Working</strong><br/>Calculate the number of generations: \(n = \frac{60}{20} = 3\).<br/>Total DNA molecules per original molecule after 3 generations: \(2^3 = 8\).<br/>Number of hybrid (\(^{15}\text{N}/^{14}\text{N}\)) molecules = \(2\).<br/>Number of light (\(^{14}\text{N}/^{14}\text{N}\)) molecules = \(8 - 2 = 6\).<br/>Ratio of hybrid to light DNA molecules = \(2 : 6 = 1 : 3\).</p><p><strong>Step 5: Check and Final Answer</strong><br/>The total adds up to \(2 + 6 = 8\) molecules, with \(25\%\) hybrid and \(75\%\) light. The ratio of hybrid to light DNA molecules is \(1 : 3\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(1 : 1\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(1 : 2\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(1 : 3\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(1 : 7\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:dna_replication</text></tag>
+    <tag><text>chapter:genetics_and_evolution</text></tag>
+    <tag><text>typology:mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_MCQ_Q05 - Hardy-Weinberg carrier frequency calculation</text></name>
+  <questiontext format="html"><![CDATA[<p>In a large, randomly mating population of \(10{,}000\) individuals at Hardy-Weinberg equilibrium, \(1{,}600\) individuals exhibit an autosomal recessive trait. How many individuals in this population are expected to be phenotypically normal carriers of the recessive allele?</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Total population size \(N = 10{,}000\). Number of individuals expressing the autosomal recessive trait \(= 1{,}600\). The population is in Hardy-Weinberg equilibrium.</p><p><strong>Step 2: Assumptions and Conventions</strong><br/>Let \(p\) be the frequency of the dominant allele and \(q\) be the frequency of the recessive allele, such that \(p + q = 1\). Phenotypically normal carriers are heterozygotes.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Under Hardy-Weinberg equilibrium, genotype frequencies follow \(p^2 + 2pq + q^2 = 1\), where \(q^2\) is the frequency of homozygous recessive individuals and \(2pq\) is the frequency of heterozygous carriers.</p><p><strong>Step 4: Step-by-Step Working</strong><br/>Calculate \(q^2\): \(q^2 = \frac{1{,}600}{10{,}000} = 0.16\).<br/>Taking the square root gives \(q = \sqrt{0.16} = 0.4\).<br/>Find \(p\): \(p = 1 - q = 1 - 0.4 = 0.6\).<br/>Calculate the frequency of heterozygous carriers: \(2pq = 2 \times 0.6 \times 0.4 = 0.48\).<br/>Calculate the number of carriers: \(0.48 \times 10{,}000 = 4{,}800\).</p><p><strong>Step 5: Check and Final Answer</strong><br/>Checking the sum of genotypes: \(p^2 = 0.36\) (\(3{,}600\)), \(2pq = 0.48\) (\(4{,}800\)), and \(q^2 = 0.16\) (\(1{,}600\)), which sum to \(10{,}000\). Thus, \(4{,}800\) individuals are expected to be phenotypically normal carriers.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(2{,}400\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(4{,}800\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(3{,}600\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(4{,}000\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:hardy_weinberg_principle</text></tag>
+    <tag><text>chapter:genetics_and_evolution</text></tag>
+    <tag><text>typology:mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_AR_Q06 - Degeneracy of the genetic code</text></name>
+  <questiontext format="html"><![CDATA[<p><strong>Assertion (A):</strong> The genetic code is degenerate in nature.</p><p><strong>Reason (R):</strong> Most amino acids are coded by more than one codon.</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Out of 64 triplet codons, 61 codons specify 20 different amino acids, while 3 codons (UAA, UAG, UGA) act as stop codons.</p><p><strong>Step 2: Evaluation of Assertion and Reason</strong><br/>Because there are 61 sense codons for only 20 amino acids, most amino acids (all except methionine and tryptophan) are specified by more than one codon. This property of multiple codons coding for the same amino acid is defined as degeneracy of the genetic code.</p><p><strong>Step 3: Final Conclusion</strong><br/>Both the assertion and the reason are correct, and the reason directly explains why the genetic code is degenerate.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both (A) and (R) are correct and (R) is the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is correct but (R) is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is incorrect but (R) is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:genetic_code</text></tag>
+    <tag><text>chapter:genetics_and_evolution</text></tag>
+    <tag><text>typology:assertion-reason</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_AR_Q07 - Linkage and recombination frequency in Drosophila</text></name>
+  <questiontext format="html"><![CDATA[<p><strong>Assertion (A):</strong> In T.H. Morgan's dihybrid crosses in <em>Drosophila</em>, when two genes were situated on the same chromosome, the proportion of parental gene combinations was always equal to that of non-parental combinations.</p><p><strong>Reason (R):</strong> Tightly linked genes show very low recombination frequency, whereas loosely linked genes show higher recombination frequency.</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Linkage refers to the physical association of genes on the same chromosome. When two genes are located on the same chromosome, they do not assort independently.</p><p><strong>Step 2: Evaluation of Assertion and Reason</strong><br/>Morgan observed that when two genes in a dihybrid cross are situated on the same chromosome, the proportion of parental gene combinations is much higher than that of non-parental (recombinant) combinations, not equal to it. Hence, the assertion is incorrect. On the other hand, the degree of linkage depends on the physical distance between genes: tightly linked genes located close together show very low recombination, whereas loosely linked genes located farther apart show higher recombination. Thus, the reason is correct.</p><p><strong>Step 3: Final Conclusion</strong><br/>The assertion is incorrect, whereas the reason is correct.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct and (R) is the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is correct but (R) is incorrect.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>(A) is incorrect but (R) is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:linkage_and_crossing_over</text></tag>
+    <tag><text>chapter:genetics_and_evolution</text></tag>
+    <tag><text>typology:assertion-reason</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_STMT2_Q08 - Chemical evolution and Miller-Urey experiment</text></name>
+  <questiontext format="html"><![CDATA[<p>Given below are two statements:</p><p><strong>Statement I:</strong> S.L. Miller created an electric discharge in a closed flask containing \(\text{CH}_4\), \(\text{H}_2\), \(\text{NH}_3\), and water vapour at \(800^\circ\text{C}\) and observed the formation of amino acids.</p><p><strong>Statement II:</strong> Oparin and Haldane proposed that the first form of life could have originated from pre-existing non-living organic molecules.</p><p>In the light of the above statements, choose the correct answer from the options given below.</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Chemical evolution precedes biological evolution. Oparin (Russia) and Haldane (England) proposed that the first form of life could have come from pre-existing non-living organic molecules (such as RNA and proteins), and that formation of life was preceded by chemical evolution.</p><p><strong>Step 2: Evaluation</strong><br/>In 1953, S.L. Miller experimentally tested this hypothesis by simulating early Earth reducing conditions in a closed flask containing methane (\(\text{CH}_4\)), hydrogen (\(\text{H}_2\)), ammonia (\(\text{NH}_3\)), and water vapour at \(800^\circ\text{C}\) with electric discharges, successfully observing the formation of amino acids.</p><p><strong>Step 3: Final Conclusion</strong><br/>Both statements describing Miller's experimental setup and the Oparin-Haldane hypothesis are correct.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is correct but Statement II is incorrect.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is incorrect but Statement II is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:origin_of_life</text></tag>
+    <tag><text>chapter:genetics_and_evolution</text></tag>
+    <tag><text>typology:statement-based</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_STMT2_Q09 - Regulation of the lac operon in bacteria</text></name>
+  <questiontext format="html"><![CDATA[<p>Given below are two statements:</p><p><strong>Statement I:</strong> In the <em>lac</em> operon, the <em>z</em> gene codes for \(\beta\)-galactosidase, which is primarily responsible for the hydrolysis of lactose into galactose and glucose.</p><p><strong>Statement II:</strong> In the presence of an inducer such as lactose or allolactose, the repressor protein binds to the operator region and prevents RNA polymerase from transcribing the operon.</p><p>In the light of the above statements, choose the correct answer from the options given below.</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>The <em>lac</em> operon in <em>E. coli</em> is an inducible operon under negative regulation by a repressor protein encoded by the <em>i</em> gene. Its three structural genes are <em>z</em>, <em>y</em>, and <em>a</em>.</p><p><strong>Step 2: Evaluation</strong><br/>The <em>z</em> gene indeed codes for \(\beta\)-galactosidase, which hydrolyses the disaccharide lactose into its monomeric units, galactose and glucose. Thus, the statement regarding the <em>z</em> gene is correct. However, in the presence of an inducer (lactose or allolactose), the inducer binds to the repressor protein and inactivates it. As a result, the repressor cannot bind to the operator, allowing RNA polymerase access to the promoter so that transcription proceeds. Therefore, the claim that the repressor binds to the operator in the presence of the inducer is incorrect.</p><p><strong>Step 3: Final Conclusion</strong><br/>The statement about the <em>z</em> gene is correct, while the statement about the repressor binding to the operator in the presence of the inducer is incorrect.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Statement I is correct but Statement II is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is incorrect but Statement II is correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are incorrect.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:lac_operon</text></tag>
+    <tag><text>chapter:genetics_and_evolution</text></tag>
+    <tag><text>typology:statement-based</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_STMT3_Q10 - Human Genome Project and DNA fingerprinting</text></name>
+  <questiontext format="html"><![CDATA[<p>Read the following three statements carefully:</p><ol><li>The human genome contains \(3164.7\text{ million bp}\), and less than \(2\%\) of the genome codes for proteins.</li><li>Chromosome 1 has the most genes (\(2968\)), and the Y chromosome has the fewest (\(231\)).</li><li>In DNA fingerprinting, VNTRs (Variable Number of Tandem Repeats) belong to a class of satellite DNA called micro-satellite.</li></ol><p>Which of the above statements are correct?</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Salient features of the Human Genome Project (HGP) describe genome size, coding fraction, and chromosome-level gene counts, while DNA fingerprinting relies on polymorphism in repetitive satellite DNA sequences.</p><p><strong>Step 2: Evaluation</strong><br/>The human genome consists of \(3164.7\text{ million bp}\), with less than \(2\%\) coding for proteins; this is accurate. Furthermore, Chromosome 1 has the highest number of genes (\(2968\)) and the Y chromosome has the fewest (\(231\)), which is also accurate. However, Variable Number of Tandem Repeats (VNTRs) used in Alec Jeffreys' DNA fingerprinting technique belong to a class of satellite DNA called mini-satellite, not micro-satellite.</p><p><strong>Step 3: Final Conclusion</strong><br/>Therefore, only the statements regarding human genome size, coding percentage, and chromosome gene counts are correct, whereas the classification of VNTRs as micro-satellite DNA is incorrect.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 2, and 3</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2 and 3 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1 and 3 only</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1 and 2 only</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:human_genome_and_dna_fingerprinting</text></tag>
+    <tag><text>chapter:genetics_and_evolution</text></tag>
+    <tag><text>typology:statement-based</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_STMT3_Q11 - Evidences and mechanisms of biological evolution</text></name>
+  <questiontext format="html"><![CDATA[<p>Consider the following three statements regarding biological evolution:</p><ol><li>Sweet potato (root modification) and potato (stem modification) are examples of analogous structures resulting from convergent evolution.</li><li>In directional natural selection, more individuals acquire the mean character value, resulting in a higher and narrower phenotypic peak.</li><li>Industrial melanism in peppered moths (<em>Biston betularia</em>) demonstrates natural selection favouring dark-winged moths over white-winged moths in polluted post-industrialisation areas.</li></ol><p>Which of the above statements are correct?</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Comparative anatomy distinguishes homologous structures (divergent evolution) from analogous structures (convergent evolution). Natural selection acts on phenotypic variation in three ways: stabilising, directional, and disruptive.</p><p><strong>Step 2: Evaluation</strong><br/>Sweet potato (modified root) and potato (modified stem) have different anatomical origins but perform the same function of food storage, making them analogous structures formed via convergent evolution; this is correct. Industrial melanism in <em>Biston betularia</em> is a classic example where dark-winged moths had a survival advantage against predators on soot-darkened tree trunks in polluted post-industrialisation areas; this is also correct. However, when more individuals acquire the mean character value and the peak gets higher and narrower, it is stabilising selection, not directional selection (where the peak shifts in one direction).</p><p><strong>Step 3: Final Conclusion</strong><br/>Thus, the statements on analogous structures and industrial melanism are correct, while the description of directional selection is incorrect.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1 and 2 only</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1 and 3 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2 and 3 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 2, and 3</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:evidences_and_natural_selection</text></tag>
+    <tag><text>chapter:genetics_and_evolution</text></tag>
+    <tag><text>typology:statement-based</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_MULTI_Q12 - DNA replication, transcription, and translation</text></name>
+  <questiontext format="html"><![CDATA[<p>Evaluate the following five statements regarding the molecular basis of inheritance:</p><ol><li>DNA-dependent DNA polymerase catalyses polymerisation only in the \(5' \to 3'\) direction.</li><li>During DNA replication, synthesis is continuous on the template strand with \(5' \to 3'\) polarity and discontinuous on the template strand with \(3' \to 5'\) polarity.</li><li>In bacteria, a single DNA-dependent RNA polymerase catalyses the transcription of all types of RNA (mRNA, tRNA, and rRNA).</li><li>In eukaryotes, RNA polymerase III is responsible for the transcription of tRNA, 5srRNA, and snRNAs.</li><li>During translation, the ribosome acts as a catalyst (ribozyme) for the formation of peptide bonds.</li></ol><p>Which of the above statements are correct?</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Nucleic acid polymerases extend nascent strands exclusively in the \(5' \to 3'\) direction by reading templates in the antiparallel \(3' \to 5'\) direction. Prokaryotes and eukaryotes differ in the number of RNA polymerases, while peptide bond formation during translation is catalysed by ribosomal RNA.</p><p><strong>Step 2: Evaluation</strong><br/>DNA-dependent DNA polymerase polymerises nucleotides only in the \(5' \to 3'\) direction, which is true. Consequently, on the template strand with \(3' \to 5'\) polarity, replication is continuous, whereas on the template strand with \(5' \to 3'\) polarity, replication is discontinuous (forming Okazaki fragments); hence, the statement claiming the reverse polarity is false. In bacteria, one RNA polymerase transcribes mRNA, tRNA, and rRNA, which is true. In eukaryotes, RNA polymerase III transcribes tRNA, 5srRNA, and snRNAs, which is also true. Finally, the ribosome (specifically the 23S rRNA in bacteria) acts as a ribozyme to catalyse peptide bond formation, which is true.</p><p><strong>Step 3: Final Conclusion</strong><br/>All statements except the one reversing template strand polarity for continuous and discontinuous synthesis are correct.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 2, 3, and 4 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2, 3, 4, and 5 only</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1, 3, 4, and 5 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 2, 4, and 5 only</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:central_dogma_processes</text></tag>
+    <tag><text>chapter:genetics_and_evolution</text></tag>
+    <tag><text>typology:statement-based</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_MATCH_Q13 - Human evolution stages and characteristics</text></name>
+  <questiontext format="html"><![CDATA[<p>Match List I with List II regarding human evolution:</p><table border="1" cellpadding="6" cellspacing="0"><thead><tr><th>List I (Hominin)</th><th>List II (Characteristic / Brain Capacity)</th></tr></thead><tbody><tr><td>A. <em>Homo habilis</em></td><td>I. Cranial capacity of \(1400\text{ cc}\); used hides to protect body and buried their dead</td></tr><tr><td>B. <em>Homo erectus</em></td><td>II. Lived in East African grasslands; hunted with stone weapons but essentially ate fruit</td></tr><tr><td>C. Neanderthal man</td><td>III. Cranial capacity between \(650\text{–}800\text{ cc}\); probably did not eat meat</td></tr><tr><td>D. <em>Australopithecines</em></td><td>IV. Cranial capacity around \(900\text{ cc}\); probably ate meat</td></tr></tbody></table><p>Choose the correct answer from the options given below.</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>The fossil record of human evolution shows a progressive increase in cranial capacity and changes in diet and tool use from early hominins to modern humans.</p><p><strong>Step 2: Evaluation</strong><br/><em>Homo habilis</em>, the first human-like being (hominid), had a brain capacity between \(650\text{–}800\text{ cc}\) and probably did not eat meat. <em>Homo erectus</em> (fossils discovered in Java) had a large brain around \(900\text{ cc}\) and probably ate meat. Neanderthal man had a brain size of \(1400\text{ cc}\), lived near East and Central Asia, used hides to protect their body, and buried their dead. <em>Australopithecines</em> lived in East African grasslands around 2 million years ago and hunted with stone weapons, though they essentially ate fruit.</p><p><strong>Step 3: Final Conclusion</strong><br/>Matching each hominin to its corresponding cranial capacity and lifestyle gives the pairing: <em>Homo habilis</em> with \(650\text{–}800\text{ cc}\) and non-meat diet, <em>Homo erectus</em> with \(900\text{ cc}\) and meat eating, Neanderthal man with \(1400\text{ cc}\) and burial of the dead, and <em>Australopithecines</em> with East African grasslands and stone weapons.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-IV, B-III, C-I, D-II</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>A-III, B-IV, C-I, D-II</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-III, B-I, C-IV, D-II</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-II, B-IV, C-I, D-III</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:human_evolution</text></tag>
+    <tag><text>chapter:genetics_and_evolution</text></tag>
+    <tag><text>typology:matching-mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>media:table</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_DIAG_Q14 - Pedigree analysis of Mendelian inheritance</text></name>
+  <questiontext format="html"><![CDATA[<p>Study the pedigree chart shown below for a genetic trait in a human family, where shaded symbols represent affected individuals and unshaded symbols represent unaffected individuals.</p><p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 260" width="420" height="260" style="background:#ffffff;border:1px solid #d0d7de;border-radius:6px;font-family:Arial,sans-serif;">
+  <text x="20" y="30" font-size="14" font-weight="bold" fill="#222222">I</text>
+  <rect x="130" y="25" width="30" height="30" fill="#ffffff" stroke="#111111" stroke-width="2"/>
+  <line x1="160" y1="40" x2="240" y2="40" stroke="#111111" stroke-width="2"/>
+  <circle cx="255" cy="40" r="15" fill="#ffffff" stroke="#111111" stroke-width="2"/>
+  <line x1="200" y1="40" x2="200" y2="95" stroke="#111111" stroke-width="2"/>
+  <line x1="100" y1="95" x2="300" y2="95" stroke="#111111" stroke-width="2"/>
+  <text x="20" y="135" font-size="14" font-weight="bold" fill="#222222">II</text>
+  <line x1="100" y1="95" x2="100" y2="120" stroke="#111111" stroke-width="2"/>
+  <rect x="85" y="120" width="30" height="30" fill="#ffffff" stroke="#111111" stroke-width="2"/>
+  <line x1="200" y1="95" x2="200" y2="120" stroke="#111111" stroke-width="2"/>
+  <circle cx="200" cy="135" r="15" fill="#111111" stroke="#111111" stroke-width="2"/>
+  <line x1="300" y1="95" x2="300" y2="120" stroke="#111111" stroke-width="2"/>
+  <circle cx="300" cy="135" r="15" fill="#ffffff" stroke="#111111" stroke-width="2"/>
+  <rect x="20" y="185" width="380" height="55" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" rx="4"/>
+  <rect x="35" y="198" width="16" height="16" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+  <text x="58" y="211" font-size="11" fill="#222222">Unaffected male</text>
+  <circle cx="170" cy="206" r="8" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+  <text x="185" y="211" font-size="11" fill="#222222">Unaffected female</text>
+  <circle cx="305" cy="206" r="8" fill="#111111" stroke="#111111" stroke-width="1.5"/>
+  <text x="320" y="211" font-size="11" fill="#222222">Affected female</text>
+  <text x="35" y="231" font-size="10" fill="#555555">Squares represent males; circles represent females.</text>
+</svg></p><p>Based on the pedigree, which mode of inheritance is most likely for this trait?</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>The pedigree shows two generations: in generation I, an unaffected male is married to an unaffected female. In generation II, they have three offspring: one unaffected male, one affected female, and one unaffected female.</p><p><strong>Step 2: Assumptions and Model</strong><br/>Standard pedigree conventions apply, with complete penetrance and no new spontaneous mutations.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>For a dominant trait, at least one parent of an affected individual must express the trait. For an X-linked recessive trait, an affected female must inherit a recessive allele on the X chromosome from both parents, meaning her father must be affected.</p><p><strong>Step 4: Step-by-Step Working</strong><br/>First, two unaffected parents produce an affected offspring, which proves the trait skips a generation and must be recessive (ruling out both autosomal dominant and X-linked dominant inheritance). Second, the affected offspring is a female whose father is unaffected. If the trait were X-linked recessive, the affected daughter (\(X^a X^a\)) would have had to inherit \(X^a\) from her father, making the father affected (\(X^a Y\)), which contradicts the pedigree. Since both parents are unaffected carriers (\(Aa \times Aa\)) and produce an affected daughter (\(aa\)), the trait must be autosomal recessive.</p><p><strong>Step 5: Check and Final Answer</strong><br/>An autosomal recessive model is completely consistent with unaffected carrier parents having an affected daughter and unaffected offspring. Therefore, the mode of inheritance is autosomal recessive.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Autosomal dominant</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>X-linked recessive</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>X-linked dominant</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Autosomal recessive</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:pedigree_analysis</text></tag>
+    <tag><text>chapter:genetics_and_evolution</text></tag>
+    <tag><text>typology:diagram-based</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:diagram</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>

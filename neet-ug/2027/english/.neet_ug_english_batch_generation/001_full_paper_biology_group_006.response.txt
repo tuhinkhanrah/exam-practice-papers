@@ -1,0 +1,243 @@
+<question type="multichoice">
+  <name><text>[ch006-unit-6-reproduction] NEET_UG_BIOLOGY_MCQ_Q01 - Cleistogamous flowers reproductive advantage and limitation</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which of the following correctly describes an advantage and a disadvantage of cleistogamous flowers, such as those found in <em>Viola</em> and <em>Oxalis</em>?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Cleistogamous flowers are bisexual flowers that never open at all. Because the anthers and stigma lie close to each other inside the closed floral bud, pollen grains released from the anthers directly come in contact with the stigma of the same flower.</p><p><strong>Step 2: Evaluation of Advantage</strong><br/>Because pollination occurs within the closed flower without requiring wind, water, or animal vectors, cleistogamy guarantees assured seed-set even in the complete absence of pollinators.</p><p><strong>Step 3: Evaluation of Disadvantage</strong><br/>Cleistogamous flowers are invariably autogamous, meaning there is no opportunity for cross-pollination or gene flow from other individuals. Continued self-pollination over generations reduces heterozygosity and leads to inbreeding depression.</p><p><strong>Step 4: Final Conclusion</strong><br/>Therefore, cleistogamous flowers ensure assured seed-set even without pollinators, but their exclusive self-pollination leads to continued inbreeding depression.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>They require biotic pollinators for seed-set, but promote high genetic variation.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>They ensure assured seed-set even in the absence of pollinators, but lead to continued inbreeding depression.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>They prevent self-pollination through spatial separation of anthers and stigma, but produce fewer seeds.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>They undergo cross-pollination during unfavourable seasons, but fail to produce viable embryos.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_6_reproduction</text></tag>
+    <tag><text>typology:mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch006-unit-6-reproduction] NEET_UG_BIOLOGY_MCQ_Q02 - Chromosome number in zygote and endosperm</text></name>
+  <questiontext format="html"><text><![CDATA[<p>In an experimental cross, a tetraploid female angiosperm plant (\(4n = 48\)) is pollinated by a diploid male plant (\(2n = 24\)) of a compatible variety. What will be the chromosome numbers in the zygote and the primary endosperm nucleus, respectively?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Female parent ploidy and somatic chromosome number: \(4n = 48\).<br/>Male parent ploidy and somatic chromosome number: \(2n = 24\).</p><p><strong>Step 2: Assumptions and Biological Conventions</strong><br/>In typical angiosperms, both male and female gametes are produced by meiosis from the respective parent sporophytes, halving the parental somatic chromosome number. Double fertilisation involves syngamy (fusion of one male gamete with the egg cell) and triple fusion (fusion of the second male gamete with the two polar nuclei of the central cell).</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Chromosome number in egg cell \(= \frac{\text{Female somatic number}}{2}\).<br/>Chromosome number in each polar nucleus \(= \text{Chromosome number in egg cell}\).<br/>Chromosome number in male gamete \(= \frac{\text{Male somatic number}}{2}\).<br/>Zygote chromosome number \(= \text{Egg} + \text{Male gamete}\).<br/>Primary endosperm nucleus chromosome number \(= (2 \times \text{Polar nucleus}) + \text{Male gamete}\).</p><p><strong>Step 4: Step-by-Step Working</strong><br/>For the tetraploid female parent (\(4n = 48\)), meiosis produces haploid-relative female gametophyte cells with \(2n = \frac{48}{2} = 24\) chromosomes. Thus, the egg cell has \(24\) chromosomes, and each of the two polar nuclei has \(24\) chromosomes (together contributing \(24 + 24 = 48\) chromosomes).<br/>For the diploid male parent (\(2n = 24\)), meiosis produces male gametes with \(n = \frac{24}{2} = 12\) chromosomes.<br/>During syngamy, the zygote receives \(24 + 12 = 36\) chromosomes.<br/>During triple fusion, the primary endosperm nucleus receives \(48 + 12 = 60\) chromosomes.</p><p><strong>Step 5: Check and Final Answer</strong><br/>Checking ploidy levels: the zygote is \(2n_{\text{female}} + n_{\text{male}} = 3n = 3 \times 12 = 36\), and the primary endosperm nucleus is \(4n_{\text{female}} + n_{\text{male}} = 5n = 5 \times 12 = 60\). Both values are consistent with the base monoploid number \(n = 12\). Thus, the chromosome numbers in the zygote and the primary endosperm nucleus are \(36\) and \(60\), respectively.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(36\) and \(48\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(24\) and \(60\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(36\) and \(60\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(48\) and \(72\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_6_reproduction</text></tag>
+    <tag><text>typology:mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch006-unit-6-reproduction] NEET_UG_BIOLOGY_MCQ_Q03 - Apomixis polyembryony and parthenocarpy evaluation</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Read the following three statements regarding special modes of reproduction in flowering plants:</p><p><strong>Statement I:</strong> In <em>Citrus</em> and <em>Mango</em>, some nucellar cells surrounding the embryo sac start dividing, protrude into the embryo sac, and develop into embryos, resulting in polyembryony.</p><p><strong>Statement II:</strong> Cultivation of hybrid varieties using apomictic seeds is advantageous to farmers because apomixis prevents segregation of characters in the hybrid progeny.</p><p><strong>Statement III:</strong> Parthenocarpic fruits, such as naturally occurring seedless bananas, develop without fertilisation and therefore always contain haploid, non-viable seeds.</p><p>Which of the above statements is/are correct?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Angiosperms exhibit specialised reproductive mechanisms such as polyembryony (occurrence of more than one embryo in a seed), apomixis (asexual reproduction mimicking sexual reproduction by producing seeds without fertilisation), and parthenocarpy (development of fruit without fertilisation).</p><p><strong>Step 2: Evaluation of Nucellar Polyembryony</strong><br/>In species such as <em>Citrus</em> and <em>Mango</em>, diploid nucellar cells surrounding the embryo sac can divide mitotically, protrude into the embryo sac, and differentiate into additional embryos. Consequently, each ovule contains multiple embryos, making the proposition on nucellar polyembryony accurate.</p><p><strong>Step 3: Evaluation of Apomixis in Hybrid Crops</strong><br/>Apomictic embryos develop without meiosis or syngamy, so the progeny are genetically identical clones of the maternal hybrid plant. Because characters do not segregate in the progeny, farmers can reuse apomictic seeds year after year without losing hybrid vigour, making the proposition on apomictic hybrid seeds accurate.</p><p><strong>Step 4: Evaluation of Parthenocarpy and Final Conclusion</strong><br/>Parthenocarpic fruits develop from the ovary without fertilisation of ovules; as a result, these fruits are completely seedless rather than containing haploid, non-viable seeds. Hence, the proposition claiming that parthenocarpic fruits contain haploid seeds is incorrect. Only the propositions on nucellar polyembryony and apomixis are correct.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Only Statement I is correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statements I and III are correct, while Statement II is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statements II and III are correct, while Statement I is incorrect.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Statements I and II are correct, while Statement III is incorrect.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_6_reproduction</text></tag>
+    <tag><text>typology:statement-based</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch006-unit-6-reproduction] NEET_UG_BIOLOGY_MCQ_Q04 - Release of spermatozoa during spermatogenesis</text></name>
+  <questiontext format="html"><text><![CDATA[<p>During spermatogenesis in human males, which term specifically refers to the release of mature spermatozoa from the Sertoli cells into the lumen of the seminiferous tubules?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Spermatogenesis in the seminiferous tubules involves mitotic proliferation of spermatogonia, meiotic divisions to form haploid spermatids, morphological differentiation into spermatozoa, and final release into the tubular lumen.</p><p><strong>Step 2: Evaluation of Terms</strong><br/>Spermiogenesis is the process by which non-motile, rounded spermatids are transformed into motile spermatozoa. After spermiogenesis, sperm heads remain embedded in the Sertoli cells for nourishment and support. The subsequent detachment and release of these mature spermatozoa from the Sertoli cells into the lumen of the seminiferous tubules is specifically termed spermiation.</p><p><strong>Step 3: Exclusion of Related Processes</strong><br/>Spermatocytogenesis refers to the earlier phase involving mitotic and meiotic divisions of spermatogonia and spermatocytes to produce spermatids, whereas capacitation is the physiological maturation of spermatozoa that occurs inside the female reproductive tract prior to fertilisation.</p><p><strong>Step 4: Final Conclusion</strong><br/>Therefore, the release of mature spermatozoa from the Sertoli cells into the seminiferous tubule lumen is called spermiation.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Spermiation</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Spermiogenesis</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Spermatocytogenesis</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Capacitation</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_6_reproduction</text></tag>
+    <tag><text>typology:mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch006-unit-6-reproduction] NEET_UG_BIOLOGY_MCQ_Q05 - Corpus luteum degeneration and menstrual cycle</text></name>
+  <questiontext format="html"><text><![CDATA[<p><strong>Assertion (A):</strong> In the absence of fertilisation, the corpus luteum degenerates into the corpus albicans, which precipitates the menstrual phase of the ovarian-uterine cycle.</p><p><strong>Reason (R):</strong> Progesterone secreted by the corpus luteum is essential for maintaining the secretory endometrium, and a decline in its level causes disintegration of the endometrial lining.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>During the luteal (secretory) phase of the menstrual cycle, the ruptured Graafian follicle transforms into the corpus luteum under the influence of luteinising hormone (LH). The corpus luteum secretes large amounts of progesterone.</p><p><strong>Step 2: Evaluation of the First Proposition</strong><br/>If fertilisation does not occur, no embryonic human chorionic gonadotropin (hCG) is produced to rescue the corpus luteum. As LH levels fall, the corpus luteum degenerates into a fibrous scar called the corpus albicans, which triggers the onset of menstruation. Thus, the first proposition is accurate.</p><p><strong>Step 3: Evaluation of the Second Proposition and Causal Link</strong><br/>Progesterone maintains the thickened, vascularised secretory endometrium necessary for implantation. When the corpus luteum degenerates, circulating progesterone drops sharply, leading to constriction of spiral arteries, necrosis, and sloughing of the functional endometrial lining as menstrual flow. Thus, the second proposition is also accurate and directly explains why corpus luteum degeneration precipitates menstruation.</p><p><strong>Step 4: Final Conclusion</strong><br/>Both propositions are correct, and the role of progesterone in maintaining the endometrium correctly explains why degeneration of the corpus luteum triggers the menstrual phase.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both (A) and (R) are correct and (R) is the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is correct but (R) is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is incorrect but (R) is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_6_reproduction</text></tag>
+    <tag><text>typology:assertion-reason</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch006-unit-6-reproduction] NEET_UG_BIOLOGY_MCQ_Q06 - Meiotic progression during human oogenesis</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Consider the following two statements regarding human oogenesis:</p><p><strong>Statement I:</strong> The primary oocyte within the tertiary follicle grows in size and completes its first unequal meiotic division prior to ovulation, forming a large haploid secondary oocyte and a tiny first polar body.</p><p><strong>Statement II:</strong> The secondary oocyte retains the bulk of the nutrient-rich cytoplasm of the primary oocyte and remains arrested at metaphase II until fertilisation occurs.</p><p>Select the correct option:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Human oogenesis is characterised by discontinuous meiotic progression and asymmetric cytokinesis, ensuring that the resulting ovum retains maximal cytoplasmic reserves for early embryonic development.</p><p><strong>Step 2: Evaluation of First Meiotic Division</strong><br/>Primary oocytes remain arrested at prophase I (diplotene) from foetal life until puberty. In each reproductive cycle, the primary oocyte inside the growing tertiary follicle resumes meiosis and completes meiosis I just before ovulation. Because cytokinesis is unequal, it produces one large haploid secondary oocyte and one tiny first polar body. Thus, the first proposition is accurate.</p><p><strong>Step 3: Evaluation of Second Meiotic Arrest</strong><br/>The secondary oocyte retains nearly all the nutrient-rich cytoplasm of the primary oocyte. It immediately enters meiosis II but becomes arrested at metaphase II at the time of ovulation. This second meiotic division is completed only when a sperm penetrates the secondary oocyte during fertilisation, forming an ovum (ootid) and a second polar body. Thus, the second proposition is also accurate.</p><p><strong>Step 4: Final Conclusion</strong><br/>Both biological propositions regarding human oogenesis are correct.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are incorrect.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is correct, but Statement II is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is incorrect, but Statement II is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_6_reproduction</text></tag>
+    <tag><text>typology:statement-based</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch006-unit-6-reproduction] NEET_UG_BIOLOGY_MCQ_Q07 - Fertilisation blastocyst implantation and parturition</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Evaluate the following four statements about human embryonic development and pregnancy:</p><ol><li>Upon contact of a sperm with the zona pellucida layer of the ovum, changes are induced in the membrane that block the entry of additional sperms.</li><li>The embryo with 8 to 16 blastomeres is called a morula, which continues to divide and transforms into a blastocyst as it moves into the uterus.</li><li>During implantation, the inner cell mass of the blastocyst attaches directly to the endometrium and differentiates into chorionic villi, while the trophoblast forms the embryo proper.</li><li>Signals for parturition originate from the fully developed foetus and the placenta, inducing mild uterine contractions called the foetal ejection reflex.</li></ol><p>Which of the above statements are correct?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Human pregnancy involves fertilisation with polyspermy prevention, mitotic cleavage into a morula and blastocyst, implantation via specialised blastocyst layers, and neuroendocrine initiation of parturition.</p><p><strong>Step 2: Evaluation of Polyspermy Block and Cleavage</strong><br/>When a single sperm contacts the zona pellucida, cortical granules are released and induce structural changes in the membrane (zona reaction) that block entry of additional sperms, ensuring monospermy. Following fertilisation, mitotic cleavage produces an 8-to-16-blastomere solid ball called the morula, which further divides and rearranges into a blastocyst upon reaching the uterus. Both of these propositions are accurate.</p><p><strong>Step 3: Evaluation of Blastocyst Layer Fate</strong><br/>In the blastocyst, blastomeres are arranged into an outer layer called the trophoblast and an inner group of cells attached to the trophoblast called the inner cell mass. It is the trophoblast layer that attaches to the endometrium and later forms finger-like projections called chorionic villi, whereas the inner cell mass differentiates into the embryo proper. Reversing these roles makes that proposition incorrect.</p><p><strong>Step 4: Evaluation of Parturition and Final Conclusion</strong><br/>Parturition is triggered by a complex neuroendocrine mechanism: signals originating from the fully developed foetus and the placenta induce mild uterine contractions known as the foetal ejection reflex, which stimulates oxytocin release from the maternal posterior pituitary. Thus, the propositions on polyspermy block, morula-to-blastocyst transition, and foetal ejection reflex are correct, while the proposition reversing the fates of the trophoblast and inner cell mass is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 2, and 3 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2, 3, and 4 only</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1, 2, and 4 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 3, and 4 only</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_6_reproduction</text></tag>
+    <tag><text>typology:statement-based</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch006-unit-6-reproduction] NEET_UG_BIOLOGY_MCQ_Q08 - Mechanism of copper releasing intrauterine devices</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which of the following statements regarding copper-releasing intrauterine devices (IUDs), such as CuT and Multiload 375, is <strong>incorrect</strong>?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Intrauterine devices (IUDs) are inserted into the uterus by doctors or expert nurses and are broadly classified into non-medicated, copper-releasing, and hormone-releasing IUDs.</p><p><strong>Step 2: Evaluation of Copper-Releasing IUD Mechanisms</strong><br/>Copper-releasing IUDs (such as CuT, Cu7, and Multiload 375) act locally within the uterine cavity. They stimulate an inflammatory response that increases phagocytosis of sperms within the uterus. In addition, the released copper ions directly suppress sperm motility and reduce the fertilising capacity of sperms.</p><p><strong>Step 3: Contrast with Hormonal Contraceptives</strong><br/>Inhibition of ovulation through negative feedback on hypothalamic-pituitary gonadotropins (FSH and LH) is the primary mechanism of combined oral contraceptive pills, implants, and injectables—not copper-releasing IUDs, which do not contain progestogens or oestrogens.</p><p><strong>Step 4: Final Conclusion</strong><br/>Therefore, the claim that copper-releasing IUDs primarily act by inhibiting ovulation via negative feedback on gonadotropins is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>They increase phagocytosis of sperms within the uterus.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>The released copper ions suppress sperm motility.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>They reduce the fertilising capacity of sperms.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>They primarily act by inhibiting ovulation through negative feedback on gonadotropins.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_6_reproduction</text></tag>
+    <tag><text>typology:mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch006-unit-6-reproduction] NEET_UG_BIOLOGY_MCQ_Q09 - Assisted reproductive technologies procedure matching</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Match the Assisted Reproductive Technologies (ART) in List-I with their corresponding descriptions in List-II:</p><table><thead><tr><th>List-I</th><th>List-II</th></tr></thead><tbody><tr><td>A. ZIFT</td><td>1. Direct injection of a single sperm into the cytoplasm of an ovum in the laboratory.</td></tr><tr><td>B. GIFT</td><td>2. Artificial introduction of semen collected from the husband or a healthy donor into the uterus.</td></tr><tr><td>C. ICSI</td><td>3. Transfer of zygote or early embryo (with up to 8 blastomeres) into the fallopian tube.</td></tr><tr><td>D. IUI</td><td>4. Transfer of an ovum collected from a donor into the fallopian tube of another female who cannot produce one.</td></tr></tbody></table><p>Choose the correct match from the options given below:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Assisted Reproductive Technologies (ART) address specific causes of infertility by facilitating fertilisation or embryo placement either <em>in vitro</em> (outside the body) or <em>in vivo</em> (inside the female reproductive tract).</p><p><strong>Step 2: Evaluation of Each ART Procedure</strong><br/>Zygote Intra-Fallopian Transfer (ZIFT) follows <em>in vitro</em> fertilisation and involves transferring the zygote or early embryo containing up to 8 blastomeres into the fallopian tube (whereas embryos with more than 8 blastomeres are transferred into the uterus via IUT).<br/>Gamete Intra-Fallopian Transfer (GIFT) is used when a female cannot produce an ovum but can provide a suitable environment for fertilisation and further development; an ovum collected from a donor is transferred into her fallopian tube.<br/>Intra-Cytoplasmic Sperm Injection (ICSI) is a specialised laboratory procedure to form an embryo in which a single sperm is directly injected into the ovum.<br/>Intra-Uterine Insemination (IUI) is a form of artificial insemination in which semen collected from the husband or a healthy donor is artificially introduced into the uterus of the female.</p><p><strong>Step 3: Final Conclusion</strong><br/>Accordingly, ZIFT corresponds to transfer of a zygote or early embryo (up to 8 blastomeres) into the fallopian tube; GIFT corresponds to transfer of a donor ovum into the fallopian tube; ICSI corresponds to direct injection of a sperm into an ovum in the laboratory; and IUI corresponds to artificial introduction of semen into the uterus.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-1, B-4, C-3, D-2</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>A-3, B-4, C-1, D-2</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-3, B-2, C-1, D-4</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-4, B-3, C-2, D-1</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_6_reproduction</text></tag>
+    <tag><text>typology:matching-mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:table</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>

@@ -1,0 +1,4 @@
+*.tmp
+
+# Per-attempt artifacts are regenerated from the batch checkpoint and responses.
+**/.*_batch_generation/test_*_attempt_*/

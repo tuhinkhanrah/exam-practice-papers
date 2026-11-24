@@ -1,0 +1,182 @@
+<question type="multichoice">
+  <name><text>[ch010-unit-10-ecology-and-environment] NEET_UG_BIOLOGY_MCQ_Q01 - Sacred groves as in-situ biodiversity conservation</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which of the following regions in India is a well-known example of sacred groves, where tracts of forest are set aside and all the trees and wildlife within are venerated and given total protection?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Biodiversity conservation can be achieved through in-situ (on-site) or ex-situ (off-site) approaches. Sacred groves represent a traditional form of in-situ conservation in India, in which patches of forest are protected by local communities due to cultural and religious beliefs.</p><p><strong>Step 2: Evaluation</strong><br/>In India, sacred groves are found in the Khasi and Jaintia Hills in Meghalaya, the Aravalli Hills of Rajasthan, the Western Ghat regions of Karnataka and Maharashtra, and the Sarguja, Chanda, and Bastar areas of Madhya Pradesh. By contrast, Kaziranga and Manas in Assam, the Sundarbans in West Bengal, and Silent Valley in Kerala are designated national parks or biosphere reserves rather than community-venerated sacred groves.</p><p><strong>Step 3: Final Conclusion</strong><br/>The region that exemplifies sacred groves in India is the Khasi and Jaintia Hills in Meghalaya.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Khasi and Jaintia Hills in Meghalaya</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Kaziranga and Manas reserves in Assam</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Sundarbans mangrove delta in West Bengal</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Silent Valley National Park in Kerala</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_10_ecology_and_environment</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch010-unit-10-ecology-and-environment] NEET_UG_BIOLOGY_MCQ_Q02 - Intrinsic rate of natural increase calculation</text></name>
+  <questiontext format="html"><text><![CDATA[<p>In a freshwater pond, a population of \(800\) <em>Hydrilla</em> individuals experiences \(120\) new individuals added through natality and \(40\) individuals lost through mortality over a period of one year, while immigration equals emigration. Assuming unlimited resources and constant per capita birth and death rates, what are the intrinsic rate of natural increase (\(r\)) and the net population size (\(N\)) at the end of that year?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Initial population size, \(N_0 = 800\).<br/>Number of births in one year, \(B = 120\).<br/>Number of deaths in one year, \(D = 40\).<br/>Time interval, \(\Delta t = 1\text{ year}\).<br/>Immigration equals emigration (\(I = E\)), so net migration is zero.</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Natality contributes positively to population growth, whereas mortality contributes negatively. Under unlimited resources, growth follows the exponential model with constant per capita birth rate \(b\) and per capita death rate \(d\).</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Per capita birth rate: \(b = \frac{B}{N_0}\)<br/>Per capita death rate: \(d = \frac{D}{N_0}\)<br/>Intrinsic rate of natural increase: \(r = b - d\)<br/>Net change in population over one year: \(\Delta N = r N_0 = B - D\)<br/>Final population size: \(N = N_0 + \Delta N\)</p><p><strong>Step 4: Step-by-Step Working</strong><br/>Calculate the per capita birth rate:<br/>\[b = \frac{120}{800} = 0.15\text{ year}^{-1}\]<br/>Calculate the per capita death rate:<br/>\[d = \frac{40}{800} = 0.05\text{ year}^{-1}\]<br/>Calculate the intrinsic rate of natural increase:<br/>\[r = b - d = 0.15 - 0.05 = 0.10\text{ year}^{-1}\]<br/>Calculate the net increase in population size:<br/>\[\Delta N = r N_0 = 0.10 \times 800 = 80\]<br/>Calculate the population size at the end of one year:<br/>\[N = 800 + 80 = 880\]</p><p><strong>Step 5: Check and Final Answer</strong><br/>Checking via direct count balance: \(N = 800 + 120 - 40 = 880\), which matches the rate-based calculation, and \(r = 0.10\text{ year}^{-1}\) is positive as births exceed deaths. Therefore, \(r = 0.10\text{ year}^{-1}\) and \(N = 880\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(r = 0.15\text{ year}^{-1}\) and \(N = 920\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(r = 0.20\text{ year}^{-1}\) and \(N = 960\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(r = 0.10\text{ year}^{-1}\) and \(N = 880\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(r = 0.05\text{ year}^{-1}\) and \(N = 840\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_10_ecology_and_environment</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch010-unit-10-ecology-and-environment] NEET_UG_BIOLOGY_STATEMENT_Q03 - Ecological pyramids of energy and biomass</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Given below are two statements:</p>
+<p><strong>Statement I:</strong> In most terrestrial and aquatic ecosystems, the pyramid of energy is always upright and can never be inverted.</p>
+<p><strong>Statement II:</strong> In a deep ocean ecosystem, the pyramid of biomass is typically upright because the standing crop of phytoplankton exceeds that of zooplankton and fishes at any given instant.</p>
+<p>In the light of the above statements, choose the most appropriate answer from the options given below:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Ecological pyramids represent trophic structure in terms of number, biomass, or energy. According to the second law of thermodynamics and the \(10\%\) energy transfer law, energy flows unidirectionally from lower to higher trophic levels, with substantial energy lost as heat at every transfer.</p><p><strong>Step 2: Evaluation of Energy Pyramid</strong><br/>Because energy is progressively lost as heat during respiration and metabolic activities at each successive trophic level, the total energy available at a lower trophic level is always greater than that at the next higher trophic level. Hence, the pyramid of energy is always upright and can never be inverted.</p><p><strong>Step 3: Evaluation of Marine Biomass Pyramid</strong><br/>In a deep ocean or sea ecosystem, the pyramid of biomass is generally inverted rather than upright. At any given instant, the standing crop (biomass) of fishes and zooplankton far exceeds the standing crop of phytoplankton, because phytoplankton have a very short lifespan and a rapid turnover rate that supports a larger consumer biomass over time.</p><p><strong>Step 4: Final Conclusion</strong><br/>The principle describing the pyramid of energy as always upright is correct, whereas the claim describing the deep ocean pyramid of biomass as upright is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is incorrect but Statement II is correct.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Statement I is correct but Statement II is incorrect.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_10_ecology_and_environment</text></tag>
+    <tag><text>typology:statement_based_2</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch010-unit-10-ecology-and-environment] NEET_UG_BIOLOGY_MULTISTATEMENT_Q04 - Population interactions and ecological principles</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Read the following five statements regarding population interactions and choose the option that identifies all the correct statements:</p>
+<p>A. In brood parasitism, the parasitic bird lays its eggs in the nest of its host, and during evolution the eggs of the parasitic bird have evolved to resemble the host's eggs in size and colour.</p>
+<p>B. According to Gause's Competitive Exclusion Principle, two closely related species competing for the same limiting resources can coexist indefinitely if resources are abundant.</p>
+<p>C. In mutualism between fig trees and pollinator wasps, the wasp uses the fruit not only as an oviposition site but also uses the developing seeds within the fruit for nourishing its larvae.</p>
+<p>D. Predators help in maintaining species diversity in a community by increasing the intensity of competition among competing prey species.</p>
+<p>E. MacArthur showed that five closely related species of warblers living on the same tree were able to avoid competition and coexist due to behavioural differences in their foraging activities.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Species in a community interact through parasitism, competition, mutualism, and predation, shaping population dynamics, co-evolution, and species coexistence.</p><p><strong>Step 2: Evaluation of Each Ecological Claim</strong><br/>In brood parasitism (such as the cuckoo and the crow), the parasitic bird lays its eggs in the host's nest, and evolutionary selection favours parasitic eggs that closely mimic the host's eggs in size and colour to reduce detection; this claim is correct.<br/>Gause's Competitive Exclusion Principle states that two closely related species competing for the same limiting resources cannot coexist indefinitely, and the competitively inferior one will eventually be eliminated if resources are limiting; claiming they can coexist indefinitely under limiting resources contradicts the principle, making this claim incorrect.<br/>In the obligate mutualism between fig trees and pollinator wasps, the female wasp pollinates the fig inflorescence while searching for suitable egg-laying sites, and the developing seeds nourish the wasp larvae; this claim is correct.<br/>Predators maintain species diversity in a community by <em>reducing</em> (not increasing) the intensity of competition among competing prey species, preventing any single prey species from dominating; therefore, claiming they increase competition is incorrect.<br/>MacArthur's classic study on five closely related warbler species on the same tree demonstrated resource partitioning through behavioural differences in foraging activities, enabling coexistence; this claim is correct.</p><p><strong>Step 3: Final Conclusion</strong><br/>Only the claims regarding brood parasitism egg mimicry, fig-wasp mutualism, and MacArthur's warbler resource partitioning are correct.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A, B and D only</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>A, C and E only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>B, C and E only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A, D and E only</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_10_ecology_and_environment</text></tag>
+    <tag><text>typology:statement_based_multi</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch010-unit-10-ecology-and-environment] NEET_UG_BIOLOGY_DIAGRAM_Q05 - Logistic population growth rate and carrying capacity</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Observe the population growth curves shown below, where Curve \(P\) represents exponential growth and Curve \(Q\) represents Verhulst-Pearl logistic growth with carrying capacity \(K = 1200\).</p>
+<p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 300" width="460" height="300">
+  <rect x="0" y="0" width="460" height="300" fill="#ffffff"/>
+  <line x1="70" y1="250" x2="420" y2="250" stroke="#222222" stroke-width="2"/>
+  <line x1="70" y1="250" x2="70" y2="30" stroke="#222222" stroke-width="2"/>
+  <polygon points="420,250 412,246 412,254" fill="#222222"/>
+  <polygon points="70,30 66,38 74,38" fill="#222222"/>
+  <line x1="70" y1="80" x2="405" y2="80" stroke="#555555" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <text x="20" y="84" font-family="Arial, sans-serif" font-size="13" fill="#222222">K = 1200</text>
+  <path d="M 70 235 Q 160 225, 210 150 T 275 40" fill="none" stroke="#c0392b" stroke-width="2.5"/>
+  <text x="282" y="48" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#c0392b">Curve P</text>
+  <path d="M 70 235 C 150 232, 185 175, 225 140 C 265 105, 310 83, 400 81" fill="none" stroke="#1f618d" stroke-width="2.5"/>
+  <text x="345" y="102" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1f618d">Curve Q</text>
+  <text x="245" y="282" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">Time (t)</text>
+  <text x="22" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222" transform="rotate(-90 22 155)">Population density (N)</text>
+</svg></p>
+<p>If the intrinsic rate of natural increase is \(r = 0.4\text{ year}^{-1}\), at what population density \(N\) on Curve \(Q\) is the population growth rate \(\frac{dN}{dt}\) maximum, and what is that maximum growth rate?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>From the growth-curve diagram, the horizontal asymptote representing the carrying capacity of the habitat is \(K = 1200\).<br/>The intrinsic rate of natural increase is \(r = 0.4\text{ year}^{-1}\).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>The sigmoid curve follows the Verhulst-Pearl logistic growth model, where environmental resistance increases as population density \(N\) approaches carrying capacity \(K\), and \(N\) is constrained within \(0 &lt; N \le K\).</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>The Verhulst-Pearl logistic growth equation is:<br/>\[\frac{dN}{dt} = rN\left(\frac{K - N}{K}\right)\]<br/>Since \(\frac{dN}{dt}\) is a downward-opening quadratic function of \(N\) with roots at \(N = 0\) and \(N = K\), its maximum occurs at the inflection point of the sigmoid curve, where:<br/>\[N = \frac{K}{2}\]</p><p><strong>Step 4: Step-by-Step Working</strong><br/>Find the population density at maximum growth rate:<br/>\[N = \frac{1200}{2} = 600\]<br/>Substitute \(r = 0.4\text{ year}^{-1}\), \(N = 600\), and \(K = 1200\) into the logistic growth rate equation:<br/>\[\left(\frac{dN}{dt}\right)_{\max} = 0.4 \times 600 \times \left(\frac{1200 - 600}{1200}\right)\]<br/>\[\left(\frac{dN}{dt}\right)_{\max} = 240 \times \frac{600}{1200} = 240 \times 0.5 = 120\text{ individuals year}^{-1}\]</p><p><strong>Step 5: Check and Final Answer</strong><br/>Checking with the shortcut \(\left(\frac{dN}{dt}\right)_{\max} = \frac{rK}{4} = \frac{0.4 \times 1200}{4} = 120\text{ individuals year}^{-1}\) confirms the result, and \(N = 600\) lies strictly at half the carrying capacity. Thus, the maximum growth rate occurs at \(N = 600\) and equals \(120\text{ individuals year}^{-1}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(N = 600\) and \(\frac{dN}{dt} = 120\text{ individuals year}^{-1}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(N = 1200\) and \(\frac{dN}{dt} = 480\text{ individuals year}^{-1}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(N = 600\) and \(\frac{dN}{dt} = 240\text{ individuals year}^{-1}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(N = 300\) and \(\frac{dN}{dt} = 90\text{ individuals year}^{-1}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_10_ecology_and_environment</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:diagram</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch010-unit-10-ecology-and-environment] NEET_UG_BIOLOGY_SEQUENCING_Q06 - Sequential steps of detritus decomposition</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which of the following represents the correct logical sequence of the five key steps involved in the decomposition of detritus in a terrestrial ecosystem, from the initial breakdown of detritus to the release of inorganic nutrients?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Decomposition is the biological and physical process by which complex organic matter (detritus) is broken down into simpler inorganic substances such as carbon dioxide, water, and mineral nutrients.</p><p><strong>Step 2: Evaluation of the Sequential Stages</strong><br/>First, <strong>fragmentation</strong> occurs when detritivores (such as earthworms) break down detritus into smaller particles, increasing the surface area for microbial action.<br/>Next, <strong>leaching</strong> takes place as water-soluble inorganic nutrients percolate down into the soil horizon and get precipitated as unavailable salts.<br/>Then, <strong>catabolism</strong> is carried out by bacterial and fungal enzymes that degrade detritus into simpler inorganic substances.<br/>Subsequently, <strong>humification</strong> leads to the accumulation of a dark-coloured amorphous substance called humus, which is highly resistant to microbial action and decomposes at an extremely slow rate.<br/>Finally, <strong>mineralisation</strong> occurs when humus is further degraded by certain microbes, resulting in the release of inorganic nutrients back into the soil.</p><p><strong>Step 3: Final Conclusion</strong><br/>The correct sequence of decomposition steps is Fragmentation \(\rightarrow\) Leaching \(\rightarrow\) Catabolism \(\rightarrow\) Humification \(\rightarrow\) Mineralisation.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Fragmentation \(\rightarrow\) Catabolism \(\rightarrow\) Leaching \(\rightarrow\) Mineralisation \(\rightarrow\) Humification</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Fragmentation \(\rightarrow\) Leaching \(\rightarrow\) Catabolism \(\rightarrow\) Humification \(\rightarrow\) Mineralisation</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Leaching \(\rightarrow\) Fragmentation \(\rightarrow\) Catabolism \(\rightarrow\) Humification \(\rightarrow\) Mineralisation</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Fragmentation \(\rightarrow\) Leaching \(\rightarrow\) Humification \(\rightarrow\) Catabolism \(\rightarrow\) Mineralisation</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_10_ecology_and_environment</text></tag>
+    <tag><text>typology:sequencing</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>

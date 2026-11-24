@@ -1,0 +1,420 @@
+<question type="multichoice">
+  <name><text>[ch014-unit-14-some-basic-principles-of-organic-chemistry] NEET_UG_CHEMISTRY_MCQ_Q01 - IUPAC name of a keto carboxylic acid</text></name>
+  <questiontext format="html"><text><![CDATA[<p>What is the correct IUPAC name of the organic compound having the structural formula \(\text{CH}_3-\text{CO}-\text{CH}_2-\text{CH}_2-\text{COOH}\)?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>According to IUPAC nomenclature rules for polyfunctional compounds, the principal functional group is given the lowest possible locant (position 1). Among the carboxylic acid group (\(-\text{COOH}\)) and the ketonic carbonyl group (\(-\text{CO}-\)), the carboxylic acid group has higher priority and serves as the principal functional group (suffix: <em>-oic acid</em>), while the ketonic group is treated as a substituent (prefix: <em>oxo-</em>).</p><p><strong>Step 2: Evaluation</strong><br/>Numbering the longest continuous carbon chain starting from the carboxylic acid carbon gives five carbon atoms in total: \(\text{C}1\) is the \(-\text{COOH}\) carbon, \(\text{C}2\) is \(-\text{CH}_2-\), \(\text{C}3\) is \(-\text{CH}_2-\), \(\text{C}4\) is \(-\text{CO}-\), and \(\text{C}5\) is \(-\text{CH}_3\).</p><p><strong>Step 3: Application</strong><br/>The root word for a five-carbon saturated chain is <em>pentane</em>, the principal suffix is <em>-oic acid</em>, and the keto oxygen at carbon 4 is indicated by the prefix <em>4-oxo</em>.</p><p><strong>Step 4: Final Conclusion</strong><br/>Combining the prefix, root word, and suffix yields the correct IUPAC name: 4-oxopentanoic acid.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2-oxopentanoic acid</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>4-oxopentanoic acid</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>4-carboxypentan-2-one</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1-hydroxy-4-oxopentan-1-one</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>topic:iupac_nomenclature</text></tag>
+    <tag><text>chapter:some_basic_principles_of_organic_chemistry</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch014-unit-14-some-basic-principles-of-organic-chemistry] NEET_UG_CHEMISTRY_DIAGRAM_Q02 - Potential energy diagram for carbocation stability</text></name>
+  <questiontext format="html"><text><![CDATA[<p>The potential energy diagram below represents the heterolytic \(\text{C}-\text{Cl}\) bond cleavage of two alkyl chlorides, \(\text{P}\) (\((\text{CH}_3)_3\text{C}-\text{Cl}\)) and \(\text{Q}\) (\((\text{CH}_3)_2\text{CH}-\text{Cl}\)), to form their respective carbocation intermediates \(\text{P}^+\) and \(\text{Q}^+\).</p><p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 320" width="560" height="320" style="max-width:100%;height:auto;background:#ffffff;border:1px solid #d0d7de;border-radius:6px;"><defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 1 L 10 5 L 0 9 z" fill="#1f2328"/></marker></defs><line x1="70" y1="270" x2="520" y2="270" stroke="#1f2328" stroke-width="2" marker-end="url(#arrow)"/><line x1="70" y1="270" x2="70" y2="25" stroke="#1f2328" stroke-width="2" marker-end="url(#arrow)"/><text x="295" y="302" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#1f2328">Reaction Coordinate</text><text x="24" y="150" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#1f2328" transform="rotate(-90 24 150)">Potential Energy (kJ/mol)</text><line x1="70" y1="230" x2="145" y2="230" stroke="#1f2328" stroke-width="2"/><text x="62" y="234" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#1f2328">20</text><text x="105" y="220" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1f2328">Reactants</text><path d="M 145 230 C 200 230, 225 60, 275 60 C 325 60, 355 110, 420 110" fill="none" stroke="#cf222e" stroke-width="2.5" stroke-dasharray="7,4"/><line x1="420" y1="110" x2="495" y2="110" stroke="#cf222e" stroke-width="2.5"/><text x="458" y="102" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#cf222e">Q⁺ + Cl⁻</text><line x1="70" y1="60" x2="275" y2="60" stroke="#8c959f" stroke-width="1" stroke-dasharray="3,3"/><text x="62" y="64" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#cf222e">128</text><line x1="70" y1="110" x2="420" y2="110" stroke="#8c959f" stroke-width="1" stroke-dasharray="3,3"/><text x="62" y="114" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#cf222e">96</text><path d="M 145 230 C 200 230, 230 120, 275 120 C 320 120, 355 162, 420 162" fill="none" stroke="#0969da" stroke-width="2.5"/><line x1="420" y1="162" x2="495" y2="162" stroke="#0969da" stroke-width="2.5"/><text x="458" y="154" font-family="Arial, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0969da">P⁺ + Cl⁻</text><line x1="70" y1="120" x2="275" y2="120" stroke="#8c959f" stroke-width="1" stroke-dasharray="3,3"/><text x="62" y="124" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#0969da">92</text><line x1="70" y1="162" x2="420" y2="162" stroke="#8c959f" stroke-width="1" stroke-dasharray="3,3"/><text x="62" y="166" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#0969da">64</text><text x="275" y="48" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#cf222e">TS (Q)</text><text x="275" y="140" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0969da">TS (P)</text></svg></p><p>Based on the diagram, what is the difference in activation energy (\(\Delta E_a = E_{a,\text{Q}} - E_{a,\text{P}}\)) for the formation of the less stable carbocation compared to the more stable carbocation, and which electronic effect primarily stabilizes \(\text{P}^+\) over \(\text{Q}^+\)?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>From the potential energy diagram: the reactant baseline energy is \(E_{\text{reactants}} = 20\text{ kJ mol}^{-1}\). The transition state energy for pathway \(\text{P}\) is \(E_{\text{TS(P)}} = 92\text{ kJ mol}^{-1}\) leading to carbocation \(\text{P}^+\) (\((\text{CH}_3)_3\text{C}^+\)) at \(64\text{ kJ mol}^{-1}\). The transition state energy for pathway \(\text{Q}\) is \(E_{\text{TS(Q)}} = 128\text{ kJ mol}^{-1}\) leading to carbocation \(\text{Q}^+\) (\((\text{CH}_3)_2\text{CH}^+\)) at \(96\text{ kJ mol}^{-1}\).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Activation energy \(E_a\) is defined as the energy difference between the transition state and the initial reactants (\(E_a = E_{\text{TS}} - E_{\text{reactants}}\)). Lower potential energy of an intermediate corresponds to higher thermodynamic stability.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>\[E_{a,\text{P}} = E_{\text{TS(P)}} - E_{\text{reactants}}, \quad E_{a,\text{Q}} = E_{\text{TS(Q)}} - E_{\text{reactants}}\] \[\Delta E_a = E_{a,\text{Q}} - E_{a,\text{P}}\] Tertiary carbocations are stabilized relative to secondary carbocations primarily by hyperconjugation (delocalization of \(\sigma\)-electrons of adjacent \(\text{C}-\text{H}\) bonds into the vacant \(2p\) orbital of the positively charged carbon).</p><p><strong>Step 4: Step-by-Step Working</strong><br/>Calculate each activation energy: \[E_{a,\text{P}} = 92 - 20 = 72\text{ kJ mol}^{-1}\] \[E_{a,\text{Q}} = 128 - 20 = 108\text{ kJ mol}^{-1}\] Now compute the difference: \[\Delta E_a = 108 - 72 = 36\text{ kJ mol}^{-1}\] Comparing the two carbocations, \(\text{P}^+\) (\((\text{CH}_3)_3\text{C}^+\)) possesses \(9\) \(\alpha\)-hydrogen atoms participating in hyperconjugation, whereas \(\text{Q}^+\) (\((\text{CH}_3)_2\text{CH}^+\)) possesses only \(6\) \(\alpha\)-hydrogen atoms. Hence, hyperconjugation is the primary stabilizing electronic effect.</p><p><strong>Step 5: Check and Final Answer</strong><br/>Notice that \(\Delta E_a\) also equals \(E_{\text{TS(Q)}} - E_{\text{TS(P)}} = 128 - 92 = 36\text{ kJ mol}^{-1}\), confirming the arithmetic. The difference in activation energy is \(36\text{ kJ mol}^{-1}\), and the primary stabilizing effect is hyperconjugation.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(36\text{ kJ mol}^{-1}\); electromeric effect</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(32\text{ kJ mol}^{-1}\); resonance effect</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(36\text{ kJ mol}^{-1}\); hyperconjugation</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(108\text{ kJ mol}^{-1}\); inductive effect only</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>topic:carbocation_stability_and_hyperconjugation</text></tag>
+    <tag><text>chapter:some_basic_principles_of_organic_chemistry</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:diagram</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch015-unit-15-hydrocarbons] NEET_UG_CHEMISTRY_MCQ_Q03 - Reductive ozonolysis of an alkene</text></name>
+  <questiontext format="html"><text><![CDATA[<p>An alkene \(\text{X}\) (\(\text{C}_6\text{H}_{12}\)) upon reductive ozonolysis (\(\text{O}_3\), followed by \(\text{Zn}/\text{H}_2\text{O}\)) yields an equimolar mixture of ethanal and 2-methylpropanal. What is the IUPAC name of alkene \(\text{X}\)?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Reductive ozonolysis of an alkene cleaves the carbon–carbon double bond (\(\text{C}=\text{C}\)) completely and converts each doubly bonded carbon into a carbonyl group (\(\text{C}=\text{O}\)). Conversely, the parent alkene structure can be reconstructed by removing the oxygen atoms from the two carbonyl products and joining the two carbonyl carbons with a double bond.</p><p><strong>Step 2: Evaluation</strong><br/>The two products obtained are ethanal (\(\text{CH}_3-\text{CHO}\)) and 2-methylpropanal (\((\text{CH}_3)_2\text{CH}-\text{CHO}\)).</p><p><strong>Step 3: Application</strong><br/>Joining the carbonyl carbons of \(\text{CH}_3-\text{CH}=\text{O}\) and \(\text{O}=\text{CH}-\text{CH}(\text{CH}_3)_2\) gives the alkene structure: \[\text{CH}_3-\text{CH}=\text{CH}-\text{CH}(\text{CH}_3)_2\] Numbering the longest five-carbon chain from the end nearer to the double bond places the double bond between \(\text{C}2\) and \(\text{C}3\), and the methyl substituent at \(\text{C}4\).</p><p><strong>Step 4: Final Conclusion</strong><br/>The IUPAC name of alkene \(\text{X}\) is 4-methylpent-2-ene.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>4-methylpent-2-ene</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2-methylpent-2-ene</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2-methylpent-3-ene</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2,3-dimethylbut-2-ene</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>topic:ozonolysis_of_alkenes</text></tag>
+    <tag><text>chapter:hydrocarbons</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch015-unit-15-hydrocarbons] NEET_UG_CHEMISTRY_STMT2_Q04 - Reactions of terminal alkynes and Friedel-Crafts alkylation</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Given below are two statements:</p><p><strong>Statement I:</strong> Terminal alkynes react with sodamide (\(\text{NaNH}_2\)) in liquid ammonia to liberate \(\text{H}_2\) gas and form sodium alkynide.</p><p><strong>Statement II:</strong> Treatment of benzene with 1-chloropropane in the presence of anhydrous \(\text{AlCl}_3\) yields \(n\)-propylbenzene as the major product.</p><p>In the light of the above statements, choose the most appropriate answer from the options given below.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Terminal alkynes are weakly acidic due to the \(50\%\) \(s\)-character of the \(sp\)-hybridized carbon and undergo acid–base reactions with strong bases like \(\text{NaNH}_2\). Friedel–Crafts alkylation of benzene proceeds via a carbocation intermediate, which is prone to rearrangement to form a more stable carbocation.</p><p><strong>Step 2: Evaluation</strong><br/>When a terminal alkyne (\(\text{R}-\text{C}\equiv\text{CH}\)) reacts with sodamide (\(\text{NaNH}_2\)), the amide ion (\(\text{NH}_2^-\)) abstracts the acidic proton to produce sodium alkynide (\(\text{R}-\text{C}\equiv\text{C}^-\text{Na}^+\)) and ammonia (\(\text{NH}_3\)), not hydrogen gas (\(\text{H}_2\) is liberated only when reacting with sodium metal). Thus, the claim regarding \(\text{H}_2\) liberation with \(\text{NaNH}_2\) is incorrect.</p><p><strong>Step 3: Application</strong><br/>In the reaction of 1-chloropropane with anhydrous \(\text{AlCl}_3\), the initially formed primary \(n\)-propyl carbocation (\(\text{CH}_3\text{CH}_2\text{CH}_2^+\)) undergoes a rapid \(1,2\)-hydride shift to generate the more stable secondary isopropyl carbocation (\(\text{CH}_3\text{CH}^+\text{CH}_3\)). Electrophilic attack on benzene therefore yields isopropylbenzene (cumene) as the major product rather than \(n\)-propylbenzene. Thus, the second claim is also incorrect.</p><p><strong>Step 4: Final Conclusion</strong><br/>Both statements are incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is correct but Statement II is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is incorrect but Statement II is correct.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both Statement I and Statement II are incorrect.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>topic:alkynes_and_aromatic_hydrocarbons</text></tag>
+    <tag><text>chapter:hydrocarbons</text></tag>
+    <tag><text>typology:statement_based_2</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch016-unit-16-organic-compounds-containing-halogens] NEET_UG_CHEMISTRY_AR_Q05 - Stereochemistry of SN1 hydrolysis</text></name>
+  <questiontext format="html"><text><![CDATA[<p><strong>Assertion (A):</strong> Racemization occurs during the \(S_N1\) hydrolysis of optically active 2-bromobutane in aqueous acetone.</p><p><strong>Reason (R):</strong> The \(S_N1\) reaction proceeds through the formation of a planar \(sp^2\)-hybridized carbocation intermediate, allowing nucleophilic attack from both faces.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Unimolecular nucleophilic substitution (\(S_N1\)) is a two-step mechanism in which the rate-determining step is the heterolytic cleavage of the leaving group to form a carbocation intermediate, followed by rapid nucleophilic attack.</p><p><strong>Step 2: Evaluation</strong><br/>Optically active 2-bromobutane has a chiral centre. During \(S_N1\) hydrolysis in a polar protic solvent mixture like aqueous acetone, loss of \(\text{Br}^-\) generates the secondary butyl carbocation, which is \(sp^2\)-hybridized and trigonal planar.</p><p><strong>Step 3: Application</strong><br/>Because the carbocation intermediate is planar, the nucleophile (\(\text{H}_2\text{O}\)) can attack from either the front face or the back face with nearly equal probability, resulting in a mixture of both enantiomers (racemization). Therefore, both the assertion and the reason are true, and the planarity of the carbocation directly explains why racemization takes place.</p><p><strong>Step 4: Final Conclusion</strong><br/>Both the assertion and the reason are correct, and the reason is the correct explanation of the assertion.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both (A) and (R) are correct and (R) is the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is correct but (R) is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is incorrect but (R) is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>topic:nucleophilic_substitution_mechanisms</text></tag>
+    <tag><text>chapter:organic_compounds_containing_halogens</text></tag>
+    <tag><text>typology:assertion_reason</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch017-unit-17-organic-compounds-containing-oxygen] NEET_UG_CHEMISTRY_MCQ_Q06 - Distinguishing tests for aldehydes and ketones</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which of the following carbonyl compounds gives a yellow precipitate of iodoform on warming with \(\text{I}_2\) and \(\text{NaOH}\), and also forms a silver mirror with Tollens' reagent?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>The iodoform test (\(\text{I}_2/\text{NaOH}\)) is given positively by carbonyl compounds containing a \(\text{CH}_3-\text{CO}-\) group. Tollens' test (ammoniacal silver nitrate) is given positively by aldehydes, which are oxidized to carboxylate ions while reducing \(\text{Ag}^+\) to metallic silver, whereas ketones generally do not respond to Tollens' reagent.</p><p><strong>Step 2: Evaluation</strong><br/>Propanone (\(\text{CH}_3\text{COCH}_3\)) contains the \(\text{CH}_3-\text{CO}-\) group and gives a positive iodoform test, but as a ketone it fails Tollens' test. Benzaldehyde (\(\text{C}_6\text{H}_5\text{CHO}\)) and propanal (\(\text{CH}_3\text{CH}_2\text{CHO}\)) are aldehydes and give Tollens' test, but neither possesses the \(\text{CH}_3-\text{CO}-\) group required for the iodoform test.</p><p><strong>Step 3: Application</strong><br/>Ethanal (\(\text{CH}_3\text{CHO}\)) is the only aldehyde that contains the \(\text{CH}_3-\text{CO}-\) moiety, so it responds positively to both the iodoform test and Tollens' test.</p><p><strong>Step 4: Final Conclusion</strong><br/>The compound that satisfies both tests is ethanal.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Propanone</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Benzaldehyde</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Propanal</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Ethanal</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>topic:aldehydes_and_ketones_tests</text></tag>
+    <tag><text>chapter:organic_compounds_containing_oxygen</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch017-unit-17-organic-compounds-containing-oxygen] NEET_UG_CHEMISTRY_SEQ_Q07 - Increasing order of acidic strength</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Arrange the following organic compounds in the <strong>increasing order</strong> of their acidic strength:</p><p>(1) Phenol<br/>(2) \(p\)-Nitrophenol<br/>(3) \(p\)-Cresol<br/>(4) Ethanol<br/>(5) Benzoic acid</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Acidic strength depends on the stability of the conjugate base formed after deprotonation. Carboxylate ions are stabilized by two equivalent resonance structures, making carboxylic acids significantly stronger than phenols. Phenoxide ions are resonance-stabilized over the aromatic ring, making phenols much more acidic than aliphatic alcohols (whose alkoxide ions lack resonance). On a phenol ring, electron-withdrawing groups (\(-M, -I\)) stabilize the phenoxide ion and increase acidity, whereas electron-donating groups (\(+I\), hyperconjugation) destabilize it and decrease acidity.</p><p><strong>Step 2: Evaluation</strong><br/>Ethanol (\(\text{p}K_a \approx 16\)) is the weakest acid because its ethoxide conjugate base has no resonance stabilization. Among the phenolic compounds, \(p\)-cresol has a methyl group (\(+I\) and hyperconjugation) that destabilizes the phenoxide ion, making it slightly less acidic (\(\text{p}K_a \approx 10.2\)) than unsubstituted phenol (\(\text{p}K_a \approx 10.0\)). \(p\)-Nitrophenol has a strongly electron-withdrawing nitro group (\(-M, -I\)) at the <em>para</em> position, greatly stabilizing the phenoxide ion (\(\text{p}K_a \approx 7.1\)). Benzoic acid (\(\text{p}K_a \approx 4.2\)) is the strongest acid in the set due to equivalent resonance structures in the benzoate anion.</p><p><strong>Step 3: Application</strong><br/>Ordering these five compounds from lowest to highest acidity gives: ethanol &lt; \(p\)-cresol &lt; phenol &lt; \(p\)-nitrophenol &lt; benzoic acid.</p><p><strong>Step 4: Final Conclusion</strong><br/>The correct increasing sequence of acidic strength is (4) &lt; (3) &lt; (1) &lt; (2) &lt; (5).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(4) &lt; (1) &lt; (3) &lt; (2) &lt; (5)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(3) &lt; (4) &lt; (1) &lt; (5) &lt; (2)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>(4) &lt; (3) &lt; (1) &lt; (2) &lt; (5)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(4) &lt; (3) &lt; (2) &lt; (1) &lt; (5)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>topic:acidic_strength_alcohols_phenols_carboxylic_acids</text></tag>
+    <tag><text>chapter:organic_compounds_containing_oxygen</text></tag>
+    <tag><text>typology:sequencing</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch017-unit-17-organic-compounds-containing-oxygen] NEET_UG_CHEMISTRY_MCQ_Q08 - Lucas test and dehydration reaction sequence</text></name>
+  <questiontext format="html"><text><![CDATA[<p>An alcohol \(\text{A}\) (\(\text{C}_4\text{H}_{10}\text{O}\)) produces immediate turbidity upon treatment with Lucas reagent (anhydrous \(\text{ZnCl}_2\) and concentrated \(\text{HCl}\)). When \(\text{A}\) is passed over heated copper at \(573\text{ K}\), it yields an alkene \(\text{B}\) (\(\text{C}_4\text{H}_8\)). What is the major product obtained when \(\text{B}\) reacts with \(\text{HBr}\) in the presence of benzoyl peroxide?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>The Lucas test distinguishes primary, secondary, and tertiary alcohols based on the stability of the carbocation formed: tertiary alcohols react immediately at room temperature to give turbidity. When passed over heated \(\text{Cu}\) at \(573\text{ K}\), tertiary alcohols undergo dehydration rather than dehydrogenation to form an alkene. Addition of \(\text{HBr}\) to an unsymmetrical alkene in the presence of organic peroxides follows the anti-Markovnikov free-radical mechanism (Kharasch effect).</p><p><strong>Step 2: Evaluation</strong><br/>Since \(\text{A}\) (\(\text{C}_4\text{H}_{10}\text{O}\)) gives immediate turbidity with Lucas reagent, it must be a tertiary alcohol, namely 2-methylpropan-2-ol (\((\text{CH}_3)_3\text{C}-\text{OH}\)).</p><p><strong>Step 3: Application</strong><br/>Heating 2-methylpropan-2-ol over \(\text{Cu}\) at \(573\text{ K}\) dehydrates it to 2-methylpropene (\((\text{CH}_3)_2\text{C}=\text{CH}_2\)), which is alkene \(\text{B}\). Subsequent reaction of 2-methylpropene with \(\text{HBr}\) in the presence of benzoyl peroxide proceeds via the more stable tertiary carbon free radical (\((\text{CH}_3)_2\dot{\text{C}}-\text{CH}_2\text{Br}\)), placing the bromine atom on the less substituted terminal carbon.</p><p><strong>Step 4: Final Conclusion</strong><br/>The major product formed is 1-bromo-2-methylpropane.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2-bromo-2-methylpropane</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1-bromo-2-methylpropane</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2-bromobutane</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1-bromobutane</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>topic:reactions_of_alcohols_and_alkenes</text></tag>
+    <tag><text>chapter:organic_compounds_containing_oxygen</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch018-unit-18-organic-compounds-containing-nitrogen] NEET_UG_CHEMISTRY_MCQ_Q09 - Basic strength of ethylamines in aqueous solution</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which of the following represents the correct <strong>decreasing order</strong> of basic strength (\(K_b\)) of ethyl-substituted amines and ammonia in aqueous solution?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>The basicity of aliphatic amines in aqueous solution is governed by three combined factors: the electron-donating inductive effect (\(+I\)) of the alkyl groups, steric hindrance to protonation, and solvation (hydration) of the resulting substituted ammonium cation via hydrogen bonding with water.</p><p><strong>Step 2: Evaluation</strong><br/>For ethyl-substituted amines, the inductive effect favours \(3^\circ > 2^\circ > 1^\circ > \text{NH}_3\), whereas hydration of the conjugate acid favours \(1^\circ > 2^\circ > 3^\circ\) and steric hindrance also opposes the \(3^\circ\) amine. Because ethyl groups are larger than methyl groups, the \(+I\) effect of three ethyl groups partially compensates for reduced hydration in \((\text{C}_2\text{H}_5)_3\text{N}\), placing it above \(\text{C}_2\text{H}_5\text{NH}_2\).</p><p><strong>Step 3: Application</strong><br/>The secondary amine \((\text{C}_2\text{H}_5)_2\text{NH}\) achieves the optimal balance of \(+I\) stabilization and solvation, making it the strongest base, followed by the tertiary amine \((\text{C}_2\text{H}_5)_3\text{N}\), then the primary amine \(\text{C}_2\text{H}_5\text{NH}_2\), and finally \(\text{NH}_3\).</p><p><strong>Step 4: Final Conclusion</strong><br/>The correct decreasing order of basic strength in aqueous solution is \((\text{C}_2\text{H}_5)_2\text{NH} > (\text{C}_2\text{H}_5)_3\text{N} > \text{C}_2\text{H}_5\text{NH}_2 > \text{NH}_3\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\((\text{C}_2\text{H}_5)_2\text{NH} > (\text{C}_2\text{H}_5)_3\text{N} > \text{C}_2\text{H}_5\text{NH}_2 > \text{NH}_3\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\((\text{C}_2\text{H}_5)_3\text{N} > (\text{C}_2\text{H}_5)_2\text{NH} > \text{C}_2\text{H}_5\text{NH}_2 > \text{NH}_3\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\((\text{C}_2\text{H}_5)_2\text{NH} > \text{C}_2\text{H}_5\text{NH}_2 > (\text{C}_2\text{H}_5)_3\text{N} > \text{NH}_3\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\text{C}_2\text{H}_5\text{NH}_2 > (\text{C}_2\text{H}_5)_2\text{NH} > (\text{C}_2\text{H}_5)_3\text{N} > \text{NH}_3\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>topic:basicity_of_amines</text></tag>
+    <tag><text>chapter:organic_compounds_containing_nitrogen</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch018-unit-18-organic-compounds-containing-nitrogen] NEET_UG_CHEMISTRY_MATCH_Q10 - Reactions and tests of amines and diazonium salts</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Match List I with List II:</p><table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;"><thead><tr><th>List I (Reaction / Test)</th><th>List II (Reagent / Characteristic Product)</th></tr></thead><tbody><tr><td>(A) Gabriel phthalimide synthesis</td><td>(I) Foul-smelling isocyanide</td></tr><tr><td>(B) Carbylamine reaction</td><td>(II) Benzenesulphonyl chloride</td></tr><tr><td>(C) Hinsberg's test</td><td>(III) \(\text{Cu}_2\text{Cl}_2 / \text{HCl}\) with diazonium salt</td></tr><tr><td>(D) Sandmeyer reaction</td><td>(IV) Pure primary aliphatic amine</td></tr></tbody></table><p>Choose the correct answer from the options given below:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Specific named reactions and chemical tests are used to synthesize or distinguish primary, secondary, and tertiary amines as well as to convert aryl diazonium salts into aryl halides.</p><p><strong>Step 2: Evaluation</strong><br/>Gabriel phthalimide synthesis uses potassium phthalimide and an alkyl halide followed by hydrolysis to prepare pure primary aliphatic amines without secondary or tertiary amine contamination. The carbylamine reaction treats a primary amine with chloroform and alcoholic \(\text{KOH}\) to yield a foul-smelling isocyanide. Hinsberg's test employs benzenesulphonyl chloride to distinguish between primary, secondary, and tertiary amines. The Sandmeyer reaction replaces the diazonium group of benzenediazonium chloride with \(-\text{Cl}\) using \(\text{Cu}_2\text{Cl}_2 / \text{HCl}\).</p><p><strong>Step 3: Application</strong><br/>Pairing each reaction with its characteristic reagent or product gives: Gabriel phthalimide synthesis \(\rightarrow\) pure primary aliphatic amine; Carbylamine reaction \(\rightarrow\) foul-smelling isocyanide; Hinsberg's test \(\rightarrow\) benzenesulphonyl chloride; Sandmeyer reaction \(\rightarrow\) \(\text{Cu}_2\text{Cl}_2 / \text{HCl}\) with diazonium salt.</p><p><strong>Step 4: Final Conclusion</strong><br/>The correct matching is (A)-(IV), (B)-(I), (C)-(II), (D)-(III).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A)-(IV), (B)-(II), (C)-(I), (D)-(III)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A)-(III), (B)-(I), (C)-(II), (D)-(IV)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A)-(II), (B)-(I), (C)-(IV), (D)-(III)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>(A)-(IV), (B)-(I), (C)-(II), (D)-(III)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>topic:amines_and_diazonium_salts</text></tag>
+    <tag><text>chapter:organic_compounds_containing_nitrogen</text></tag>
+    <tag><text>typology:match_list</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:table</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch019-unit-19-biomolecules] NEET_UG_CHEMISTRY_MATCH_Q11 - Vitamins and their deficiency diseases</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Match List I with List II:</p><table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;"><thead><tr><th>List I (Vitamin)</th><th>List II (Deficiency Disease)</th></tr></thead><tbody><tr><td>(A) Vitamin A</td><td>(I) Scurvy</td></tr><tr><td>(B) Vitamin \(\text{B}_1\)</td><td>(II) Rickets</td></tr><tr><td>(C) Vitamin C</td><td>(III) Xerophthalmia</td></tr><tr><td>(D) Vitamin D</td><td>(IV) Beri-beri</td></tr></tbody></table><p>Choose the correct answer from the options given below:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Vitamins are essential micronutrients required in small quantities for normal metabolic functions, and their prolonged deficiency leads to specific clinical disorders.</p><p><strong>Step 2: Evaluation</strong><br/>Deficiency of Vitamin A (retinol) causes xerophthalmia (hardening of the cornea of the eye) and night blindness. Deficiency of Vitamin \(\text{B}_1\) (thiamine) causes beri-beri. Deficiency of Vitamin C (ascorbic acid) leads to scurvy (bleeding gums). Deficiency of Vitamin D (calciferol) causes rickets (bone deformities in children).</p><p><strong>Step 3: Application</strong><br/>Each vitamin pairs directly with its corresponding deficiency disease: Vitamin A \(\rightarrow\) Xerophthalmia; Vitamin \(\text{B}_1\) \(\rightarrow\) Beri-beri; Vitamin C \(\rightarrow\) Scurvy; Vitamin D \(\rightarrow\) Rickets.</p><p><strong>Step 4: Final Conclusion</strong><br/>The correct matching is (A)-(III), (B)-(IV), (C)-(I), (D)-(II).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A)-(III), (B)-(I), (C)-(IV), (D)-(II)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A)-(II), (B)-(IV), (C)-(I), (D)-(III)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>(A)-(III), (B)-(IV), (C)-(I), (D)-(II)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A)-(IV), (B)-(III), (C)-(I), (D)-(II)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>topic:vitamins_and_deficiency_diseases</text></tag>
+    <tag><text>chapter:biomolecules</text></tag>
+    <tag><text>typology:match_list</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:table</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch019-unit-19-biomolecules] NEET_UG_CHEMISTRY_STMT3_Q12 - Carbohydrates proteins and nucleic acids</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Consider the following three statements regarding biomolecules:</p><p><strong>Statement I:</strong> Sucrose is a non-reducing sugar because the glycosidic linkage is formed between \(\text{C}1\) of \(\alpha\)-D-glucose and \(\text{C}2\) of \(\beta\)-D-fructose, leaving no free hemiacetal or hemiketal group.</p><p><strong>Statement II:</strong> During the denaturation of proteins, the primary structure remains intact while the secondary and tertiary structures are destroyed.</p><p><strong>Statement III:</strong> RNA contains the pyrimidine base thymine, whereas DNA contains uracil.</p><p>Choose the correct option:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Reducing sugars require a free aldehydic or ketonic group (or a hemiacetal/hemiketal group in equilibrium with the open-chain form). Protein denaturation disrupts weak non-covalent interactions and disulphide bridges without hydrolyzing peptide bonds. DNA and RNA differ in both their pentose sugar and one of their pyrimidine bases.</p><p><strong>Step 2: Evaluation</strong><br/>In sucrose, the \(\text{C}1\) anomeric carbon of \(\alpha\)-D-glucose and the \(\text{C}2\) anomeric carbon of \(\beta\)-D-fructose are both locked in the glycosidic bond, so no free reducing group remains; hence sucrose is a non-reducing sugar and the first claim is correct. During protein denaturation (caused by heat or pH change), hydrogen bonds are disturbed and the globules unfold, destroying secondary and tertiary structures while leaving the covalent peptide backbone (primary structure) intact; hence the second claim is also correct.</p><p><strong>Step 3: Application</strong><br/>Regarding nucleic acid composition, DNA contains adenine, guanine, cytosine, and thymine, whereas RNA contains adenine, guanine, cytosine, and uracil. The third claim reverses thymine and uracil and is therefore incorrect.</p><p><strong>Step 4: Final Conclusion</strong><br/>Only the first two claims (regarding sucrose as a non-reducing sugar and protein denaturation) are correct.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>All three statements (I, II, and III) are correct.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Only statements I and II are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Only statements II and III are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Only statements I and III are correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>topic:carbohydrates_proteins_nucleic_acids</text></tag>
+    <tag><text>chapter:biomolecules</text></tag>
+    <tag><text>typology:statement_based_3</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch020-unit-20-principles-related-to-practical-chemistry] NEET_UG_CHEMISTRY_AR_Q13 - Titration of oxalic acid against KMnO4</text></name>
+  <questiontext format="html"><text><![CDATA[<p><strong>Assertion (A):</strong> In the titration of oxalic acid against \(\text{KMnO}_4\) in acidic medium, the oxalic acid solution is warmed to about \(60^\circ\text{C}\) before adding \(\text{KMnO}_4\), and \(\text{KMnO}_4\) acts as a self-indicator.</p><p><strong>Reason (R):</strong> \(\text{HCl}\) is preferred over \(\text{H}_2\text{SO}_4\) to acidify the oxalic acid solution because \(\text{HCl}\) does not react with \(\text{KMnO}_4\).</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Redox titrations involving potassium permanganate (\(\text{KMnO}_4\)) and oxalic acid require an acidic medium to convert \(\text{MnO}_4^-\) into \(\text{Mn}^{2+}\), and the acid chosen must not undergo oxidation by \(\text{KMnO}_4\).</p><p><strong>Step 2: Evaluation</strong><br/>The reaction between \(\text{MnO}_4^-\) and \(\text{C}_2\text{O}_4^{2-}\) is slow at room temperature, so warming the oxalic acid solution to about \(60^\circ\text{C}\) increases the reaction rate; furthermore, the intense purple colour of \(\text{MnO}_4^-\) disappears upon reduction to nearly colourless \(\text{Mn}^{2+}\), allowing \(\text{KMnO}_4\) to act as a self-indicator at the end point. Thus, the assertion is correct.</p><p><strong>Step 3: Application</strong><br/>Hydrochloric acid (\(\text{HCl}\)) is never used to acidify \(\text{KMnO}_4\) titrations because \(\text{KMnO}_4\) is a strong enough oxidizing agent to oxidize \(\text{Cl}^-\) ions to \(\text{Cl}_2\) gas, which introduces an error in the titration volume. Instead, dilute \(\text{H}_2\text{SO}_4\) is used because sulphate ions are not oxidized by \(\text{KMnO}_4\). Thus, the reason is incorrect.</p><p><strong>Step 4: Final Conclusion</strong><br/>The assertion is correct, but the reason is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct and (R) is the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>(A) is correct but (R) is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is incorrect but (R) is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>topic:titrimetric_exercises_kmno4</text></tag>
+    <tag><text>chapter:principles_related_to_practical_chemistry</text></tag>
+    <tag><text>typology:assertion_reason</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch020-unit-20-principles-related-to-practical-chemistry] NEET_UG_CHEMISTRY_MCQ_Q14 - Confirmatory test for nickel ions</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which of the following reagents is used in qualitative salt analysis to confirm the presence of \(\text{Ni}^{2+}\) ions by forming a bright rosy-red precipitate?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>In qualitative inorganic analysis, group IV cations such as \(\text{Ni}^{2+}\) are confirmed using specific chelating reagents that form distinctively coloured insoluble coordination complexes.</p><p><strong>Step 2: Evaluation</strong><br/>Potassium ferrocyanide is used to confirm \(\text{Fe}^{3+}\) (Prussian blue) or \(\text{Cu}^{2+}\) (chocolate-brown). Ammonium molybdate is used for phosphate detection, and Nessler's reagent confirms \(\text{NH}_4^+\) ions (brown precipitate).</p><p><strong>Step 3: Application</strong><br/>In an ammoniacal medium, \(\text{Ni}^{2+}\) reacts with dimethylglyoxime (DMG) to form a square-planar bis(dimethylglyoximato)nickel(II) complex, which appears as a characteristic bright rosy-red precipitate.</p><p><strong>Step 4: Final Conclusion</strong><br/>The reagent used to confirm \(\text{Ni}^{2+}\) ions is dimethylglyoxime in ammoniacal medium.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Dimethylglyoxime in ammoniacal medium</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Potassium ferrocyanide in acetic acid medium</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Ammonium molybdate in nitric acid medium</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Nessler's reagent in alkaline medium</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>topic:qualitative_salt_analysis</text></tag>
+    <tag><text>chapter:principles_related_to_practical_chemistry</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch020-unit-20-principles-related-to-practical-chemistry] NEET_UG_CHEMISTRY_MCQ_Q15 - Titration stoichiometry of Mohrs salt and KMnO4</text></name>
+  <questiontext format="html"><text><![CDATA[<p>What volume (in \(\text{mL}\)) of \(0.02\text{ M}\) \(\text{KMnO}_4\) solution is required to completely oxidize \(20\text{ mL}\) of \(0.1\text{ M}\) Mohr's salt (\(\text{FeSO}_4\cdot(\text{NH}_4)_2\text{SO}_4\cdot 6\text{H}_2\text{O}\)) solution in dilute \(\text{H}_2\text{SO}_4\) medium?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Molarity of \(\text{KMnO}_4\) solution, \(M_1 = 0.02\text{ M}\). Volume of Mohr's salt solution, \(V_2 = 20\text{ mL}\). Molarity of Mohr's salt solution, \(M_2 = 0.1\text{ M}\). Medium: dilute \(\text{H}_2\text{SO}_4\).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>In Mohr's salt, only \(\text{Fe}^{2+}\) ions undergo oxidation to \(\text{Fe}^{3+}\) by \(\text{MnO}_4^-\) in acidic medium, while \(\text{MnO}_4^-\) is reduced to \(\text{Mn}^{2+}\).</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Balanced ionic equation: \[\text{MnO}_4^- + 5\text{Fe}^{2+} + 8\text{H}^+ \rightarrow \text{Mn}^{2+} + 5\text{Fe}^{3+} + 4\text{H}_2\text{O}\] Thus, the \(n\)-factor for \(\text{KMnO}_4\) is \(n_1 = 5\) (oxidation state of \(\text{Mn}\) changes from \(+7\) to \(+2\)), and the \(n\)-factor for Mohr's salt is \(n_2 = 1\) (oxidation state of \(\text{Fe}\) changes from \(+2\) to \(+3\)). By the law of chemical equivalence: \[n_1 M_1 V_1 = n_2 M_2 V_2\]</p><p><strong>Step 4: Step-by-Step Working</strong><br/>Substitute the given values into the equivalence equation: \[5 \times 0.02\text{ M} \times V_1 = 1 \times 0.1\text{ M} \times 20\text{ mL}\] \[0.10 \times V_1 = 2.0\text{ mmol}\] \[V_1 = \frac{2.0}{0.10} = 20\text{ mL}\]</p><p><strong>Step 5: Check and Final Answer</strong><br/>Check by moles: millimoles of \(\text{Fe}^{2+} = 0.1 \times 20 = 2.0\text{ mmol}\). Since \(1\text{ mol}\) \(\text{MnO}_4^-\) oxidizes \(5\text{ mol}\) \(\text{Fe}^{2+}\), millimoles of \(\text{KMnO}_4\) needed \(= \frac{2.0}{5} = 0.4\text{ mmol}\). Volume \(= \frac{0.4\text{ mmol}}{0.02\text{ M}} = 20\text{ mL}\). The required volume of \(\text{KMnO}_4\) solution is \(20\text{ mL}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(4\text{ mL}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(10\text{ mL}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(100\text{ mL}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(20\text{ mL}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>topic:titrimetric_exercises_mohrs_salt</text></tag>
+    <tag><text>chapter:principles_related_to_practical_chemistry</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>

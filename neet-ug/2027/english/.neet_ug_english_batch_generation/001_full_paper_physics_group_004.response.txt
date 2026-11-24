@@ -1,0 +1,141 @@
+<question type="multichoice">
+  <name><text>[ch019-unit-19-electronic-devices] NEET_UG_PHYSICS_ELECTRONIC_DEVICES_DIAGRAM_Q01 - Current through Zener diode in voltage regulator</text></name>
+  <questiontext format="html"><text><![CDATA[<p>In the voltage regulator circuit shown below, a Zener diode with breakdown voltage \(V_Z = 6.0\text{ V}\) (and negligible knee current) is connected across a load resistor \(R_L = 1.2\text{ k}\Omega\) and in series with a limiting resistor \(R_S = 300\ \Omega\). If the input DC supply voltage is \(V_{\text{in}} = 15\text{ V}\), what is the current flowing through the Zener diode?</p>
+<p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 220" width="460" height="220" style="max-width:100%;height:auto;font-family:Arial,sans-serif;font-size:13px;">
+  <!-- Top and bottom rails -->
+  <line x1="70" y1="45" x2="145" y2="45" stroke="#111" stroke-width="2"/>
+  <line x1="215" y1="45" x2="380" y2="45" stroke="#111" stroke-width="2"/>
+  <line x1="70" y1="175" x2="380" y2="175" stroke="#111" stroke-width="2"/>
+
+  <!-- DC Input Source -->
+  <line x1="70" y1="45" x2="70" y2="95" stroke="#111" stroke-width="2"/>
+  <line x1="70" y1="125" x2="70" y2="175" stroke="#111" stroke-width="2"/>
+  <line x1="52" y1="95" x2="88" y2="95" stroke="#111" stroke-width="2.5"/>
+  <line x1="60" y1="105" x2="80" y2="105" stroke="#111" stroke-width="2"/>
+  <line x1="52" y1="115" x2="88" y2="115" stroke="#111" stroke-width="2.5"/>
+  <line x1="60" y1="125" x2="80" y2="125" stroke="#111" stroke-width="2"/>
+  <text x="48" y="88" text-anchor="end" fill="#111">+</text>
+  <text x="48" y="136" text-anchor="end" fill="#111">-</text>
+  <text x="42" y="114" text-anchor="end" font-weight="bold" fill="#111">15 V</text>
+
+  <!-- Series Resistor R_S -->
+  <polyline points="145,45 151,35 161,55 171,35 181,55 191,35 201,55 209,45 215,45" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="180" y="25" text-anchor="middle" font-weight="bold" fill="#111">R_S = 300 Ω</text>
+
+  <!-- Zener Diode Branch -->
+  <circle cx="275" cy="45" r="3" fill="#111"/>
+  <circle cx="275" cy="175" r="3" fill="#111"/>
+  <line x1="275" y1="45" x2="275" y2="95" stroke="#111" stroke-width="2"/>
+  <line x1="275" y1="125" x2="275" y2="175" stroke="#111" stroke-width="2"/>
+  <!-- Diode triangle pointing up (reverse biased) -->
+  <polygon points="275,95 262,125 288,125" fill="#fff" stroke="#111" stroke-width="2"/>
+  <!-- Zener cathode bar -->
+  <polyline points="258,88 263,95 287,95 292,102" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="252" y="114" text-anchor="end" font-weight="bold" fill="#111">V_Z = 6.0 V</text>
+
+  <!-- Load Resistor R_L Branch -->
+  <line x1="380" y1="45" x2="380" y2="80" stroke="#111" stroke-width="2"/>
+  <polyline points="380,80 370,86 390,96 370,106 390,116 370,126 390,136 380,142" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="380" y1="142" x2="380" y2="175" stroke="#111" stroke-width="2"/>
+  <text x="398" y="115" text-anchor="start" font-weight="bold" fill="#111">R_L = 1.2 kΩ</text>
+</svg>
+</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>From the circuit diagram, the input DC voltage is \(V_{\text{in}} = 15\text{ V}\), the series limiting resistance is \(R_S = 300\ \Omega\), the load resistance connected in parallel with the Zener diode is \(R_L = 1.2\text{ k}\Omega = 1200\ \Omega\), and the Zener breakdown voltage is \(V_Z = 6.0\text{ V}\).</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>The Zener diode is reverse biased with its cathode connected to the positive rail through \(R_S\) and its anode connected to the negative rail. Assume the diode is ideal in breakdown (zero dynamic resistance and negligible knee current), provided the open-circuit voltage across \(R_L\) exceeds \(V_Z\).</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>1. Voltage divider check (with Zener branch open): \(V_{\text{open}} = V_{\text{in}} \frac{R_L}{R_S + R_L}\)<br/>2. Current through the series resistor: \(I_S = \frac{V_{\text{in}} - V_Z}{R_S}\)<br/>3. Current through the load resistor: \(I_L = \frac{V_Z}{R_L}\)<br/>4. Kirchhoff's current law at the output node: \(I_S = I_Z + I_L \implies I_Z = I_S - I_L\)</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>First, verify that the Zener diode is in breakdown:<br/>\[V_{\text{open}} = 15 \times \frac{1200}{300 + 1200} = 15 \times \frac{1200}{1500} = 12\text{ V}\]<br/>Since \(12\text{ V} > 6.0\text{ V}\), the Zener diode conducts in the breakdown region and regulates the voltage across \(R_L\) at \(V_L = V_Z = 6.0\text{ V}\).<br/>Now calculate the current through \(R_S\):<br/>\[I_S = \frac{15\text{ V} - 6.0\text{ V}}{300\ \Omega} = \frac{9.0}{300}\text{ A} = 0.030\text{ A} = 30\text{ mA}\]<br/>Next, calculate the current through \(R_L\):<br/>\[I_L = \frac{6.0\text{ V}}{1200\ \Omega} = 0.005\text{ A} = 5\text{ mA}\]<br/>Applying Kirchhoff's current law at the junction:<br/>\[I_Z = I_S - I_L = 30\text{ mA} - 5\text{ mA} = 25\text{ mA}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>Both currents are positive and \(I_Z + I_L = 25\text{ mA} + 5\text{ mA} = 30\text{ mA} = I_S\), confirming current conservation and proper regulation. Thus, the current flowing through the Zener diode is \(25\text{ mA}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(5\text{ mA}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(25\text{ mA}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(30\text{ mA}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(35\text{ mA}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:class_12</text></tag>
+    <tag><text>topic:zener_diode</text></tag>
+    <tag><text>chapter:electronic_devices</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:circuit</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch019-unit-19-electronic-devices] NEET_UG_PHYSICS_ELECTRONIC_DEVICES_AR_Q02 - Depletion region behavior under reverse bias</text></name>
+  <questiontext format="html"><text><![CDATA[<p><strong>Assertion (A):</strong> When a p-n junction diode is reverse biased, the width of the depletion region increases and the effective barrier potential increases.</p>
+<p><strong>Reason (R):</strong> Under reverse bias, majority charge carriers from both the p-side and n-side are pushed toward the junction, increasing the rate of carrier recombination.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>In an unbiased p-n junction, an internal built-in electric field points from the n-side (positively charged donor ions) to the p-side (negatively charged acceptor ions), establishing a barrier potential \(V_0\) across the depletion region.</p>
+<p><strong>Step 2: Evaluation of the Assertion</strong><br/>Under reverse bias, the p-side is connected to the negative terminal and the n-side is connected to the positive terminal of the external battery. The applied electric field is in the same direction as the built-in electric field. Consequently, the effective barrier height increases to \(V_0 + V\), and more immobile ions are uncovered as majority carriers recede from the junction, causing the depletion width to increase. Therefore, the assertion is correct.</p>
+<p><strong>Step 3: Evaluation of the Reason</strong><br/>Because the external potential attracts holes on the p-side toward the negative terminal and electrons on the n-side toward the positive terminal, majority carriers are pulled away from the junction rather than pushed toward it. Pushing majority carriers toward the junction occurs under forward bias, not reverse bias. Therefore, the reason is incorrect.</p>
+<p><strong>Step 4: Final Conclusion</strong><br/>The assertion is correct, whereas the reason is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct and (R) is the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>(A) is correct but (R) is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is incorrect but (R) is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:class_12</text></tag>
+    <tag><text>topic:semiconductor_diode</text></tag>
+    <tag><text>chapter:electronic_devices</text></tag>
+    <tag><text>typology:assertion_reason</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch020-unit-20-experimental-skills] NEET_UG_PHYSICS_EXPERIMENTAL_SKILLS_MCQ_Q03 - Youngs modulus using screw gauge diameter measurement</text></name>
+  <questiontext format="html"><text><![CDATA[<p>A screw gauge with a pitch of \(0.5\text{ mm}\) and \(50\) divisions on its circular scale has a positive zero error of \(+4\) circular scale divisions. When used to measure the diameter of a uniform metallic wire, the main scale reads \(2.0\text{ mm}\) and the \(4^{\text{th}}\) division on the circular scale coincides with the reference line. In a Young's modulus experiment, a \(2.2\text{ m}\) long wire of this exact diameter stretches by \(0.35\text{ mm}\) when a load of \(5.5\text{ kg}\) is suspended from it. Taking \(g = 10\text{ m s}^{-2}\) and \(\pi = \frac{22}{7}\), what is the Young's modulus of the material of the wire?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Pitch of screw gauge, \(p = 0.5\text{ mm}\)<br/>Number of circular scale divisions, \(N = 50\)<br/>Zero error, \(e = +4\text{ divisions}\)<br/>Main scale reading, \(\text{MSR} = 2.0\text{ mm}\)<br/>Circular scale reading, \(\text{CSR} = 4\text{ divisions}\)<br/>Length of wire, \(L = 2.2\text{ m}\)<br/>Extension, \(\Delta L = 0.35\text{ mm} = 0.35 \times 10^{-3}\text{ m}\)<br/>Load mass, \(M = 5.5\text{ kg}\), with \(g = 10\text{ m s}^{-2}\) and \(\pi = \frac{22}{7}\).</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>A positive zero error is subtracted from the observed reading to obtain the true diameter. The wire is assumed to obey Hooke's law within its elastic limit and to have a uniform circular cross-section.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>1. Least count of screw gauge: \(\text{LC} = \frac{\text{Pitch}}{N}\)<br/>2. True diameter: \(d = (\text{MSR} + \text{CSR} \times \text{LC}) - (e \times \text{LC})\)<br/>3. Cross-sectional area: \(A = \pi r^2 = \pi \left(\frac{d}{2}\right)^2\)<br/>4. Young's modulus: \(Y = \frac{F L}{A \Delta L} = \frac{M g L}{\pi r^2 \Delta L}\)</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>Calculate the least count of the screw gauge:<br/>\[\text{LC} = \frac{0.5\text{ mm}}{50} = 0.01\text{ mm}\]<br/>Find the observed diameter and apply the zero-error correction:<br/>\[d_{\text{obs}} = 2.0\text{ mm} + 4 \times 0.01\text{ mm} = 2.04\text{ mm}\]<br/>\[e \times \text{LC} = +4 \times 0.01\text{ mm} = +0.04\text{ mm}\]<br/>\[d = 2.04\text{ mm} - (+0.04\text{ mm}) = 2.00\text{ mm} = 2.0 \times 10^{-3}\text{ m}\]<br/>Thus, the radius of the wire is:<br/>\[r = \frac{d}{2} = 1.0 \times 10^{-3}\text{ m}\]<br/>Calculate the cross-sectional area:<br/>\[A = \frac{22}{7} \times (1.0 \times 10^{-3}\text{ m})^2 = \frac{22}{7} \times 10^{-6}\text{ m}^2\]<br/>Calculate the stretching force:<br/>\[F = M g = 5.5\text{ kg} \times 10\text{ m s}^{-2} = 55\text{ N}\]<br/>Substitute all values into the expression for Young's modulus:<br/>\[Y = \frac{55 \times 2.2}{\left(\frac{22}{7} \times 10^{-6}\right) \times (0.35 \times 10^{-3})}\]<br/>Note that \(\frac{22}{7} \times 0.35 = 22 \times 0.05 = 1.1\):<br/>\[Y = \frac{55 \times 2.2}{1.1 \times 10^{-9}} = 55 \times 2 \times 10^{9} = 1.1 \times 10^{11}\text{ N m}^{-2}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>The dimensional units \(\frac{\text{N}\cdot\text{m}}{\text{m}^2 \cdot \text{m}} = \text{N m}^{-2}\) are correct, and \(1.1 \times 10^{11}\text{ N m}^{-2}\) is physically realistic for a metallic wire such as copper. Therefore, the Young's modulus of the material of the wire is \(1.1 \times 10^{11}\text{ N m}^{-2}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(2.75 \times 10^{10}\text{ N m}^{-2}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(1.1 \times 10^{10}\text{ N m}^{-2}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(2.2 \times 10^{11}\text{ N m}^{-2}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(1.1 \times 10^{11}\text{ N m}^{-2}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:class_11</text></tag>
+    <tag><text>topic:youngs_modulus_and_screw_gauge</text></tag>
+    <tag><text>chapter:experimental_skills</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>

@@ -1,0 +1,323 @@
+<question type="multichoice">
+  <name><text>[ch008-unit-8-biology-and-human-welfare] NEET_UG_BIOLOGY_MCQ_Q01 - Bioactive agent used as immunosuppressive drug</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which of the following bioactive molecules is produced by the fungus <em>Trichoderma polysporum</em> and is used as an immunosuppressive agent in organ-transplant patients?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Microbes produce various bioactive molecules that have significant medical applications, including enzymes, organic acids, and specialized metabolites used as therapeutic drugs.</p><p><strong>Step 2: Evaluation</strong><br/><em>Trichoderma polysporum</em> is a fungus that produces cyclosporin A, a bioactive compound that suppresses the immune response and prevents rejection of transplanted organs. In contrast, streptokinase is produced by the bacterium <em>Streptococcus</em> and acts as a clot buster for removing clots from blood vessels; statins are produced by the yeast <em>Monascus purpureus</em> and act as blood-cholesterol lowering agents by competitively inhibiting the enzyme responsible for cholesterol synthesis; and citric acid is an organic acid produced by the fungus <em>Aspergillus niger</em>.</p><p><strong>Step 3: Final Conclusion</strong><br/>The bioactive molecule produced by <em>Trichoderma polysporum</em> and used as an immunosuppressive agent in organ-transplant patients is cyclosporin A.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Streptokinase</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Cyclosporin A</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statin</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Citric acid</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_8_biology_and_human_welfare</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch008-unit-8-biology-and-human-welfare] NEET_UG_BIOLOGY_MCQ_Q02 - Life cycle and pathogenesis of Plasmodium</text></name>
+  <questiontext format="html"><text><![CDATA[<p>During the life cycle of <em>Plasmodium</em> in a human host, the recurring chill and high fever every three to four days is directly associated with which of the following events?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/><em>Plasmodium</em>, the malarial parasite, requires two hosts—humans and female <em>Anopheles</em> mosquitoes—to complete its life cycle. The clinical symptoms of malaria arise during the erythrocytic phase in the human host.</p><p><strong>Step 2: Evaluation</strong><br/>Sporozoites enter the human body through the bite of an infected female <em>Anopheles</em> mosquito and initially multiply asexually within liver cells. Subsequently, the parasites attack red blood cells (RBCs), resulting in their rupture. The rupture of RBCs is associated with the release of a toxic substance called haemozoin, which is responsible for the characteristic chill and high fever recurring every three to four days. Fertilization of gametocytes occurs in the gut of the mosquito, not in human blood.</p><p><strong>Step 3: Application</strong><br/>Thus, the periodic fever and chills coincide with the synchronous rupture of infected red blood cells and the consequent release of haemozoin into the bloodstream.</p><p><strong>Step 4: Final Conclusion</strong><br/>The recurring chill and high fever is directly associated with the rupture of red blood cells and the release of haemozoin.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Entry of sporozoites into the human bloodstream via mosquito bite</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Asexual multiplication of the parasite inside hepatic cells</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Fusion of male and female gametocytes within human erythrocytes</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Rupture of red blood cells accompanied by the release of haemozoin</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_8_biology_and_human_welfare</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch008-unit-8-biology-and-human-welfare] NEET_UG_BIOLOGY_SB2_Q03 - Passive and active immunity mechanisms</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Given below are two statements regarding human immunology:</p><p><strong>Statement I:</strong> The yellowish fluid colostrum secreted by the mother during the initial days of lactation has abundant IgA antibodies to protect the infant, which is an example of passive immunity.</p><p><strong>Statement II:</strong> When a person is infected with a deadly microbe to which a quick immune response is required, as in tetanus, directly injecting preformed antibodies or antitoxin confers active immunity.</p><p>In light of the above statements, choose the correct answer from the options given below.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Acquired immunity is classified into active immunity, where the host produces its own antibodies upon exposure to antigens, and passive immunity, where ready-made antibodies are directly transferred to protect the body against foreign agents.</p><p><strong>Step 2: Evaluation</strong><br/>Colostrum, secreted during the initial days of lactation, contains abundant IgA antibodies transferred from the mother to the newborn, providing immediate protection without the infant's immune system synthesizing those antibodies. Hence, the claim regarding colostrum providing passive immunity is correct. On the other hand, active immunity is slow and takes time to develop a full effective response. In emergencies such as tetanus or snakebites, injecting preformed antibodies or antitoxin provides immediate protection and is classified as passive immunity, not active immunity. Therefore, the claim that preformed antitoxins confer active immunity is incorrect.</p><p><strong>Step 3: Final Conclusion</strong><br/>The first statement describing colostrum and IgA as passive immunity is correct, whereas the second statement describing preformed antitoxin injection as active immunity is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are incorrect.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Statement I is correct but Statement II is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is incorrect but Statement II is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_8_biology_and_human_welfare</text></tag>
+    <tag><text>typology:statement_based_2</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch008-unit-8-biology-and-human-welfare] NEET_UG_BIOLOGY_SB3_Q04 - Sewage treatment stages and biogas production</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Evaluate the following three statements regarding municipal sewage treatment:</p><ol><li>Primary treatment involves the physical removal of large and small particles from sewage through sequential filtration and sedimentation.</li><li>During secondary treatment, vigorous growth of useful aerobic microbes into flocs significantly increases the Biochemical Oxygen Demand (BOD) of the effluent.</li><li>In anaerobic sludge digesters, anaerobic bacteria digest the bacteria and fungi in the sludge, producing a mixture of gases including methane, hydrogen sulphide, and carbon dioxide.</li></ol><p>Which of the above statements are correct?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Municipal wastewater (sewage) treatment occurs in two major stages: primary (physical) treatment and secondary (biological) treatment, followed by anaerobic digestion of activated sludge.</p><p><strong>Step 2: Evaluation</strong><br/>Primary treatment physically removes floating debris by sequential filtration and removes grit (soil and small pebbles) by sedimentation, making the description of primary treatment correct. During secondary treatment, the primary effluent is constantly agitated mechanically and air is pumped into it, allowing vigorous growth of useful aerobic microbes into flocs (masses of bacteria associated with fungal filaments). These microbes consume the major part of the organic matter in the effluent, which significantly reduces—rather than increases—the Biochemical Oxygen Demand (BOD) of the effluent; thus, the claim that BOD increases is incorrect. Finally, when activated sludge is pumped into anaerobic sludge digesters, anaerobic bacteria digest the microbes in the sludge and produce biogas containing methane, hydrogen sulphide, and carbon dioxide, making this description correct.</p><p><strong>Step 3: Final Conclusion</strong><br/>Only the descriptions of primary physical treatment and anaerobic sludge digestion are correct, while the claim regarding an increase in BOD during secondary aerobic treatment is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1 and 3 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1 and 2 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2 and 3 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 2, and 3</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_8_biology_and_human_welfare</text></tag>
+    <tag><text>typology:statement_based_3</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch008-unit-8-biology-and-human-welfare] NEET_UG_BIOLOGY_AR_Q05 - Contact inhibition and metastasis in cancer</text></name>
+  <questiontext format="html"><text><![CDATA[<p><strong>Assertion (A):</strong> Cancerous cells lose the property of contact inhibition and continue to divide, giving rise to masses of cells called tumours.</p><p><strong>Reason (R):</strong> Metastasis is the most feared property of benign tumours, in which cells slough off from the tumour and reach distant sites through blood to start new tumours.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Normal cells exhibit a regulatory property called contact inhibition, whereby contact with other cells inhibits their uncontrolled growth. Cancerous transformation disrupts this regulation.</p><p><strong>Step 2: Evaluation</strong><br/>In normal tissues, cell division is tightly controlled, whereas cancer cells lose contact inhibition and divide uncontrollably to form neoplastic masses called tumours. Therefore, the assertion regarding loss of contact inhibition and tumour formation is correct. Tumours are of two types: benign and malignant. Benign tumours normally remain confined to their original location, do not spread to other parts of the body, and cause little damage. In contrast, malignant tumours consist of proliferating neoplastic cells that grow rapidly, invade surrounding normal tissues, and slough off to reach distant sites via blood—a property called metastasis. Attributing metastasis to benign tumours is therefore incorrect.</p><p><strong>Step 3: Final Conclusion</strong><br/>The assertion is correct, whereas the reason is incorrect because metastasis is a characteristic property of malignant tumours rather than benign tumours.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct and (R) is the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>(A) is correct but (R) is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is incorrect but (R) is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_8_biology_and_human_welfare</text></tag>
+    <tag><text>typology:assertion_reason</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch008-unit-8-biology-and-human-welfare] NEET_UG_BIOLOGY_SBM_Q06 - Pathogens, drugs, and microbial biocontrol agents</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Read the following five statements carefully:</p><ul><li>Typhoid fever, caused by the pathogenic bacterium <em>Salmonella typhi</em>, can be confirmed by the Widal test.</li><li><em>Wuchereria bancrofti</em> causes slowly developing chronic inflammation of the organs in which it lives for many years, usually the lymphatic vessels of the lower limbs.</li><li>Morphine is extracted from the latex of the poppy plant <em>Papaver somniferum</em> and is a very effective sedative and painkiller.</li><li>Baculoviruses used as biological control agents belong to the genus <em>Nucleopolyhedrovirus</em> and are species-specific, narrow-spectrum insecticidal applications.</li><li><em>Rhizobium</em> is a free-living nitrogen-fixing bacterium commonly used as a biofertilizer in flooded paddy fields.</li></ul><p>How many of the above statements are <strong>correct</strong>?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Human diseases, pharmacological agents, biocontrol organisms, and biofertilizers each have specific causative microbes, plant sources, or ecological relationships.</p><p><strong>Step 2: Evaluation</strong><br/>First, <em>Salmonella typhi</em> is indeed the bacterium responsible for typhoid fever, and its infection is clinically confirmed using the Widal test; this is correct. Second, the filarial worm <em>Wuchereria bancrofti</em> causes elephantiasis (filariasis), characterized by chronic inflammation of the lymphatic vessels of the lower limbs; this is correct. Third, morphine is an opioid extracted from the latex of <em>Papaver somniferum</em> and serves as an effective clinical sedative and analgesic; this is correct. Fourth, baculoviruses in the genus <em>Nucleopolyhedrovirus</em> are pathogens that attack insects and other arthropods and are ideal for integrated pest management due to their species-specific, narrow-spectrum action with no negative impacts on non-target organisms; this is correct. Fifth, <em>Rhizobium</em> forms symbiotic associations within the root nodules of leguminous plants rather than acting as a free-living nitrogen fixer in paddy fields (where cyanobacteria such as <em>Anabaena</em>, <em>Nostoc</em>, and <em>Oscillatoria</em> serve as important biofertilizers); hence, this last claim is incorrect.</p><p><strong>Step 3: Final Conclusion</strong><br/>Out of the five statements, four statements are biologically accurate and one is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Three</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Four</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Two</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Five</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_8_biology_and_human_welfare</text></tag>
+    <tag><text>typology:statement_based_multi</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch009-unit-9-biotechnology-and-its-applications] NEET_UG_BIOLOGY_MCQ_Q07 - Activation of Bt toxin in insect gut</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Why does the Bt toxin protein produced by <em>Bacillus thuringiensis</em> not kill the bacterium itself, but kills the target insect upon ingestion?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Some strains of <em>Bacillus thuringiensis</em> produce insecticidal protein crystals during a particular phase of their growth. These proteins exist as inactive protoxins inside the bacterium.</p><p><strong>Step 2: Evaluation</strong><br/>Once an insect ingests the inactive protoxin, it is converted into an active form of toxin due to the alkaline pH of the insect midgut, which solubilizes the crystals. The activated toxin binds to the surface of midgut epithelial cells and creates pores that cause cell swelling and lysis, eventually leading to the death of the insect. Because the bacterial cytoplasm does not provide the alkaline conditions required for solubilization and activation, the bacterium remains unharmed.</p><p><strong>Step 3: Final Conclusion</strong><br/>The toxin exists as an inactive protoxin in the bacterium and becomes activated only in the alkaline pH of the insect gut.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>The toxin exists as an inactive protoxin in the bacterium and is activated by the alkaline pH of the insect gut.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>The bacterial cell wall is impermeable to the active toxin, whereas the acidic insect gut degrades the insect cuticle.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>The bacterium synthesizes an antitoxin that neutralizes the active toxin inside its own cytoplasm.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>The protoxin requires host insect DNA polymerase to be transcribed into an active toxin inside the midgut.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_9_biotechnology_and_its_applications</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch009-unit-9-biotechnology-and-its-applications] NEET_UG_BIOLOGY_MCQ_Q08 - Gene therapy for ADA deficiency</text></name>
+  <questiontext format="html"><text><![CDATA[<p>In the first clinical gene therapy given to a 4-year-old girl with adenosine deaminase (ADA) deficiency, why did the patient require periodic infusions of genetically engineered lymphocytes?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Gene therapy attempts to correct a hereditary disease by delivering a normal functional gene into the individual's cells or tissues. ADA deficiency is caused by the deletion of the gene for adenosine deaminase, an enzyme crucial for the immune system to function.</p><p><strong>Step 2: Evaluation</strong><br/>In the 1990 clinical gene therapy trial, lymphocytes from the patient's blood were grown in culture outside the body, a functional ADA cDNA was introduced into these lymphocytes using a retroviral vector, and the cells were subsequently returned to the patient. However, mature lymphocytes are not immortal and have a finite lifespan. Consequently, the patient required periodic infusions of such genetically engineered lymphocytes. A permanent cure could only be achieved if the gene isolated from marrow cells producing ADA is introduced into cells at early embryonic stages.</p><p><strong>Step 3: Final Conclusion</strong><br/>Periodic infusions were required because the genetically engineered lymphocytes are not immortal and have a limited lifespan.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>The retroviral vector is degraded by restriction enzymes inside the patient's bone marrow within a few days.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Adenosine deaminase enzyme permanently inhibits the replication of genetically modified T-cells.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>The genetically engineered lymphocytes are not immortal and have a finite lifespan in the body.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>The functional ADA cDNA cannot be transcribed in human cells without continuous antibiotic selection.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_9_biotechnology_and_its_applications</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch009-unit-9-biotechnology-and-its-applications] NEET_UG_BIOLOGY_SB2_Q09 - Recombinant human insulin synthesis by Eli Lilly</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Given below are two statements regarding recombinant human insulin:</p><p><strong>Statement I:</strong> In mammals, insulin is synthesized as a pro-hormone containing an extra stretch called the C-peptide, which is removed during maturation into functional insulin consisting of A and B chains linked by disulphide bridges.</p><p><strong>Statement II:</strong> In 1983, Eli Lilly prepared three DNA sequences corresponding to A, B, and C chains of human insulin and introduced them into plasmids of <em>Escherichia coli</em> to produce all three chains separately before joining them.</p><p>In light of the above statements, choose the correct answer from the options given below.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Human insulin consists of two short polypeptide chains—chain A and chain B—linked together by disulphide bridges. In mammals, it is initially synthesized as a pro-hormone containing an additional C-peptide that is absent in mature insulin.</p><p><strong>Step 2: Evaluation</strong><br/>The description of mammalian pro-insulin maturation—where the C-peptide is cleaved off leaving the A and B chains joined by disulphide bonds—is accurate. However, the main challenge in producing insulin using recombinant DNA technology was assembling insulin into its mature form without the C-peptide. In 1983, Eli Lilly prepared only two DNA sequences corresponding to the A and B chains of human insulin (not the C chain) and introduced them into plasmids of <em>Escherichia coli</em> to produce the A and B chains separately, which were then extracted and combined by creating disulphide bonds to form human insulin. Therefore, the claim that Eli Lilly synthesized and joined the C chain is incorrect.</p><p><strong>Step 3: Final Conclusion</strong><br/>The statement describing pro-insulin maturation is correct, whereas the statement claiming that Eli Lilly prepared DNA sequences for all three chains including the C chain is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is incorrect but Statement II is correct.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Statement I is correct but Statement II is incorrect.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_9_biotechnology_and_its_applications</text></tag>
+    <tag><text>typology:statement_based_2</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch009-unit-9-biotechnology-and-its-applications] NEET_UG_BIOLOGY_SB3_Q10 - Restriction enzymes, electrophoresis, and insertional inactivation</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Consider the following three statements regarding tools of recombinant DNA technology:</p><ol><li>The restriction endonuclease <em>Eco</em>RI recognizes the palindromic sequence \(5'\text{-GAATTC-}3'\) and cuts each of the two strands of the DNA double helix between G and A bases, producing sticky ends.</li><li>During agarose gel electrophoresis, DNA fragments being positively charged move towards the cathode under an electric field, with larger fragments moving farther than smaller ones.</li><li>Insertional inactivation of the \(\beta\)-galactosidase coding sequence in a recombinant plasmid results in colonies that do not produce any blue colour in the presence of a chromogenic substrate.</li></ol><p>Which of the above statements are correct?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Recombinant DNA technology relies on restriction endonucleases for specific DNA cleavage, agarose gel electrophoresis for size-based separation of DNA fragments, and selectable markers (such as chromogenic enzyme genes) for identifying recombinants.</p><p><strong>Step 2: Evaluation</strong><br/>First, <em>Eco</em>RI recognizes the palindromic sequence \(5'\text{-GAATTC-}3'\) and cleaves the sugar-phosphate backbone between the G and A residues on both strands, leaving overhanging single-stranded stretches called sticky ends; this is correct. Second, DNA molecules are negatively charged due to their phosphate backbone, so during gel electrophoresis they migrate towards the positive electrode (anode), and the sieving effect of the agarose gel causes smaller fragments to move farther than larger ones; therefore, claiming that DNA is positively charged and moves towards the cathode with larger fragments moving farther is incorrect. Third, when a recombinant DNA is inserted within the coding sequence of the enzyme \(\beta\)-galactosidase, the gene is inactivated (insertional inactivation), so the bacterial colonies fail to produce the enzyme and remain colourless rather than turning blue in the presence of a chromogenic substrate; this is correct.</p><p><strong>Step 3: Final Conclusion</strong><br/>The descriptions of <em>Eco</em>RI cleavage and insertional inactivation of \(\beta\)-galactosidase are correct, while the description of DNA migration in agarose gel electrophoresis is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1 and 2 only</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1 and 3 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2 and 3 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 2, and 3</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_9_biotechnology_and_its_applications</text></tag>
+    <tag><text>typology:statement_based_3</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch009-unit-9-biotechnology-and-its-applications] NEET_UG_BIOLOGY_DIAG_Q11 - Selection of recombinants in pBR322 cloning vector</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Observe the schematic diagram of the cloning vector pBR322 shown below. If a foreign DNA fragment is ligated at the <em>Bam</em>HI restriction site, what will be the growth phenotype of the host <em>E. coli</em> cells carrying this recombinant plasmid?</p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 320" width="440" height="320" style="background:#ffffff;font-family:Arial,sans-serif;"><circle cx="220" cy="160" r="105" fill="none" stroke="#334155" stroke-width="6"/><path d="M 145.7 85.7 A 105 105 0 0 0 145.7 234.3" fill="none" stroke="#2563eb" stroke-width="14"/><path d="M 294.3 85.7 A 105 105 0 0 1 294.3 234.3" fill="none" stroke="#dc2626" stroke-width="14"/><path d="M 185 259 A 105 105 0 0 0 255 259" fill="none" stroke="#16a34a" stroke-width="14"/><text x="115" y="165" text-anchor="end" font-size="14" font-weight="bold" fill="#1d4ed8">ampR</text><text x="328" y="165" text-anchor="start" font-size="14" font-weight="bold" fill="#b91c1c">tetR</text><text x="220" y="290" text-anchor="middle" font-size="14" font-weight="bold" fill="#15803d">ori</text><text x="220" y="165" text-anchor="middle" font-size="16" font-weight="bold" fill="#0f172a">pBR322</text><line x1="220" y1="42" x2="220" y2="65" stroke="#0f172a" stroke-width="2"/><text x="220" y="34" text-anchor="middle" font-size="12" fill="#0f172a">EcoRI</text><line x1="255" y1="52" x2="245" y2="72" stroke="#0f172a" stroke-width="2"/><text x="262" y="45" text-anchor="start" font-size="12" fill="#0f172a">HindIII</text><line x1="335" y1="115" x2="312" y2="125" stroke="#b91c1c" stroke-width="2"/><text x="342" y="118" text-anchor="start" font-size="13" font-weight="bold" fill="#b91c1c">BamHI</text><line x1="335" y1="205" x2="312" y2="195" stroke="#b91c1c" stroke-width="2"/><text x="342" y="210" text-anchor="start" font-size="12" fill="#0f172a">SalI</text><line x1="105" y1="115" x2="128" y2="125" stroke="#1d4ed8" stroke-width="2"/><text x="98" y="118" text-anchor="end" font-size="12" fill="#0f172a">PstI</text><line x1="105" y1="205" x2="128" y2="195" stroke="#1d4ed8" stroke-width="2"/><text x="98" y="210" text-anchor="end" font-size="12" fill="#0f172a">PvuI</text></svg>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>The schematic depicts the plasmid cloning vector pBR322 containing the origin of replication (<em>ori</em>), the ampicillin resistance gene (<em>amp<sup>R</sup></em>) with <em>Pst</em>I and <em>Pvu</em>I sites, and the tetracycline resistance gene (<em>tet<sup>R</sup></em>) with <em>Bam</em>HI and <em>Sal</em>I sites. A foreign DNA fragment is ligated into the <em>Bam</em>HI site.</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>In plasmid selection, an intact antibiotic resistance gene confers survival on medium containing that specific antibiotic, whereas insertion of foreign DNA within the coding region of an antibiotic resistance gene disrupts its function through insertional inactivation.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>By the principle of insertional inactivation of selectable markers, inserting foreign DNA at a restriction site located inside a resistance gene renders the host cell sensitive to that antibiotic while preserving resistance conferred by any other intact marker gene on the vector.</p><p><strong>Step 4: Step-by-Step Working</strong><br/>Because the <em>Bam</em>HI restriction site lies within the tetracycline resistance gene (<em>tet<sup>R</sup></em>), ligating foreign DNA at this site disrupts the <em>tet<sup>R</sup></em> gene, causing the recombinant plasmid to lose tetracycline resistance. Meanwhile, the ampicillin resistance gene (<em>amp<sup>R</sup></em>) remains intact and functional. Consequently, transformed <em>E. coli</em> cells carrying this recombinant plasmid will survive and grow on ampicillin-containing medium, but will fail to grow when transferred to tetracycline-containing medium.</p><p><strong>Step 5: Check and Final Answer</strong><br/>Non-recombinant transformants remain resistant to both ampicillin and tetracycline, whereas recombinants with insertion at <em>Bam</em>HI are resistant only to ampicillin and sensitive to tetracycline. Therefore, the host cells will grow on ampicillin-containing medium but not on tetracycline-containing medium.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>They will grow on both ampicillin-containing and tetracycline-containing media.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>They will fail to grow on both ampicillin-containing and tetracycline-containing media.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>They will grow on tetracycline-containing medium, but not on ampicillin-containing medium.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>They will grow on ampicillin-containing medium, but not on tetracycline-containing medium.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_9_biotechnology_and_its_applications</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>media:diagram</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch009-unit-9-biotechnology-and-its-applications] NEET_UG_BIOLOGY_SEQ_Q12 - Chronological steps of recombinant DNA technology</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Arrange the following steps of recombinant DNA technology in the correct chronological sequence:</p><ol type="I"><li>Ligation of the desired DNA fragment into a cloning vector</li><li>Fragmentation of isolated DNA by restriction endonucleases</li><li>Isolation of pure genetic material (DNA) from the source cell</li><li>Transferring the recombinant DNA into a suitable host organism</li><li>Isolation of the desired DNA fragment using agarose gel electrophoresis</li></ol><p>Choose the correct sequence from the options given below.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>The construction and expression of a recombinant DNA molecule follows a defined laboratory workflow from nucleic acid extraction to host transformation.</p><p><strong>Step 2: Evaluation</strong><br/>First, pure DNA must be isolated from the source organism by lysing cells and removing macromolecules such as RNA, proteins, and polysaccharides. Second, the purified DNA is cut at specific recognition sites using restriction endonucleases. Third, the resulting fragments are separated by agarose gel electrophoresis, and the desired DNA fragment is isolated (eluted) from the gel. Fourth, this purified target fragment is joined with a cut cloning vector using DNA ligase to form recombinant DNA. Finally, the recombinant DNA molecule is introduced into a competent host cell for replication and expression.</p><p><strong>Step 3: Final Conclusion</strong><br/>The correct chronological sequence is: isolation of pure DNA, fragmentation by restriction endonucleases, isolation of the desired fragment via electrophoresis, ligation into a vector, and transfer into the host organism.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>III &rarr; II &rarr; V &rarr; I &rarr; IV</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>III &rarr; V &rarr; II &rarr; I &rarr; IV</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>II &rarr; III &rarr; V &rarr; IV &rarr; I</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>III &rarr; II &rarr; I &rarr; V &rarr; IV</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:unit_9_biotechnology_and_its_applications</text></tag>
+    <tag><text>typology:sequencing</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>

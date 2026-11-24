@@ -1,0 +1,694 @@
+<question type="multichoice">
+  <name><text>[ch012-unit-12-current-electricity] NEET_UG_PHYSICS_Q01 - Current through a resistor in series-parallel network</text></name>
+  <questiontext format="html"><text><![CDATA[<p>In the circuit shown below, a cell of emf \(12\text{ V}\) and internal resistance \(r = 1\ \Omega\) is connected to a network of three resistors of resistances \(3\ \Omega\), \(6\ \Omega\), and \(3\ \Omega\). What is the current flowing through the \(6\ \Omega\) resistor?</p>
+<p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 220" width="420" height="220">
+  <rect x="0" y="0" width="420" height="220" fill="#ffffff"/>
+  <!-- Main outer loop -->
+  <line x1="60" y1="60" x2="110" y2="60" stroke="#000000" stroke-width="2"/>
+  <!-- 3 ohm series resistor -->
+  <polyline points="110,60 118,48 126,72 134,48 142,72 150,48 158,72 166,60" fill="none" stroke="#000000" stroke-width="2"/>
+  <text x="138" y="38" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">3 Ω</text>
+  <line x1="166" y1="60" x2="210" y2="60" stroke="#000000" stroke-width="2"/>
+  <!-- Parallel branch split at x=210 -->
+  <line x1="210" y1="60" x2="210" y2="30" stroke="#000000" stroke-width="2"/>
+  <line x1="210" y1="60" x2="210" y2="90" stroke="#000000" stroke-width="2"/>
+  <!-- Top parallel 6 ohm -->
+  <line x1="210" y1="30" x2="245" y2="30" stroke="#000000" stroke-width="2"/>
+  <polyline points="245,30 253,18 261,42 269,18 277,42 285,18 293,42 301,30" fill="none" stroke="#000000" stroke-width="2"/>
+  <text x="273" y="14" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">6 Ω</text>
+  <line x1="301" y1="30" x2="340" y2="30" stroke="#000000" stroke-width="2"/>
+  <!-- Bottom parallel 3 ohm -->
+  <line x1="210" y1="90" x2="245" y2="90" stroke="#000000" stroke-width="2"/>
+  <polyline points="245,90 253,78 261,102 269,78 277,102 285,78 293,102 301,90" fill="none" stroke="#000000" stroke-width="2"/>
+  <text x="273" y="120" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">3 Ω</text>
+  <line x1="301" y1="90" x2="340" y2="90" stroke="#000000" stroke-width="2"/>
+  <!-- Rejoin at x=340 -->
+  <line x1="340" y1="30" x2="340" y2="90" stroke="#000000" stroke-width="2"/>
+  <line x1="340" y1="60" x2="370" y2="60" stroke="#000000" stroke-width="2"/>
+  <line x1="370" y1="60" x2="370" y2="170" stroke="#000000" stroke-width="2"/>
+  <line x1="60" y1="60" x2="60" y2="170" stroke="#000000" stroke-width="2"/>
+  <!-- Bottom wire with battery and internal resistance -->
+  <line x1="60" y1="170" x2="155" y2="170" stroke="#000000" stroke-width="2"/>
+  <!-- Cell symbol -->
+  <line x1="155" y1="150" x2="155" y2="190" stroke="#000000" stroke-width="2.5"/>
+  <line x1="167" y1="160" x2="167" y2="180" stroke="#000000" stroke-width="3.5"/>
+  <text x="161" y="208" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">12 V</text>
+  <line x1="167" y1="170" x2="215" y2="170" stroke="#000000" stroke-width="2"/>
+  <!-- Internal resistance r -->
+  <polyline points="215,170 223,158 231,182 239,158 247,182 255,158 263,182 271,170" fill="none" stroke="#000000" stroke-width="2"/>
+  <text x="243" y="208" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">r = 1 Ω</text>
+  <line x1="271" y1="170" x2="370" y2="170" stroke="#000000" stroke-width="2"/>
+</svg></p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>The circuit consists of a cell of emf \(\mathcal{E} = 12\text{ V}\) and internal resistance \(r = 1\ \Omega\). In the external circuit, a \(3\ \Omega\) resistor is connected in series with a parallel combination of a \(6\ \Omega\) resistor and another \(3\ \Omega\) resistor.</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Connecting wires are assumed to have zero resistance, and the cell is ideal in series with its internal resistance \(r\). Conventional current flows from the positive terminal of the cell through the external network.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>For two resistors \(R_1\) and \(R_2\) in parallel, the equivalent resistance is \(R_p = \frac{R_1 R_2}{R_1 + R_2}\). For resistors in series, \(R_{\text{total}} = \sum R_i\). By Ohm's law for a complete circuit, the total current is \(I = \frac{\mathcal{E}}{R_{\text{ext}} + r}\), and the potential difference across the parallel branch is \(V_p = I R_p\).</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>First, compute the equivalent resistance of the \(6\ \Omega\) and \(3\ \Omega\) resistors connected in parallel:
+\[R_p = \frac{6 \times 3}{6 + 3} = \frac{18}{9} = 2\ \Omega\]
+Next, add the series \(3\ \Omega\) resistor to obtain the total external resistance:
+\[R_{\text{ext}} = 3\ \Omega + 2\ \Omega = 5\ \Omega\]
+Including the internal resistance \(r = 1\ \Omega\), the total resistance of the circuit is:
+\[R_{\text{total}} = 5\ \Omega + 1\ \Omega = 6\ \Omega\]
+The total current drawn from the cell is:
+\[I = \frac{12\text{ V}}{6\ \Omega} = 2\text{ A}\]
+The potential difference across the parallel combination is:
+\[V_p = I R_p = 2\text{ A} \times 2\ \Omega = 4\text{ V}\]
+Therefore, the current passing through the \(6\ \Omega\) resistor is:
+\[I_6 = \frac{V_p}{6\ \Omega} = \frac{4\text{ V}}{6\ \Omega} = \frac{2}{3}\text{ A}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>The current through the parallel \(3\ \Omega\) branch is \(\frac{4\text{ V}}{3\ \Omega} = \frac{4}{3}\text{ A}\), and the sum \(\frac{2}{3}\text{ A} + \frac{4}{3}\text{ A} = 2\text{ A}\) matches the total current. Thus, the current through the \(6\ \Omega\) resistor is \(\frac{2}{3}\text{ A}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\frac{4}{3}\text{ A}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(\frac{2}{3}\text{ A}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(2\text{ A}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(1\text{ A}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:class_12</text></tag>
+    <tag><text>topic:series_and_parallel_resistors</text></tag>
+    <tag><text>chapter:current_electricity</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:circuit</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch012-unit-12-current-electricity] NEET_UG_PHYSICS_Q02 - Temperature dependence of drift velocity and resistivity</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Given below are two statements:</p>
+<p><strong>Statement I:</strong> For a metallic conductor under a constant applied electric field, the drift velocity of free electrons increases with an increase in temperature.</p>
+<p><strong>Statement II:</strong> The resistivity of an intrinsic semiconductor decreases with an increase in temperature due to a rapid increase in charge carrier concentration.</p>
+<p>In the light of the above statements, choose the correct answer from the options given below:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>The drift velocity of free electrons in a conductor is given by \(v_d = \frac{e E \tau}{m}\), where \(e\) is the elementary charge, \(E\) is the electric field, \(\tau\) is the average relaxation time, and \(m\) is the electron mass. The electrical resistivity of a material is \(\rho = \frac{m}{n e^2 \tau}\), where \(n\) is the number density of charge carriers.</p>
+<p><strong>Step 2: Evaluation</strong><br/>In a metallic conductor, the number density \(n\) of free electrons is virtually independent of temperature. When temperature rises, lattice ions vibrate with greater amplitude, increasing the frequency of electron-lattice collisions. Consequently, the relaxation time \(\tau\) decreases, which causes the drift velocity \(v_d\) to decrease under a constant electric field. Hence, the claim that drift velocity increases with temperature is false.</p>
+<p><strong>Step 3: Application</strong><br/>In an intrinsic semiconductor, raising the temperature breaks more covalent bonds, causing the charge carrier concentration \(n\) to increase exponentially. Although the relaxation time \(\tau\) decreases slightly with temperature, the rapid exponential rise in \(n\) dominates the product \(n\tau\), causing the resistivity \(\rho = \frac{m}{n e^2 \tau}\) to decrease significantly. Hence, the claim regarding semiconductor resistivity is true.</p>
+<p><strong>Step 4: Final Conclusion</strong><br/>The first claim regarding metallic drift velocity is incorrect, whereas the second claim regarding intrinsic semiconductor resistivity is correct.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is correct but Statement II is incorrect.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Statement I is incorrect but Statement II is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:class_12</text></tag>
+    <tag><text>topic:drift_velocity_and_resistivity</text></tag>
+    <tag><text>chapter:current_electricity</text></tag>
+    <tag><text>typology:statement_based_2</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch012-unit-12-current-electricity] NEET_UG_PHYSICS_Q03 - Effective temperature coefficient of series resistors</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Two resistors have resistances \(R_1 = 100\ \Omega\) and \(R_2 = 300\ \Omega\) at \(0^\circ\text{C}\). Their temperature coefficients of resistance are \(\alpha_1 = 4 \times 10^{-3}\ ^\circ\text{C}^{-1}\) and \(\alpha_2 = -1 \times 10^{-3}\ ^\circ\text{C}^{-1}\), respectively. If the two resistors are connected in series, what is the effective temperature coefficient of resistance of the combination near \(0^\circ\text{C}\)?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>At \(T_0 = 0^\circ\text{C}\), \(R_1 = 100\ \Omega\) with \(\alpha_1 = 4 \times 10^{-3}\ ^\circ\text{C}^{-1}\), and \(R_2 = 300\ \Omega\) with \(\alpha_2 = -1 \times 10^{-3}\ ^\circ\text{C}^{-1}\). The resistors are connected in series.</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>The linear temperature-resistance relation \(R(T) = R_0(1 + \alpha T)\) holds near \(0^\circ\text{C}\), where \(T\) is the temperature in degrees Celsius.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>For a series combination, the total resistance at temperature \(T\) is \(R_s(T) = R_1(T) + R_2(T)\). Expressing this in the form \(R_s(T) = R_s(0)(1 + \alpha_{\text{eff}} T)\) gives the effective temperature coefficient:
+\[\alpha_{\text{eff}} = \frac{R_1 \alpha_1 + R_2 \alpha_2}{R_1 + R_2}\]</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>Substitute the given resistances and temperature coefficients into the formula:
+\[\alpha_{\text{eff}} = \frac{(100\ \Omega)(4 \times 10^{-3}\ ^\circ\text{C}^{-1}) + (300\ \Omega)(-1 \times 10^{-3}\ ^\circ\text{C}^{-1})}{100\ \Omega + 300\ \Omega}\]
+\[\alpha_{\text{eff}} = \frac{0.4 - 0.3}{400}\ ^\circ\text{C}^{-1} = \frac{0.1}{400}\ ^\circ\text{C}^{-1} = 2.5 \times 10^{-4}\ ^\circ\text{C}^{-1}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>The positive coefficient of the \(100\ \Omega\) resistor slightly outweighs the negative coefficient of the \(300\ \Omega\) resistor, yielding a small positive effective coefficient with units of \(^\circ\text{C}^{-1}\). Thus, the effective temperature coefficient of resistance is \(2.5 \times 10^{-4}\ ^\circ\text{C}^{-1}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(1.5 \times 10^{-3}\ ^\circ\text{C}^{-1}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(3.0 \times 10^{-3}\ ^\circ\text{C}^{-1}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(2.5 \times 10^{-4}\ ^\circ\text{C}^{-1}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(1.75 \times 10^{-3}\ ^\circ\text{C}^{-1}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:class_12</text></tag>
+    <tag><text>topic:temperature_dependence_of_resistance</text></tag>
+    <tag><text>chapter:current_electricity</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch013-unit-13-magnetic-effects-of-current-and-magnetism] NEET_UG_PHYSICS_Q04 - Magnetic field at centre of concentric arcs</text></name>
+  <questiontext format="html"><text><![CDATA[<p>A conducting loop lies in the plane of the page and consists of two concentric semicircular arcs of radii \(R\) and \(2R\) with a common centre \(O\), joined by two radial straight segments, as shown in the figure. If a steady current \(I\) flows through the loop in the direction indicated, what is the magnitude and direction of the net magnetic field at the centre \(O\)?</p>
+<p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="360" height="220">
+  <rect x="0" y="0" width="360" height="220" fill="#ffffff"/>
+  <!-- Centre O at (180, 170) -->
+  <!-- Inner semicircle radius R = 60, top half -->
+  <path d="M 120 170 A 60 60 0 0 1 240 170" fill="none" stroke="#000000" stroke-width="2.2"/>
+  <!-- Outer semicircle radius 2R = 120, top half -->
+  <path d="M 60 170 A 120 120 0 0 1 300 170" fill="none" stroke="#000000" stroke-width="2.2"/>
+  <!-- Radial segments -->
+  <line x1="60" y1="170" x2="120" y2="170" stroke="#000000" stroke-width="2.2"/>
+  <line x1="240" y1="170" x2="300" y2="170" stroke="#000000" stroke-width="2.2"/>
+  <!-- Centre dot and label -->
+  <circle cx="180" cy="170" r="3" fill="#000000"/>
+  <text x="180" y="192" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">O</text>
+  <!-- Current arrows: clockwise on inner, counter-clockwise on outer -->
+  <!-- Inner arc arrow pointing right at top (180, 110) -->
+  <polygon points="186,110 176,105 176,115" fill="#000000"/>
+  <text x="180" y="98" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">I</text>
+  <!-- Outer arc arrow pointing left at top (180, 50) -->
+  <polygon points="174,50 184,45 184,55" fill="#000000"/>
+  <text x="180" y="36" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">I</text>
+  <!-- Left radial arrow pointing left -->
+  <polygon points="84,170 94,165 94,175" fill="#000000"/>
+  <!-- Right radial arrow pointing right -->
+  <polygon points="276,170 266,165 266,175" fill="#000000"/>
+  <!-- Radius labels -->
+  <line x1="180" y1="170" x2="138" y2="128" stroke="#666666" stroke-width="1.2" stroke-dasharray="4,3"/>
+  <text x="150" y="158" font-family="Arial, sans-serif" font-size="13">R</text>
+  <line x1="180" y1="170" x2="265" y2="85" stroke="#666666" stroke-width="1.2" stroke-dasharray="4,3"/>
+  <text x="232" y="135" font-family="Arial, sans-serif" font-size="13">2R</text>
+</svg></p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>The closed loop consists of an inner semicircular arc of radius \(R\) carrying current \(I\) clockwise, an outer semicircular arc of radius \(2R\) carrying current \(I\) counter-clockwise, and two straight radial segments connecting the arcs along the diameter passing through the common centre \(O\).</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>By the right-hand thumb rule, a clockwise current in the plane of the page produces a magnetic field directed into the page, whereas a counter-clockwise current produces a magnetic field directed out of the page. Let the direction into the page be positive.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>According to the Biot-Savart law, the magnetic field at the centre of a circular arc of radius \(r\) subtending an angle \(\theta\) (in radians) and carrying current \(I\) is:
+\[B = \frac{\mu_0 I \theta}{4\pi r}\]
+For a straight wire whose line of action passes directly through the observation point \(O\), \(\sin\alpha = 0\) for every current element, so its magnetic field contribution at \(O\) is zero.</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>Each semicircular arc subtends an angle \(\theta = \pi\) at \(O\).
+For the inner semicircular arc of radius \(R\) (clockwise current, into the page):
+\[B_{\text{inner}} = \frac{\mu_0 I \pi}{4\pi R} = \frac{\mu_0 I}{4R} \quad (\text{into the page})\]
+For the outer semicircular arc of radius \(2R\) (counter-clockwise current, out of the page):
+\[B_{\text{outer}} = \frac{\mu_0 I \pi}{4\pi (2R)} = \frac{\mu_0 I}{8R} \quad (\text{out of the page})\]
+Both radial segments lie along lines passing through \(O\), so \(B_{\text{radial}} = 0\).
+Since \(B_{\text{inner}} > B_{\text{outer}}\), the net magnetic field at \(O\) is:
+\[B_{\text{net}} = B_{\text{inner}} - B_{\text{outer}} = \frac{\mu_0 I}{4R} - \frac{\mu_0 I}{8R} = \frac{\mu_0 I}{8R}\]
+The net field points in the direction of the stronger contribution, which is into the page.</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>The dimensions \(\frac{\mu_0 I}{R}\) match those of magnetic field, and the inner arc dominates because it is closer to \(O\). Therefore, the net magnetic field at \(O\) is \(\frac{\mu_0 I}{8R}\) directed into the page.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\frac{3\mu_0 I}{8R}\), into the page</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\frac{\mu_0 I}{4R}\), out of the page</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\frac{3\mu_0 I}{4R}\), out of the page</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(\frac{\mu_0 I}{8R}\), into the page</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:class_12</text></tag>
+    <tag><text>topic:biot_savart_law</text></tag>
+    <tag><text>chapter:magnetic_effects_of_current_and_magnetism</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:diagram</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch013-unit-13-magnetic-effects-of-current-and-magnetism] NEET_UG_PHYSICS_Q05 - Matching magnetic materials and galvanometer properties</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Match List-I with List-II:</p>
+<table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>(A) Diamagnetic substance</td><td>(I) Susceptibility varies inversely with absolute temperature</td></tr>
+    <tr><td>(B) Paramagnetic substance</td><td>(II) Radial magnetic field makes deflection proportional to current</td></tr>
+    <tr><td>(C) Ferromagnetic substance</td><td>(III) Weakly repelled by a magnet; susceptibility is small and negative</td></tr>
+    <tr><td>(D) Moving coil galvanometer</td><td>(IV) Exhibits hysteresis and retains magnetization after field removal</td></tr>
+  </tbody>
+</table>
+<p>Choose the correct answer from the options given below:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Magnetic materials are classified by their magnetic susceptibility \(\chi\) and response to external magnetic fields and temperature, while a moving coil galvanometer relies on the torque on a current-carrying coil in a radial magnetic field.</p>
+<p><strong>Step 2: Evaluation</strong><br/>A diamagnetic substance has paired electrons, develops an induced magnetic moment opposite to the applied field, and is weakly repelled by a magnet with a small negative susceptibility. A paramagnetic substance obeys Curie's law, so its susceptibility is positive and inversely proportional to absolute temperature (\(\chi \propto \frac{1}{T}\)).</p>
+<p><strong>Step 3: Application</strong><br/>A ferromagnetic substance forms magnetic domains that align strongly with an external field and exhibit hysteresis, retaining magnetization even after the magnetizing field is removed. In a moving coil galvanometer, concave pole pieces and a soft iron core create a radial magnetic field so that the plane of the coil always remains parallel to the field lines, making the deflecting torque independent of the angle and the steady deflection directly proportional to the current.</p>
+<p><strong>Step 4: Final Conclusion</strong><br/>Therefore, diamagnetic behaviour corresponds to weak repulsion and small negative susceptibility, paramagnetic behaviour corresponds to inverse temperature dependence of susceptibility, ferromagnetic behaviour corresponds to hysteresis and retentivity, and the moving coil galvanometer corresponds to linear current-deflection scaling via a radial magnetic field.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A)-(I), (B)-(III), (C)-(IV), (D)-(II)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>(A)-(III), (B)-(I), (C)-(IV), (D)-(II)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A)-(III), (B)-(IV), (C)-(I), (D)-(II)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A)-(II), (B)-(I), (C)-(IV), (D)-(III)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:class_12</text></tag>
+    <tag><text>topic:magnetic_properties_of_materials</text></tag>
+    <tag><text>chapter:magnetic_effects_of_current_and_magnetism</text></tag>
+    <tag><text>typology:matching_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:table</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch014-unit-14-electromagnetic-induction-and-alternating-currents] NEET_UG_PHYSICS_Q06 - Average power dissipated in series LCR circuit</text></name>
+  <questiontext format="html"><text><![CDATA[<p>An alternating voltage \(V = 200\sqrt{2}\sin(100\pi t)\text{ V}\) is applied across a series \(LCR\) circuit having resistance \(R = 30\ \Omega\), inductive reactance \(X_L = 80\ \Omega\), and capacitive reactance \(X_C = 40\ \Omega\). What is the average power dissipated in the circuit?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>The applied alternating voltage is \(V = 200\sqrt{2}\sin(100\pi t)\text{ V}\), so the peak voltage is \(V_0 = 200\sqrt{2}\text{ V}\). The circuit elements have \(R = 30\ \Omega\), \(X_L = 80\ \Omega\), and \(X_C = 40\ \Omega\).</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>The circuit is in steady-state sinusoidal operation, and all reactances are evaluated at the source angular frequency \(\omega = 100\pi\text{ rad s}^{-1}\). Average power is dissipated solely in the resistive element.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>The RMS voltage is \(V_{\text{rms}} = \frac{V_0}{\sqrt{2}}\). The impedance of a series \(LCR\) circuit is:
+\[Z = \sqrt{R^2 + (X_L - X_C)^2}\]
+The RMS current is \(I_{\text{rms}} = \frac{V_{\text{rms}}}{Z}\), and the average power dissipated is \(P_{\text{avg}} = I_{\text{rms}}^2 R\).</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>First, find the RMS voltage:
+\[V_{\text{rms}} = \frac{200\sqrt{2}\text{ V}}{\sqrt{2}} = 200\text{ V}\]
+Next, compute the impedance of the series \(LCR\) circuit:
+\[Z = \sqrt{30^2 + (80 - 40)^2} = \sqrt{900 + 1600} = \sqrt{2500} = 50\ \Omega\]
+The RMS current in the circuit is:
+\[I_{\text{rms}} = \frac{200\text{ V}}{50\ \Omega} = 4\text{ A}\]
+Finally, calculate the average power dissipated:
+\[P_{\text{avg}} = (4\text{ A})^2 \times 30\ \Omega = 16 \times 30 = 480\text{ W}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>Using the power factor \(\cos\phi = \frac{R}{Z} = \frac{30}{50} = 0.6\), we also obtain \(P_{\text{avg}} = V_{\text{rms}} I_{\text{rms}} \cos\phi = 200 \times 4 \times 0.6 = 480\text{ W}\). Thus, the average power dissipated in the circuit is \(480\text{ W}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(480\text{ W}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(800\text{ W}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(960\text{ W}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(640\text{ W}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:class_12</text></tag>
+    <tag><text>topic:series_lcr_circuit_and_power</text></tag>
+    <tag><text>chapter:electromagnetic_induction_and_alternating_currents</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch014-unit-14-electromagnetic-induction-and-alternating-currents] NEET_UG_PHYSICS_Q07 - Heat dissipated from magnetic flux versus time graph</text></name>
+  <questiontext format="html"><text><![CDATA[<p>The magnetic flux \(\Phi\) (in \(\text{Wb}\)) linked with a closed conducting loop of resistance \(4\ \Omega\) varies with time \(t\) (in \(\text{s}\)) as shown in the graph below. What is the total heat dissipated in the loop during the time interval from \(t = 0\) to \(t = 6\text{ s}\)?</p>
+<p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240">
+  <rect x="0" y="0" width="400" height="240" fill="#ffffff"/>
+  <!-- Axes -->
+  <line x1="60" y1="190" x2="360" y2="190" stroke="#000000" stroke-width="2"/>
+  <line x1="60" y1="190" x2="60" y2="30" stroke="#000000" stroke-width="2"/>
+  <!-- Arrowheads -->
+  <polygon points="365,190 355,185 355,195" fill="#000000"/>
+  <polygon points="60,25 55,35 65,35" fill="#000000"/>
+  <!-- Axis labels -->
+  <text x="360" y="212" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">t (s)</text>
+  <text x="30" y="36" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">Φ (Wb)</text>
+  <!-- Grid/ticks -->
+  <!-- x-ticks: t=0 at 60, t=2 at 150, t=4 at 240, t=6 at 330 -->
+  <line x1="150" y1="190" x2="150" y2="196" stroke="#000000" stroke-width="1.5"/>
+  <text x="150" y="212" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">2</text>
+  <line x1="240" y1="190" x2="240" y2="196" stroke="#000000" stroke-width="1.5"/>
+  <text x="240" y="212" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">4</text>
+  <line x1="330" y1="190" x2="330" y2="196" stroke="#000000" stroke-width="1.5"/>
+  <text x="330" y="212" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">6</text>
+  <text x="52" y="206" font-family="Arial, sans-serif" font-size="13" text-anchor="end">0</text>
+  <!-- y-tick: 8 Wb at y=60 -->
+  <line x1="54" y1="60" x2="60" y2="60" stroke="#000000" stroke-width="1.5"/>
+  <text x="48" y="65" font-family="Arial, sans-serif" font-size="13" text-anchor="end">8</text>
+  <!-- Dashed guide lines -->
+  <line x1="60" y1="60" x2="150" y2="60" stroke="#999999" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="150" y1="60" x2="150" y2="190" stroke="#999999" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="240" y1="60" x2="240" y2="190" stroke="#999999" stroke-width="1" stroke-dasharray="4,4"/>
+  <!-- Graph curve -->
+  <polyline points="60,190 150,60 240,60 330,190" fill="none" stroke="#0055aa" stroke-width="2.5"/>
+</svg></p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>The resistance of the closed conducting loop is \(R = 4\ \Omega\). From the flux-time graph, \(\Phi\) increases linearly from \(0\) to \(8\text{ Wb}\) between \(t = 0\) and \(t = 2\text{ s}\), remains constant at \(8\text{ Wb}\) between \(t = 2\text{ s}\) and \(t = 4\text{ s}\), and decreases linearly from \(8\text{ Wb}\) to \(0\) between \(t = 4\text{ s}\) and \(t = 6\text{ s}\).</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>The loop has negligible self-inductance, so the induced current at any instant is determined purely by the induced emf and the resistance \(R\). Joule heating depends on the square of the current, so both positive and negative induced currents dissipate positive heat.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>By Faraday's law of electromagnetic induction, the magnitude of the induced emf is \(|\mathcal{E}| = \left|\frac{d\Phi}{dt}\right|\). The induced current is \(I = \frac{|\mathcal{E}|}{R}\), and for a constant current over a duration \(\Delta t\), the heat dissipated is \(H = I^2 R \Delta t = \frac{\mathcal{E}^2}{R} \Delta t\).</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>For the first interval (\(0 \le t \le 2\text{ s}\), \(\Delta t_1 = 2\text{ s}\)):
+\[|\mathcal{E}_1| = \left|\frac{8 - 0}{2 - 0}\right| = 4\text{ V}\]
+\[H_1 = \frac{(4\text{ V})^2}{4\ \Omega} \times 2\text{ s} = 4 \times 2 = 8\text{ J}\]
+For the second interval (\(2 \le t \le 4\text{ s}\), \(\Delta t_2 = 2\text{ s}\)):
+\[|\mathcal{E}_2| = \left|\frac{8 - 8}{4 - 2}\right| = 0\text{ V} \implies H_2 = 0\text{ J}\]
+For the third interval (\(4 \le t \le 6\text{ s}\), \(\Delta t_3 = 2\text{ s}\)):
+\[|\mathcal{E}_3| = \left|\frac{0 - 8}{6 - 4}\right| = 4\text{ V}\]
+\[H_3 = \frac{(4\text{ V})^2}{4\ \Omega} \times 2\text{ s} = 4 \times 2 = 8\text{ J}\]
+Summing over all three intervals gives the total heat dissipated:
+\[H_{\text{total}} = H_1 + H_2 + H_3 = 8\text{ J} + 0\text{ J} + 8\text{ J} = 16\text{ J}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>Even though the net change in magnetic flux over \(6\text{ s}\) is zero, energy is dissipated whenever the flux changes. The total heat dissipated in the loop from \(t = 0\) to \(t = 6\text{ s}\) is \(16\text{ J}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(8\text{ J}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(32\text{ J}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(16\text{ J}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(0\text{ J}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:class_12</text></tag>
+    <tag><text>topic:faradays_law_and_joule_heating</text></tag>
+    <tag><text>chapter:electromagnetic_induction_and_alternating_currents</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:graph</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch015-unit-15-electromagnetic-waves] NEET_UG_PHYSICS_Q08 - Matching electromagnetic waves with their applications</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Match List-I (Electromagnetic Wave) with List-II (Primary Application):</p>
+<table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;">
+  <thead>
+    <tr><th>List-I</th><th>List-II</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>(A) Microwaves</td><td>(I) Water purifiers to kill germs</td></tr>
+    <tr><td>(B) Infrared waves</td><td>(II) Radar systems for aircraft navigation</td></tr>
+    <tr><td>(C) Ultraviolet rays</td><td>(III) Medical diagnostic imaging of bone fractures</td></tr>
+    <tr><td>(D) X-rays</td><td>(IV) Remote switches of household electronic systems</td></tr>
+  </tbody>
+</table>
+<p>Choose the correct answer from the options given below:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Different regions of the electromagnetic spectrum have distinct wavelengths, frequencies, and photon energies, which determine how they interact with matter and their practical applications.</p>
+<p><strong>Step 2: Evaluation</strong><br/>Microwaves have short wavelengths (millimetre to centimetre range) that allow them to be formed into narrow beams with minimal diffraction around aircraft, making them ideal for radar systems in aircraft navigation. Infrared waves are emitted by warm bodies and LEDs and are widely used in remote switches of household electronic devices such as television sets.</p>
+<p><strong>Step 3: Application</strong><br/>Ultraviolet rays carry sufficient photon energy to disrupt microbial DNA, which is why UV lamps are used in water purifiers to kill germs. X-rays have high penetrating power through soft tissue while being absorbed by denser calcium-rich bone, making them standard for medical diagnostic imaging of bone fractures.</p>
+<p><strong>Step 4: Final Conclusion</strong><br/>Thus, microwaves correspond to radar navigation, infrared waves correspond to household remote switches, ultraviolet rays correspond to germicidal water purification, and X-rays correspond to diagnostic imaging of bones.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A)-(I), (B)-(IV), (C)-(II), (D)-(III)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A)-(IV), (B)-(II), (C)-(I), (D)-(III)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A)-(II), (B)-(III), (C)-(I), (D)-(IV)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>(A)-(II), (B)-(IV), (C)-(I), (D)-(III)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:class_12</text></tag>
+    <tag><text>topic:electromagnetic_spectrum_applications</text></tag>
+    <tag><text>chapter:electromagnetic_waves</text></tag>
+    <tag><text>typology:matching_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:table</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch016-unit-16-optics] NEET_UG_PHYSICS_Q09 - Final image position for coaxial thin lenses</text></name>
+  <questiontext format="html"><text><![CDATA[<p>A thin converging lens \(L_1\) of focal length \(f_1 = +20\text{ cm}\) and a thin diverging lens \(L_2\) of focal length \(f_2 = -20\text{ cm}\) are placed coaxially at a separation of \(d = 20\text{ cm}\), as shown in the figure. A point object \(O\) is placed on the principal axis at a distance of \(30\text{ cm}\) to the left of \(L_1\). Where is the final image formed?</p>
+<p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 190" width="440" height="190">
+  <rect x="0" y="0" width="440" height="190" fill="#ffffff"/>
+  <!-- Principal axis -->
+  <line x1="20" y1="95" x2="420" y2="95" stroke="#000000" stroke-width="1.5"/>
+  <!-- Object O at x=70 -->
+  <circle cx="70" cy="95" r="3.5" fill="#000000"/>
+  <text x="70" y="82" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">O</text>
+  <!-- Converging lens L1 at x=210 -->
+  <path d="M 210 35 Q 222 95 210 155 Q 198 95 210 35 Z" fill="#e6f2ff" stroke="#0055aa" stroke-width="2"/>
+  <text x="210" y="25" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">L₁ (f₁ = +20 cm)</text>
+  <!-- Diverging lens L2 at x=303 (approx 20 cm scaled) -->
+  <path d="M 295 35 Q 305 95 295 155 L 315 155 Q 305 95 315 35 Z" fill="#e6f2ff" stroke="#0055aa" stroke-width="2"/>
+  <text x="315" y="25" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">L₂ (f₂ = -20 cm)</text>
+  <!-- Distance markers -->
+  <!-- 30 cm between O (70) and L1 (210) -->
+  <line x1="70" y1="168" x2="210" y2="168" stroke="#333333" stroke-width="1.2"/>
+  <line x1="70" y1="95" x2="70" y2="173" stroke="#999999" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="210" y1="155" x2="210" y2="173" stroke="#999999" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="140" y="184" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">30 cm</text>
+  <!-- 20 cm between L1 (210) and L2 (305) -->
+  <line x1="210" y1="168" x2="305" y2="168" stroke="#333333" stroke-width="1.2"/>
+  <line x1="305" y1="155" x2="305" y2="173" stroke="#999999" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="258" y="184" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">20 cm</text>
+</svg></p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>A converging lens \(L_1\) has focal length \(f_1 = +20\text{ cm}\), and a diverging lens \(L_2\) has focal length \(f_2 = -20\text{ cm}\). They are separated by \(d = 20\text{ cm}\) along a common principal axis. The point object \(O\) is \(30\text{ cm}\) to the left of \(L_1\).</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Using the standard Cartesian sign convention with light travelling from left to right, distances measured to the right of a lens are positive and distances measured to the left are negative. Both lenses are assumed to be thin and operating in the paraxial regime.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>The thin lens formula is:
+\[\frac{1}{v} - \frac{1}{u} = \frac{1}{f}\]
+The image formed by the first lens \(L_1\) serves as the object for the second lens \(L_2\), with object distance \(u_2 = v_1 - d\).</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>For refraction through \(L_1\), we have \(u_1 = -30\text{ cm}\) and \(f_1 = +20\text{ cm}\):
+\[\frac{1}{v_1} = \frac{1}{f_1} + \frac{1}{u_1} = \frac{1}{20} - \frac{1}{30} = \frac{3 - 2}{60} = \frac{1}{60}\]
+\[v_1 = +60\text{ cm}\]
+Thus, \(L_1\) tends to form a real image \(60\text{ cm}\) to its right. Since \(L_2\) is placed \(20\text{ cm}\) to the right of \(L_1\), this intermediate image acts as a virtual object for \(L_2\) at a distance:
+\[u_2 = v_1 - d = +60\text{ cm} - 20\text{ cm} = +40\text{ cm}\]
+Now apply the thin lens formula to \(L_2\) with \(f_2 = -20\text{ cm}\):
+\[\frac{1}{v_2} = \frac{1}{f_2} + \frac{1}{u_2} = -\frac{1}{20} + \frac{1}{40} = \frac{-2 + 1}{40} = -\frac{1}{40}\]
+\[v_2 = -40\text{ cm}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>The negative sign for \(v_2\) indicates that the final virtual image is located \(40\text{ cm}\) to the left of the diverging lens \(L_2\) (which corresponds to \(20\text{ cm}\) to the left of \(L_1\)).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(40\text{ cm}\) to the left of \(L_2\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(40\text{ cm}\) to the right of \(L_2\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(20\text{ cm}\) to the left of \(L_2\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(13.3\text{ cm}\) to the left of \(L_2\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:class_12</text></tag>
+    <tag><text>topic:combination_of_thin_lenses</text></tag>
+    <tag><text>chapter:optics</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:diagram</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch016-unit-16-optics] NEET_UG_PHYSICS_Q10 - Interference, diffraction, and Brewster's law statements</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Consider the following three statements regarding wave optics:</p>
+<p><strong>Statement I:</strong> In Young's double-slit experiment, if the entire apparatus is immersed in water (refractive index \(\mu = 4/3\)), the fringe width becomes \(\frac{3}{4}\) of its value in air.</p>
+<p><strong>Statement II:</strong> In single-slit Fraunhofer diffraction, the angular width of the central maximum is directly proportional to the width of the slit.</p>
+<p><strong>Statement III:</strong> When unpolarized light is incident on a transparent medium at the polarizing angle (Brewster's angle), the reflected ray and the refracted ray are perpendicular to each other.</p>
+<p>Which of the above statements are correct?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Wave optics phenomena—interference, diffraction, and polarization—depend on wavelength in the medium, aperture geometry, and boundary conditions at dielectric interfaces.</p>
+<p><strong>Step 2: Evaluation</strong><br/>In Young's double-slit experiment, the fringe width in air is \(\beta = \frac{\lambda D}{d}\). When immersed in a medium of refractive index \(\mu\), the wavelength decreases to \(\lambda' = \frac{\lambda}{\mu}\), so the new fringe width is \(\beta' = \frac{\beta}{\mu}\). For water with \(\mu = \frac{4}{3}\), \(\beta' = \frac{3}{4}\beta\), making the interference claim valid.</p>
+<p><strong>Step 3: Application</strong><br/>In single-slit Fraunhofer diffraction, the first minima occur at \(\sin\theta \approx \theta = \frac{\lambda}{a}\), so the full angular width of the central maximum is \(\frac{2\lambda}{a}\). This is inversely proportional to the slit width \(a\), not directly proportional, making the diffraction claim invalid. By Brewster's law, at the polarizing angle \(i_p\), \(\tan i_p = \mu = \frac{\sin i_p}{\sin r}\), which gives \(\cos i_p = \sin r\), so \(i_p + r = 90^\circ\) and the reflected and refracted rays are mutually perpendicular, making the polarization claim valid.</p>
+<p><strong>Step 4: Final Conclusion</strong><br/>The claims regarding Young's double-slit fringe width in water and the orthogonality of reflected and refracted rays at Brewster's angle are correct, whereas the claim about single-slit central maximum width is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Only Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Only Statement I and Statement III are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Only Statement II and Statement III are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>All three statements are correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:class_12</text></tag>
+    <tag><text>topic:interference_diffraction_and_polarization</text></tag>
+    <tag><text>chapter:optics</text></tag>
+    <tag><text>typology:statement_based_3</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch016-unit-16-optics] NEET_UG_PHYSICS_Q11 - Angle of minimum deviation through a prism</text></name>
+  <questiontext format="html"><text><![CDATA[<p>A glass prism has a refracting angle of \(A = 60^\circ\) and is made of a material of refractive index \(\mu = \sqrt{2}\). What is the angle of minimum deviation produced by this prism for light travelling in air?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>The refracting angle of the prism is \(A = 60^\circ\), and the refractive index of the prism material relative to air is \(\mu = \sqrt{2}\).</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>The prism is placed in air (\(\mu_{\text{air}} = 1\)), and the light ray passes symmetrically through the prism at the condition of minimum deviation.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>At minimum deviation \(\delta_m\), the refractive index of the prism is related to \(A\) and \(\delta_m\) by the prism formula:
+\[\mu = \frac{\sin\left(\frac{A + \delta_m}{2}\right)}{\sin\left(\frac{A}{2}\right)}\]</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>Substitute \(A = 60^\circ\) and \(\mu = \sqrt{2}\) into the prism formula:
+\[\sqrt{2} = \frac{\sin\left(\frac{60^\circ + \delta_m}{2}\right)}{\sin\left(\frac{60^\circ}{2}\right)} = \frac{\sin\left(\frac{60^\circ + \delta_m}{2}\right)}{\sin 30^\circ}\]
+Since \(\sin 30^\circ = \frac{1}{2}\):
+\[\sin\left(\frac{60^\circ + \delta_m}{2}\right) = \frac{\sqrt{2}}{2} = \frac{1}{\sqrt{2}}\]
+Taking the principal angle in the first quadrant:
+\[\frac{60^\circ + \delta_m}{2} = 45^\circ\]
+\[60^\circ + \delta_m = 90^\circ \implies \delta_m = 30^\circ\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>At minimum deviation, the angle of incidence is \(i = \frac{60^\circ + 30^\circ}{2} = 45^\circ\) and the angle of refraction is \(r = \frac{A}{2} = 30^\circ\), which satisfies \(\frac{\sin 45^\circ}{\sin 30^\circ} = \sqrt{2}\). Thus, the angle of minimum deviation is \(30^\circ\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(45^\circ\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(60^\circ\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(30^\circ\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(15^\circ\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:class_12</text></tag>
+    <tag><text>topic:refraction_through_prism</text></tag>
+    <tag><text>chapter:optics</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch017-unit-17-dual-nature-of-matter-and-radiation] NEET_UG_PHYSICS_Q12 - Independence of stopping potential from light intensity</text></name>
+  <questiontext format="html"><text><![CDATA[<p><strong>Assertion (A):</strong> When the intensity of incident monochromatic light (having frequency greater than the threshold frequency) on a photosensitive metal plate is doubled, the stopping potential remains unchanged.</p>
+<p><strong>Reason (R):</strong> The maximum kinetic energy of emitted photoelectrons depends only on the frequency of the incident radiation and the work function of the metal, and is independent of the intensity of light.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>According to Einstein's photoelectric equation, a single photon of frequency \(\nu\) transfers all of its energy \(h\nu\) to a single electron. If \(h\nu > \phi_0\), where \(\phi_0\) is the work function of the metal, the maximum kinetic energy of the emitted photoelectron is \(K_{\max} = h\nu - \phi_0\).</p>
+<p><strong>Step 2: Evaluation</strong><br/>The stopping potential \(V_0\) is defined by the relation \(e V_0 = K_{\max} = h\nu - \phi_0\). Because \(V_0\) is directly proportional to \(K_{\max}\), it depends solely on the incident frequency \(\nu\) and the metal's work function \(\phi_0\).</p>
+<p><strong>Step 3: Application</strong><br/>Doubling the intensity of monochromatic light doubles the number of photons arriving per unit area per unit time, which doubles the photoelectric current, but leaves the energy \(h\nu\) of each individual photon unchanged. Consequently, \(K_{\max}\) and hence the stopping potential \(V_0\) remain unchanged.</p>
+<p><strong>Step 4: Final Conclusion</strong><br/>Both the assertion regarding unchanged stopping potential and the reason regarding the dependence of maximum kinetic energy on frequency and work function are true, and the reason directly explains the assertion.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both (A) and (R) are correct and (R) is the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is correct but (R) is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is incorrect but (R) is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:class_12</text></tag>
+    <tag><text>topic:einsteins_photoelectric_equation</text></tag>
+    <tag><text>chapter:dual_nature_of_matter_and_radiation</text></tag>
+    <tag><text>typology:assertion_reason</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch018-unit-18-atoms-and-nuclei] NEET_UG_PHYSICS_Q13 - Wavelength ratio of Lyman series transitions in hydrogen</text></name>
+  <questiontext format="html"><text><![CDATA[<p>In a hydrogen atom, an electron transitions from the \(n = 3\) state to the \(n = 1\) state, emitting a photon of wavelength \(\lambda_1\). In another transition from the \(n = 2\) state to the \(n = 1\) state, a photon of wavelength \(\lambda_2\) is emitted. What is the ratio \(\frac{\lambda_1}{\lambda_2}\)?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Transition 1 occurs from \(n_i = 3\) to \(n_f = 1\) with emitted wavelength \(\lambda_1\). Transition 2 occurs from \(n_i = 2\) to \(n_f = 1\) with emitted wavelength \(\lambda_2\).</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>The hydrogen atom is modelled using the Bohr model, where the Rydberg constant \(R\) is taken to be the same for both transitions.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>For an electronic transition in a hydrogen atom from a higher level \(n_i\) to a lower level \(n_f\), the wavelength \(\lambda\) of the emitted photon is given by the Rydberg formula:
+\[\frac{1}{\lambda} = R\left(\frac{1}{n_f^2} - \frac{1}{n_i^2}\right)\]</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>For the transition from \(n = 3\) to \(n = 1\):
+\[\frac{1}{\lambda_1} = R\left(\frac{1}{1^2} - \frac{1}{3^2}\right) = R\left(1 - \frac{1}{9}\right) = \frac{8R}{9}\]
+For the transition from \(n = 2\) to \(n = 1\):
+\[\frac{1}{\lambda_2} = R\left(\frac{1}{1^2} - \frac{1}{2^2}\right) = R\left(1 - \frac{1}{4}\right) = \frac{3R}{4}\]
+Taking the ratio \(\frac{\lambda_1}{\lambda_2} = \frac{1/\lambda_2}{1/\lambda_1}\):
+\[\frac{\lambda_1}{\lambda_2} = \frac{3R/4}{8R/9} = \frac{3}{4} \times \frac{9}{8} = \frac{27}{32}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>Since the \(n = 3 \to 1\) transition involves a larger energy difference than \(n = 2 \to 1\), its emitted wavelength \(\lambda_1\) must be shorter than \(\lambda_2\), which is consistent with \(\frac{27}{32} < 1\). Therefore, the ratio \(\frac{\lambda_1}{\lambda_2}\) is \(\frac{27}{32}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\frac{32}{27}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\frac{8}{9}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\frac{3}{4}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(\frac{27}{32}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:class_12</text></tag>
+    <tag><text>topic:bohr_model_and_hydrogen_spectrum</text></tag>
+    <tag><text>chapter:atoms_and_nuclei</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch018-unit-18-atoms-and-nuclei] NEET_UG_PHYSICS_Q14 - Energy released in deuterium nuclear fusion reaction</text></name>
+  <questiontext format="html"><text><![CDATA[<p>In a nuclear fusion reaction, two deuterons (\({}^{2}_{1}\text{H}\)) combine to form a helium nucleus (\({}^{4}_{2}\text{He}\)). If the binding energy per nucleon of \({}^{2}_{1}\text{H}\) is \(1.1\text{ MeV}\) and that of \({}^{4}_{2}\text{He}\) is \(7.0\text{ MeV}\), what is the energy released in this reaction?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>The nuclear reaction is \({}^{2}_{1}\text{H} + {}^{2}_{1}\text{H} \to {}^{4}_{2}\text{He}\). Each deuteron has mass number \(A_1 = 2\) and binding energy per nucleon \(1.1\text{ MeV}\). The helium nucleus has mass number \(A_2 = 4\) and binding energy per nucleon \(7.0\text{ MeV}\).</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Energy released (\(Q\)-value) is positive for an exothermic reaction where the products are more tightly bound than the reactants.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>The total binding energy of a nucleus is \(B = A \times (\text{binding energy per nucleon})\). The energy released in a nuclear reaction is the difference between the total binding energy of the products and that of the reactants:
+\[Q = \sum B_{\text{products}} - \sum B_{\text{reactants}}\]</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>Calculate the total binding energy of the two reacting deuterons:
+\[B_{\text{reactants}} = 2 \times (2 \times 1.1\text{ MeV}) = 4.4\text{ MeV}\]
+Calculate the total binding energy of the helium product nucleus:
+\[B_{\text{products}} = 4 \times 7.0\text{ MeV} = 28.0\text{ MeV}\]
+Subtract to find the energy released:
+\[Q = 28.0\text{ MeV} - 4.4\text{ MeV} = 23.6\text{ MeV}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>Because \({}^{4}_{2}\text{He}\) has a much higher binding energy per nucleon than \({}^{2}_{1}\text{H}\), a large positive amount of energy is released. Thus, the energy released in the reaction is \(23.6\text{ MeV}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(5.9\text{ MeV}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(23.6\text{ MeV}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(25.8\text{ MeV}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(11.8\text{ MeV}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:class_12</text></tag>
+    <tag><text>topic:binding_energy_and_nuclear_fusion</text></tag>
+    <tag><text>chapter:atoms_and_nuclei</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>

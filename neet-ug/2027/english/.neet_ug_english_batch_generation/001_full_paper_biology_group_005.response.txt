@@ -1,0 +1,391 @@
+<question type="multichoice">
+  <name><text>[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_MCQ_Q01 - Calculation of vital capacity from respiratory volumes</text></name>
+  <questiontext format="html"><text><![CDATA[<p>A healthy adult male has a tidal volume (TV) of \(500\text{ mL}\), an inspiratory reserve volume (IRV) of \(2800\text{ mL}\), an expiratory reserve volume (ERV) of \(1100\text{ mL}\), and a residual volume (RV) of \(1200\text{ mL}\). What is his vital capacity (VC)?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Tidal volume (\(\text{TV}\)) = \(500\text{ mL}\); Inspiratory reserve volume (\(\text{IRV}\)) = \(2800\text{ mL}\); Expiratory reserve volume (\(\text{ERV}\)) = \(1100\text{ mL}\); Residual volume (\(\text{RV}\)) = \(1200\text{ mL}\).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>All volumes are measured at standard physiological conditions for a healthy adult, and respiratory capacities are additive combinations of non-overlapping respiratory volumes.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Vital capacity (\(\text{VC}\)) is the maximum volume of air a person can breathe in after a forced expiration (or breathe out after a forced inspiration). It equals the sum of expiratory reserve volume, tidal volume, and inspiratory reserve volume: \[\text{VC} = \text{ERV} + \text{TV} + \text{IRV}\] Residual volume is excluded because it remains in the lungs even after a forcible expiration.</p><p><strong>Step 4: Step-by-Step Working</strong><br/>Substituting the given values into the formula: \[\text{VC} = 1100\text{ mL} + 500\text{ mL} + 2800\text{ mL} = 4400\text{ mL}\]</p><p><strong>Step 5: Check and Final Answer</strong><br/>The calculated value of \(4400\text{ mL}\) falls within the normal adult physiological range (\(3500\text{--}4500\text{ mL}\)) and is strictly less than total lung capacity (\(5600\text{ mL}\)). Therefore, the vital capacity is \(4400\text{ mL}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(3900\text{ mL}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(4400\text{ mL}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(5600\text{ mL}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(3300\text{ mL}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:human_physiology</text></tag>
+    <tag><text>typology:mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_MCQ_Q02 - Myelinated nerve fibres and nodes of Ranvier</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which of the following statements accurately describes the structure of myelinated nerve fibres in the human nervous system?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Nerve fibres in humans are classified as myelinated or non-myelinated based on the presence or absence of a lipid-rich myelin sheath around the axon.</p><p><strong>Step 2: Evaluation of Neural Coverings</strong><br/>In the peripheral nervous system, Schwann cells wrap around the axon to form the myelin sheath in myelinated fibres. The gaps between two adjacent myelin sheaths are called nodes of Ranvier, which allow saltatory conduction of nerve impulses. Non-myelinated nerve fibres are also enclosed by Schwann cells, but those Schwann cells do not form a myelin sheath around the axon.</p><p><strong>Step 3: Application to Distribution</strong><br/>Myelinated nerve fibres are predominantly found in spinal and cranial nerves, whereas unmyelinated nerve fibres are commonly found in the autonomous and somatic neural systems.</p><p><strong>Step 4: Final Conclusion</strong><br/>The accurate structural feature is that myelinated nerve fibres are enveloped by Schwann cells that form a myelin sheath around the axon, with gaps between adjacent sheaths known as nodes of Ranvier.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Unmyelinated nerve fibres completely lack Schwann cells around their axons.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Nodes of Ranvier are continuous stretches of myelin sheath found exclusively in the autonomous neural system.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Myelinated nerve fibres are enveloped by Schwann cells that form a myelin sheath, leaving unmyelinated gaps called nodes of Ranvier.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Nissl's granules are abundant inside the distal synaptic knobs of myelinated axons.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:human_physiology</text></tag>
+    <tag><text>typology:mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_MCQ_Q03 - Mechanism of action of peptide hormones</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which of the following hormones binds to a membrane-bound receptor on its target cell and generates a second messenger such as cyclic AMP (\(\text{cAMP}\)) rather than directly entering the nucleus?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Hormones are classified based on their chemical nature into peptide/polypeptide/protein hormones, steroids, iodothyronines, and amino-acid derivatives, which determines their mechanism of action.</p><p><strong>Step 2: Evaluation of Receptor Binding</strong><br/>Water-soluble peptide and protein hormones (such as follicle-stimulating hormone, insulin, and glucagon) cannot freely cross the lipid bilayer of the target cell membrane. Instead, they bind to specific membrane-bound receptors and trigger the formation of intracellular second messengers such as \(\text{cAMP}\), \(\text{IP}_3\), or \(\text{Ca}^{2+}\) to regulate cellular metabolism.</p><p><strong>Step 3: Contrast with Intracellular-Receptor Hormones</strong><br/>Lipid-soluble steroid hormones (such as cortisol, testosterone, and estradiol) and iodothyronines (thyroid hormones) cross the plasma membrane and bind to intracellular (nuclear) receptors, where the hormone-receptor complex directly regulates gene expression.</p><p><strong>Step 4: Final Conclusion</strong><br/>Follicle-stimulating hormone (FSH) is a glycoprotein hormone that acts via membrane-bound receptors and generates second messengers such as \(\text{cAMP}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Follicle-stimulating hormone (FSH)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Cortisol</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Triiodothyronine (\(\text{T}_3\))</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Estradiol</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:human_physiology</text></tag>
+    <tag><text>typology:mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_MCQ_Q04 - Correlation of ECG waves with cardiac cycle</text></name>
+  <questiontext format="html"><text><![CDATA[<p>During a standard electrocardiogram (ECG) recording of a healthy human heart, which electrical event immediately precedes ventricular systole and marks the depolarisation of the ventricles?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>An electrocardiogram (ECG) is a graphical representation of the electrical activity of the heart during a cardiac cycle, consisting of the P-wave, QRS complex, and T-wave.</p><p><strong>Step 2: Evaluation of ECG Components</strong><br/>The P-wave represents the electrical excitation (depolarisation) of the atria, which leads to atrial systole. The QRS complex represents the depolarisation of the ventricles, which initiates ventricular contraction (ventricular systole). The contraction begins shortly after the Q-wave and marks the beginning of systole.</p><p><strong>Step 3: Contrast with Repolarisation</strong><br/>The T-wave represents the return of the ventricles from the excited state to the normal state (ventricular repolarisation), and the end of the T-wave marks the end of ventricular systole.</p><p><strong>Step 4: Final Conclusion</strong><br/>The QRS complex is the electrical event that represents ventricular depolarisation and immediately precedes ventricular systole.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>The P-wave, representing atrial repolarisation</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>The T-wave, representing ventricular depolarisation</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>The end of the T-wave, representing atrial systole</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>The QRS complex, representing ventricular depolarisation</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:human_physiology</text></tag>
+    <tag><text>typology:mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_MCQ_Q05 - Regulation of kidney function via RAAS and ANF</text></name>
+  <questiontext format="html"><text><![CDATA[<p>A fall in glomerular blood flow activates the juxtaglomerular (JG) cells to initiate the renin-angiotensin mechanism. Which of the following physiological responses directly counteracts this mechanism when blood flow to the atria of the heart increases?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Kidney function and glomerular filtration rate (GFR) are regulated by hormonal feedback mechanisms involving the juxtaglomerular apparatus (JGA), the hypothalamus, and the heart.</p><p><strong>Step 2: Evaluation of the Renin-Angiotensin Mechanism</strong><br/>A fall in glomerular blood flow or pressure stimulates JG cells to release renin, which converts angiotensinogen in the blood to angiotensin I and subsequently to angiotensin II. Angiotensin II is a potent vasoconstrictor that increases glomerular blood pressure and stimulates the adrenal cortex to release aldosterone, raising blood pressure and GFR.</p><p><strong>Step 3: Application of Counter-Regulation</strong><br/>When blood flow to the atria of the heart increases, atrial walls release Atrial Natriuretic Factor (ANF). ANF causes vasodilation (dilation of blood vessels), thereby decreasing blood pressure and acting as a physiological check on the renin-angiotensin mechanism.</p><p><strong>Step 4: Final Conclusion</strong><br/>Secretion of Atrial Natriuretic Factor (ANF) from the heart's atria causes vasodilation and lowers blood pressure, directly counteracting the renin-angiotensin mechanism.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Release of aldosterone from the adrenal cortex to enhance \(\text{Na}^+\) reabsorption</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Secretion of Atrial Natriuretic Factor (ANF) causing vasodilation and lowering blood pressure</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Release of antidiuretic hormone (ADH) to constrict blood vessels and increase water reabsorption</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Conversion of angiotensinogen to angiotensin I by JG cells to elevate GFR</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:human_physiology</text></tag>
+    <tag><text>typology:mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_MCQ_Q06 - Sarcomere band changes during skeletal muscle contraction</text></name>
+  <questiontext format="html"><text><![CDATA[<p>During maximal contraction of a skeletal muscle fibre according to the sliding filament theory, what happens to the lengths of the A-band, I-band, and H-zone?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>According to the sliding filament theory, contraction of a muscle fibre occurs by the sliding of thin (actin) filaments over thick (myosin) filaments without either filament changing its own length.</p><p><strong>Step 2: Evaluation of Sarcomere Geometry</strong><br/>A sarcomere lies between two successive Z-lines. When \(\text{Ca}^{2+}\) binds to troponin on actin filaments, active sites for myosin are exposed, and myosin heads pull the attached actin filaments towards the centre of the A-band. The Z-lines attached to the actins are pulled inwards, shortening the sarcomere.</p><p><strong>Step 3: Band-by-Band Analysis</strong><br/>The A-band corresponds to the full length of the thick myosin filaments; since myosin filaments do not shorten, the A-band retains its constant length. The I-band contains only thin actin filaments outside the overlap zone, and the H-zone is the central part of the thick filament not overlapped by thin filaments in the relaxed state. As thin filaments slide inwards over thick filaments, both the I-band and the H-zone decrease in length (the H-zone may disappear completely at maximal contraction).</p><p><strong>Step 4: Final Conclusion</strong><br/>During maximal skeletal muscle contraction, the A-band retains its length while both the I-band and the H-zone shorten (with the H-zone potentially disappearing).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-band shortens, I-band retains its length, and H-zone widens</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-band, I-band, and H-zone all shorten proportionally</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>A-band retains its length, while both the I-band and H-zone shorten</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-band widens, I-band shortens, and H-zone retains its length</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:human_physiology</text></tag>
+    <tag><text>typology:mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_AR_Q07 - Rh incompatibility and erythroblastosis foetalis</text></name>
+  <questiontext format="html"><text><![CDATA[<p><strong>Assertion (A):</strong> In an \(\text{Rh}\)-negative mother carrying an \(\text{Rh}\)-positive foetus in her second pregnancy, the foetus is at risk of developing erythroblastosis foetalis if no preventive treatment was given after the first delivery.</p><p><strong>Reason (R):</strong> During the first delivery, exposure of maternal blood to small amounts of \(\text{Rh}\)-positive foetal blood stimulates the mother to produce anti-\(\text{Rh}\) antibodies, which can cross the placenta in subsequent pregnancies and destroy foetal red blood cells.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Rh incompatibility occurs when an \(\text{Rh}\)-negative mother carries an \(\text{Rh}\)-positive foetus. Normally, the placental barrier keeps maternal and foetal blood separated during pregnancy.</p><p><strong>Step 2: Evaluation of the Clinical Condition</strong><br/>During the first pregnancy, the foetus is usually safe because the mother has not yet been sensitised to the \(\text{Rh}\) antigen. However, during delivery of the first child, small amounts of \(\text{Rh}\)-positive foetal blood can enter the maternal circulation, causing the mother's immune system to produce antibodies against the \(\text{Rh}\) antigen.</p><p><strong>Step 3: Mechanistic Causal Link</strong><br/>In subsequent pregnancies with an \(\text{Rh}\)-positive foetus, maternal anti-\(\text{Rh}\) antibodies can leak across the placenta into the foetal blood and destroy the foetal red blood cells, causing severe anaemia and jaundice (erythroblastosis foetalis). This explains why the second \(\text{Rh}\)-positive foetus is at risk unless anti-\(\text{Rh}\) antibodies are administered to the mother immediately after the first delivery.</p><p><strong>Step 4: Final Conclusion</strong><br/>Both the assertion and the reason are correct, and the reason accurately explains the immunological mechanism behind the assertion.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both (A) and (R) are correct and (R) is the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is correct but (R) is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is incorrect but (R) is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:human_physiology</text></tag>
+    <tag><text>typology:assertion-reason</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_STMT2_Q08 - Oxygen dissociation curve and carbon dioxide transport</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Given below are two statements:</p><p><strong>Statement I:</strong> In metabolically active tissues, high \(p\text{CO}_2\), high \(\text{H}^+\) concentration, and higher temperature shift the oxygen-haemoglobin dissociation curve to the right, favouring the dissociation of oxygen from oxyhaemoglobin.</p><p><strong>Statement II:</strong> Nearly \(70\%\) of \(\text{CO}_2\) is transported as bicarbonate ions (\(\text{HCO}_3^-\)), facilitated by the enzyme carbonic anhydrase present in high concentration inside red blood cells.</p><p>In the light of the above statements, choose the correct answer from the options given below:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Gas transport in blood depends on reversible binding of \(\text{O}_2\) to haemoglobin and enzymatic conversion of \(\text{CO}_2\) to bicarbonate ions.</p><p><strong>Step 2: Evaluation of Oxygen Dissociation</strong><br/>The oxygen-haemoglobin dissociation curve is sigmoid. In tissues, where \(p\text{O}_2\) is low while \(p\text{CO}_2\), \(\text{H}^+\) concentration (low pH), and temperature are high, the affinity of haemoglobin for oxygen decreases. This shifts the curve to the right (Bohr effect) and promotes unloading of \(\text{O}_2\) to the tissues. Thus, the proposition regarding oxygen dissociation in tissues is true.</p><p><strong>Step 3: Evaluation of Carbon Dioxide Transport</strong><br/>About \(20\text{--}25\%\) of \(\text{CO}_2\) is carried as carbaminohaemoglobin, about \(7\%\) in dissolved form in plasma, and nearly \(70\%\) as bicarbonate ions (\(\text{HCO}_3^-\)). Red blood cells contain a very high concentration of the enzyme carbonic anhydrase (and minute quantities are present in plasma), which catalyses the reversible hydration of \(\text{CO}_2\) into \(\text{H}_2\text{CO}_3\) and subsequently \(\text{HCO}_3^-\) and \(\text{H}^+\). Thus, the proposition regarding bicarbonate transport is also true.</p><p><strong>Step 4: Final Conclusion</strong><br/>Both physiological propositions about oxygen unloading in tissues and enzymatic bicarbonate transport of carbon dioxide are correct.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is correct but Statement II is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is incorrect but Statement II is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:human_physiology</text></tag>
+    <tag><text>typology:statement_based</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_STMT2_Q09 - Ionic basis of resting membrane potential and depolarisation</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Given below are two statements:</p><p><strong>Statement I:</strong> When a neuron is not conducting any impulse (resting state), the axonal membrane is comparatively more permeable to sodium ions (\(\text{Na}^+\)) and nearly impermeable to potassium ions (\(\text{K}^+\)).</p><p><strong>Statement II:</strong> During the generation of an action potential, depolarisation occurs because the sodium-potassium pump actively transports \(3\text{ Na}^+\) ions into the axoplasm in exchange for \(2\text{ K}^+\) ions outwards.</p><p>In the light of the above statements, choose the correct answer from the options given below:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>The resting membrane potential and action potential of an axon depend on differential ion permeability and specific transport proteins in the neural membrane.</p><p><strong>Step 2: Evaluation of Resting Permeability</strong><br/>In the resting state, the axonal membrane is comparatively more permeable to potassium ions (\(\text{K}^+\)) and nearly impermeable to sodium ions (\(\text{Na}^+\)), as well as impermeable to negatively charged proteins present in the axoplasm. Therefore, the claim that the resting membrane is more permeable to \(\text{Na}^+\) and nearly impermeable to \(\text{K}^+\) is false.</p><p><strong>Step 3: Evaluation of Depolarisation Mechanism</strong><br/>When a stimulus of threshold strength is applied, the membrane at that site becomes freely permeable to \(\text{Na}^+\) through the opening of voltage-gated \(\text{Na}^+\) channels, leading to a rapid passive influx of \(\text{Na}^+\) and reversal of polarity (depolarisation). In contrast, the sodium-potassium pump (\(\text{Na}^+/\text{K}^+\) ATPase) maintains the resting ionic gradients by actively transporting \(3\text{ Na}^+\) outwards for \(2\text{ K}^+\) into the cell, not inwards during depolarisation. Therefore, the claim attributing depolarisation to inward active transport by the sodium-potassium pump is also false.</p><p><strong>Step 4: Final Conclusion</strong><br/>Both propositions regarding resting membrane permeability and the mechanism of depolarisation are incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is correct but Statement II is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is incorrect but Statement II is correct.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both Statement I and Statement II are incorrect.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:human_physiology</text></tag>
+    <tag><text>typology:statement_based</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_STMT3_Q10 - Reabsorption and secretion across nephron segments</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Read the following three statements regarding urine formation in the human nephron:</p><ol><li>Nearly \(70\text{--}80\%\) of electrolytes and water are reabsorbed in the proximal convoluted tubule (PCT).</li><li>The descending limb of the loop of Henle is permeable to water but almost impermeable to electrolytes.</li><li>Conditional reabsorption of \(\text{Na}^+\) and water takes place in the ascending limb of the loop of Henle under the influence of aldosterone.</li></ol><p>Which of the above statements are <strong>correct</strong>?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Different segments of the renal tubule exhibit selective permeability and transport properties to accomplish reabsorption, secretion, and urine concentration.</p><p><strong>Step 2: Evaluation of PCT and Descending Limb</strong><br/>The proximal convoluted tubule (PCT) is lined by simple cuboidal brush-border epithelium, which increases surface area for reabsorption; nearly \(70\text{--}80\%\) of electrolytes and water are reabsorbed here, making that proposition true. The descending limb of the loop of Henle is permeable to water but almost impermeable to electrolytes, which concentrates the filtrate as it moves down into the hyperosmolar medulla, making that proposition true as well.</p><p><strong>Step 3: Evaluation of Conditional Reabsorption</strong><br/>The ascending limb of the loop of Henle is impermeable to water but allows transport of electrolytes actively or passively. Conditional reabsorption of \(\text{Na}^+\) and water takes place in the distal convoluted tubule (DCT), not in the ascending limb of the loop of Henle. Hence, the claim placing conditional \(\text{Na}^+\) and water reabsorption in the ascending limb is false.</p><p><strong>Step 4: Final Conclusion</strong><br/>Only the propositions describing bulk reabsorption in the PCT and water permeability of the descending limb of the loop of Henle are correct.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 2 and 3</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1 and 2 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2 and 3 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1 and 3 only</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:human_physiology</text></tag>
+    <tag><text>typology:statement_based</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_STMT3_Q11 - Adrenal cortex zones and pancreatic islet hormones</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Evaluate the following three statements regarding endocrine glands in humans:</p><ol><li>The adrenal cortex is organised into three layers from inner to outer: zona reticularis, zona fasciculata, and zona glomerulosa.</li><li>Glucagon secreted by \(\alpha\)-cells of the islets of Langerhans stimulates glycogenolysis and gluconeogenesis, resulting in hyperglycaemia.</li><li>Catecholamines (adrenaline and noradrenaline) are secreted by the zona glomerulosa of the adrenal cortex during emergency situations.</li></ol><p>Choose the option that identifies all the <strong>correct</strong> statements:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>The adrenal gland has an outer cortex with three distinct histological zones and an inner medulla, while the endocrine pancreas consists of islets of Langerhans with \(\alpha\)- and \(\beta\)-cells.</p><p><strong>Step 2: Evaluation of Adrenal Cortex Zonation</strong><br/>From inner to outer, the three layers of the adrenal cortex are the zona reticularis (inner layer), zona fasciculata (middle layer), and zona glomerulosa (outer layer). Thus, the proposition stating this inner-to-outer arrangement is true.</p><p><strong>Step 3: Evaluation of Pancreatic and Adrenal Medullary Hormones</strong><br/>Glucagon is a peptide hormone secreted by \(\alpha\)-cells of the islets of Langerhans; it acts mainly on hepatocytes to stimulate glycogenolysis and gluconeogenesis, raising blood glucose levels (hyperglycaemia). Thus, the proposition regarding glucagon is true. However, catecholamines (adrenaline and noradrenaline) are secreted by the adrenal medulla, whereas the zona glomerulosa secretes mineralocorticoids (primarily aldosterone). Therefore, the claim that catecholamines are secreted by the zona glomerulosa is false.</p><p><strong>Step 4: Final Conclusion</strong><br/>Only the propositions describing the inner-to-outer zonation of the adrenal cortex and the hyperglycaemic action of glucagon are correct.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 2 and 3</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2 and 3 only</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1 and 2 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1 and 3 only</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:human_physiology</text></tag>
+    <tag><text>typology:statement_based</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_STMT4_Q12 - Blood coagulation cascade and cardiac valves</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Consider the following four statements about blood coagulation and the human heart:</p><ol type="a"><li>An enzyme complex called thrombokinase converts inactive prothrombin in the plasma into active thrombin.</li><li>Calcium ions (\(\text{Ca}^{2+}\)) play a crucial role in the clotting of blood.</li><li>The first heart sound ("lub") is associated with the closure of the semilunar valves at the beginning of ventricular diastole.</li><li>Each ventricle pumps out approximately \(70\text{ mL}\) of blood per cardiac cycle, which is known as the stroke volume.</li></ol><p>How many of the above statements are <strong>correct</strong>?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Haemostasis relies on a cascade of enzymatic conversions involving clotting factors and \(\text{Ca}^{2+}\), while cardiac cycle mechanics produce characteristic heart sounds upon valve closure.</p><p><strong>Step 2: Evaluation of Blood Coagulation Propositions</strong><br/>Upon injury, platelets and damaged tissues release factors that initiate a cascade forming the enzyme complex thrombokinase. Thrombokinase converts inactive prothrombin into active thrombin, which in turn converts soluble fibrinogen into insoluble fibrin threads. Calcium ions (\(\text{Ca}^{2+}\)) are essential at multiple steps in this clotting cascade. Thus, both propositions regarding thrombokinase and calcium ions are true.</p><p><strong>Step 3: Evaluation of Heart Sounds and Stroke Volume</strong><br/>During each cardiac cycle, two prominent sounds are produced: the first heart sound ("lub") is associated with the closure of the tricuspid and bicuspid (atrioventricular) valves at the start of ventricular systole, whereas the second heart sound ("dub") is associated with the closure of the semilunar valves at the beginning of ventricular diastole. Therefore, the proposition attributing "lub" to semilunar valve closure is false. Finally, each ventricle pumps out approximately \(70\text{ mL}\) of blood per cardiac cycle, termed the stroke volume, making that proposition true.</p><p><strong>Step 4: Final Conclusion</strong><br/>Three of the four physiological propositions—those concerning thrombokinase, calcium ions in clotting, and stroke volume—are correct, whereas the description of the first heart sound is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Only two</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Only three</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>All four</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Only one</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:human_physiology</text></tag>
+    <tag><text>typology:statement_based</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_STMTMULTI_Q13 - Joints and disorders of muscular and skeletal systems</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Read the following five statements regarding human joints and disorders of the muscular and skeletal systems:</p><ol type="a"><li>Fibrous joints, such as those between flat skull bones, do not allow any movement.</li><li>The joint between the atlas and axis is a pivot joint, which is a type of synovial joint.</li><li>Myasthenia gravis is an autoimmune disorder affecting the neuromuscular junction, leading to fatigue, weakening, and paralysis of skeletal muscles.</li><li>Tetany is characterised by rapid spasms in muscles due to low \(\text{Ca}^{2+}\) in body fluids.</li><li>Gout is an age-related disorder characterised by decreased bone mass and increased chances of fractures due to decreased levels of oestrogen.</li></ol><p>Choose the <strong>correct</strong> set of statements from the options given below:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Human joints are classified structurally into fibrous, cartilaginous, and synovial joints, and musculoskeletal disorders arise from autoimmune, ionic, metabolic, or hormonal causes.</p><p><strong>Step 2: Evaluation of Joint Classifications</strong><br/>Fibrous joints fuse flat skull bones end-to-end with dense fibrous connective tissues (sutures) and permit no movement, which is true. Synovial joints feature a fluid-filled synovial cavity allowing considerable movement; the joint between the atlas and axis is indeed a pivot synovial joint, which is true.</p><p><strong>Step 3: Evaluation of Muscular and Skeletal Disorders</strong><br/>Myasthenia gravis is an autoimmune disorder targeting the neuromuscular junction, causing progressive fatigue, weakness, and paralysis of skeletal muscles, which is true. Tetany involves rapid muscle spasms (wild contractions) caused by low \(\text{Ca}^{2+}\) concentration in body fluids, which is also true. In contrast, the age-related disorder characterised by decreased bone mass and fracture risk due to lower oestrogen levels is osteoporosis, whereas gout is inflammation of joints caused by the accumulation of uric acid crystals. Thus, the description of gout is false.</p><p><strong>Step 4: Final Conclusion</strong><br/>The propositions concerning fibrous joints, the atlas-axis pivot joint, myasthenia gravis, and tetany are all correct, while the proposition conflating gout with osteoporosis is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(a), (b), (c) and (e) only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(b), (c), (d) and (e) only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(a), (c) and (e) only</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>(a), (b), (c) and (d) only</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:human_physiology</text></tag>
+    <tag><text>typology:statement_based</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_MATCH_Q14 - Matching endocrine disorders with their hormonal causes</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Match the endocrine disorders in List-I with their corresponding hormonal causes in List-II:</p><table><thead><tr><th>List-I (Disorder)</th><th>List-II (Hormonal Cause)</th></tr></thead><tbody><tr><td>(A) Acromegaly</td><td>(I) Hyposecretion of adrenal cortex hormones</td></tr><tr><td>(B) Cretinism</td><td>(II) Hypersecretion of growth hormone in adults</td></tr><tr><td>(C) Exophthalmic goitre</td><td>(III) Hypothyroidism during pregnancy causing stunted growth in the baby</td></tr><tr><td>(D) Addison's disease</td><td>(IV) Hyperthyroidism with enlargement of thyroid gland and protrusion of eyeballs</td></tr></tbody></table><p>Choose the <strong>correct</strong> answer from the options given below:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Endocrine disorders result from either hyposecretion or hypersecretion of specific hormones from glands such as the pituitary, thyroid, and adrenal cortex.</p><p><strong>Step 2: Evaluation of Each Disorder and Cause</strong><br/>Acromegaly is caused by hypersecretion of growth hormone in adults (typically due to a pituitary tumour), leading to severe disfigurement especially of the face. Cretinism results from hypothyroidism during pregnancy, causing defective development and maturation of the growing baby, marked by stunted growth and mental retardation. Exophthalmic goitre (Graves' disease) is a form of hyperthyroidism characterised by enlargement of the thyroid gland, protrusion of the eyeballs, and increased basal metabolic rate. Addison's disease is caused by underproduction (hyposecretion) of hormones by the adrenal cortex, altering carbohydrate metabolism and causing acute weakness and fatigue.</p><p><strong>Step 3: Final Conclusion</strong><br/>Therefore, acromegaly pairs with hypersecretion of growth hormone in adults, cretinism pairs with hypothyroidism during pregnancy, exophthalmic goitre pairs with hyperthyroidism featuring eyeball protrusion, and Addison's disease pairs with hyposecretion of adrenal cortex hormones.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-III, B-II, C-IV, D-I</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-II, B-IV, C-III, D-I</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>A-II, B-III, C-IV, D-I</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-I, B-III, C-IV, D-II</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:human_physiology</text></tag>
+    <tag><text>typology:matching-mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:table</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>

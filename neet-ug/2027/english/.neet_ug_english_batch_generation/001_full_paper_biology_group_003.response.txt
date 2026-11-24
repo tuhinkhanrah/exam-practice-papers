@@ -1,0 +1,289 @@
+<question type="multichoice">
+  <name><text>[ch003-unit-3-cell-structure-and-function] NEET_UG_BIOLOGY_Q01 - Non-membranous reserve storage in prokaryotes</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which structure in prokaryotic cells stores reserve materials such as phosphate granules, cyanophycean granules, and glycogen granules without being enclosed by any membrane system?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Prokaryotic cells lack membrane-bound organelles, so intracellular storage and metabolic structures are organized without surrounding lipid bilayers.</p><p><strong>Step 2: Evaluation</strong><br/>Reserve materials in prokaryotic cells are stored in the cytoplasm in the form of inclusion bodies. These structures lie free in the cytoplasm and are not bound by any membrane system.</p><p><strong>Step 3: Application</strong><br/>Typical examples include phosphate granules, cyanophycean granules, and glycogen granules. In contrast, mesosomes are infoldings of the plasma membrane, polysomes are chains of ribosomes attached to mRNA, and chromatophores are membranous extensions containing pigments in cyanobacteria.</p><p><strong>Step 4: Final Conclusion</strong><br/>Non-membranous cytoplasmic structures that store reserve materials in prokaryotes are inclusion bodies.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Inclusion bodies</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Mesosomes</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Polysomes</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Chromatophores</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:structural_organisation_in_animals_and_plants</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch003-unit-3-cell-structure-and-function] NEET_UG_BIOLOGY_Q02 - Chromosome number and DNA content after S phase</text></name>
+  <questiontext format="html"><text><![CDATA[<p>If a diploid somatic cell has \(2n = 16\) chromosomes and \(2C\) amount of DNA in the \(G_1\) phase, what will be the chromosome number and DNA content, respectively, at the end of the S phase?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>The S (synthesis) phase of interphase marks the period during which DNA replication occurs in the nucleus of eukaryotic cells.</p><p><strong>Step 2: Evaluation</strong><br/>During the S phase, the amount of DNA per cell doubles from an initial \(2C\) level to \(4C\). However, each replicated chromosome consists of two sister chromatids joined at a single centromere, so there is no increase in the chromosome number.</p><p><strong>Step 3: Application</strong><br/>Starting with \(2n = 16\) chromosomes and \(2C\) DNA in the \(G_1\) phase, DNA replication doubles the DNA content to \(4C\) while the chromosome count remains \(16\).</p><p><strong>Step 4: Final Conclusion</strong><br/>At the end of the S phase, the cell has \(16\) chromosomes and \(4C\) DNA content.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(32\) chromosomes and \(4C\) DNA</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(32\) chromosomes and \(2C\) DNA</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(16\) chromosomes and \(4C\) DNA</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(16\) chromosomes and \(2C\) DNA</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:cell_structure_and_function</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch003-unit-3-cell-structure-and-function] NEET_UG_BIOLOGY_Q03 - Enzyme classification and catalytic properties</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which of the following statements is <strong>incorrect</strong> regarding enzymes and their classification?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Enzymes are biological catalysts classified into six major classes based on the type of reaction they catalyse, and their activity can be modulated by inhibitors.</p><p><strong>Step 2: Evaluation</strong><br/>Competitive inhibition occurs when an inhibitor closely resembles the substrate in molecular structure and competes for binding at the active site; a classic example is the inhibition of succinic dehydrogenase by malonate, which resembles succinate. Furthermore, enzymes accelerate reactions by lowering the activation energy barrier without altering the overall free energy change (\(\Delta G\)).</p><p><strong>Step 3: Application</strong><br/>In enzyme nomenclature, <em>ligases</em> are the enzymes that catalyse the linking together of two compounds by forming \(\text{C–O}\), \(\text{C–S}\), \(\text{C–N}\), or \(\text{P–O}\) bonds, typically coupled to ATP hydrolysis. In contrast, <em>transferases</em> catalyse the transfer of a functional group (other than hydrogen) between a pair of substrates.</p><p><strong>Step 4: Final Conclusion</strong><br/>Attributing the joining of two compounds via \(\text{C–O}\), \(\text{C–S}\), \(\text{C–N}\), or \(\text{P–O}\) bond formation to transferases rather than ligases is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Competitive inhibition occurs when an inhibitor closely resembles the substrate in its molecular structure and binds to the active site.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Malonate inhibits the activity of succinic dehydrogenase by competing with the substrate succinate.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Enzymes lower the activation energy of a reaction without altering the overall free energy change (\(\Delta G\)).</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Transferases catalyse the linking together of two compounds by forming \(\text{C–O}\), \(\text{C–S}\), \(\text{C–N}\), or \(\text{P–O}\) bonds.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:cell_structure_and_function</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch003-unit-3-cell-structure-and-function] NEET_UG_BIOLOGY_Q04 - Structural features of proteins, lipids, and DNA</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which of the following statements accurately describes the structure of biomolecules?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Biological macromolecules—including proteins, nucleic acids, and lipids—derive their cellular functions from specific three-dimensional conformations and chemical bonding patterns.</p><p><strong>Step 2: Evaluation</strong><br/>In the Watson-Crick model of B-DNA, two antiparallel polynucleotide chains are coiled in a right-handed helix. Each full turn of the helix has a pitch of \(3.4\text{ nm}\) (\(34\text{ \AA}\)) and contains \(10\) base pairs, with adjacent base pairs separated by \(0.34\text{ nm}\).</p><p><strong>Step 3: Application</strong><br/>Evaluating the other biochemical claims: secondary protein structures (\(\alpha\)-helix and \(\beta\)-pleated sheet) are primarily stabilized by hydrogen bonds rather than disulphide bridges; the zwitterionic form of an amino acid exists at its isoelectric (neutral) pH rather than exclusively at highly acidic pH; and lecithin is a phospholipid (conjugated lipid) rather than a simple triglyceride.</p><p><strong>Step 4: Final Conclusion</strong><br/>The accurate description is that a B-DNA double helix consists of two antiparallel strands with a helical pitch of \(3.4\text{ nm}\) containing \(10\) base pairs per turn.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>The secondary structure of a protein is stabilized exclusively by covalent disulphide bridges between cysteine residues.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>In a B-DNA double helix, each helical turn spans \(3.4\text{ nm}\) and contains \(10\) base pairs, with the two strands running antiparallel.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>An amino acid exists in its electrically neutral zwitterionic form only in strongly acidic solutions below \(\text{pH } 2\).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Lecithin is a simple neutral lipid composed of one glycerol molecule esterified with three fatty acid chains.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:cell_structure_and_function</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch003-unit-3-cell-structure-and-function] NEET_UG_BIOLOGY_Q05 - Recombination and chiasmata in meiotic prophase I</text></name>
+  <questiontext format="html"><text><![CDATA[
+    <p><strong>Assertion (A):</strong> During pachytene of meiotic prophase I, recombination nodules appear as the sites at which crossing over occurs between non-sister chromatids of homologous chromosomes, mediated by the enzyme recombinase.</p>
+    <p><strong>Reason (R):</strong> Terminalisation of chiasmata is completed during diplotene, leading to the immediate separation of homologous chromosomes into daughter nuclei.</p>
+  ]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Prophase I of meiosis is subdivided into five sequential stages—leptotene, zygotene, pachytene, diplotene, and diakinesis—based on chromosomal behaviour.</p><p><strong>Step 2: Evaluation</strong><br/>During pachytene, bivalent chromosomes clearly appear as tetrads, and recombination nodules become visible. Crossing over—the exchange of genetic material between non-sister chromatids of homologous chromosomes—takes place at these nodules and is catalysed by the enzyme recombinase. Hence, the proposition describing pachytene is correct.</p><p><strong>Step 3: Application</strong><br/>During diplotene, the synaptonemal complex dissolves and recombined homologous chromosomes begin to separate except at the sites of crossovers, forming X-shaped structures called chiasmata. However, the <em>terminalisation of chiasmata</em> occurs during the final stage, <em>diakinesis</em>, not during diplotene, and homologous chromosomes do not separate into daughter nuclei until anaphase I and telophase I. Hence, the second proposition is incorrect.</p><p><strong>Step 4: Final Conclusion</strong><br/>The first proposition regarding crossing over at recombination nodules during pachytene is correct, whereas the second proposition claiming completion of chiasmata terminalisation during diplotene is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct and (R) is the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>(A) is correct but (R) is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is incorrect but (R) is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:cell_structure_and_function</text></tag>
+    <tag><text>typology:assertion_reason</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch003-unit-3-cell-structure-and-function] NEET_UG_BIOLOGY_Q06 - Components and roles of the endomembrane system</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Read the following two statements regarding eukaryotic cell organelles:</p>
+<p><strong>Statement I:</strong> The smooth endoplasmic reticulum is the major site for synthesis of lipids and steroidal hormones in animal cells, whereas the rough endoplasmic reticulum is actively involved in protein synthesis and secretion.</p>
+<p><strong>Statement II:</strong> Mitochondria and peroxisomes are included in the endomembrane system because their metabolic functions are directly coordinated with the endoplasmic reticulum and Golgi apparatus.</p>
+<p>In the light of the above statements, choose the most appropriate answer from the options given below.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Eukaryotic cells contain an endomembrane system comprising membranous organelles whose functions are structurally and functionally coordinated.</p><p><strong>Step 2: Evaluation</strong><br/>The endoplasmic reticulum exists in two forms: the rough endoplasmic reticulum (bearing ribosomes on its outer surface), which synthesizes and secretes proteins, and the smooth endoplasmic reticulum (lacking ribosomes), which serves as the major site for lipid synthesis and, in animal cells, steroidal hormone synthesis. Therefore, the description of smooth and rough endoplasmic reticulum is accurate.</p><p><strong>Step 3: Application</strong><br/>The endomembrane system consists strictly of the endoplasmic reticulum, Golgi apparatus, lysosomes, and vacuoles. Because the functions of mitochondria, chloroplasts, and peroxisomes are not coordinated with these components, they are explicitly excluded from the endomembrane system. Thus, the claim that mitochondria and peroxisomes belong to the endomembrane system is false.</p><p><strong>Step 4: Final Conclusion</strong><br/>The proposition describing smooth and rough endoplasmic reticulum functions is correct, whereas the proposition including mitochondria and peroxisomes in the endomembrane system is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Statement I is correct but Statement II is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is incorrect but Statement II is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:cell_structure_and_function</text></tag>
+    <tag><text>typology:statement_based_2</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch003-unit-3-cell-structure-and-function] NEET_UG_BIOLOGY_Q07 - Membrane fluidity, middle lamella, and axoneme structure</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Consider the following three statements regarding eukaryotic cell structures:</p>
+<ol>
+  <li>According to the fluid mosaic model proposed by Singer and Nicolson, the quasi-fluid nature of lipids enables lateral movement of proteins within the overall bilayer.</li>
+  <li>The middle lamella is a layer mainly composed of calcium pectate that holds or glues different neighbouring plant cells together.</li>
+  <li>Eukaryotic cilia and flagella emerge from centriole-like structures called basal bodies and possess an axoneme with a \(9 + 0\) arrangement of microtubules.</li>
+</ol>
+<p>Which of the above statements are correct?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Eukaryotic cells rely on specialized surface and cytoskeletal architectures—the plasma membrane, cell wall junctions, and motile appendages—whose ultrastructure dictates their mechanical and physiological roles.</p><p><strong>Step 2: Evaluation</strong><br/>First, Singer and Nicolson's fluid mosaic model describes the plasma membrane as a lipid bilayer whose quasi-fluidity permits lateral diffusion of integral and peripheral proteins; this is accurate. Second, adjacent plant cells are cemented together by the middle lamella, which is composed primarily of calcium pectate; this is also accurate.</p><p><strong>Step 3: Application</strong><br/>Third, while eukaryotic cilia and flagella indeed originate from centriole-like basal bodies, their core (axoneme) consists of nine peripheral doublets of radially arranged microtubules and a pair of centrally located singlet microtubules, forming a \(9 + 2\) array rather than a \(9 + 0\) array (which is characteristic of centrioles). Therefore, the axoneme description is false.</p><p><strong>Step 4: Final Conclusion</strong><br/>Only the propositions regarding the fluid mosaic model and the calcium pectate composition of the middle lamella are correct.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1 and 3 only</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1 and 2 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2 and 3 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 2, and 3</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:cell_structure_and_function</text></tag>
+    <tag><text>typology:statement_based_3</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch003-unit-3-cell-structure-and-function] NEET_UG_BIOLOGY_Q08 - Synthesis of biomolecules, cofactors, and meiosis</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Evaluate the following four statements regarding biomolecules, enzymes, and cell division:</p>
+<ol>
+  <li>Inulin is a homopolymer of fructose, whereas glycogen is a branched polymer of glucose containing \(\alpha\text{-}1,4\) linkages in straight chains and \(\alpha\text{-}1,6\) linkages at branch points.</li>
+  <li>Prosthetic groups are organic cofactors that are tightly bound to the apoenzyme, such as haem in peroxidase and catalase.</li>
+  <li>In the human body, silicon and magnesium together contribute a higher percentage of total body weight than carbon and oxygen.</li>
+  <li>During metaphase II of meiosis, homologous chromosomes align as bivalents along the equatorial plate before separating to opposite poles.</li>
+</ol>
+<p>Which of the above statements are correct?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Cellular biochemistry and division depend on specific polysaccharide bonding, enzyme-cofactor associations, elemental composition of living matter, and stage-specific chromosomal alignment during meiosis.</p><p><strong>Step 2: Evaluation</strong><br/>Inulin is a storage polysaccharide composed solely of fructose units, and glycogen is a highly branched glucose polymer with \(\alpha\text{-}1,4\) glycosidic bonds along linear segments and \(\alpha\text{-}1,6\) bonds at branching sites; this proposition is true. Likewise, prosthetic groups are organic cofactors tightly bound to the apoenzyme, as exemplified by the haem group in peroxidase and catalase; this proposition is also true.</p><p><strong>Step 3: Application</strong><br/>In living human tissues, oxygen (\(65.0\%\)) and carbon (\(18.5\%\)) are the most abundant elements by weight, whereas silicon is present in negligible amounts and magnesium accounts for only about \(0.1\%\); thus, the elemental abundance claim is false. Finally, homologous chromosomes align as bivalents on the metaphase plate during <em>metaphase I</em>; in metaphase II, individual univalent chromosomes align at the equator; thus, the meiotic alignment claim is also false.</p><p><strong>Step 4: Final Conclusion</strong><br/>Only the propositions concerning inulin/glycogen structure and prosthetic groups in peroxidase/catalase are correct.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1 and 2 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1 and 3 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2 and 4 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 2, and 4 only</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:cell_structure_and_function</text></tag>
+    <tag><text>typology:statement_based_4</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch003-unit-3-cell-structure-and-function] NEET_UG_BIOLOGY_Q09 - Matching biomolecules with biochemical characteristics</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Match the biomolecules in List-I with their corresponding biochemical characteristics in List-II:</p>
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>List-I (Biomolecule)</th>
+      <th>List-II (Biochemical Characteristic)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A. Palmitic acid</td>
+      <td>I. Most abundant protein in the whole of the biosphere</td>
+    </tr>
+    <tr>
+      <td>B. RuBisCO</td>
+      <td>II. Coenzyme containing the vitamin niacin</td>
+    </tr>
+    <tr>
+      <td>C. Cellulose</td>
+      <td>III. Saturated fatty acid with 16 carbons including the carboxyl carbon</td>
+    </tr>
+    <tr>
+      <td>D. NADP</td>
+      <td>IV. Structural homopolymer of glucose that lacks complex helices to hold \(\text{I}_2\)</td>
+    </tr>
+  </tbody>
+</table>
+<p>Choose the correct answer from the options given below.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Biomolecules across different chemical classes—fatty acids, proteins, polysaccharides, and coenzymes—exhibit defining structural and functional attributes.</p><p><strong>Step 2: Evaluation</strong><br/>Palmitic acid is a saturated fatty acid containing \(16\) carbon atoms, including the carboxyl carbon. RuBisCO (Ribulose bisphosphate carboxylase-oxygenase) is the most abundant protein in the entire biosphere.</p><p><strong>Step 3: Application</strong><br/>Cellulose is a linear homopolymer of glucose; unlike starch, it does not form complex helical coils and therefore cannot trap iodine (\(\text{I}_2\)) molecules to give a blue-black colour. NADP (nicotinamide adenine dinucleotide phosphate) is an organic coenzyme whose essential chemical component is the vitamin niacin (nicotinamide).</p><p><strong>Step 4: Final Conclusion</strong><br/>Palmitic acid pairs with the 16-carbon saturated fatty acid; RuBisCO pairs with the most abundant protein in the biosphere; cellulose pairs with the glucose homopolymer lacking complex helices to hold \(\text{I}_2\); and NADP pairs with the niacin-containing coenzyme.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-III, B-II, C-IV, D-I</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-I, B-III, C-IV, D-II</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-III, B-IV, C-I, D-II</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>A-III, B-I, C-IV, D-II</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:cell_structure_and_function</text></tag>
+    <tag><text>typology:matching_mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:table</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>

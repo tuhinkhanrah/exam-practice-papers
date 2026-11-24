@@ -1,0 +1,400 @@
+<question type="multichoice">
+  <name><text>[ch001-unit-1-some-basic-concepts-in-chemistry] NEET_UG_CHEMISTRY_MCQ_Q01 - Empirical formula from combustion analysis data</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Complete combustion of \(1.5\text{ g}\) of an organic compound containing carbon, hydrogen, and oxygen produces \(2.2\text{ g}\) of \(\text{CO}_2\) and \(0.9\text{ g}\) of \(\text{H}_2\text{O}\). What is the empirical formula of the compound? (Atomic masses: \(\text{C} = 12\text{ u},\ \text{H} = 1\text{ u},\ \text{O} = 16\text{ u}\))</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Mass of the organic compound \(= 1.5\text{ g}\). Mass of \(\text{CO}_2\) produced \(= 2.2\text{ g}\). Mass of \(\text{H}_2\text{O}\) produced \(= 0.9\text{ g}\). Molar mass of \(\text{CO}_2 = 44\text{ g mol}^{-1}\) and molar mass of \(\text{H}_2\text{O} = 18\text{ g mol}^{-1}\).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>All carbon in the organic compound is converted completely into \(\text{CO}_2\), and all hydrogen is converted completely into \(\text{H}_2\text{O}\). The remaining mass of the compound is attributed solely to oxygen.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Number of moles \(n = \frac{\text{mass}}{\text{molar mass}}\). Each mole of \(\text{CO}_2\) contains \(1\text{ mol}\) of \(\text{C}\) atoms, and each mole of \(\text{H}_2\text{O}\) contains \(2\text{ mol}\) of \(\text{H}\) atoms.</p><p><strong>Step 4: Step-by-Step Working</strong><br/>Moles of \(\text{CO}_2 = \frac{2.2\text{ g}}{44\text{ g mol}^{-1}} = 0.05\text{ mol}\), so moles of \(\text{C} = 0.05\text{ mol}\) and mass of \(\text{C} = 0.05 \times 12 = 0.6\text{ g}\).<br/>Moles of \(\text{H}_2\text{O} = \frac{0.9\text{ g}}{18\text{ g mol}^{-1}} = 0.05\text{ mol}\), so moles of \(\text{H} = 2 \times 0.05 = 0.10\text{ mol}\) and mass of \(\text{H} = 0.10 \times 1 = 0.1\text{ g}\).<br/>Mass of \(\text{O} = 1.5\text{ g} - (0.6\text{ g} + 0.1\text{ g}) = 0.8\text{ g}\).<br/>Moles of \(\text{O} = \frac{0.8\text{ g}}{16\text{ g mol}^{-1}} = 0.05\text{ mol}\).<br/>Dividing the molar amounts by the smallest value (\(0.05\text{ mol}\)): \(\text{C} : \text{H} : \text{O} = \frac{0.05}{0.05} : \frac{0.10}{0.05} : \frac{0.05}{0.05} = 1 : 2 : 1\).</p><p><strong>Step 5: Check and Final Answer</strong><br/>The sum of masses \(0.6\text{ g} + 0.1\text{ g} + 0.8\text{ g} = 1.5\text{ g}\) matches the initial sample mass. The simplest whole-number atomic ratio gives the empirical formula \(\text{CH}_2\text{O}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\text{C}_2\text{H}_4\text{O}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(\text{CH}_2\text{O}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\text{CHO}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\text{CH}_4\text{O}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:some_basic_concepts_in_chemistry</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch001-unit-1-some-basic-concepts-in-chemistry] NEET_UG_CHEMISTRY_MCQ_Q02 - Limiting reagent mass of barium sulphate precipitate</text></name>
+  <questiontext format="html"><text><![CDATA[<p>When \(20\text{ mL}\) of \(0.1\text{ M}\) aqueous \(\text{BaCl}_2\) is mixed with \(30\text{ mL}\) of \(0.2\text{ M}\) aqueous \(\text{Na}_2\text{SO}_4\), what is the maximum mass of \(\text{BaSO}_4\) precipitated? (Molar mass of \(\text{BaSO}_4 = 233\text{ g mol}^{-1}\))</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Volume of \(\text{BaCl}_2\) solution \(= 20\text{ mL}\), molarity \(= 0.1\text{ M}\). Volume of \(\text{Na}_2\text{SO}_4\) solution \(= 30\text{ mL}\), molarity \(= 0.2\text{ M}\). Molar mass of \(\text{BaSO}_4 = 233\text{ g mol}^{-1}\).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>The precipitation reaction goes to completion, and \(\text{BaSO}_4\) is assumed to be completely insoluble.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Balanced chemical equation: \(\text{BaCl}_2(aq) + \text{Na}_2\text{SO}_4(aq) \rightarrow \text{BaSO}_4(s) + 2\text{NaCl}(aq)\).<br/>Millimoles of solute \(= \text{Molarity (M)} \times \text{Volume (mL)}\).</p><p><strong>Step 4: Step-by-Step Working</strong><br/>Millimoles of \(\text{BaCl}_2 = 0.1 \times 20 = 2\text{ mmol}\).<br/>Millimoles of \(\text{Na}_2\text{SO}_4 = 0.2 \times 30 = 6\text{ mmol}\).<br/>Because the reaction stoichiometry is \(1 : 1\), \(\text{BaCl}_2\) is the limiting reagent with \(2\text{ mmol}\).<br/>Therefore, \(2\text{ mmol} = 2 \times 10^{-3}\text{ mol}\) of \(\text{BaSO}_4\) is formed.<br/>Mass of \(\text{BaSO}_4 = 2 \times 10^{-3}\text{ mol} \times 233\text{ g mol}^{-1} = 0.466\text{ g}\).</p><p><strong>Step 5: Check and Final Answer</strong><br/>Since \(2\text{ mmol}\) of \(\text{Na}_2\text{SO}_4\) reacts leaving \(4\text{ mmol}\) in excess, the mass of \(\text{BaSO}_4\) precipitated is \(0.466\text{ g}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(0.466\text{ g}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(0.932\text{ g}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(1.398\text{ g}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(0.233\text{ g}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:some_basic_concepts_in_chemistry</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch002-unit-2-atomic-structure] NEET_UG_CHEMISTRY_DIAGRAM_Q03 - Identifying atomic orbital from radial wavefunction plot</text></name>
+  <questiontext format="html"><text><![CDATA[<p>The schematic plot below shows the variation of the radial wavefunction \(\psi(r)\) of a hydrogenic orbital with distance \(r\) from the nucleus.</p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="360" height="220"><rect x="0" y="0" width="360" height="220" fill="#ffffff"/><line x1="45" y1="20" x2="45" y2="200" stroke="#222222" stroke-width="1.8"/><line x1="45" y1="130" x2="340" y2="130" stroke="#222222" stroke-width="1.5" stroke-dasharray="4,3"/><text x="20" y="30" font-family="Arial, sans-serif" font-size="14" fill="#222222">&#968;(r)</text><text x="335" y="148" font-family="Arial, sans-serif" font-size="14" fill="#222222">r</text><text x="32" y="135" font-family="Arial, sans-serif" font-size="13" fill="#222222">0</text><path d="M 45 32 C 62 75, 76 115, 92 130 C 115 154, 145 162, 185 130 C 225 98, 265 112, 330 128" fill="none" stroke="#0055aa" stroke-width="2.5"/><circle cx="92" cy="130" r="3" fill="#cc2222"/><circle cx="185" cy="130" r="3" fill="#cc2222"/></svg><p>Which of the following orbitals is represented by this plot?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>The given plot displays the radial wavefunction \(\psi(r)\) versus distance \(r\) from the nucleus. At \(r = 0\), \(\psi(r)\) has a large positive, non-zero value, and the curve crosses the horizontal axis (\(\psi(r) = 0\)) twice at finite values of \(r > 0\).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>For hydrogenic orbitals, nodes correspond to finite values of \(r > 0\) where the radial wavefunction changes sign and equals zero.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Only \(s\)-orbitals (\(l = 0\)) have a non-zero probability density and non-zero wavefunction at the nucleus (\(r = 0\)), whereas \(p, d, f\) orbitals (\(l \ge 1\)) have \(\psi(0) = 0\).<br/>The number of radial nodes in an orbital with principal quantum number \(n\) and azimuthal quantum number \(l\) is given by \(n - l - 1\).</p><p><strong>Step 4: Step-by-Step Working</strong><br/>Since \(\psi(0) \neq 0\), the azimuthal quantum number must be \(l = 0\), meaning the orbital is an \(s\)-orbital.<br/>Counting the crossings of the \(r\)-axis for \(r > 0\), there are \(2\) radial nodes.<br/>Setting \(n - l - 1 = 2\) with \(l = 0\) gives \(n - 0 - 1 = 2 \implies n = 3\).</p><p><strong>Step 5: Check and Final Answer</strong><br/>An \(s\)-orbital with \(n = 3\) is the \(3s\) orbital, which indeed has \(\psi(0) \neq 0\) and \(2\) radial nodes.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(2s\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(3p\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(3s\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(4p\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:atomic_structure</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:graph</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch002-unit-2-atomic-structure] NEET_UG_CHEMISTRY_MCQ_Q04 - Photoelectric kinetic energy from helium ion transition</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Electromagnetic radiation emitted during the electronic transition from \(n = 4\) to \(n = 2\) in a \(\text{He}^+\) ion is incident on a metal surface having a work function of \(2.2\text{ eV}\). What is the maximum kinetic energy of the ejected photoelectrons? (Ionization energy of hydrogen atom \(= 13.6\text{ eV}\))</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Hydrogen-like species: \(\text{He}^+\) (\(Z = 2\)). Transition: \(n_i = 4\) to \(n_f = 2\). Work function of the metal \(\phi = 2.2\text{ eV}\). Ionization energy of hydrogen atom \(R_H = 13.6\text{ eV}\).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>The photon energy emitted during de-excitation is absorbed completely by a single electron at the metal surface, with no energy lost to collisions before ejection.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Energy of emitted photon: \(\Delta E = 13.6\, Z^2 \left(\frac{1}{n_f^2} - \frac{1}{n_i^2}\right)\text{ eV}\).<br/>Einstein's photoelectric equation: \(K_{\max} = h\nu - \phi = \Delta E - \phi\).</p><p><strong>Step 4: Step-by-Step Working</strong><br/>Substituting \(Z = 2\), \(n_f = 2\), and \(n_i = 4\):<br/>\(\Delta E = 13.6 \times 2^2 \left(\frac{1}{2^2} - \frac{1}{4^2}\right) = 13.6 \times 4 \left(\frac{1}{4} - \frac{1}{16}\right) = 13.6 \times 4 \times \frac{3}{16} = 13.6 \times \frac{3}{4} = 10.2\text{ eV}\).<br/>Using Einstein's photoelectric equation:<br/>\(K_{\max} = 10.2\text{ eV} - 2.2\text{ eV} = 8.0\text{ eV}\).</p><p><strong>Step 5: Check and Final Answer</strong><br/>Since \(\Delta E > \phi\), photoemission occurs, and the maximum kinetic energy of the ejected photoelectrons is \(8.0\text{ eV}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(10.2\text{ eV}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(5.8\text{ eV}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(12.4\text{ eV}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(8.0\text{ eV}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:atomic_structure</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch003-unit-3-chemical-bonding-and-molecular-structure] NEET_UG_CHEMISTRY_MATCH_Q05 - Matching interhalogen and xenon compounds to shapes</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Match the chemical species in List I with their molecular shapes in List II according to VSEPR theory:</p><table border="1" cellpadding="6" cellspacing="0"><thead><tr><th>List I (Species)</th><th>List II (Shape)</th></tr></thead><tbody><tr><td>(A) \(\text{XeF}_4\)</td><td>(I) Square pyramidal</td></tr><tr><td>(B) \(\text{BrF}_5\)</td><td>(II) Linear</td></tr><tr><td>(C) \(\text{SF}_4\)</td><td>(III) Square planar</td></tr><tr><td>(D) \(\text{ICl}_2^-\)</td><td>(IV) See-saw</td></tr></tbody></table><p>Choose the correct match from the options given below:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>According to VSEPR theory, the molecular shape of a species is determined by the total number of electron pairs (steric number) around the central atom and the arrangement of bond pairs (bp) and lone pairs (lp) that minimizes electron-pair repulsion.</p><p><strong>Step 2: Evaluation</strong><br/>For \(\text{XeF}_4\): \(\text{Xe}\) has \(8\) valence electrons, forming \(4\) single bonds with \(\text{F}\) and retaining \(2\) lone pairs (steric number \(6\), \(sp^3d^2\) hybridization). Placing the \(2\) lone pairs opposite each other in an octahedral arrangement gives a square planar shape.<br/>For \(\text{BrF}_5\): \(\text{Br}\) has \(7\) valence electrons, forming \(5\) bonds with \(\text{F}\) and retaining \(1\) lone pair (steric number \(6\), \(sp^3d^2\) hybridization), resulting in a square pyramidal shape.<br/>For \(\text{SF}_4\): \(\text{S}\) has \(6\) valence electrons, forming \(4\) bonds with \(\text{F}\) and retaining \(1\) lone pair (steric number \(5\), \(sp^3d\) hybridization). With the lone pair in an equatorial position of a trigonal bipyramid, the shape is see-saw.<br/>For \(\text{ICl}_2^-\): Central \(\text{I}\) has \(7 + 1 = 8\) valence electrons, forming \(2\) bonds with \(\text{Cl}\) and retaining \(3\) lone pairs (steric number \(5\), \(sp^3d\) hybridization). All \(3\) lone pairs occupy equatorial positions, yielding a linear shape.</p><p><strong>Step 3: Application</strong><br/>Pairing each species with its shape gives \(\text{XeF}_4 \rightarrow\) Square planar, \(\text{BrF}_5 \rightarrow\) Square pyramidal, \(\text{SF}_4 \rightarrow\) See-saw, and \(\text{ICl}_2^- \rightarrow\) Linear.</p><p><strong>Step 4: Final Conclusion</strong><br/>The correct pairing is A-III, B-I, C-IV, D-II.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>A-III, B-I, C-IV, D-II</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-I, B-III, C-IV, D-II</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-III, B-I, C-II, D-IV</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-IV, B-II, C-I, D-III</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:chemical_bonding_and_molecular_structure</text></tag>
+    <tag><text>typology:matching-mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:table</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch003-unit-3-chemical-bonding-and-molecular-structure] NEET_UG_CHEMISTRY_MCQ_Q06 - Bond order, paramagnetism, and HOMO in MOT</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which of the following diatomic species has a bond order of \(2.5\), is paramagnetic, and has its highest occupied molecular orbital (HOMO) as a \(\pi^*_{2p}\) orbital?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>According to Molecular Orbital Theory (MOT), bond order is \(\frac{1}{2}(N_b - N_a)\), where \(N_b\) is the number of electrons in bonding molecular orbitals and \(N_a\) is the number of electrons in antibonding molecular orbitals. Species with unpaired electrons are paramagnetic, and the HOMO is the highest-energy occupied molecular orbital.</p><p><strong>Step 2: Evaluation</strong><br/>For \(\text{O}_2^+\) (\(15\) electrons), the molecular orbital configuration is \(\sigma_{1s}^2 \sigma^*_{1s}{}^2 \sigma_{2s}^2 \sigma^*_{2s}{}^2 \sigma_{2p_z}^2 (\pi_{2p_x}^2 = \pi_{2p_y}^2) (\pi^*_{2p_x}{}^1 = \pi^*_{2p_y}{}^0)\). Its bond order is \(\frac{10 - 5}{2} = 2.5\), it has \(1\) unpaired electron (paramagnetic), and its HOMO is \(\pi^*_{2p}\).<br/>For \(\text{N}_2^+\) (\(13\) electrons), the configuration ends in \((\pi_{2p_x}^2 = \pi_{2p_y}^2) \sigma_{2p_z}^1\); although its bond order is \(2.5\) and it is paramagnetic, its HOMO is \(\sigma_{2p_z}\), not \(\pi^*_{2p}\).<br/>For \(\text{O}_2^-\) (\(17\) electrons), the bond order is \(\frac{10 - 7}{2} = 1.5\).<br/>For \(\text{NO}^+\) (\(14\) electrons), all electrons are paired (diamagnetic) with a bond order of \(3.0\).</p><p><strong>Step 3: Application</strong><br/>Only \(\text{O}_2^+\) simultaneously satisfies having a bond order of \(2.5\), being paramagnetic, and having a \(\pi^*_{2p}\) orbital as its HOMO.</p><p><strong>Step 4: Final Conclusion</strong><br/>The required diatomic species is \(\text{O}_2^+\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\text{N}_2^+\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(\text{O}_2^+\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\text{O}_2^-\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\text{NO}^+\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:chemical_bonding_and_molecular_structure</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch003-unit-3-chemical-bonding-and-molecular-structure] NEET_UG_CHEMISTRY_MCQ_Q07 - Zero net dipole moment in symmetric molecule</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which of the following molecules has a zero net dipole moment despite containing polar covalent bonds?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>The net dipole moment of a polyatomic molecule is the vector sum of all individual bond dipoles and lone-pair dipoles. A symmetric geometry can cause individual polar bond dipoles to cancel out completely.</p><p><strong>Step 2: Evaluation</strong><br/>\(\text{BF}_3\) has \(sp^2\) hybridization with \(3\) bond pairs and \(0\) lone pairs, giving a symmetric trigonal planar geometry with \(120^\circ\) bond angles. The three equal \(\text{B}\text{--}\text{F}\) bond dipoles cancel each other completely, resulting in a zero net dipole moment.<br/>\(\text{NH}_3\) and \(\text{NF}_3\) have trigonal pyramidal geometries with one lone pair on nitrogen, and \(\text{H}_2\text{O}\) has a bent geometry with two lone pairs on oxygen; in all three, the bond dipoles do not cancel, giving non-zero net dipole moments.</p><p><strong>Step 3: Application</strong><br/>Because of its planar trigonal symmetry, \(\text{BF}_3\) is non-polar overall even though each \(\text{B}\text{--}\text{F}\) bond is polar.</p><p><strong>Step 4: Final Conclusion</strong><br/>The molecule with zero net dipole moment is \(\text{BF}_3\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\text{NF}_3\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\text{NH}_3\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(\text{BF}_3\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\text{H}_2\text{O}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:chemical_bonding_and_molecular_structure</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch004-unit-4-chemical-thermodynamics] NEET_UG_CHEMISTRY_DIAGRAM_Q08 - Net heat absorbed in reversible cyclic P-V process</text></name>
+  <questiontext format="html"><text><![CDATA[<p>One mole of an ideal gas undergoes a reversible cyclic process \(A \rightarrow B \rightarrow C \rightarrow A\) as shown in the \(P\)-\(V\) diagram below.</p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" width="360" height="240"><rect x="0" y="0" width="360" height="240" fill="#ffffff"/><line x1="55" y1="20" x2="55" y2="200" stroke="#222222" stroke-width="1.8"/><line x1="55" y1="200" x2="335" y2="200" stroke="#222222" stroke-width="1.8"/><text x="15" y="30" font-family="Arial, sans-serif" font-size="13" fill="#222222">P (atm)</text><text x="290" y="225" font-family="Arial, sans-serif" font-size="13" fill="#222222">V (L)</text><line x1="55" y1="60" x2="115" y2="60" stroke="#888888" stroke-width="1" stroke-dasharray="4,3"/><line x1="55" y1="150" x2="275" y2="150" stroke="#888888" stroke-width="1" stroke-dasharray="4,3"/><line x1="115" y1="60" x2="115" y2="200" stroke="#888888" stroke-width="1" stroke-dasharray="4,3"/><line x1="275" y1="150" x2="275" y2="200" stroke="#888888" stroke-width="1" stroke-dasharray="4,3"/><text x="38" y="65" font-family="Arial, sans-serif" font-size="12" fill="#222222">3</text><text x="38" y="155" font-family="Arial, sans-serif" font-size="12" fill="#222222">1</text><text x="111" y="216" font-family="Arial, sans-serif" font-size="12" fill="#222222">2</text><text x="271" y="216" font-family="Arial, sans-serif" font-size="12" fill="#222222">6</text><polygon points="115,60 275,60 275,150" fill="#e6f2ff" stroke="#0055aa" stroke-width="2.2"/><polygon points="195,55 205,60 195,65" fill="#0055aa"/><polygon points="270,105 275,115 280,105" fill="#0055aa"/><polygon points="195,100 185,99 190,108" fill="#0055aa"/><circle cx="115" cy="60" r="3.5" fill="#cc2222"/><circle cx="275" cy="60" r="3.5" fill="#cc2222"/><circle cx="275" cy="150" r="3.5" fill="#cc2222"/><text x="102" y="52" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#222222">A</text><text x="280" y="56" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#222222">B</text><text x="282" y="156" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#222222">C</text></svg><p>What is the net heat exchanged (\(q_{\text{net}}\)) by the gas in one complete cycle? (Take \(1\text{ L}\cdot\text{atm} = 101.3\text{ J}\))</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>From the \(P\)-\(V\) diagram, the cyclic path forms a right-angled triangle with vertices \(A(2\text{ L}, 3\text{ atm})\), \(B(6\text{ L}, 3\text{ atm})\), and \(C(6\text{ L}, 1\text{ atm})\). The cycle proceeds clockwise: \(A \rightarrow B \rightarrow C \rightarrow A\). Conversion factor: \(1\text{ L}\cdot\text{atm} = 101.3\text{ J}\).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Using the IUPAC thermodynamic sign convention, work done on the system is \(w = -\int P\,dV\), and heat absorbed by the system is positive (\(q > 0\)). For a clockwise cycle on a \(P\)-\(V\) plot, net work is done by the gas (\(w_{\text{net}} < 0\)).</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>First Law of Thermodynamics: \(\Delta U = q + w\).<br/>For any complete cyclic process, internal energy is a state function, so \(\Delta U_{\text{cycle}} = 0\), which gives \(q_{\text{net}} = -w_{\text{net}}\).<br/>Magnitude of net work in a cyclic \(P\)-\(V\) process equals the area enclosed by the cycle: \(|w_{\text{net}}| = \frac{1}{2} \times \Delta V \times \Delta P\).</p><p><strong>Step 4: Step-by-Step Working</strong><br/>Base of the triangle: \(\Delta V = 6\text{ L} - 2\text{ L} = 4\text{ L}\).<br/>Height of the triangle: \(\Delta P = 3\text{ atm} - 1\text{ atm} = 2\text{ atm}\).<br/>Area enclosed \(= \frac{1}{2} \times 4\text{ L} \times 2\text{ atm} = 4\text{ L}\cdot\text{atm}\).<br/>Since the cycle is clockwise, \(w_{\text{net}} = -4\text{ L}\cdot\text{atm} = -4 \times 101.3\text{ J} = -405.2\text{ J}\).<br/>Therefore, \(q_{\text{net}} = -w_{\text{net}} = +405.2\text{ J}\).</p><p><strong>Step 5: Check and Final Answer</strong><br/>Because net work is done by the gas in a clockwise cycle, an equivalent amount of heat must be absorbed by the gas to return to its initial internal energy. Thus, \(q_{\text{net}} = +405.2\text{ J}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(-405.2\text{ J}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(+405.2\text{ J}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(+810.4\text{ J}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(0\text{ J}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:chemical_thermodynamics</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:graph</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch004-unit-4-chemical-thermodynamics] NEET_UG_CHEMISTRY_MCQ_Q09 - Enthalpy of hydrogenation using Hess's law</text></name>
+  <questiontext format="html"><text><![CDATA[<p>At \(298\text{ K}\), the standard enthalpies of combustion of \(\text{C}_2\text{H}_4(g)\), \(\text{H}_2(g)\), and \(\text{C}_2\text{H}_6(g)\) are \(-1410\text{ kJ mol}^{-1}\), \(-286\text{ kJ mol}^{-1}\), and \(-1560\text{ kJ mol}^{-1}\), respectively. What is the standard enthalpy of hydrogenation of ethene for the reaction \(\text{C}_2\text{H}_4(g) + \text{H}_2(g) \rightarrow \text{C}_2\text{H}_6(g)\)?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>\(\Delta_c H^\circ(\text{C}_2\text{H}_4) = -1410\text{ kJ mol}^{-1}\), \(\Delta_c H^\circ(\text{H}_2) = -286\text{ kJ mol}^{-1}\), and \(\Delta_c H^\circ(\text{C}_2\text{H}_6) = -1560\text{ kJ mol}^{-1}\) at \(298\text{ K}\).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>All combustion enthalpies correspond to complete oxidation to \(\text{CO}_2(g)\) and \(\text{H}_2\text{O}(l)\) under standard conditions at \(298\text{ K}\).</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>By Hess's Law of Constant Heat Summation, the standard enthalpy of reaction from standard enthalpies of combustion is:<br/>\(\Delta_r H^\circ = \sum \Delta_c H^\circ(\text{reactants}) - \sum \Delta_c H^\circ(\text{products})\).</p><p><strong>Step 4: Step-by-Step Working</strong><br/>For \(\text{C}_2\text{H}_4(g) + \text{H}_2(g) \rightarrow \text{C}_2\text{H}_6(g)\):<br/>\(\Delta_r H^\circ = \Delta_c H^\circ(\text{C}_2\text{H}_4) + \Delta_c H^\circ(\text{H}_2) - \Delta_c H^\circ(\text{C}_2\text{H}_6)\)<br/>\(\Delta_r H^\circ = (-1410) + (-286) - (-1560) = -1696 + 1560 = -136\text{ kJ mol}^{-1}\).</p><p><strong>Step 5: Check and Final Answer</strong><br/>Hydrogenation of an alkene is an exothermic process (\(\Delta_r H^\circ < 0\)), confirming the negative sign. The standard enthalpy of hydrogenation is \(-136\text{ kJ mol}^{-1}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(+136\text{ kJ mol}^{-1}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(-268\text{ kJ mol}^{-1}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(-1696\text{ kJ mol}^{-1}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(-136\text{ kJ mol}^{-1}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:chemical_thermodynamics</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch004-unit-4-chemical-thermodynamics] NEET_UG_CHEMISTRY_MCQ_Q10 - Entropy changes during isothermal free expansion</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Two moles of an ideal gas undergo isothermal free expansion from \(10\text{ L}\) to \(40\text{ L}\) against vacuum at \(300\text{ K}\). What are the entropy changes \(\Delta S_{\text{sys}}\), \(\Delta S_{\text{surr}}\), and \(\Delta S_{\text{univ}}\), respectively?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Number of moles \(n = 2\text{ mol}\), initial volume \(V_1 = 10\text{ L}\), final volume \(V_2 = 40\text{ L}\), temperature \(T = 300\text{ K}\), external pressure \(P_{\text{ext}} = 0\) (free expansion).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Entropy is a state function, so \(\Delta S_{\text{sys}}\) depends only on the initial and final equilibrium states and can be evaluated using a reversible isothermal path connecting the same two states.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>For isothermal expansion of an ideal gas: \(\Delta S_{\text{sys}} = nR \ln\left(\frac{V_2}{V_1}\right)\).<br/>For free expansion: \(P_{\text{ext}} = 0 \implies w = 0\), and since the process is isothermal for an ideal gas, \(\Delta U = 0 \implies q = 0\).<br/>Total entropy change: \(\Delta S_{\text{univ}} = \Delta S_{\text{sys}} + \Delta S_{\text{surr}}\).</p><p><strong>Step 4: Step-by-Step Working</strong><br/>\(\Delta S_{\text{sys}} = 2 R \ln\left(\frac{40}{10}\right) = 2 R \ln 4 = 2 R \ln(2^2) = 4 R \ln 2\).<br/>Since \(q_{\text{surr}} = -q_{\text{sys}} = 0\), the entropy change of the surroundings is \(\Delta S_{\text{surr}} = \frac{q_{\text{surr}}}{T} = 0\).<br/>Therefore, \(\Delta S_{\text{univ}} = 4 R \ln 2 + 0 = 4 R \ln 2\).</p><p><strong>Step 5: Check and Final Answer</strong><br/>Since \(\Delta S_{\text{univ}} > 0\), isothermal free expansion is spontaneous and irreversible. The values are \(\Delta S_{\text{sys}} = 4R\ln 2\), \(\Delta S_{\text{surr}} = 0\), and \(\Delta S_{\text{univ}} = 4R\ln 2\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(4R\ln 2\), \(0\), \(4R\ln 2\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(4R\ln 2\), \(-4R\ln 2\), \(0\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(2R\ln 2\), \(0\), \(2R\ln 2\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(0\), \(0\), \(0\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:chemical_thermodynamics</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch005-unit-5-solutions] NEET_UG_CHEMISTRY_AR_Q11 - Gibbs energy and entropy of ideal mixing</text></name>
+  <questiontext format="html"><text><![CDATA[<p><strong>Assertion (A):</strong> For an ideal solution formed by mixing two miscible liquids at constant temperature and pressure, \(\Delta_{\text{mix}}H = 0\) and \(\Delta_{\text{mix}}V = 0\), yet \(\Delta_{\text{mix}}G &lt; 0\).</p><p><strong>Reason (R):</strong> Mixing of two ideal liquids is accompanied by an increase in entropy (\(\Delta_{\text{mix}}S &gt; 0\)), making \(\Delta_{\text{mix}}G = -T\Delta_{\text{mix}}S &lt; 0\).</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>At constant temperature and pressure, the spontaneity of mixing is governed by the Gibbs energy of mixing, \(\Delta_{\text{mix}}G = \Delta_{\text{mix}}H - T\Delta_{\text{mix}}S\).</p><p><strong>Step 2: Evaluation</strong><br/>In an ideal solution, intermolecular interactions between unlike molecules (\(A\text{--}B\)) are identical in strength to those between like molecules (\(A\text{--}A\) and \(B\text{--}B\)), so there is no enthalpy change (\(\Delta_{\text{mix}}H = 0\)) and no volume change (\(\Delta_{\text{mix}}V = 0\)) upon mixing. However, mixing distributes the molecules over a larger accessible configurational space, increasing randomness so that \(\Delta_{\text{mix}}S = -R(n_1 \ln x_1 + n_2 \ln x_2) &gt; 0\). Substituting \(\Delta_{\text{mix}}H = 0\) into the Gibbs energy relation gives \(\Delta_{\text{mix}}G = -T\Delta_{\text{mix}}S &lt; 0\).</p><p><strong>Step 3: Application</strong><br/>Both the assertion regarding the thermodynamic mixing quantities and the reason invoking the positive entropy of mixing are true, and the entropy increase directly accounts for why \(\Delta_{\text{mix}}G\) is negative.</p><p><strong>Step 4: Final Conclusion</strong><br/>Both the assertion and the reason are correct, and the reason is the correct explanation of the assertion.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both (A) and (R) are correct and (R) is the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is correct but (R) is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is incorrect but (R) is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:solutions</text></tag>
+    <tag><text>typology:assertion-reason</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch005-unit-5-solutions] NEET_UG_CHEMISTRY_STMT_Q12 - Colligative boiling point elevation and Raoult deviations</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Given below are two statements:</p><p><strong>Statement I:</strong> Assuming complete dissociation, an aqueous \(0.1\text{ m}\) \(\text{K}_4[\text{Fe(CN)}_6]\) solution exhibits a higher boiling point than an aqueous \(0.1\text{ m}\) \(\text{CaCl}_2\) solution.</p><p><strong>Statement II:</strong> For a binary liquid mixture showing positive deviation from Raoult's law, the total vapour pressure is lower than that predicted by Raoult's law and \(\Delta_{\text{mix}}H &lt; 0\).</p><p>In the light of the above statements, choose the most appropriate answer from the options given below:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Boiling point elevation is a colligative property given by \(\Delta T_b = i K_b m\), where \(i\) is the van 't Hoff factor. Deviations from Raoult's law depend on the relative strengths of \(A\text{--}B\) versus \(A\text{--}A\) and \(B\text{--}B\) intermolecular forces.</p><p><strong>Step 2: Evaluation</strong><br/>Upon complete dissociation, \(\text{K}_4[\text{Fe(CN)}_6]\) yields \(4\text{ K}^+ + [\text{Fe(CN)}_6]^{4-}\) (\(5\) ions, \(i = 5\)), whereas \(\text{CaCl}_2\) yields \(\text{Ca}^{2+} + 2\text{Cl}^-\) (\(3\) ions, \(i = 3\)). At equal molality (\(0.1\text{ m}\)) in water, \(\Delta T_b\) is larger for \(\text{K}_4[\text{Fe(CN)}_6]\), giving it a higher boiling point; thus the first claim is correct.<br/>Positive deviation from Raoult's law occurs when \(A\text{--}B\) attractions are weaker than \(A\text{--}A\) and \(B\text{--}B\) attractions. This increases escaping tendency (higher total vapour pressure than predicted) and absorbs heat during mixing (\(\Delta_{\text{mix}}H &gt; 0\)); thus the second claim is incorrect.</p><p><strong>Step 3: Application</strong><br/>Combining both evaluations shows that the boiling point comparison is valid while the description of positive deviation from Raoult's law is false.</p><p><strong>Step 4: Final Conclusion</strong><br/>The first statement is correct, and the second statement is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are incorrect.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Statement I is correct but Statement II is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is incorrect but Statement II is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:solutions</text></tag>
+    <tag><text>typology:statement_based_2</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch006-unit-6-equilibrium] NEET_UG_CHEMISTRY_SEQ_Q13 - Ranking molar solubility of sparingly soluble salts</text></name>
+  <questiontext format="html"><text><![CDATA[<p>The solubility product constants (\(K_{sp}\)) of four sparingly soluble salts in pure water at \(298\text{ K}\) are given below:</p><ul><li>\(\text{AgCl}:\ K_{sp} = 1.0 \times 10^{-10}\)</li><li>\(\text{Ag}_2\text{CrO}_4:\ K_{sp} = 4.0 \times 10^{-12}\)</li><li>\(\text{CaF}_2:\ K_{sp} = 3.2 \times 10^{-11}\)</li><li>\(\text{Fe(OH)}_3:\ K_{sp} = 2.7 \times 10^{-39}\)</li></ul><p>Arrange these salts in the <strong>increasing order</strong> of their molar solubility in pure water at \(298\text{ K}\).</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>\(K_{sp}(\text{AgCl}) = 1.0 \times 10^{-10}\), \(K_{sp}(\text{Ag}_2\text{CrO}_4) = 4.0 \times 10^{-12}\), \(K_{sp}(\text{CaF}_2) = 3.2 \times 10^{-11}\), and \(K_{sp}(\text{Fe(OH)}_3) = 2.7 \times 10^{-39}\) at \(298\text{ K}\).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Hydrolysis of ions and activity effects are neglected in pure water, so molar solubility \(s\) is related directly to \(K_{sp}\) by the dissolution stoichiometry.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>For \(\text{AB}\) type: \(K_{sp} = s^2\).<br/>For \(\text{A}_2\text{B}\) or \(\text{AB}_2\) type: \(K_{sp} = 4s^3\).<br/>For \(\text{AB}_3\) type: \(K_{sp} = 27s^4\).</p><p><strong>Step 4: Step-by-Step Working</strong><br/>For \(\text{Fe(OH)}_3\): \(27s^4 = 2.7 \times 10^{-39} = 27 \times 10^{-40} \implies s = 1.0 \times 10^{-10}\text{ M}\).<br/>For \(\text{AgCl}\): \(s^2 = 1.0 \times 10^{-10} \implies s = 1.0 \times 10^{-5}\text{ M}\).<br/>For \(\text{Ag}_2\text{CrO}_4\): \(4s^3 = 4.0 \times 10^{-12} \implies s^3 = 1.0 \times 10^{-12} \implies s = 1.0 \times 10^{-4}\text{ M}\).<br/>For \(\text{CaF}_2\): \(4s^3 = 3.2 \times 10^{-11} = 32 \times 10^{-12} \implies s^3 = 8.0 \times 10^{-12} \implies s = 2.0 \times 10^{-4}\text{ M}\).</p><p><strong>Step 5: Check and Final Answer</strong><br/>Comparing the calculated molar solubilities: \(1.0 \times 10^{-10} &lt; 1.0 \times 10^{-5} &lt; 1.0 \times 10^{-4} &lt; 2.0 \times 10^{-4}\). Thus, the increasing order of molar solubility is \(\text{Fe(OH)}_3 &lt; \text{AgCl} &lt; \text{Ag}_2\text{CrO}_4 &lt; \text{CaF}_2\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\text{Fe(OH)}_3 &lt; \text{Ag}_2\text{CrO}_4 &lt; \text{CaF}_2 &lt; \text{AgCl}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(\text{Fe(OH)}_3 &lt; \text{AgCl} &lt; \text{Ag}_2\text{CrO}_4 &lt; \text{CaF}_2\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\text{AgCl} &lt; \text{Fe(OH)}_3 &lt; \text{Ag}_2\text{CrO}_4 &lt; \text{CaF}_2\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\text{Fe(OH)}_3 &lt; \text{AgCl} &lt; \text{CaF}_2 &lt; \text{Ag}_2\text{CrO}_4\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:equilibrium</text></tag>
+    <tag><text>typology:sequencing</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch006-unit-6-equilibrium] NEET_UG_CHEMISTRY_MATCH_Q14 - Le Chatelier perturbations on ammonia synthesis</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Consider the Haber-process equilibrium: \(\text{N}_2(g) + 3\text{H}_2(g) \rightleftharpoons 2\text{NH}_3(g),\ \Delta H = -92.4\text{ kJ mol}^{-1}\). Match each change in List I with its effect in List II:</p><table border="1" cellpadding="6" cellspacing="0"><thead><tr><th>List I (Change applied)</th><th>List II (Effect on equilibrium)</th></tr></thead><tbody><tr><td>(A) Increasing pressure at constant temperature</td><td>(I) Equilibrium shifts in forward direction</td></tr><tr><td>(B) Increasing temperature at constant pressure</td><td>(II) Equilibrium shifts in backward direction and \(K_p\) decreases</td></tr><tr><td>(C) Adding a positive catalyst</td><td>(III) Equilibrium is attained faster without changing \(K_p\)</td></tr><tr><td>(D) Adding \(\text{NH}_3(g)\) at constant \(T\) and \(V\)</td><td>(IV) Reaction quotient \(Q_c\) becomes greater than \(K_c\)</td></tr></tbody></table><p>Choose the correct match from the options given below:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>According to Le Chatelier's principle, a system at equilibrium responds to a disturbance by shifting in a direction that partially counteracts the imposed change. The equilibrium constant \(K_p\) or \(K_c\) depends only on temperature.</p><p><strong>Step 2: Evaluation</strong><br/>For \(\text{N}_2(g) + 3\text{H}_2(g) \rightleftharpoons 2\text{NH}_3(g)\), \(\Delta n_g = 2 - 4 = -2 &lt; 0\). Increasing pressure at constant temperature shifts the equilibrium toward fewer gaseous moles, i.e., in the forward direction.<br/>Because the forward reaction is exothermic (\(\Delta H &lt; 0\)), increasing temperature shifts the equilibrium in the backward (endothermic) direction and decreases \(K_p\).<br/>A positive catalyst lowers the activation energy of both forward and reverse pathways equally, so equilibrium is attained faster without altering \(K_p\).<br/>Adding \(\text{NH}_3(g)\) at constant \(T\) and \(V\) increases the numerator of \(Q_c = \frac{[\text{NH}_3]^2}{[\text{N}_2][\text{H}_2]^3}\), making \(Q_c &gt; K_c\) and driving the reaction backward.</p><p><strong>Step 3: Application</strong><br/>Matching each perturbation with its thermodynamic and kinetic consequence gives the direct correspondence across all four pairs.</p><p><strong>Step 4: Final Conclusion</strong><br/>The correct pairing is A-I, B-II, C-III, D-IV.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-II, B-I, C-III, D-IV</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-I, B-II, C-IV, D-III</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-IV, B-III, C-II, D-I</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>A-I, B-II, C-III, D-IV</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:equilibrium</text></tag>
+    <tag><text>typology:matching-mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:table</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch006-unit-6-equilibrium] NEET_UG_CHEMISTRY_MCQ_Q15 - pH of acidic buffer at half-neutralization</text></name>
+  <questiontext format="html"><text><![CDATA[<p>What is the \(\text{pH}\) of the resulting solution when \(100\text{ mL}\) of \(0.2\text{ M}\) \(\text{CH}_3\text{COOH}\) (\(pK_a = 4.74\)) is mixed with \(100\text{ mL}\) of \(0.1\text{ M}\) \(\text{NaOH}\) at \(298\text{ K}\)?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Volume of \(\text{CH}_3\text{COOH} = 100\text{ mL}\), molarity \(= 0.2\text{ M}\), \(pK_a = 4.74\). Volume of \(\text{NaOH} = 100\text{ mL}\), molarity \(= 0.1\text{ M}\).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>The strong base \(\text{NaOH}\) reacts quantitatively with the weak acid \(\text{CH}_3\text{COOH}\) to form the conjugate base \(\text{CH}_3\text{COO}^-\), creating an acidic buffer solution.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Neutralization reaction: \(\text{CH}_3\text{COOH} + \text{NaOH} \rightarrow \text{CH}_3\text{COONa} + \text{H}_2\text{O}\).<br/>Henderson-Hasselbalch equation: \(\text{pH} = pK_a + \log\left(\frac{[\text{CH}_3\text{COO}^-]}{[\text{CH}_3\text{COOH}]}\right)\).</p><p><strong>Step 4: Step-by-Step Working</strong><br/>Initial millimoles of \(\text{CH}_3\text{COOH} = 100 \times 0.2 = 20\text{ mmol}\).<br/>Initial millimoles of \(\text{NaOH} = 100 \times 0.1 = 10\text{ mmol}\).<br/>After complete neutralization of \(\text{NaOH}\):<br/>Millimoles of \(\text{CH}_3\text{COOH}\) remaining \(= 20 - 10 = 10\text{ mmol}\).<br/>Millimoles of \(\text{CH}_3\text{COONa}\) formed \(= 10\text{ mmol}\).<br/>Since both species are in the same total volume (\(200\text{ mL}\)), \(\frac{[\text{CH}_3\text{COO}^-]}{[\text{CH}_3\text{COOH}]} = \frac{10}{10} = 1\).<br/>\(\text{pH} = 4.74 + \log(1) = 4.74 + 0 = 4.74\).</p><p><strong>Step 5: Check and Final Answer</strong><br/>Because exactly half of the weak acid is neutralized, \(\text{pH} = pK_a = 4.74\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(5.04\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(4.44\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(4.74\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(9.26\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:equilibrium</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>

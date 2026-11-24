@@ -1,0 +1,599 @@
+<question type="multichoice">
+  <name><text>[ch001-unit-1-physics-and-measurement] NEET_UG_PHYSICS_UNIT1_MCQ_Q01 - Dimensional analysis of composite fundamental constants</text></name>
+  <questiontext format="html"><![CDATA[<p>If \(h\) is Planck's constant, \(c\) is the speed of light in vacuum, and \(G\) is the universal gravitational constant, then the physical quantity having the same dimensions as \(\sqrt{\frac{h c}{G}}\) is:</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>We are given three fundamental physical constants: Planck's constant \(h\), the speed of light in vacuum \(c\), and the universal gravitational constant \(G\). We need to find the dimensions of the composite expression \(\sqrt{\frac{h c}{G}}\) and identify the physical quantity it represents.</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>We use the standard SI fundamental dimensions: mass \([\mathrm{M}]\), length \([\mathrm{L}]\), and time \([\mathrm{T}]\). All numerical constants and exponents are treated algebraically.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>From \(E = h\nu\), the dimensions of Planck's constant are \([h] = \frac{[E]}{[\nu]} = \frac{[\mathrm{M}\mathrm{L}^2\mathrm{T}^{-2}]}{[\mathrm{T}^{-1}]} = [\mathrm{M}\mathrm{L}^2\mathrm{T}^{-1}]\).<br/>The dimensions of speed of light are \([c] = [\mathrm{L}\mathrm{T}^{-1}]\).<br/>From Newton's law of gravitation \(F = \frac{G m_1 m_2}{r^2}\), the dimensions of \(G\) are \([G] = \frac{[F][r]^2}{[m]^2} = \frac{[\mathrm{M}\mathrm{L}\mathrm{T}^{-2}][\mathrm{L}^2]}{[\mathrm{M}^2]} = [\mathrm{M}^{-1}\mathrm{L}^3\mathrm{T}^{-2}]\).</p><p><strong>Step 4: Step-by-Step Working</strong><br/>Substitute the dimensional formulae into \(\frac{h c}{G}\):<br/>\[\left[\frac{h c}{G}\right] = \frac{[\mathrm{M}\mathrm{L}^2\mathrm{T}^{-1}][\mathrm{L}\mathrm{T}^{-1}]}{[\mathrm{M}^{-1}\mathrm{L}^3\mathrm{T}^{-2}]} = \frac{[\mathrm{M}\mathrm{L}^3\mathrm{T}^{-2}]}{[\mathrm{M}^{-1}\mathrm{L}^3\mathrm{T}^{-2}]} = [\mathrm{M}^2]\]<br/>Taking the square root of both sides:<br/>\[\left[\sqrt{\frac{h c}{G}}\right] = \left([\mathrm{M}^2]\right)^{1/2} = [\mathrm{M}]\]</p><p><strong>Step 5: Check and Final Answer</strong><br/>The resulting dimension \([\mathrm{M}]\) has no length or time dependence and corresponds to mass (specifically, the Planck mass). Therefore, the physical quantity having the same dimensions as \(\sqrt{\frac{h c}{G}}\) is mass.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Length</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Time</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Mass</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Energy</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:11</text></tag>
+    <tag><text>topic:dimensional_analysis</text></tag>
+    <tag><text>chapter:physics_and_measurement</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:equation</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch001-unit-1-physics-and-measurement] NEET_UG_PHYSICS_UNIT1_DIAGRAM_Q02 - Vernier calipers reading with positive zero error</text></name>
+  <questiontext format="html"><![CDATA[<p>A student uses a vernier calipers in which \(10\) divisions of the vernier scale coincide with \(9\) divisions of the main scale (\(1\text{ MSD} = 1\text{ mm}\)). Figure (i) shows the scales when the jaws are closed, and Figure (ii) shows the scales while measuring the diameter of a solid sphere. What is the true diameter of the sphere?</p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 230" width="560" height="230" style="max-width:100%;height:auto;background:#ffffff;border:1px solid #dddddd;">
+  <text x="20" y="25" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#111111">(i) Jaws closed (Zero error check)</text>
+  <line x1="40" y1="60" x2="360" y2="60" stroke="#111111" stroke-width="1.5"/>
+  <line x1="60" y1="42" x2="60" y2="60" stroke="#111111" stroke-width="1.5"/>
+  <text x="56" y="38" font-family="Arial, sans-serif" font-size="11" fill="#111111">0</text>
+  <line x1="80" y1="50" x2="80" y2="60" stroke="#111111" stroke-width="1"/>
+  <line x1="100" y1="50" x2="100" y2="60" stroke="#111111" stroke-width="1"/>
+  <line x1="120" y1="50" x2="120" y2="60" stroke="#111111" stroke-width="1"/>
+  <line x1="140" y1="50" x2="140" y2="60" stroke="#111111" stroke-width="1"/>
+  <line x1="160" y1="45" x2="160" y2="60" stroke="#111111" stroke-width="1.2"/>
+  <line x1="180" y1="50" x2="180" y2="60" stroke="#111111" stroke-width="1"/>
+  <line x1="200" y1="50" x2="200" y2="60" stroke="#111111" stroke-width="1"/>
+  <line x1="220" y1="50" x2="220" y2="60" stroke="#111111" stroke-width="1"/>
+  <line x1="240" y1="50" x2="240" y2="60" stroke="#111111" stroke-width="1"/>
+  <line x1="260" y1="42" x2="260" y2="60" stroke="#111111" stroke-width="1.5"/>
+  <text x="256" y="38" font-family="Arial, sans-serif" font-size="11" fill="#111111">1 cm</text>
+  <line x1="280" y1="50" x2="280" y2="60" stroke="#111111" stroke-width="1"/>
+  <line x1="300" y1="50" x2="300" y2="60" stroke="#111111" stroke-width="1"/>
+  <line x1="68" y1="62" x2="248" y2="62" stroke="#0055aa" stroke-width="1.5"/>
+  <line x1="68" y1="62" x2="68" y2="78" stroke="#0055aa" stroke-width="1.5"/>
+  <text x="64" y="92" font-family="Arial, sans-serif" font-size="11" fill="#0055aa">0</text>
+  <line x1="86" y1="62" x2="86" y2="74" stroke="#0055aa" stroke-width="1"/>
+  <line x1="104" y1="62" x2="104" y2="74" stroke="#0055aa" stroke-width="1"/>
+  <line x1="122" y1="62" x2="122" y2="74" stroke="#0055aa" stroke-width="1"/>
+  <line x1="140" y1="62" x2="140" y2="78" stroke="#cc0000" stroke-width="1.5"/>
+  <text x="136" y="92" font-family="Arial, sans-serif" font-size="11" fill="#cc0000">4</text>
+  <line x1="158" y1="62" x2="158" y2="74" stroke="#0055aa" stroke-width="1"/>
+  <line x1="176" y1="62" x2="176" y2="74" stroke="#0055aa" stroke-width="1"/>
+  <line x1="194" y1="62" x2="194" y2="74" stroke="#0055aa" stroke-width="1"/>
+  <line x1="212" y1="62" x2="212" y2="74" stroke="#0055aa" stroke-width="1"/>
+  <line x1="230" y1="62" x2="230" y2="74" stroke="#0055aa" stroke-width="1"/>
+  <line x1="248" y1="62" x2="248" y2="78" stroke="#0055aa" stroke-width="1.5"/>
+  <text x="242" y="92" font-family="Arial, sans-serif" font-size="11" fill="#0055aa">10</text>
+  <text x="370" y="65" font-family="Arial, sans-serif" font-size="11" fill="#cc0000">4th VSD coincides</text>
+
+  <text x="20" y="130" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#111111">(ii) Measuring diameter of sphere</text>
+  <line x1="40" y1="168" x2="360" y2="168" stroke="#111111" stroke-width="1.5"/>
+  <line x1="60" y1="150" x2="60" y2="168" stroke="#111111" stroke-width="1.5"/>
+  <text x="48" y="146" font-family="Arial, sans-serif" font-size="11" fill="#111111">2 cm</text>
+  <line x1="80" y1="158" x2="80" y2="168" stroke="#111111" stroke-width="1"/>
+  <line x1="100" y1="158" x2="100" y2="168" stroke="#111111" stroke-width="1"/>
+  <line x1="120" y1="158" x2="120" y2="168" stroke="#111111" stroke-width="1"/>
+  <line x1="140" y1="158" x2="140" y2="168" stroke="#111111" stroke-width="1"/>
+  <line x1="160" y1="153" x2="160" y2="168" stroke="#111111" stroke-width="1.2"/>
+  <line x1="180" y1="158" x2="180" y2="168" stroke="#111111" stroke-width="1"/>
+  <line x1="200" y1="158" x2="200" y2="168" stroke="#111111" stroke-width="1"/>
+  <line x1="220" y1="158" x2="220" y2="168" stroke="#111111" stroke-width="1"/>
+  <line x1="240" y1="158" x2="240" y2="168" stroke="#111111" stroke-width="1"/>
+  <line x1="260" y1="150" x2="260" y2="168" stroke="#111111" stroke-width="1.5"/>
+  <text x="248" y="146" font-family="Arial, sans-serif" font-size="11" fill="#111111">3 cm</text>
+  <line x1="280" y1="158" x2="280" y2="168" stroke="#111111" stroke-width="1"/>
+  <line x1="300" y1="158" x2="300" y2="168" stroke="#111111" stroke-width="1"/>
+  <line x1="134" y1="170" x2="314" y2="170" stroke="#0055aa" stroke-width="1.5"/>
+  <line x1="134" y1="170" x2="134" y2="186" stroke="#0055aa" stroke-width="1.5"/>
+  <text x="130" y="200" font-family="Arial, sans-serif" font-size="11" fill="#0055aa">0</text>
+  <line x1="152" y1="170" x2="152" y2="182" stroke="#0055aa" stroke-width="1"/>
+  <line x1="170" y1="170" x2="170" y2="182" stroke="#0055aa" stroke-width="1"/>
+  <line x1="188" y1="170" x2="188" y2="182" stroke="#0055aa" stroke-width="1"/>
+  <line x1="206" y1="170" x2="206" y2="182" stroke="#0055aa" stroke-width="1"/>
+  <line x1="224" y1="170" x2="224" y2="182" stroke="#0055aa" stroke-width="1"/>
+  <line x1="242" y1="170" x2="242" y2="182" stroke="#0055aa" stroke-width="1"/>
+  <line x1="260" y1="170" x2="260" y2="186" stroke="#cc0000" stroke-width="1.5"/>
+  <text x="256" y="200" font-family="Arial, sans-serif" font-size="11" fill="#cc0000">7</text>
+  <line x1="278" y1="170" x2="278" y2="182" stroke="#0055aa" stroke-width="1"/>
+  <line x1="296" y1="170" x2="296" y2="182" stroke="#0055aa" stroke-width="1"/>
+  <line x1="314" y1="170" x2="314" y2="186" stroke="#0055aa" stroke-width="1.5"/>
+  <text x="308" y="200" font-family="Arial, sans-serif" font-size="11" fill="#0055aa">10</text>
+  <text x="370" y="175" font-family="Arial, sans-serif" font-size="11" fill="#cc0000">7th VSD coincides</text>
+</svg>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>\(1\text{ MSD} = 1\text{ mm} = 0.1\text{ cm}\), and \(10\text{ VSD} = 9\text{ MSD}\).<br/>When the jaws are closed, the zero mark of the vernier scale lies to the right of the zero mark of the main scale, and the \(4\text{th}\) vernier scale division coincides with a main scale division.<br/>While measuring the sphere, the zero mark of the vernier scale lies between \(2.3\text{ cm}\) and \(2.4\text{ cm}\) on the main scale, and the \(7\text{th}\) vernier scale division coincides with a main scale division.</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>When the vernier zero lies to the right of the main scale zero with jaws closed, the zero error is positive. The true reading is obtained by subtracting the zero error (with its sign) from the observed reading.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Least count: \(\text{LC} = 1\text{ MSD} - 1\text{ VSD}\).<br/>Observed reading: \(R_{\text{obs}} = \text{MSR} + (n \times \text{LC})\), where \(\text{MSR}\) is the main scale reading just before the vernier zero and \(n\) is the coinciding vernier division.<br/>True reading: \(R_{\text{true}} = R_{\text{obs}} - \text{Zero Error}\).</p><p><strong>Step 4: Step-by-Step Working</strong><br/>1. Calculate the least count:<br/>\[1\text{ VSD} = \frac{9}{10}\text{ MSD} = 0.9\text{ mm}\]<br/>\[\text{LC} = 1\text{ mm} - 0.9\text{ mm} = 0.1\text{ mm} = 0.01\text{ cm}\]<br/>2. Calculate the positive zero error:<br/>\[\text{Zero Error} = +4 \times 0.01\text{ cm} = +0.04\text{ cm}\]<br/>3. Calculate the observed diameter:<br/>\[\text{MSR} = 2.3\text{ cm}, \quad n = 7\]<br/>\[R_{\text{obs}} = 2.3\text{ cm} + (7 \times 0.01\text{ cm}) = 2.37\text{ cm}\]<br/>4. Calculate the true diameter:<br/>\[R_{\text{true}} = 2.37\text{ cm} - (+0.04\text{ cm}) = 2.33\text{ cm}\]</p><p><strong>Step 5: Check and Final Answer</strong><br/>Since the instrument has a positive zero error, it over-reads by \(0.04\text{ cm}\), so the true diameter is smaller than the observed reading of \(2.37\text{ cm}\). The true diameter of the sphere is \(2.33\text{ cm}\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(2.41\text{ cm}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(2.33\text{ cm}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(2.37\text{ cm}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(2.29\text{ cm}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:11</text></tag>
+    <tag><text>topic:vernier_calipers_and_errors</text></tag>
+    <tag><text>chapter:physics_and_measurement</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:diagram</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch002-unit-2-kinematics] NEET_UG_PHYSICS_UNIT2_DIAGRAM_Q03 - Distance to displacement ratio from velocity-time graph</text></name>
+  <questiontext format="html"><![CDATA[<p>The velocity-time (\(v\)-\(t\)) graph of a particle moving along a straight line from \(t = 0\) to \(t = 8\text{ s}\) is shown below. What is the ratio of the total distance travelled by the particle to the magnitude of its net displacement during this time interval?</p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 270" width="460" height="270" style="max-width:100%;height:auto;background:#ffffff;border:1px solid #dddddd;">
+  <line x1="60" y1="20" x2="60" y2="245" stroke="#222222" stroke-width="1.5"/>
+  <line x1="50" y1="150" x2="430" y2="150" stroke="#222222" stroke-width="1.5"/>
+  <line x1="60" y1="60" x2="410" y2="60" stroke="#cccccc" stroke-dasharray="4,4"/>
+  <line x1="60" y1="240" x2="410" y2="240" stroke="#cccccc" stroke-dasharray="4,4"/>
+  <line x1="140" y1="40" x2="140" y2="240" stroke="#eeeeee"/>
+  <line x1="220" y1="40" x2="220" y2="240" stroke="#eeeeee"/>
+  <line x1="300" y1="40" x2="300" y2="240" stroke="#eeeeee"/>
+  <line x1="380" y1="40" x2="380" y2="240" stroke="#eeeeee"/>
+  <polyline points="60,150 140,60 220,60 300,150 380,240" fill="none" stroke="#0055aa" stroke-width="2.5"/>
+  <circle cx="60" cy="150" r="3" fill="#0055aa"/>
+  <circle cx="140" cy="60" r="3" fill="#0055aa"/>
+  <circle cx="220" cy="60" r="3" fill="#0055aa"/>
+  <circle cx="300" cy="150" r="3" fill="#0055aa"/>
+  <circle cx="380" cy="240" r="3" fill="#0055aa"/>
+  <text x="35" y="64" font-family="Arial, sans-serif" font-size="12" fill="#111111">+6</text>
+  <text x="42" y="154" font-family="Arial, sans-serif" font-size="12" fill="#111111">0</text>
+  <text x="35" y="244" font-family="Arial, sans-serif" font-size="12" fill="#111111">-6</text>
+  <text x="15" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#111111">v (m/s)</text>
+  <text x="136" y="166" font-family="Arial, sans-serif" font-size="12" fill="#111111">2</text>
+  <text x="216" y="166" font-family="Arial, sans-serif" font-size="12" fill="#111111">4</text>
+  <text x="296" y="166" font-family="Arial, sans-serif" font-size="12" fill="#111111">6</text>
+  <text x="376" y="166" font-family="Arial, sans-serif" font-size="12" fill="#111111">8</text>
+  <text x="415" y="166" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#111111">t (s)</text>
+</svg>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>From the velocity-time graph:<br/>- From \(t = 0\) to \(t = 2\text{ s}\), velocity increases linearly from \(0\) to \(+6\text{ m/s}\).<br/>- From \(t = 2\text{ s}\) to \(t = 4\text{ s}\), velocity remains constant at \(+6\text{ m/s}\).<br/>- From \(t = 4\text{ s}\) to \(t = 6\text{ s}\), velocity decreases linearly from \(+6\text{ m/s}\) to \(0\).<br/>- From \(t = 6\text{ s}\) to \(t = 8\text{ s}\), velocity decreases linearly from \(0\) to \(-6\text{ m/s}\).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Area under the \(v\)-\(t\) curve above the time axis represents positive displacement, while area below the time axis represents negative displacement. Total distance is the sum of the magnitudes of all areas.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>\[\text{Net Displacement } (\Delta x) = \int_{0}^{8} v\,dt = A_{\text{positive}} - |A_{\text{negative}}|\]<br/>\[\text{Total Distance } (D) = \int_{0}^{8} |v|\,dt = A_{\text{positive}} + |A_{\text{negative}}|\]</p><p><strong>Step 4: Step-by-Step Working</strong><br/>1. Area of the trapezium from \(t = 0\) to \(t = 6\text{ s}\):<br/>\[A_1 = \frac{1}{2} \times (\text{sum of parallel sides}) \times \text{height} = \frac{1}{2} \times (6 + 2) \times 6 = 24\text{ m}\]<br/>2. Area of the triangle from \(t = 6\text{ s}\) to \(t = 8\text{ s}\) (below the time axis):<br/>\[A_2 = \frac{1}{2} \times \text{base} \times \text{height} = \frac{1}{2} \times (8 - 6) \times (-6) = -6\text{ m}\]<br/>3. Calculate total distance and net displacement:<br/>\[D = |A_1| + |A_2| = 24 + 6 = 30\text{ m}\]<br/>\[\Delta x = A_1 + A_2 = 24 - 6 = 18\text{ m}\]<br/>4. Find the ratio:<br/>\[\frac{D}{|\Delta x|} = \frac{30}{18} = \frac{5}{3}\]</p><p><strong>Step 5: Check and Final Answer</strong><br/>Distance is always greater than or equal to the magnitude of displacement, and here \(5/3 > 1\), which is physically consistent because the particle reversed direction at \(t = 6\text{ s}\). The required ratio is \(5 : 3\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(5 : 3\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(3 : 2\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(4 : 3\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(2 : 1\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:11</text></tag>
+    <tag><text>topic:motion_graphs</text></tag>
+    <tag><text>chapter:kinematics</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:graph</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch002-unit-2-kinematics] NEET_UG_PHYSICS_UNIT2_MCQ_Q04 - Average speed with direction reversals from cubic position</text></name>
+  <questiontext format="html"><![CDATA[<p>A particle moves along the \(x\)-axis such that its position \(x\) (in metres) varies with time \(t\) (in seconds) according to the relation \(x(t) = t^3 - 6t^2 + 9t + 4\). What is the average speed of the particle during the time interval from \(t = 0\) to \(t = 4\text{ s}\)?</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Position as a function of time: \(x(t) = t^3 - 6t^2 + 9t + 4\) (in metres).<br/>Time interval: \(t = 0\text{ s}\) to \(t = 4\text{ s}\).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Motion is strictly one-dimensional along the \(x\)-axis. Whenever the instantaneous velocity \(v(t)\) changes sign, the particle reverses its direction of motion, so the path must be split at those turning points to compute total distance travelled.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Instantaneous velocity: \(v(t) = \frac{dx}{dt}\).<br/>Average speed: \(v_{\text{avg}} = \frac{\text{Total Distance}}{\text{Total Time}}\).</p><p><strong>Step 4: Step-by-Step Working</strong><br/>1. Differentiate \(x(t)\) to find the velocity and turning points:<br/>\[v(t) = \frac{d}{dt}(t^3 - 6t^2 + 9t + 4) = 3t^2 - 12t + 9 = 3(t - 1)(t - 3)\]<br/>Setting \(v(t) = 0\) gives turning points at \(t = 1\text{ s}\) and \(t = 3\text{ s}\), both of which lie within \([0, 4]\).<br/>2. Evaluate position \(x(t)\) at \(t = 0, 1, 3, 4\text{ s}\):<br/>\[x(0) = 0 - 0 + 0 + 4 = 4\text{ m}\]<br/>\[x(1) = 1 - 6 + 9 + 4 = 8\text{ m}\]<br/>\[x(3) = 27 - 54 + 27 + 4 = 4\text{ m}\]<br/>\[x(4) = 64 - 96 + 36 + 4 = 8\text{ m}\]<br/>3. Compute distances in each sub-interval:<br/>\[\Delta s_1 = |x(1) - x(0)| = |8 - 4| = 4\text{ m}\]<br/>\[\Delta s_2 = |x(3) - x(1)| = |4 - 8| = 4\text{ m}\]<br/>\[\Delta s_3 = |x(4) - x(3)| = |8 - 4| = 4\text{ m}\]<br/>4. Total distance and average speed:<br/>\[\text{Total Distance} = 4 + 4 + 4 = 12\text{ m}\]<br/>\[v_{\text{avg}} = \frac{12\text{ m}}{4\text{ s}} = 3\text{ m/s}\]</p><p><strong>Step 5: Check and Final Answer</strong><br/>Notice that the net displacement is \(x(4) - x(0) = 4\text{ m}\), giving an average velocity of \(1\text{ m/s}\), whereas the average speed must be larger due to the two direction reversals. The average speed of the particle is \(3\text{ m/s}\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(1\text{ m/s}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(2\text{ m/s}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(4\text{ m/s}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(3\text{ m/s}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:11</text></tag>
+    <tag><text>topic:rectilinear_motion</text></tag>
+    <tag><text>chapter:kinematics</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:equation</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch002-unit-2-kinematics] NEET_UG_PHYSICS_UNIT2_STMT2_Q05 - Uniform circular motion and projectile motion statements</text></name>
+  <questiontext format="html"><![CDATA[<p>Given below are two statements:</p>
+<p><strong>Statement I:</strong> In uniform circular motion, the acceleration of the particle is constant in magnitude and is always directed towards the centre of the circular path.</p>
+<p><strong>Statement II:</strong> At the highest point of an oblique projectile trajectory (neglecting air resistance), both the velocity and the acceleration of the projectile become zero.</p>
+<p>In the light of the above statements, choose the most appropriate answer from the options given below:</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>In uniform circular motion, speed \(v\) is constant while the direction of velocity changes continuously, producing a centripetal acceleration \(a_c = \frac{v^2}{R}\) directed radially inward. In projectile motion near the Earth's surface without air resistance, the only force acting is gravity, so the acceleration is always \(g\) vertically downward.</p><p><strong>Step 2: Evaluation of the First Statement</strong><br/>Since both speed \(v\) and radius \(R\) are constant in uniform circular motion, the magnitude of centripetal acceleration \(a_c = \frac{v^2}{R}\) remains constant, and its direction is always towards the centre of the circle. Hence, the first statement is correct.</p><p><strong>Step 3: Evaluation of the Second Statement</strong><br/>At the highest point of an oblique projectile trajectory, only the vertical component of velocity becomes zero; the horizontal component \(u\cos\theta\) remains non-zero. Furthermore, the acceleration due to gravity \(g\) continues to act vertically downward at every point, including the highest point. Hence, the second statement is incorrect.</p><p><strong>Step 4: Final Conclusion</strong><br/>The first statement is correct, whereas the second statement is incorrect.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are incorrect.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Statement I is correct but Statement II is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is incorrect but Statement II is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:11</text></tag>
+    <tag><text>topic:motion_in_a_plane</text></tag>
+    <tag><text>chapter:kinematics</text></tag>
+    <tag><text>typology:statement_based_2</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch003-unit-3-laws-of-motion] NEET_UG_PHYSICS_UNIT3_DIAGRAM_Q06 - Tension in pulley-block system with friction</text></name>
+  <questiontext format="html"><![CDATA[<p>A block of mass \(m_1 = 4\text{ kg}\) resting on a rough horizontal table is connected by a light inextensible string passing over a smooth, massless pulley at the edge to a hanging block of mass \(m_2 = 2\text{ kg}\), as shown in the figure. If the coefficients of static and kinetic friction between \(m_1\) and the table are \(\mu_s = 0.25\) and \(\mu_k = 0.2\), respectively, what is the tension in the string? (Take \(g = 10\text{ m/s}^2\))</p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 230" width="420" height="230" style="max-width:100%;height:auto;background:#ffffff;border:1px solid #dddddd;">
+  <rect x="30" y="90" width="230" height="115" fill="#e8e8e8" stroke="#444444" stroke-width="1.5"/>
+  <rect x="85" y="45" width="70" height="45" fill="#cce0ff" stroke="#004499" stroke-width="1.5"/>
+  <text x="103" y="72" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#003366">4 kg</text>
+  <circle cx="268" cy="82" r="14" fill="#d0d0d0" stroke="#222222" stroke-width="1.5"/>
+  <circle cx="268" cy="82" r="3" fill="#222222"/>
+  <line x1="260" y1="90" x2="268" y2="82" stroke="#222222" stroke-width="2"/>
+  <line x1="155" y1="68" x2="268" y2="68" stroke="#111111" stroke-width="1.8"/>
+  <line x1="282" y1="82" x2="282" y2="145" stroke="#111111" stroke-width="1.8"/>
+  <rect x="260" y="145" width="44" height="42" fill="#ffd9cc" stroke="#993300" stroke-width="1.5"/>
+  <text x="268" y="171" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#662200">2 kg</text>
+  <text x="55" y="115" font-family="Arial, sans-serif" font-size="11" fill="#333333">μs = 0.25, μk = 0.2</text>
+</svg>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Mass on the horizontal table: \(m_1 = 4\text{ kg}\).<br/>Hanging mass: \(m_2 = 2\text{ kg}\).<br/>Coefficients of friction: \(\mu_s = 0.25\), \(\mu_k = 0.2\).<br/>Acceleration due to gravity: \(g = 10\text{ m/s}^2\).<br/>The string is light and inextensible, and the pulley is smooth and massless.</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>First, check whether the driving weight \(m_2 g\) overcomes the maximum static friction on \(m_1\). If it does, both blocks accelerate with the same magnitude \(a\) (\(m_1\) to the right and \(m_2\) downward), and kinetic friction \(f_k\) acts to the left on \(m_1\).</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Maximum static friction: \(f_{s,\max} = \mu_s m_1 g\).<br/>Kinetic friction: \(f_k = \mu_k m_1 g\).<br/>Newton's second law for \(m_1\): \(T - f_k = m_1 a\).<br/>Newton's second law for \(m_2\): \(m_2 g - T = m_2 a\).</p><p><strong>Step 4: Step-by-Step Working</strong><br/>1. Check for motion:<br/>\[f_{s,\max} = 0.25 \times 4 \times 10 = 10\text{ N}\]<br/>\[m_2 g = 2 \times 10 = 20\text{ N}\]<br/>Since \(m_2 g > f_{s,\max}\), the system accelerates.<br/>2. Compute kinetic friction:<br/>\[f_k = 0.2 \times 4 \times 10 = 8\text{ N}\]<br/>3. Find acceleration \(a\) by adding the two equations of motion:<br/>\[a = \frac{m_2 g - f_k}{m_1 + m_2} = \frac{20 - 8}{4 + 2} = \frac{12}{6} = 2\text{ m/s}^2\]<br/>4. Substitute \(a\) into the equation for \(m_2\) to find tension \(T\):<br/>\[T = m_2(g - a) = 2(10 - 2) = 16\text{ N}\]</p><p><strong>Step 5: Check and Final Answer</strong><br/>Checking with \(m_1\): \(T - f_k = 16 - 8 = 8\text{ N} = m_1 a = 4 \times 2\text{ N}\), which is consistent. The tension in the string is \(16\text{ N}\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(12\text{ N}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(20\text{ N}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(16\text{ N}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(15\text{ N}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:11</text></tag>
+    <tag><text>topic:friction_and_pulley_systems</text></tag>
+    <tag><text>chapter:laws_of_motion</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:diagram</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch003-unit-3-laws-of-motion] NEET_UG_PHYSICS_UNIT3_MCQ_Q07 - Maximum safe speed on a banked circular road</text></name>
+  <questiontext format="html"><![CDATA[<p>A circular road of radius \(R = 40\text{ m}\) is banked at an angle \(\theta\) such that the optimum speed for negotiating the turn without relying on friction is \(20\text{ m/s}\). If the coefficient of static friction between the tyres of a car and the road is \(\mu_s = 0.5\), what is the maximum safe speed of the car without skidding? (Take \(g = 10\text{ m/s}^2\))</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Radius of the circular road: \(R = 40\text{ m}\).<br/>Optimum speed (zero friction): \(v_0 = 20\text{ m/s}\).<br/>Coefficient of static friction: \(\mu_s = 0.5\).<br/>Acceleration due to gravity: \(g = 10\text{ m/s}^2\).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>At the maximum safe speed \(v_{\max}\), the car tends to skid outward (up the incline), so the limiting static friction \(f_s = \mu_s N\) acts downward along the banked plane. Vertical equilibrium holds since there is no vertical acceleration.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Optimum speed on a banked road: \(v_0 = \sqrt{R g \tan\theta}\).<br/>Maximum safe speed on a banked road with friction: \[v_{\max} = \sqrt{R g \left(\frac{\mu_s + \tan\theta}{1 - \mu_s \tan\theta}\right)}\]</p><p><strong>Step 4: Step-by-Step Working</strong><br/>1. Determine \(\tan\theta\) from the optimum speed:<br/>\[v_0^2 = R g \tan\theta \implies 20^2 = 40 \times 10 \times \tan\theta \implies 400 = 400 \tan\theta \implies \tan\theta = 1\]<br/>2. Substitute \(R g = 400\text{ m}^2/\text{s}^2\), \(\tan\theta = 1\), and \(\mu_s = 0.5\) into the expression for \(v_{\max}\):<br/>\[v_{\max} = \sqrt{400 \left(\frac{0.5 + 1}{1 - 0.5 \times 1}\right)} = \sqrt{400 \left(\frac{1.5}{0.5}\right)} = \sqrt{400 \times 3} = 20\sqrt{3}\text{ m/s}\]</p><p><strong>Step 5: Check and Final Answer</strong><br/>Since \(\mu_s \tan\theta = 0.5 < 1\), the denominator is positive and \(v_{\max} > v_0\), as physically expected. The maximum safe speed of the car is \(20\sqrt{3}\text{ m/s}\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(20\sqrt{2}\text{ m/s}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(20\sqrt{3}\text{ m/s}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(40\text{ m/s}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(10\sqrt{6}\text{ m/s}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:11</text></tag>
+    <tag><text>topic:circular_motion_dynamics</text></tag>
+    <tag><text>chapter:laws_of_motion</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:equation</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch003-unit-3-laws-of-motion] NEET_UG_PHYSICS_UNIT3_AR_Q08 - Impulse-momentum relation in catching a ball</text></name>
+  <questiontext format="html"><![CDATA[<p><strong>Assertion (A):</strong> A cricketer pulls his hands backward while catching a fast-moving cricket ball.</p>
+<p><strong>Reason (R):</strong> Increasing the time duration of impact reduces the average impulsive force exerted by the ball on the hands for a given change in momentum.</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>According to Newton's second law and the impulse-momentum theorem, the impulse \(J\) delivered to an object equals the change in its linear momentum \(\Delta p\), which is related to the average force \(F_{\text{avg}}\) and impact duration \(\Delta t\) by \(F_{\text{avg}} = \frac{\Delta p}{\Delta t}\).</p><p><strong>Step 2: Evaluation of the Assertion</strong><br/>In practice, a cricketer always pulls his hands backward along the direction of the ball's motion while catching it to avoid injury. Therefore, the assertion is correct.</p><p><strong>Step 3: Evaluation of the Reason and Connection</strong><br/>For a ball of given mass and initial velocity brought to rest, the change in momentum \(\Delta p\) is fixed. By pulling the hands backward, the time interval \(\Delta t\) over which the ball is brought to rest increases, which directly decreases the average force \(F_{\text{avg}} = \frac{\Delta p}{\Delta t}\) exerted on the hands. Therefore, the reason is correct and directly explains the assertion.</p><p><strong>Step 4: Final Conclusion</strong><br/>Both the assertion and the reason are correct, and the reason is the correct explanation of the assertion.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both (A) and (R) are correct and (R) is the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is correct but (R) is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is incorrect but (R) is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:11</text></tag>
+    <tag><text>topic:impulse_and_momentum</text></tag>
+    <tag><text>chapter:laws_of_motion</text></tag>
+    <tag><text>typology:assertion_reason</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch004-unit-4-work-energy-and-power] NEET_UG_PHYSICS_UNIT4_DIAGRAM_Q09 - Stopping distance with spatially varying friction</text></name>
+  <questiontext format="html"><![CDATA[<p>A block of mass \(m = 2\text{ kg}\) is released from rest from the top of a smooth curved track at a height \(h = 5\text{ m}\) and slides smoothly onto a rough horizontal surface starting at \(x = 0\), as shown in the figure. On the rough surface, the coefficient of kinetic friction varies with position \(x\) (in metres) as \(\mu_k(x) = 0.2x\). How far does the block travel on the rough horizontal surface before coming to rest? (Take \(g = 10\text{ m/s}^2\))</p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 210" width="480" height="210" style="max-width:100%;height:auto;background:#ffffff;border:1px solid #dddddd;">
+  <path d="M 45 45 Q 75 160 180 160 L 430 160" fill="none" stroke="#111111" stroke-width="2.5"/>
+  <rect x="44" y="34" width="20" height="14" transform="rotate(62 44 34)" fill="#cce0ff" stroke="#004499" stroke-width="1.5"/>
+  <line x1="45" y1="45" x2="45" y2="160" stroke="#888888" stroke-dasharray="4,4"/>
+  <text x="15" y="108" font-family="Arial, sans-serif" font-size="12" fill="#111111">h = 5 m</text>
+  <line x1="180" y1="160" x2="430" y2="160" stroke="#cc0000" stroke-width="3" stroke-dasharray="6,3"/>
+  <line x1="180" y1="152" x2="180" y2="172" stroke="#111111" stroke-width="1.5"/>
+  <text x="168" y="186" font-family="Arial, sans-serif" font-size="12" fill="#111111">x = 0</text>
+  <text x="275" y="186" font-family="Arial, sans-serif" font-size="12" fill="#cc0000">Rough: μk(x) = 0.2x</text>
+  <text x="80" y="145" font-family="Arial, sans-serif" font-size="11" fill="#0055aa">Smooth</text>
+</svg>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Mass of the block: \(m = 2\text{ kg}\).<br/>Initial height: \(h = 5\text{ m}\), initial speed \(u = 0\).<br/>The curved track is smooth (frictionless).<br/>On the horizontal surface (\(x \ge 0\)), the coefficient of kinetic friction is \(\mu_k(x) = 0.2x\text{ m}^{-1}\).<br/>Final speed when the block stops at \(x = d\) is \(v = 0\).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Take the horizontal surface as the zero reference for gravitational potential energy. Friction always opposes the motion along the \(+x\) direction, so the work done by friction is negative.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Work-energy theorem: \(W_{\text{gravity}} + W_{\text{friction}} = \Delta K\).<br/>Work done by gravity: \(W_{\text{gravity}} = mgh\).<br/>Work done by spatially varying friction: \(W_{\text{friction}} = -\int_0^d f_k(x)\,dx = -\int_0^d \mu_k(x) m g\,dx\).</p><p><strong>Step 4: Step-by-Step Working</strong><br/>1. Since the block starts from rest and ends at rest, \(\Delta K = 0\):<br/>\[mgh - \int_0^d (0.2x) m g\,dx = 0\]<br/>2. Cancel \(mg\) from both terms and integrate:<br/>\[h = 0.2 \int_0^d x\,dx = 0.2 \left[\frac{x^2}{2}\right]_0^d = 0.1 d^2\]<br/>3. Substitute \(h = 5\text{ m}\):<br/>\[5 = 0.1 d^2 \implies d^2 = 50 \implies d = \sqrt{50} = 5\sqrt{2}\text{ m}\]</p><p><strong>Step 5: Check and Final Answer</strong><br/>The result is independent of mass \(m\) and \(g\) because both gravitational potential energy and frictional work scale linearly with \(mg\). The block travels \(5\sqrt{2}\text{ m}\) on the rough surface before stopping.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(5\text{ m}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(10\text{ m}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(2.5\sqrt{2}\text{ m}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(5\sqrt{2}\text{ m}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:11</text></tag>
+    <tag><text>topic:work_energy_theorem</text></tag>
+    <tag><text>chapter:work_energy_and_power</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:diagram</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch004-unit-4-work-energy-and-power] NEET_UG_PHYSICS_UNIT4_MCQ_Q10 - Rebound height after elastic pendulum collision</text></name>
+  <questiontext format="html"><![CDATA[<p>A small bob of mass \(m\) suspended by a light inextensible string of length \(L = 1.8\text{ m}\) is released from rest from a horizontal position. At the lowest point of its swing, it undergoes a head-on elastic collision with a stationary block of mass \(2m\) resting on a smooth horizontal table. To what maximum height does the bob rebound after the collision?</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Mass of the bob: \(m_1 = m\); length of the string: \(L = 1.8\text{ m}\).<br/>Mass of the stationary block: \(m_2 = 2m\), initial speed \(u_2 = 0\).<br/>The collision is head-on and elastic, and the table is smooth.</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Take the lowest point of the swing (the table level) as the zero level for gravitational potential energy. Take the direction of the bob's velocity just before impact as positive.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Conservation of mechanical energy during the swing: \(m_1 g L = \frac{1}{2} m_1 u_1^2 \implies u_1 = \sqrt{2gL}\).<br/>For a 1D elastic collision with a stationary target:<br/>\[v_1 = \left(\frac{m_1 - m_2}{m_1 + m_2}\right) u_1\]<br/>Maximum rebound height of the bob: \(h' = \frac{v_1^2}{2g}\).</p><p><strong>Step 4: Step-by-Step Working</strong><br/>1. Speed of the bob just before collision is \(u_1 = \sqrt{2gL}\).<br/>2. Velocity of the bob immediately after the elastic collision:<br/>\[v_1 = \left(\frac{m - 2m}{m + 2m}\right) u_1 = -\frac{1}{3} u_1\]<br/>The negative sign indicates that the bob rebounds backward.<br/>3. Maximum height reached by the bob after rebounding:<br/>\[h' = \frac{v_1^2}{2g} = \frac{\left(\frac{1}{3} u_1\right)^2}{2g} = \frac{1}{9} \left(\frac{u_1^2}{2g}\right) = \frac{L}{9}\]<br/>4. Substitute \(L = 1.8\text{ m}\):<br/>\[h' = \frac{1.8\text{ m}}{9} = 0.2\text{ m}\]</p><p><strong>Step 5: Check and Final Answer</strong><br/>Since the bob collides elastically with a heavier object, it rebounds with a fraction of its initial speed, so its rebound height must be less than \(L = 1.8\text{ m}\). The maximum rebound height of the bob is \(0.2\text{ m}\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(0.2\text{ m}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(0.6\text{ m}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(0.45\text{ m}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(0.9\text{ m}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:11</text></tag>
+    <tag><text>topic:elastic_collisions</text></tag>
+    <tag><text>chapter:work_energy_and_power</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch005-unit-5-rotational-motion] NEET_UG_PHYSICS_UNIT5_DIAGRAM_Q11 - Moment of inertia of square frame about corner</text></name>
+  <questiontext format="html"><![CDATA[<p>Four identical thin uniform rods, each of mass \(M\) and length \(L\), are joined to form a rigid square frame \(ABCD\), as shown in the figure. What is the moment of inertia of the square frame about an axis passing through corner \(A\) and perpendicular to the plane of the square?</p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 230" width="280" height="230" style="max-width:100%;height:auto;background:#ffffff;border:1px solid #dddddd;">
+  <rect x="75" y="45" width="130" height="130" fill="none" stroke="#0055aa" stroke-width="4"/>
+  <circle cx="75" cy="45" r="5" fill="#cc0000"/>
+  <circle cx="75" cy="45" r="9" fill="none" stroke="#cc0000" stroke-width="1.5"/>
+  <text x="54" y="42" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#cc0000">A</text>
+  <text x="212" y="42" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#111111">B</text>
+  <text x="212" y="186" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#111111">C</text>
+  <text x="54" y="186" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#111111">D</text>
+  <text x="135" y="36" font-family="Arial, sans-serif" font-size="12" fill="#111111">M, L</text>
+  <text x="135" y="192" font-family="Arial, sans-serif" font-size="12" fill="#111111">M, L</text>
+  <text x="36" y="115" font-family="Arial, sans-serif" font-size="12" fill="#111111">M, L</text>
+  <text x="214" y="115" font-family="Arial, sans-serif" font-size="12" fill="#111111">M, L</text>
+  <text x="88" y="64" font-family="Arial, sans-serif" font-size="11" fill="#cc0000">Axis ⊥ plane</text>
+</svg>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>A square frame \(ABCD\) is formed by four identical thin uniform rods, each of mass \(M\) and length \(L\). The axis of rotation passes through corner \(A\) and is perpendicular to the plane of the square.</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Moment of inertia is additive for a rigid assembly of bodies about the same axis. Each rod is treated as a one-dimensional uniform mass distribution.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Moment of inertia of a thin uniform rod about an axis perpendicular to it through its centre of mass: \(I_{\text{cm}} = \frac{1}{12} M L^2\).<br/>Moment of inertia of a thin uniform rod about an axis perpendicular to it through one end: \(I_{\text{end}} = \frac{1}{3} M L^2\).<br/>Parallel-axis theorem: \(I = I_{\text{cm}} + M d^2\), where \(d\) is the perpendicular distance between the centre of mass and the parallel axis.</p><p><strong>Step 4: Step-by-Step Working</strong><br/>1. For rods \(AB\) and \(AD\), the axis passes directly through one end (corner \(A\)):<br/>\[I_{AB} = I_{AD} = \frac{1}{3} M L^2\]<br/>2. For rods \(BC\) and \(CD\), the perpendicular distance \(d\) from corner \(A\) to the midpoint of either rod is:<br/>\[d^2 = L^2 + \left(\frac{L}{2}\right)^2 = \frac{5}{4} L^2\]<br/>Using the parallel-axis theorem:<br/>\[I_{BC} = I_{CD} = \frac{1}{12} M L^2 + M\left(\frac{5}{4} L^2\right) = \left(\frac{1 + 15}{12}\right) M L^2 = \frac{4}{3} M L^2\]<br/>3. Sum the moments of inertia of all four rods:<br/>\[I_A = I_{AB} + I_{AD} + I_{BC} + I_{CD} = \frac{1}{3}ML^2 + \frac{1}{3}ML^2 + \frac{4}{3}ML^2 + \frac{4}{3}ML^2 = \frac{10}{3} M L^2\]</p><p><strong>Step 5: Check and Final Answer</strong><br/>Alternatively, about the centre of the square, each rod has \(I_O = \frac{1}{12}ML^2 + M(L/2)^2 = \frac{1}{3}ML^2\), so the total is \(\frac{4}{3}ML^2\). Shifting to corner \(A\) (distance \(L/\sqrt{2}\)) adds \((4M)(L^2/2) = 2ML^2\), giving \(\frac{4}{3}ML^2 + 2ML^2 = \frac{10}{3}ML^2\). Thus, the moment of inertia about the axis through \(A\) is \(\frac{10}{3} M L^2\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\frac{4}{3} M L^2\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(\frac{10}{3} M L^2\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\frac{8}{3} M L^2\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\frac{7}{3} M L^2\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:11</text></tag>
+    <tag><text>topic:moment_of_inertia_theorems</text></tag>
+    <tag><text>chapter:rotational_motion</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:diagram</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch005-unit-5-rotational-motion] NEET_UG_PHYSICS_UNIT5_MATCH_Q12 - Matching rigid bodies with moments of inertia</text></name>
+  <questiontext format="html"><![CDATA[<p>Match List I (Rigid body of mass \(M\) and radius \(R\) with specified axis) with List II (Moment of inertia) and select the correct combination:</p>
+<table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;">
+  <thead>
+    <tr><th>List I</th><th>List II</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>(P) Thin circular ring about a diameter</td><td>(i) \(\frac{7}{5} M R^2\)</td></tr>
+    <tr><td>(Q) Uniform circular disc about a tangent in its plane</td><td>(ii) \(\frac{2}{3} M R^2\)</td></tr>
+    <tr><td>(R) Solid sphere about a tangent</td><td>(iii) \(\frac{1}{2} M R^2\)</td></tr>
+    <tr><td>(S) Hollow spherical shell about a diameter</td><td>(iv) \(\frac{5}{4} M R^2\)</td></tr>
+  </tbody>
+</table>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Standard moments of inertia about symmetry axes are combined with the perpendicular-axis theorem (for planar laminae) and the parallel-axis theorem \(I = I_{\text{cm}} + M d^2\) to obtain moments of inertia about diameters and tangents.</p><p><strong>Step 2: Evaluation of Each Rigid Body</strong><br/>- For a thin circular ring about its central perpendicular axis, \(I_z = M R^2\). By the perpendicular-axis theorem and symmetry, \(I_d + I_d = M R^2 \implies I_d = \frac{1}{2} M R^2\).<br/>- For a uniform circular disc about a diameter, \(I_d = \frac{1}{4} M R^2\). Shifting by distance \(R\) to a tangent in its plane gives \(I_{\text{tangent}} = \frac{1}{4} M R^2 + M R^2 = \frac{5}{4} M R^2\).<br/>- For a solid sphere about a diameter, \(I_{\text{cm}} = \frac{2}{5} M R^2\). Shifting by distance \(R\) to a tangent gives \(I_{\text{tangent}} = \frac{2}{5} M R^2 + M R^2 = \frac{7}{5} M R^2\).<br/>- For a hollow spherical shell about a diameter, the standard value is \(\frac{2}{3} M R^2\).</p><p><strong>Step 3: Final Conclusion</strong><br/>The correct pairings are: thin circular ring about a diameter \(\rightarrow \frac{1}{2} M R^2\); uniform circular disc about a tangent in its plane \(\rightarrow \frac{5}{4} M R^2\); solid sphere about a tangent \(\rightarrow \frac{7}{5} M R^2\); hollow spherical shell about a diameter \(\rightarrow \frac{2}{3} M R^2\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>P-(iii), Q-(i), R-(iv), S-(ii)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>P-(ii), Q-(iv), R-(i), S-(iii)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>P-(iii), Q-(iv), R-(ii), S-(i)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>P-(iii), Q-(iv), R-(i), S-(ii)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:11</text></tag>
+    <tag><text>topic:moment_of_inertia</text></tag>
+    <tag><text>chapter:rotational_motion</text></tag>
+    <tag><text>typology:matching_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:table</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch005-unit-5-rotational-motion] NEET_UG_PHYSICS_UNIT5_SEQ_Q13 - Ordering rolling bodies by translational acceleration</text></name>
+  <questiontext format="html"><![CDATA[<p>Four bodies of equal mass \(M\) and equal radius \(R\) roll without slipping down the same rough inclined plane of inclination \(\theta\):</p>
+<p>(P) Solid sphere<br/>
+(Q) Solid cylinder<br/>
+(R) Hollow spherical shell<br/>
+(S) Thin circular ring</p>
+<p>Arrange these bodies in the <strong>increasing order</strong> of their translational acceleration down the incline.</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>When a symmetric rigid body of mass \(M\), radius \(R\), and radius of gyration \(k\) rolls without slipping down an incline of angle \(\theta\), its translational acceleration is given by:<br/>\[a = \frac{g\sin\theta}{1 + \frac{k^2}{R^2}}\]<br/>Thus, the translational acceleration decreases as the dimensionless ratio \(\frac{k^2}{R^2}\) increases.</p><p><strong>Step 2: Evaluation of Each Body</strong><br/>Compute \(\frac{k^2}{R^2} = \frac{I}{MR^2}\) for each body:<br/>- Thin circular ring: \(\frac{k^2}{R^2} = 1.00\)<br/>- Hollow spherical shell: \(\frac{k^2}{R^2} = \frac{2}{3} \approx 0.67\)<br/>- Solid cylinder: \(\frac{k^2}{R^2} = \frac{1}{2} = 0.50\)<br/>- Solid sphere: \(\frac{k^2}{R^2} = \frac{2}{5} = 0.40\)</p><p><strong>Step 3: Application to Ordering</strong><br/>Since a larger value of \(\frac{k^2}{R^2}\) yields a smaller acceleration \(a\):<br/>\[a_{\text{ring}} < a_{\text{hollow sphere}} < a_{\text{solid cylinder}} < a_{\text{solid sphere}}\]</p><p><strong>Step 4: Final Conclusion</strong><br/>In increasing order of translational acceleration, the sequence is: thin circular ring, hollow spherical shell, solid cylinder, solid sphere.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>P, Q, R, S</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>S, Q, R, P</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>S, R, Q, P</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>R, S, Q, P</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:11</text></tag>
+    <tag><text>topic:rolling_motion</text></tag>
+    <tag><text>chapter:rotational_motion</text></tag>
+    <tag><text>typology:sequencing</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch006-unit-6-gravitation] NEET_UG_PHYSICS_UNIT6_MCQ_Q14 - Scaling of escape velocity with mass and radius</text></name>
+  <questiontext format="html"><![CDATA[<p>A planet has a mass \(8\) times the mass of the Earth and a radius \(2\) times the radius of the Earth. If the escape speed from the surface of the Earth is \(11.2\text{ km/s}\), what is the escape speed from the surface of this planet?</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Mass of the planet: \(M_p = 8 M_E\).<br/>Radius of the planet: \(R_p = 2 R_E\).<br/>Escape speed from Earth's surface: \(v_{e,E} = 11.2\text{ km/s}\).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Both the Earth and the planet are treated as spherically symmetric bodies, and atmospheric drag is neglected.</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Escape speed from the surface of a spherical body of mass \(M\) and radius \(R\):<br/>\[v_e = \sqrt{\frac{2GM}{R}}\]</p><p><strong>Step 4: Step-by-Step Working</strong><br/>Form the ratio of the escape speed on the planet to that on the Earth:<br/>\[\frac{v_{e,p}}{v_{e,E}} = \sqrt{\frac{M_p}{M_E} \cdot \frac{R_E}{R_p}} = \sqrt{8 \times \frac{1}{2}} = \sqrt{4} = 2\]<br/>Multiply by \(v_{e,E}\):<br/>\[v_{e,p} = 2 \times 11.2\text{ km/s} = 22.4\text{ km/s}\]</p><p><strong>Step 5: Check and Final Answer</strong><br/>Because mass increases by a factor of \(8\) while radius only doubles, the gravitational potential at the surface becomes four times deeper, doubling the escape speed. The escape speed from the planet's surface is \(22.4\text{ km/s}\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(44.8\text{ km/s}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(22.4\text{ km/s}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(11.2\text{ km/s}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(16.8\text{ km/s}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:11</text></tag>
+    <tag><text>topic:escape_velocity</text></tag>
+    <tag><text>chapter:gravitation</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:equation</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch006-unit-6-gravitation] NEET_UG_PHYSICS_UNIT6_DIAGRAM_Q15 - Kinetic energy ratio in elliptical satellite orbit</text></name>
+  <questiontext format="html"><![CDATA[<p>A satellite orbits a planet of mass \(M\) in an elliptical orbit with perigee distance \(r_p = R\) and apogee distance \(r_a = 3R\) from the centre of the planet, as shown in the figure. What is the ratio of the kinetic energy of the satellite at perigee (\(K_p\)) to its kinetic energy at apogee (\(K_a\))?</p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 210" width="420" height="210" style="max-width:100%;height:auto;background:#ffffff;border:1px solid #dddddd;">
+  <ellipse cx="210" cy="105" rx="150" ry="75" fill="none" stroke="#0055aa" stroke-width="2"/>
+  <line x1="60" y1="105" x2="360" y2="105" stroke="#888888" stroke-dasharray="4,4"/>
+  <circle cx="135" cy="105" r="14" fill="#ff9933" stroke="#994400" stroke-width="1.5"/>
+  <text x="129" y="109" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#111111">M</text>
+  <circle cx="60" cy="105" r="5" fill="#cc0000"/>
+  <text x="20" y="95" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#cc0000">Perigee</text>
+  <circle cx="360" cy="105" r="5" fill="#006600"/>
+  <text x="348" y="95" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#006600">Apogee</text>
+  <text x="85" y="125" font-family="Arial, sans-serif" font-size="12" fill="#111111">rp = R</text>
+  <text x="240" y="125" font-family="Arial, sans-serif" font-size="12" fill="#111111">ra = 3R</text>
+</svg>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Distance of the satellite from the centre of the planet at perigee: \(r_p = R\).<br/>Distance at apogee: \(r_a = 3R\).<br/>The satellite moves under the central gravitational force of the planet of mass \(M\).</p><p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>At both perigee and apogee, the velocity vector of the satellite is perpendicular to the position vector drawn from the centre of the planet (\(\sin 90^\circ = 1\)).</p><p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Since the gravitational force is a central force, it exerts zero torque about the centre of the planet, so angular momentum \(L\) is conserved:<br/>\[L = m v_p r_p = m v_a r_a\]<br/>Kinetic energy is \(K = \frac{1}{2} m v^2\).</p><p><strong>Step 4: Step-by-Step Working</strong><br/>1. From conservation of angular momentum:<br/>\[\frac{v_p}{v_a} = \frac{r_a}{r_p} = \frac{3R}{R} = 3\]<br/>2. Form the ratio of kinetic energies:<br/>\["\frac{K_p}{K_a} = \frac{\frac{1}{2} m v_p^2}{\frac{1}{2} m v_a^2} = \left(\frac{v_p}{v_a}\right)^2 = 3^2 = 9\]</p><p><strong>Step 5: Check and Final Answer</strong><br/>Wait—let us ensure clean formatting without stray quotation marks: \(\frac{K_p}{K_a} = 9\). The satellite moves faster at perigee (closest approach) than at apogee, so \(K_p > K_a\). The ratio of kinetic energy at perigee to that at apogee is \(9 : 1\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(9 : 1\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(3 : 1\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(1 : 3\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(1 : 9\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>class:11</text></tag>
+    <tag><text>topic:keplers_laws_and_satellite_motion</text></tag>
+    <tag><text>chapter:gravitation</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:diagram</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>

@@ -1,0 +1,634 @@
+<question type="multichoice">
+  <name><text>[ch007-unit-7-properties-of-solids-and-liquids] NEET_UG_PHYSICS_PROPERTIES_OF_SOLIDS_AND_LIQUIDS_DIAGRAM_Q01 - Volume flow rate in horizontal venturi tube</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Water of density \(\rho = 1000\text{ kg m}^{-3}\) flows steadily through a horizontal pipe whose cross-sectional area decreases from \(A_1 = 4\text{ cm}^2\) to \(A_2 = 2\text{ cm}^2\), as shown in the figure. Two vertical piezometer tubes connected at the two sections show a level difference \(\Delta h = 15\text{ cm}\). Taking \(g = 10\text{ m s}^{-2}\), what is the volume flow rate of water through the pipe?</p>
+<p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 220" width="460" height="220">
+  <rect x="0" y="0" width="460" height="220" fill="#ffffff"/>
+  <!-- Piezometer tube 1 -->
+  <line x1="120" y1="30" x2="120" y2="115" stroke="#1f2937" stroke-width="2"/>
+  <line x1="136" y1="30" x2="136" y2="115" stroke="#1f2937" stroke-width="2"/>
+  <rect x="121" y="55" width="14" height="60" fill="#93c5fd"/>
+  <!-- Piezometer tube 2 -->
+  <line x1="300" y1="30" x2="300" y2="130" stroke="#1f2937" stroke-width="2"/>
+  <line x1="316" y1="30" x2="316" y2="130" stroke="#1f2937" stroke-width="2"/>
+  <rect x="301" y="95" width="14" height="35" fill="#93c5fd"/>
+  <!-- Horizontal pipe -->
+  <path d="M 40 115 L 120 115 M 136 115 L 200 115 L 240 130 L 300 130 M 316 130 L 420 130" stroke="#1f2937" stroke-width="2.5" fill="none"/>
+  <path d="M 40 175 L 200 175 L 240 160 L 420 160" stroke="#1f2937" stroke-width="2.5" fill="none"/>
+  <!-- Water fill in pipe -->
+  <polygon points="40,116 200,116 240,131 420,131 420,159 240,159 200,174 40,174" fill="#bfdbfe" opacity="0.6"/>
+  <!-- Flow arrows -->
+  <line x1="65" y1="145" x2="105" y2="145" stroke="#1d4ed8" stroke-width="2"/>
+  <polygon points="105,141 113,145 105,149" fill="#1d4ed8"/>
+  <line x1="345" y1="145" x2="385" y2="145" stroke="#1d4ed8" stroke-width="2"/>
+  <polygon points="385,141 393,145 385,149" fill="#1d4ed8"/>
+  <!-- Level dashed lines and delta h -->
+  <line x1="136" y1="55" x2="350" y2="55" stroke="#6b7280" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="316" y1="95" x2="350" y2="95" stroke="#6b7280" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="342" y1="55" x2="342" y2="95" stroke="#dc2626" stroke-width="1.5"/>
+  <polygon points="339,61 342,55 345,61" fill="#dc2626"/>
+  <polygon points="339,89 342,95 345,89" fill="#dc2626"/>
+  <text x="352" y="80" font-family="Arial, sans-serif" font-size="14" fill="#dc2626">Δh = 15 cm</text>
+  <!-- Area labels -->
+  <text x="115" y="198" font-family="Arial, sans-serif" font-size="14" fill="#111827">A₁ = 4 cm²</text>
+  <text x="295" y="198" font-family="Arial, sans-serif" font-size="14" fill="#111827">A₂ = 2 cm²</text>
+</svg></p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>The diagram shows a horizontal pipe with a wider section of cross-sectional area \(A_1 = 4\text{ cm}^2 = 4 \times 10^{-4}\text{ m}^2\) and a narrower section of cross-sectional area \(A_2 = 2\text{ cm}^2 = 2 \times 10^{-4}\text{ m}^2\). The vertical piezometer tubes indicate a height difference \(\Delta h = 15\text{ cm} = 0.15\text{ m}\) between the water columns. The density of water is \(\rho = 1000\text{ kg m}^{-3}\) and \(g = 10\text{ m s}^{-2}\).</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Water is treated as an ideal, incompressible, non-viscous fluid in steady streamline flow. Since the pipe is horizontal, the gravitational potential energy per unit volume along the central streamline is the same at both sections.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>By the equation of continuity, \(A_1 v_1 = A_2 v_2 = Q\), where \(Q\) is the volume flow rate. By Bernoulli's principle for a horizontal pipe, \(P_1 + \frac{1}{2}\rho v_1^2 = P_2 + \frac{1}{2}\rho v_2^2\). The static pressure difference is related to the piezometer height difference by \(P_1 - P_2 = \rho g \Delta h\).</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>From continuity, \(v_2 = \left(\frac{A_1}{A_2}\right)v_1 = \left(\frac{4}{2}\right)v_1 = 2v_1\). Substituting into Bernoulli's equation gives:
+\[\frac{1}{2}\rho (v_2^2 - v_1^2) = P_1 - P_2 = \rho g \Delta h\]
+Dividing both sides by \(\rho\):
+\[\frac{1}{2}\left((2v_1)^2 - v_1^2\right) = g \Delta h \implies \frac{3}{2}v_1^2 = 10 \times 0.15 = 1.5\text{ m}^2\text{ s}^{-2}\]
+Solving for \(v_1\):
+\[v_1^2 = 1.0\text{ m}^2\text{ s}^{-2} \implies v_1 = 1.0\text{ m s}^{-1}\]
+The volume flow rate is:
+\[Q = A_1 v_1 = (4 \times 10^{-4}\text{ m}^2)(1.0\text{ m s}^{-1}) = 4 \times 10^{-4}\text{ m}^3\text{ s}^{-1} = 400\text{ cm}^3\text{ s}^{-1}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>Checking units: \(\text{m}^2 \times \text{m s}^{-1} = \text{m}^3\text{ s}^{-1}\), and \(1\text{ m}^3 = 10^6\text{ cm}^3\), so \(4 \times 10^{-4}\text{ m}^3\text{ s}^{-1} = 400\text{ cm}^3\text{ s}^{-1}\). The flow speed increases in the narrower section as pressure drops, which is physically consistent. Thus, the volume flow rate is \(400\text{ cm}^3\text{ s}^{-1}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(200\text{ cm}^3\text{ s}^{-1}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(400\text{ cm}^3\text{ s}^{-1}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(600\text{ cm}^3\text{ s}^{-1}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(800\text{ cm}^3\text{ s}^{-1}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>chapter:properties_of_solids_and_liquids</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:diagram</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch007-unit-7-properties-of-solids-and-liquids] NEET_UG_PHYSICS_PROPERTIES_OF_SOLIDS_AND_LIQUIDS_MCQ_Q02 - Coalescence of two soap bubbles in vacuum</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Two soap bubbles of radii \(3\text{ cm}\) and \(4\text{ cm}\) coalesce isothermally in vacuum to form a single spherical soap bubble. What is the radius of the resulting soap bubble?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Radius of the first soap bubble, \(r_1 = 3\text{ cm}\). Radius of the second soap bubble, \(r_2 = 4\text{ cm}\). The coalescence occurs isothermally in vacuum.</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>The gas inside each bubble behaves as an ideal gas at constant temperature \(T\). Because the bubbles are in vacuum, the external pressure is zero, so the pressure inside a soap bubble of radius \(r\) is solely the excess pressure due to its two liquid-vapor surfaces.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>The pressure inside a soap bubble of radius \(r\) in vacuum is \(P = \frac{4S}{r}\), where \(S\) is the surface tension of the soap solution. By conservation of the total number of moles of gas during isothermal coalescence, \(P_1 V_1 + P_2 V_2 = P V\), where \(V = \frac{4}{3}\pi r^3\).</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>Substituting \(P = \frac{4S}{r}\) and \(V = \frac{4}{3}\pi r^3\) into the ideal gas mole-conservation equation:
+\[\left(\frac{4S}{r_1}\right)\left(\frac{4}{3}\pi r_1^3\right) + \left(\frac{4S}{r_2}\right)\left(\frac{4}{3}\pi r_2^3\right) = \left(\frac{4S}{R}\right)\left(\frac{4}{3}\pi R^3\right)\]
+Cancelling the common factor \(\frac{16\pi S}{3}\) from all terms yields:
+\[r_1^2 + r_2^2 = R^2\]
+Substituting \(r_1 = 3\text{ cm}\) and \(r_2 = 4\text{ cm}\):
+\[R = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5\text{ cm}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>The total surface area \(8\pi R^2\) equals \(8\pi (r_1^2 + r_2^2)\), which also satisfies conservation of surface energy in vacuum. The resulting radius is \(5\text{ cm}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(3.5\text{ cm}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(4.5\text{ cm}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(5.0\text{ cm}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(7.0\text{ cm}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>chapter:properties_of_solids_and_liquids</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch007-unit-7-properties-of-solids-and-liquids] NEET_UG_PHYSICS_PROPERTIES_OF_SOLIDS_AND_LIQUIDS_DIAGRAM_Q03 - Steady-state junction temperature of three conducting rods</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Three cylindrical rods of identical length and cross-sectional area are joined at a common junction \(J\), as shown in the figure. Their thermal conductivities are \(2K\), \(K\), and \(3K\), and their free ends are maintained at constant temperatures \(120^\circ\text{C}\), \(0^\circ\text{C}\), and \(20^\circ\text{C}\), respectively. Neglecting any heat loss from the lateral surfaces, what is the steady-state temperature of the junction \(J\)?</p>
+<p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 210" width="420" height="210">
+  <rect x="0" y="0" width="420" height="210" fill="#ffffff"/>
+  <!-- Rod 1: Left horizontal -->
+  <rect x="60" y="95" width="130" height="20" fill="#fca5a5" stroke="#1f2937" stroke-width="2"/>
+  <text x="115" y="87" font-family="Arial, sans-serif" font-size="14" fill="#111827">2K</text>
+  <text x="10" y="110" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#b91c1c">120°C</text>
+  <!-- Rod 2: Upper right -->
+  <line x1="195" y1="105" x2="320" y2="45" stroke="#1f2937" stroke-width="18" stroke-linecap="butt"/>
+  <line x1="195" y1="105" x2="320" y2="45" stroke="#93c5fd" stroke-width="14" stroke-linecap="butt"/>
+  <text x="245" y="60" font-family="Arial, sans-serif" font-size="14" fill="#111827">K</text>
+  <text x="330" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1d4ed8">0°C</text>
+  <!-- Rod 3: Lower right -->
+  <line x1="195" y1="105" x2="320" y2="165" stroke="#1f2937" stroke-width="18" stroke-linecap="butt"/>
+  <line x1="195" y1="105" x2="320" y2="165" stroke="#fde68a" stroke-width="14" stroke-linecap="butt"/>
+  <text x="242" y="160" font-family="Arial, sans-serif" font-size="14" fill="#111827">3K</text>
+  <text x="330" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#b45309">20°C</text>
+  <!-- Junction node -->
+  <circle cx="195" cy="105" r="12" fill="#374151" stroke="#111827" stroke-width="2"/>
+  <text x="191" y="110" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff">J</text>
+</svg></p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Three rods of equal length \(L\) and equal cross-sectional area \(A\) meet at junction \(J\). Rod with conductivity \(k_1 = 2K\) has its free end at \(T_1 = 120^\circ\text{C}\). Rod with conductivity \(k_2 = K\) has its free end at \(T_2 = 0^\circ\text{C}\). Rod with conductivity \(k_3 = 3K\) has its free end at \(T_3 = 20^\circ\text{C}\).</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>At steady state, the temperature \(T_J\) at junction \(J\) is constant in time, and no heat is lost through the sides of the rods. By conservation of energy, the net rate of heat flow into junction \(J\) must be zero.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>According to Fourier's law of heat conduction, the steady-state heat current through a rod of thermal conductivity \(k\), cross-sectional area \(A\), and length \(L\) is \(H = \frac{k A \Delta T}{L}\). At the junction, \(\sum H_{\text{into } J} = 0\).</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>Equating the sum of heat currents flowing into junction \(J\) to zero:
+\[\frac{2K A}{L}(120 - T_J) + \frac{K A}{L}(0 - T_J) + \frac{3K A}{L}(20 - T_J) = 0\]
+Dividing throughout by the positive non-zero factor \(\frac{K A}{L}\):
+\[2(120 - T_J) + (0 - T_J) + 3(20 - T_J) = 0\]
+Expanding the terms:
+\[240 - 2T_J - T_J + 60 - 3T_J = 0\]
+\[300 - 6T_J = 0 \implies 6T_J = 300 \implies T_J = 50^\circ\text{C}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>The junction temperature \(50^\circ\text{C}\) lies between the highest end temperature (\(120^\circ\text{C}\)) and the lowest (\(0^\circ\text{C}\)). Heat flows from the \(120^\circ\text{C}\) end into \(J\) at a rate proportional to \(2(120 - 50) = 140\), and leaves \(J\) toward the \(0^\circ\text{C}\) and \(20^\circ\text{C}\) ends at rates proportional to \(1(50 - 0) = 50\) and \(3(50 - 20) = 90\), respectively; indeed \(50 + 90 = 140\). Thus, the steady-state temperature of junction \(J\) is \(50^\circ\text{C}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(50^\circ\text{C}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(40^\circ\text{C}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(60^\circ\text{C}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(45^\circ\text{C}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>chapter:properties_of_solids_and_liquids</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:diagram</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch008-unit-8-thermodynamics] NEET_UG_PHYSICS_THERMODYNAMICS_DIAGRAM_Q04 - Net heat absorbed in triangular P-V cycle</text></name>
+  <questiontext format="html"><text><![CDATA[<p>An ideal gas undergoes a cyclic process \(ABCA\) as shown in the \(P\text{-}V\) diagram below. Given \(P_0 = 1.0 \times 10^5\text{ Pa}\) and \(V_0 = 2.0 \times 10^{-3}\text{ m}^3\), what is the net heat absorbed by the gas during one complete cycle?</p>
+<p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 260" width="380" height="260">
+  <rect x="0" y="0" width="380" height="260" fill="#ffffff"/>
+  <!-- Axes -->
+  <line x1="60" y1="210" x2="340" y2="210" stroke="#111827" stroke-width="2"/>
+  <polygon points="340,206 350,210 340,214" fill="#111827"/>
+  <line x1="60" y1="210" x2="60" y2="30" stroke="#111827" stroke-width="2"/>
+  <polygon points="56,30 60,20 64,30" fill="#111827"/>
+  <text x="355" y="214" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#111827">V</text>
+  <text x="54" y="16" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#111827">P</text>
+  <!-- Grid/Tick lines -->
+  <line x1="60" y1="70" x2="120" y2="70" stroke="#9ca3af" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="60" y1="140" x2="270" y2="140" stroke="#9ca3af" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="120" y1="70" x2="120" y2="210" stroke="#9ca3af" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="270" y1="140" x2="270" y2="210" stroke="#9ca3af" stroke-width="1" stroke-dasharray="4,3"/>
+  <!-- Axis Labels -->
+  <text x="28" y="75" font-family="Arial, sans-serif" font-size="13" fill="#111827">2P₀</text>
+  <text x="34" y="145" font-family="Arial, sans-serif" font-size="13" fill="#111827">P₀</text>
+  <text x="112" y="228" font-family="Arial, sans-serif" font-size="13" fill="#111827">V₀</text>
+  <text x="260" y="228" font-family="Arial, sans-serif" font-size="13" fill="#111827">3V₀</text>
+  <!-- Triangle ABCA -->
+  <polygon points="120,70 270,70 270,140" fill="#dbeafe" opacity="0.6" stroke="#1d4ed8" stroke-width="2.5"/>
+  <!-- Direction Arrows -->
+  <polygon points="195,66 205,70 195,74" fill="#1d4ed8"/>
+  <polygon points="266,105 270,115 274,105" fill="#1d4ed8"/>
+  <polygon points="195,109 185,100 199,101" fill="#1d4ed8"/>
+  <!-- Vertices -->
+  <circle cx="120" cy="70" r="4" fill="#1e3a8a"/>
+  <circle cx="270" cy="70" r="4" fill="#1e3a8a"/>
+  <circle cx="270" cy="140" r="4" fill="#1e3a8a"/>
+  <text x="108" y="60" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#111827">A</text>
+  <text x="275" y="65" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#111827">B</text>
+  <text x="278" y="148" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#111827">C</text>
+</svg></p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>From the \(P\text{-}V\) diagram, the cyclic process \(ABCA\) forms a right-angled triangle traversed clockwise, with vertices \(A(V_0, 2P_0)\), \(B(3V_0, 2P_0)\), and \(C(3V_0, P_0)\). Here, \(P_0 = 1.0 \times 10^5\text{ Pa}\) and \(V_0 = 2.0 \times 10^{-3}\text{ m}^3\).</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Internal energy \(U\) is a state function, so over one complete cycle the net change in internal energy is \(\Delta U_{\text{net}} = 0\). For a clockwise loop on a \(P\text{-}V\) diagram with \(P\) on the vertical axis and \(V\) on the horizontal axis, the net work done by the gas \(W_{\text{net}}\) is positive and equal to the area enclosed by the loop.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>By the first law of thermodynamics, \(Q_{\text{net}} = \Delta U_{\text{net}} + W_{\text{net}}\). Since \(\Delta U_{\text{net}} = 0\), \(Q_{\text{net}} = W_{\text{net}} = \text{Area of } \triangle ABC = \frac{1}{2} \times \text{base} \times \text{height}\).</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>The base of the triangle along the volume axis is \(3V_0 - V_0 = 2V_0\). The height along the pressure axis is \(2P_0 - P_0 = P_0\). Therefore:
+\[W_{\text{net}} = \frac{1}{2} (2V_0)(P_0) = P_0 V_0\]
+Substituting the given numerical values:
+\[Q_{\text{net}} = W_{\text{net}} = (1.0 \times 10^5\text{ Pa})(2.0 \times 10^{-3}\text{ m}^3) = 200\text{ J}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>Checking units: \(\text{Pa}\cdot\text{m}^3 = (\text{N m}^{-2})\cdot\text{m}^3 = \text{N}\cdot\text{m} = \text{J}\). Since the cycle is clockwise, net work is done by the gas, so net heat is absorbed. The net heat absorbed by the gas is \(200\text{ J}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(100\text{ J}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(400\text{ J}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(300\text{ J}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(200\text{ J}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>chapter:thermodynamics</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:graph</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch008-unit-8-thermodynamics] NEET_UG_PHYSICS_THERMODYNAMICS_AR_Q05 - Temperature drop during adiabatic expansion</text></name>
+  <questiontext format="html"><text><![CDATA[<p><strong>Assertion (A):</strong> During an adiabatic expansion of an ideal gas, the temperature of the gas decreases.</p>
+<p><strong>Reason (R):</strong> In an adiabatic process, no heat is exchanged between the system and the surroundings, so the positive work done by the expanding gas decreases its internal energy.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>The first law of thermodynamics relates the heat supplied to a system \(Q\), the change in internal energy \(\Delta U\), and the work done by the system \(W\) via \(Q = \Delta U + W\). For an ideal gas, internal energy depends solely on absolute temperature (\(U = n C_V T\)).</p>
+<p><strong>Step 2: Evaluation</strong><br/>In an adiabatic process, the system is thermally insulated from its surroundings, so \(Q = 0\). During an expansion, the volume increases (\(dV &gt; 0\)), meaning the gas does positive work on the surroundings (\(W &gt; 0\)).</p>
+<p><strong>Step 3: Application</strong><br/>Substituting \(Q = 0\) into the first law gives \(\Delta U = -W\). Because \(W &gt; 0\), \(\Delta U &lt; 0\), which means the internal energy of the ideal gas decreases. Since \(U\) is directly proportional to the absolute temperature \(T\) for an ideal gas, the temperature must decrease. Thus, the assertion is correct, the reason is correct, and the reason directly explains why the temperature drops.</p>
+<p><strong>Step 4: Final Conclusion</strong><br/>Both the assertion and the reason are correct, and the reason is the correct explanation of the assertion.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both (A) and (R) are correct and (R) is the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is correct but (R) is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is incorrect but (R) is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>chapter:thermodynamics</text></tag>
+    <tag><text>typology:assertion_reason</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch009-unit-9-kinetic-theory-of-gases] NEET_UG_PHYSICS_KINETIC_THEORY_OF_GASES_MATCH_Q06 - Specific heat ratio for ideal gases</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Match the ideal gas types listed in List I with their corresponding values of the specific heat ratio \(\gamma = C_P / C_V\) in List II:</p>
+<table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th>List I (Gas Type)</th>
+      <th>List II (Value of \(\gamma\))</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. Monatomic gas</td>
+      <td>P. \(\frac{9}{7}\)</td>
+    </tr>
+    <tr>
+      <td>2. Rigid diatomic gas</td>
+      <td>Q. \(\frac{4}{3}\)</td>
+    </tr>
+    <tr>
+      <td>3. Non-rigid diatomic gas (with 1 vibrational mode)</td>
+      <td>R. \(\frac{5}{3}\)</td>
+    </tr>
+    <tr>
+      <td>4. Rigid non-linear polyatomic gas</td>
+      <td>S. \(\frac{7}{5}\)</td>
+    </tr>
+  </tbody>
+</table>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>According to the law of equipartition of energy, each degree of freedom contributes \(\frac{1}{2}RT\) per mole to the internal energy of an ideal gas. For a gas with \(f\) degrees of freedom, the molar specific heat at constant volume is \(C_V = \frac{f}{2}R\), and by Mayer's relation \(C_P = C_V + R = \left(\frac{f}{2} + 1\right)R\). Therefore, the adiabatic index is \(\gamma = \frac{C_P}{C_V} = 1 + \frac{2}{f}\).</p>
+<p><strong>Step 2: Evaluation</strong><br/>For a monatomic gas, there are \(f = 3\) translational degrees of freedom, giving \(\gamma = 1 + \frac{2}{3} = \frac{5}{3}\). For a rigid diatomic gas, there are 3 translational and 2 rotational degrees of freedom (\(f = 5\)), giving \(\gamma = 1 + \frac{2}{5} = \frac{7}{5}\).</p>
+<p><strong>Step 3: Application</strong><br/>For a non-rigid diatomic gas with 1 vibrational mode (which contributes 2 degrees of freedom: 1 kinetic and 1 potential), the total degrees of freedom are \(f = 5 + 2 = 7\), giving \(\gamma = 1 + \frac{2}{7} = \frac{9}{7}\). For a rigid non-linear polyatomic gas, there are 3 translational and 3 rotational degrees of freedom (\(f = 6\)), giving \(\gamma = 1 + \frac{2}{6} = \frac{4}{3}\).</p>
+<p><strong>Step 4: Final Conclusion</strong><br/>Thus, monatomic gas pairs with \(\frac{5}{3}\), rigid diatomic gas pairs with \(\frac{7}{5}\), non-rigid diatomic gas with one vibrational mode pairs with \(\frac{9}{7}\), and rigid non-linear polyatomic gas pairs with \(\frac{4}{3}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1-R, 2-S, 3-Q, 4-P</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1-R, 2-S, 3-P, 4-Q</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1-S, 2-R, 3-P, 4-Q</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1-Q, 2-P, 3-S, 4-R</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>chapter:kinetic_theory_of_gases</text></tag>
+    <tag><text>typology:matching_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:table</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch009-unit-9-kinetic-theory-of-gases] NEET_UG_PHYSICS_KINETIC_THEORY_OF_GASES_MCQ_Q07 - Equal RMS speed of oxygen and hydrogen molecules</text></name>
+  <questiontext format="html"><text><![CDATA[<p>At what absolute temperature will the root-mean-square speed of oxygen molecules (\(\text{O}_2\), molar mass \(32\text{ g mol}^{-1}\)) be equal to the root-mean-square speed of hydrogen molecules (\(\text{H}_2\), molar mass \(2\text{ g mol}^{-1}\)) at \(27^\circ\text{C}\)?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Molar mass of oxygen, \(M_{\text{O}_2} = 32\text{ g mol}^{-1}\). Molar mass of hydrogen, \(M_{\text{H}_2} = 2\text{ g mol}^{-1}\). Temperature of hydrogen gas, \(t_{\text{H}_2} = 27^\circ\text{C}\).</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Both gases are assumed to behave as ideal gases, and temperatures must be expressed in kelvin (\(T(\text{K}) = t(^\circ\text{C}) + 273\)).</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>The root-mean-square speed of gas molecules of molar mass \(M\) at absolute temperature \(T\) is given by:
+\[v_{\text{rms}} = \sqrt{\frac{3RT}{M}}\]</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>Converting the temperature of hydrogen to kelvin:
+\[T_{\text{H}_2} = 27 + 273 = 300\text{ K}\]
+Equating the root-mean-square speeds of oxygen and hydrogen:
+\[\sqrt{\frac{3R T_{\text{O}_2}}{M_{\text{O}_2}}} = \sqrt{\frac{3R T_{\text{H}_2}}{M_{\text{H}_2}}}\]
+Squaring both sides and cancelling \(3R\):
+\[\frac{T_{\text{O}_2}}{M_{\text{O}_2}} = \frac{T_{\text{H}_2}}{M_{\text{H}_2}}\]
+Substituting the known values:
+\[T_{\text{O}_2} = T_{\text{H}_2} \left(\frac{M_{\text{O}_2}}{M_{\text{H}_2}}\right) = 300\text{ K} \times \left(\frac{32}{2}\right) = 300 \times 16 = 4800\text{ K}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>Since oxygen molecules are 16 times heavier than hydrogen molecules, oxygen requires an absolute temperature 16 times higher to achieve the same rms speed. The required temperature is \(4800\text{ K}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(1200\text{ K}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(2400\text{ K}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(3600\text{ K}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(4800\text{ K}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>chapter:kinetic_theory_of_gases</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch010-unit-10-oscillations-and-waves] NEET_UG_PHYSICS_OSCILLATIONS_AND_WAVES_DIAGRAM_Q08 - Angular frequency of spring-block combination</text></name>
+  <questiontext format="html"><text><![CDATA[<p>A block of mass \(m = 1\text{ kg}\) rests on a frictionless horizontal surface and is connected between two rigid walls by massless springs of force constants \(k_1 = 300\text{ N m}^{-1}\), \(k_2 = 600\text{ N m}^{-1}\), and \(k_3 = 200\text{ N m}^{-1}\), as shown in the figure. What is the angular frequency of small horizontal oscillations of the block?</p>
+<p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 150" width="480" height="150">
+  <rect x="0" y="0" width="480" height="150" fill="#ffffff"/>
+  <!-- Left wall -->
+  <rect x="20" y="25" width="12" height="90" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+  <!-- Right wall -->
+  <rect x="448" y="25" width="12" height="90" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+  <!-- Frictionless floor -->
+  <line x1="20" y1="115" x2="460" y2="115" stroke="#1f2937" stroke-width="2"/>
+  <!-- Spring k1 -->
+  <polyline points="32,75 45,75 51,63 61,87 71,63 81,87 91,63 101,87 107,75 120,75" fill="none" stroke="#1f2937" stroke-width="2"/>
+  <text x="65" y="52" font-family="Arial, sans-serif" font-size="13" fill="#111827">k₁</text>
+  <!-- Spring k2 -->
+  <polyline points="120,75 133,75 139,63 149,87 159,63 169,87 179,63 189,87 195,75 210,75" fill="none" stroke="#1f2937" stroke-width="2"/>
+  <text x="155" y="52" font-family="Arial, sans-serif" font-size="13" fill="#111827">k₂</text>
+  <!-- Block m -->
+  <rect x="210" y="50" width="60" height="64" fill="#bfdbfe" stroke="#1e3a8a" stroke-width="2"/>
+  <text x="233" y="87" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#111827">m</text>
+  <!-- Spring k3 -->
+  <polyline points="270,75 295,75 303,63 317,87 331,63 345,87 359,63 373,87 387,63 401,87 409,75 448,75" fill="none" stroke="#1f2937" stroke-width="2"/>
+  <text x="345" y="52" font-family="Arial, sans-serif" font-size="13" fill="#111827">k₃</text>
+  <!-- Labels -->
+  <text x="45" y="138" font-family="Arial, sans-serif" font-size="12" fill="#374151">k₁ = 300 N/m</text>
+  <text x="145" y="138" font-family="Arial, sans-serif" font-size="12" fill="#374151">k₂ = 600 N/m</text>
+  <text x="320" y="138" font-family="Arial, sans-serif" font-size="12" fill="#374151">k₃ = 200 N/m</text>
+</svg></p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Mass of the block, \(m = 1\text{ kg}\). On the left side of the block, two springs of constants \(k_1 = 300\text{ N m}^{-1}\) and \(k_2 = 600\text{ N m}^{-1}\) are connected end-to-end (in series) between the left wall and the block. On the right side, a single spring of constant \(k_3 = 200\text{ N m}^{-1}\) connects the block to the right wall. The horizontal surface is frictionless.</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>All springs are massless and obey Hooke's law. When the block is displaced horizontally by a small distance \(x\) to the right from its equilibrium position, the left series combination stretches by \(x\) and pulls to the left, while the right spring compresses by \(x\) and also pushes to the left. Thus, both sides exert restoring forces in the same direction, acting effectively in parallel.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>For two springs in series, the equivalent spring constant is \(\frac{1}{k_{\text{left}}} = \frac{1}{k_1} + \frac{1}{k_2}\). For restoring elements acting in parallel on the block, \(k_{\text{eff}} = k_{\text{left}} + k_3\). The angular frequency of simple harmonic motion is \(\omega = \sqrt{\frac{k_{\text{eff}}}{m}}\).</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>First, compute the equivalent spring constant of the left series pair:
+\[k_{\text{left}} = \frac{k_1 k_2}{k_1 + k_2} = \frac{300 \times 600}{300 + 600} = \frac{180000}{900} = 200\text{ N m}^{-1}\]
+Next, combine the left and right spring systems in parallel:
+\[k_{\text{eff}} = k_{\text{left}} + k_3 = 200 + 200 = 400\text{ N m}^{-1}\]
+Finally, calculate the angular frequency:
+\[\omega = \sqrt{\frac{k_{\text{eff}}}{m}} = \sqrt{\frac{400\text{ N m}^{-1}}{1\text{ kg}}} = \sqrt{400} = 20\text{ rad s}^{-1}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>Checking units: \(\sqrt{\frac{\text{N m}^{-1}}{\text{kg}}} = \sqrt{\frac{\text{kg m s}^{-2}\text{ m}^{-1}}{\text{kg}}} = \text{s}^{-1} = \text{rad s}^{-1}\). The angular frequency of small horizontal oscillations is \(20\text{ rad s}^{-1}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(10\text{ rad s}^{-1}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(10\sqrt{2}\text{ rad s}^{-1}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(20\text{ rad s}^{-1}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(30\text{ rad s}^{-1}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>chapter:oscillations_and_waves</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:diagram</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch010-unit-10-oscillations-and-waves] NEET_UG_PHYSICS_OSCILLATIONS_AND_WAVES_SEQ_Q09 - Increasing order of organ pipe frequencies</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Consider four organ pipes of identical length \(L\) containing air at the same temperature (speed of sound \(v\)), each oscillating in a specific mode:</p>
+<ul>
+  <li><strong>P:</strong> Closed organ pipe oscillating in its fundamental mode</li>
+  <li><strong>Q:</strong> Open organ pipe oscillating in its fundamental mode</li>
+  <li><strong>R:</strong> Closed organ pipe oscillating in its first overtone</li>
+  <li><strong>S:</strong> Open organ pipe oscillating in its second harmonic</li>
+</ul>
+<p>Arrange these modes in <strong>increasing order</strong> of their frequencies:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Standing sound waves in an organ pipe satisfy boundary conditions: a closed end is a displacement node, and an open end is a displacement antinode. For a closed organ pipe of length \(L\), only odd harmonics are present, with frequencies \(f_n = \frac{(2n - 1)v}{4L}\) for \(n = 1, 2, 3, \dots\). For an open organ pipe of length \(L\), all harmonics are present, with frequencies \(f_n = \frac{n v}{2L}\) for \(n = 1, 2, 3, \dots\).</p>
+<p><strong>Step 2: Evaluation</strong><br/>Computing the frequency of each mode in terms of \(f_0 = \frac{v}{4L}\):
+For the closed pipe in its fundamental mode (\(n = 1\)): \(f_P = \frac{v}{4L} = f_0\).
+For the open pipe in its fundamental mode (\(n = 1\)): \(f_Q = \frac{v}{2L} = 2f_0\).
+For the closed pipe in its first overtone (third harmonic, \(n = 2\)): \(f_R = \frac{3v}{4L} = 3f_0\).
+For the open pipe in its second harmonic (first overtone, \(n = 2\)): \(f_S = \frac{2v}{2L} = \frac{v}{L} = 4f_0\).</p>
+<p><strong>Step 3: Application</strong><br/>Comparing the numerical coefficients of \(f_0\): \(1 &lt; 2 &lt; 3 &lt; 4\), so \(f_P &lt; f_Q &lt; f_R &lt; f_S\).</p>
+<p><strong>Step 4: Final Conclusion</strong><br/>The increasing order of frequencies is P, Q, R, S.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>P, Q, R, S</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>P, R, Q, S</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Q, P, S, R</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>P, Q, S, R</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>chapter:oscillations_and_waves</text></tag>
+    <tag><text>typology:sequencing</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch010-unit-10-oscillations-and-waves] NEET_UG_PHYSICS_OSCILLATIONS_AND_WAVES_MCQ_Q10 - Sonometer wire beats with tuning fork</text></name>
+  <questiontext format="html"><text><![CDATA[<p>A sonometer wire of length \(50\text{ cm}\) vibrates in its fundamental mode in unison with a tuning fork of frequency \(f\). When the length of the wire is increased by \(2\text{ cm}\) while keeping the tension constant, the wire produces \(4\text{ beats s}^{-1}\) with the same tuning fork. What is the frequency \(f\) of the tuning fork?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Initial vibrating length of the sonometer wire, \(L_1 = 50\text{ cm}\). At this length, its fundamental frequency equals the tuning fork frequency, \(f_1 = f\). New vibrating length, \(L_2 = 50\text{ cm} + 2\text{ cm} = 52\text{ cm}\). Beat frequency with the tuning fork at length \(L_2\) is \(f_{\text{beat}} = 4\text{ Hz}\). Tension \(T\) and linear mass density \(\mu\) remain constant.</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>The wire is uniform and vibrates in its fundamental mode without stiffness effects. Since the fundamental frequency is inversely proportional to length, increasing the length decreases the wire's frequency (\(f_2 &lt; f\)).</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>The fundamental frequency of a stretched string is \(f = \frac{1}{2L}\sqrt{\frac{T}{\mu}}\). At constant \(T\) and \(\mu\), \(f L = \text{constant}\). The beat frequency is \(|f - f_2| = 4\text{ Hz}\).</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>Since \(f_2 &lt; f\), we have:
+\[f - f_2 = 4\text{ Hz} \implies f_2 = f - 4\]
+Using \(f_1 L_1 = f_2 L_2\):
+\[f \times 50 = (f - 4) \times 52\]
+Expanding the right-hand side:
+\[50f = 52f - 208\]
+\[2f = 208 \implies f = 104\text{ Hz}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>At \(L_2 = 52\text{ cm}\), \(f_2 = 104 \times \frac{50}{52} = 100\text{ Hz}\). The difference \(104\text{ Hz} - 100\text{ Hz} = 4\text{ Hz}\), matching the observed beat frequency. Thus, the frequency of the tuning fork is \(104\text{ Hz}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(100\text{ Hz}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(104\text{ Hz}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(108\text{ Hz}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(208\text{ Hz}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>chapter:oscillations_and_waves</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch011-unit-11-electrostatics] NEET_UG_PHYSICS_ELECTROSTATICS_SB2_Q11 - Electric field and potential inside charged spherical shell</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Given below are two statements regarding a uniformly charged thin spherical shell of radius \(R\) carrying a total charge \(+Q\):</p>
+<p><strong>Statement I:</strong> The electric field at every point inside the spherical shell is zero.</p>
+<p><strong>Statement II:</strong> The electrostatic potential at every point inside the spherical shell is zero.</p>
+<p>In the light of the above statements, choose the most appropriate answer from the options given below:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>By Gauss's law, the electric flux through a closed surface is \(\oint \vec{E}\cdot d\vec{A} = \frac{q_{\text{enc}}}{\varepsilon_0}\). Furthermore, the electric field is the negative gradient of the electrostatic potential, \(\vec{E} = -\nabla V\).</p>
+<p><strong>Step 2: Evaluation</strong><br/>For any concentric spherical Gaussian surface of radius \(r &lt; R\) inside the thin spherical shell, all charge resides on the surface at radius \(R\), so the enclosed charge is \(q_{\text{enc}} = 0\). By spherical symmetry, the electric field inside is zero everywhere. Hence, the first claim is correct.</p>
+<p><strong>Step 3: Application</strong><br/>Since \(\vec{E} = 0\) everywhere inside the shell, the potential gradient is zero, meaning the electrostatic potential \(V\) is constant throughout the interior and equals the potential on the surface: \(V = \frac{1}{4\pi\varepsilon_0}\frac{Q}{R} \neq 0\) (with zero potential at infinity). Therefore, the second claim is incorrect.</p>
+<p><strong>Step 4: Final Conclusion</strong><br/>The first statement is correct, whereas the second statement is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Statement I is correct but Statement II is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is incorrect but Statement II is correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are incorrect.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>chapter:electrostatics</text></tag>
+    <tag><text>typology:statement_based_2</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch011-unit-11-electrostatics] NEET_UG_PHYSICS_ELECTROSTATICS_DIAGRAM_Q12 - Energy stored in capacitor network</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Three capacitors \(C_1 = 3\ \mu\text{F}\), \(C_2 = 6\ \mu\text{F}\), and \(C_3 = 4\ \mu\text{F}\) are connected to a \(10\text{ V}\) ideal battery as shown in the circuit diagram. What is the total electrostatic energy stored in the capacitor network?</p>
+<p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 220" width="420" height="220">
+  <rect x="0" y="0" width="420" height="220" fill="#ffffff"/>
+  <!-- Main outer wires -->
+  <line x1="80" y1="60" x2="340" y2="60" stroke="#1f2937" stroke-width="2"/>
+  <line x1="80" y1="60" x2="80" y2="180" stroke="#1f2937" stroke-width="2"/>
+  <line x1="340" y1="60" x2="340" y2="180" stroke="#1f2937" stroke-width="2"/>
+  <line x1="80" y1="180" x2="195" y2="180" stroke="#1f2937" stroke-width="2"/>
+  <line x1="215" y1="180" x2="340" y2="180" stroke="#1f2937" stroke-width="2"/>
+  <!-- Battery at bottom -->
+  <line x1="195" y1="165" x2="195" y2="195" stroke="#1f2937" stroke-width="2.5"/>
+  <line x1="215" y1="172" x2="215" y2="188" stroke="#1f2937" stroke-width="4"/>
+  <text x="190" y="212" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#111827">10 V</text>
+  <!-- Top branch: C1 and C2 in series -->
+  <rect x="150" y="50" width="8" height="20" fill="#ffffff"/>
+  <line x1="150" y1="45" x2="150" y2="75" stroke="#1d4ed8" stroke-width="3"/>
+  <line x1="158" y1="45" x2="158" y2="75" stroke="#1d4ed8" stroke-width="3"/>
+  <text x="135" y="36" font-family="Arial, sans-serif" font-size="13" fill="#111827">C₁ = 3 μF</text>
+  <rect x="260" y="50" width="8" height="20" fill="#ffffff"/>
+  <line x1="260" y1="45" x2="260" y2="75" stroke="#1d4ed8" stroke-width="3"/>
+  <line x1="268" y1="45" x2="268" y2="75" stroke="#1d4ed8" stroke-width="3"/>
+  <text x="245" y="36" font-family="Arial, sans-serif" font-size="13" fill="#111827">C₂ = 6 μF</text>
+  <!-- Middle parallel branch: C3 -->
+  <line x1="80" y1="120" x2="205" y2="120" stroke="#1f2937" stroke-width="2"/>
+  <line x1="215" y1="120" x2="340" y2="120" stroke="#1f2937" stroke-width="2"/>
+  <line x1="205" y1="105" x2="205" y2="135" stroke="#1d4ed8" stroke-width="3"/>
+  <line x1="215" y1="105" x2="215" y2="135" stroke="#1d4ed8" stroke-width="3"/>
+  <text x="190" y="152" font-family="Arial, sans-serif" font-size="13" fill="#111827">C₃ = 4 μF</text>
+  <!-- Junction dots -->
+  <circle cx="80" cy="120" r="3.5" fill="#1f2937"/>
+  <circle cx="340" cy="120" r="3.5" fill="#1f2937"/>
+</svg></p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>The circuit diagram shows \(C_1 = 3\ \mu\text{F}\) and \(C_2 = 6\ \mu\text{F}\) connected in series in the upper branch, and this branch is connected in parallel with \(C_3 = 4\ \mu\text{F}\). The entire network is connected across a \(V = 10\text{ V}\) ideal battery.</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>All capacitors are initially uncharged, and the connecting wires have zero resistance. The system is allowed to reach electrostatic equilibrium.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>For capacitors in series, \(\frac{1}{C_{12}} = \frac{1}{C_1} + \frac{1}{C_2}\). For capacitors in parallel, \(C_{\text{eq}} = C_{12} + C_3\). The total electrostatic energy stored in an equivalent capacitance \(C_{\text{eq}}\) at potential difference \(V\) is \(U = \frac{1}{2} C_{\text{eq}} V^2\).</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>First, calculate the equivalent capacitance of the series pair:
+\[C_{12} = \frac{C_1 C_2}{C_1 + C_2} = \frac{3 \times 6}{3 + 6} = \frac{18}{9} = 2\ \mu\text{F}\]
+Next, combine \(C_{12}\) in parallel with \(C_3\):
+\[C_{\text{eq}} = C_{12} + C_3 = 2\ \mu\text{F} + 4\ \mu\text{F} = 6\ \mu\text{F} = 6 \times 10^{-6}\text{ F}\]
+Now compute the total stored energy:
+\[U = \frac{1}{2} C_{\text{eq}} V^2 = \frac{1}{2} (6 \times 10^{-6}\text{ F})(10\text{ V})^2 = 3 \times 10^{-6} \times 100 = 300 \times 10^{-6}\text{ J} = 300\ \mu\text{J}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>Checking units: \(\text{F}\cdot\text{V}^2 = \text{C}\cdot\text{V} = \text{J}\), so \(\mu\text{F}\cdot\text{V}^2 = \mu\text{J}\). The total electrostatic energy stored in the network is \(300\ \mu\text{J}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(150\ \mu\text{J}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(200\ \mu\text{J}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(300\ \mu\text{J}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(600\ \mu\text{J}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>chapter:electrostatics</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:circuit</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+<question type="multichoice">
+  <name><text>[ch011-unit-11-electrostatics] NEET_UG_PHYSICS_ELECTROSTATICS_MCQ_Q13 - Work done moving charge between two charged rings</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Two identical thin circular rings, each of radius \(R\), are placed coaxially at a separation \(R\) between their centers. They carry uniformly distributed charges \(+Q\) and \(-Q\), respectively. What is the work done by an external agent in slowly moving a small point charge \(q_0\) from the center of the negatively charged ring to the center of the positively charged ring?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Two coaxial thin rings of radius \(R\) are separated by a distance \(d = R\) along their common axis. Ring 1 carries uniform charge \(+Q\) and Ring 2 carries uniform charge \(-Q\). A point charge \(q_0\) is moved slowly from the center \(O_2\) of the \(-Q\) ring to the center \(O_1\) of the \(+Q\) ring.</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>The process is quasi-static (slow), so the change in kinetic energy of \(q_0\) is zero. Electrostatic potential is taken to be zero at infinity. By the superposition principle, the total potential at any point is the algebraic sum of the potentials due to each ring.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>The electrostatic potential on the axis of a uniformly charged ring of radius \(R\) and charge \(q\) at a distance \(x\) from its center is:
+\[V(x) = \frac{1}{4\pi\varepsilon_0}\frac{q}{\sqrt{R^2 + x^2}}\]
+The work done by an external agent in moving \(q_0\) from \(O_2\) to \(O_1\) without change in kinetic energy is \(W_{\text{ext}} = q_0 (V_{O_1} - V_{O_2})\).</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>At \(O_1\) (center of the \(+Q\) ring, where \(x_1 = 0\) and \(x_2 = R\)):
+\[V_{O_1} = \frac{1}{4\pi\varepsilon_0}\left(\frac{+Q}{R} + \frac{-Q}{\sqrt{R^2 + R^2}}\right) = \frac{Q}{4\pi\varepsilon_0 R}\left(1 - \frac{1}{\sqrt{2}}\right)\]
+At \(O_2\) (center of the \(-Q\) ring, where \(x_1 = R\) and \(x_2 = 0\)):
+\[V_{O_2} = \frac{1}{4\pi\varepsilon_0}\left(\frac{+Q}{\sqrt{R^2 + R^2}} + \frac{-Q}{R}\right) = -\frac{Q}{4\pi\varepsilon_0 R}\left(1 - \frac{1}{\sqrt{2}}\right)\]
+Therefore, the potential difference is:
+\[V_{O_1} - V_{O_2} = \frac{2Q}{4\pi\varepsilon_0 R}\left(1 - \frac{1}{\sqrt{2}}\right) = \frac{Q(\sqrt{2} - 1)}{2\sqrt{2}\pi\varepsilon_0 R}\]
+Multiplying by \(q_0\) gives the external work done:
+\[W_{\text{ext}} = \frac{q_0 Q (\sqrt{2} - 1)}{2\sqrt{2}\pi\varepsilon_0 R}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>Since \(O_1\) is closer to \(+Q\) and \(O_2\) is closer to \(-Q\), \(V_{O_1} &gt; V_{O_2}\), so moving a positive \(q_0\) from \(O_2\) to \(O_1\) requires positive external work, consistent with \(\sqrt{2} - 1 &gt; 0\). Thus, the work done is \(\frac{q_0 Q(\sqrt{2} - 1)}{2\sqrt{2}\pi\varepsilon_0 R}\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\frac{q_0 Q(\sqrt{2} - 1)}{4\sqrt{2}\pi\varepsilon_0 R}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\frac{q_0 Q(\sqrt{2} + 1)}{2\sqrt{2}\pi\varepsilon_0 R}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\frac{q_0 Q}{2\pi\varepsilon_0 R}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(\frac{q_0 Q(\sqrt{2} - 1)}{2\sqrt{2}\pi\varepsilon_0 R}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:physics</text></tag>
+    <tag><text>chapter:electrostatics</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>

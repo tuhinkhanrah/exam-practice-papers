@@ -1,0 +1,288 @@
+<question type="multichoice">
+  <name><text>[ch002-unit-2-structural-organisation-in-animals-and-plants] NEET_UG_BIOLOGY_Q01 - Mode of respiration during frog aestivation</text></name>
+  <questiontext format="html"><text><![CDATA[<p>During aestivation and hibernation in the common Indian frog (<em>Rana tigrina</em>), gaseous exchange occurs exclusively through which of the following structures?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Frogs are amphibians capable of respiring on land as well as in water using different respiratory organs, namely the lungs (pulmonary respiration), the buccal cavity (buccopharyngeal respiration), and the moist skin (cutaneous respiration).</p><p><strong>Step 2: Evaluation</strong><br/>During extreme environmental conditions such as summer sleep (aestivation) and winter sleep (hibernation), frogs remain buried in damp soil or mud. Under these inactive conditions, pulmonary ventilation and buccopharyngeal movements cease.</p><p><strong>Step 3: Application</strong><br/>Because the frog's skin is thin, moist, and richly supplied with blood capillaries, dissolved oxygen in the surrounding moisture diffuses directly across the integument into the blood, while carbon dioxide diffuses out.</p><p><strong>Step 4: Final Conclusion</strong><br/>Gaseous exchange during aestivation and hibernation takes place exclusively through the skin via cutaneous respiration.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Lungs</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Skin</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Buccal cavity</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>External gills</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:structural_organisation_in_animals_and_plants</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch002-unit-2-structural-organisation-in-animals-and-plants] NEET_UG_BIOLOGY_Q02 - Distinguishing feature of collenchyma in plants</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which of the following characteristics accurately distinguishes collenchyma from sclerenchyma in flowering plants?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Simple permanent tissues in plants include parenchyma, collenchyma, and sclerenchyma, which differ in cell viability, cell wall composition, and pattern of wall thickening.</p><p><strong>Step 2: Evaluation</strong><br/>Sclerenchyma consists of dead cells at maturity that lack protoplasts and possess thick, uniformly lignified secondary cell walls, providing rigid mechanical support.</p><p><strong>Step 3: Application</strong><br/>In contrast, collenchyma consists of living cells with active protoplasts and cell walls thickened predominantly at the corners due to the deposition of cellulose, hemicellulose, and pectin, which confers tensile strength and flexibility to growing organs.</p><p><strong>Step 4: Final Conclusion</strong><br/>Collenchyma is distinguished from sclerenchyma by being composed of living cells with non-lignified walls thickened at the corners with cellulose, hemicellulose, and pectin.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Presence of dead cells devoid of protoplasts at maturity</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Uniformly thickened secondary walls impregnated with lignin</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Presence of numerous simple or bordered pits without cytoplasm</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Living cells with corners thickened by cellulose, hemicellulose, and pectin</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:structural_organisation_in_animals_and_plants</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch002-unit-2-structural-organisation-in-animals-and-plants] NEET_UG_BIOLOGY_Q03 - Diagnostic floral characters of family Malvaceae</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which combination of floral characters is diagnostic of the family Malvaceae?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Angiosperm families are identified by unique combinations of vegetative and floral features, including bract whorls, stamen fusion, anther morphology, and placentation.</p><p><strong>Step 2: Evaluation</strong><br/>Members of the family Malvaceae, such as <em>Hibiscus rosa-sinensis</em>, typically possess an epicalyx (a whorl of bracteoles below the calyx), five sepals, and five twisted petals. Their stamens are numerous and united by their filaments into a single staminal tube around the style, a condition known as monadelphous.</p><p><strong>Step 3: Application</strong><br/>Each anther in Malvaceae is monothecous (single-lobed) and kidney-shaped (reniform). The gynoecium is multicarpellary, syncarpous, with a superior ovary showing axile placentation. Features such as tetradynamous stamens belong to Cruciferae, diadelphous stamens with marginal placentation belong to Leguminosae, and syngenesious anthers with basal placentation belong to Compositae.</p><p><strong>Step 4: Final Conclusion</strong><br/>The diagnostic floral combination of family Malvaceae is the presence of an epicalyx, monadelphous stamens, monothecous reniform anthers, and axile placentation.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Cruciform corolla, tetradynamous stamens, and parietal placentation</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Papilionaceous corolla, diadelphous stamens, and marginal placentation</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Epicalyx present, monadelphous stamens, monothecous reniform anthers, and axile placentation</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Capitulum inflorescence, syngenesious anthers, and basal placentation</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:structural_organisation_in_animals_and_plants</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch002-unit-2-structural-organisation-in-animals-and-plants] NEET_UG_BIOLOGY_Q04 - Incorrect statement about animal tissues</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Identify the <strong>incorrect</strong> statement regarding animal tissues and intercellular junctions.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Animal tissues are categorized into epithelial, connective, muscular, and neural tissues, each with specialized structural components and intercellular junctions that maintain tissue integrity and communication.</p><p><strong>Step 2: Evaluation</strong><br/>In connective tissues such as cartilage, the intercellular material is solid and pliable and resists compression; chondrocytes are enclosed in small cavities within the matrix they secrete. In contrast, bones have a hard, non-pliable ground substance rich in calcium salts and collagen fibres, with osteocytes located in spaces called lacunae.</p><p><strong>Step 3: Application</strong><br/>Evaluating the properties of epithelial junctions and blood: tight junctions prevent substances from leaking across a tissue, adhering junctions cement neighbouring cells together, and blood cells do not secrete fibres of structural proteins such as collagen or elastin (unlike fibroblasts in connective tissue proper). However, claiming that cartilage has a hard, non-pliable matrix rich in calcium salts confuses cartilage with bone.</p><p><strong>Step 4: Final Conclusion</strong><br/>The incorrect statement is the claim that cartilage possesses a hard, non-pliable ground substance rich in calcium salts, as that describes bone tissue rather than cartilage.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Cartilage possesses a hard and non-pliable ground substance rich in calcium salts and collagen fibres.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Tight junctions help to stop substances from leaking across an epithelial tissue.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>In all connective tissues except blood, the cells secrete fibres of structural proteins called collagen or elastin.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Gap junctions facilitate the cells to communicate with each other by connecting the cytoplasm of adjoining cells.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:structural_organisation_in_animals_and_plants</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch002-unit-2-structural-organisation-in-animals-and-plants] NEET_UG_BIOLOGY_Q05 - Vascular bundle anatomy in monocot stems</text></name>
+  <questiontext format="html"><text><![CDATA[
+    <p><strong>Assertion (A):</strong> In a monocotyledonous stem, vascular bundles are conjoint and closed, and water-containing cavities are present within them.</p>
+    <p><strong>Reason (R):</strong> Vascular bundles in a monocotyledonous stem lack cambium and are each surrounded by a parenchymatous bundle sheath.</p>
+  ]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>The internal anatomy of a monocotyledonous stem is characterized by scattered vascular bundles embedded in a large parenchymatous ground tissue, without secondary growth.</p><p><strong>Step 2: Evaluation</strong><br/>In monocot stems, each vascular bundle contains both xylem and phloem on the same radius (conjoint) and lacks intrafascicular cambium (closed). Furthermore, the disintegration of protoxylem elements creates a lysigenous water-containing cavity within the vascular bundle. Therefore, the first proposition is scientifically accurate.</p><p><strong>Step 3: Application</strong><br/>Although the absence of cambium is true, each vascular bundle in a monocot stem is surrounded by a prominent <em>sclerenchymatous</em> bundle sheath for mechanical support, not a parenchymatous one. Consequently, the second proposition is factually incorrect.</p><p><strong>Step 4: Final Conclusion</strong><br/>The first proposition is correct, whereas the second proposition is incorrect because the bundle sheath in monocot stems is sclerenchymatous rather than parenchymatous.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct and (R) is the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>(A) is correct but (R) is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is incorrect but (R) is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:structural_organisation_in_animals_and_plants</text></tag>
+    <tag><text>typology:assertion_reason</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch002-unit-2-structural-organisation-in-animals-and-plants] NEET_UG_BIOLOGY_Q06 - Circulatory and nervous systems of frog</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Read the following two statements regarding the anatomy of a frog (<em>Rana tigrina</em>):</p>
+<p><strong>Statement I:</strong> The heart is three-chambered with two atria and one ventricle, and a triangular structure called the sinus venosus joins the right atrium.</p>
+<p><strong>Statement II:</strong> Ten pairs of cranial nerves arise from the brain, and the forebrain includes olfactory lobes, paired cerebral hemispheres, and an unpaired diencephalon.</p>
+<p>In the light of the above statements, choose the most appropriate answer from the options given below.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>The circulatory and nervous systems of amphibians exhibit specific anatomical adaptations suited to their dual aquatic and terrestrial habitats.</p><p><strong>Step 2: Evaluation</strong><br/>Examining the circulatory anatomy of the frog: the heart is a muscular, three-chambered organ enclosed in a pericardium, consisting of two atria and one ventricle. Deoxygenated blood from the body is collected by the venae cavae and delivered into a triangular chamber called the sinus venosus, which opens into the right atrium. Thus, the circulatory description is completely accurate.</p><p><strong>Step 3: Application</strong><br/>Examining the nervous anatomy of the frog: the peripheral nervous system comprises ten pairs of cranial nerves originating from the brain. The central nervous system includes a brain divided into forebrain, midbrain, and hindbrain, where the forebrain specifically consists of olfactory lobes, paired cerebral hemispheres, and an unpaired diencephalon. Thus, the neural description is also completely accurate.</p><p><strong>Step 4: Final Conclusion</strong><br/>Both propositions regarding the frog's heart and nervous system are correct.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are incorrect.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is correct but Statement II is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is incorrect but Statement II is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:structural_organisation_in_animals_and_plants</text></tag>
+    <tag><text>typology:statement_based_2</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch002-unit-2-structural-organisation-in-animals-and-plants] NEET_UG_BIOLOGY_Q07 - Floral characteristics of angiosperm families</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Consider the following three statements regarding floral characteristics of angiosperm families:</p>
+<ol>
+  <li>In Cruciferae (Brassicaceae), the corolla consists of four clawed petals arranged in a cruciform manner, and the androecium exhibits a tetradynamous condition.</li>
+  <li>In Gramineae (Poaceae), the perianth is reduced to two or three membranous scales called lodicules, and the fruit is a caryopsis.</li>
+  <li>In Compositae (Asteraceae), the inflorescence is a capitulum surrounded by an involucre of bracts, and the gynoecium has a superior ovary with basal placentation.</li>
+</ol>
+<p>Which of the above statements are correct?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Taxonomic classification of flowering plant families relies on consistent floral traits such as petal arrangement, stamen length variation, perianth modification, inflorescence type, and ovary position.</p><p><strong>Step 2: Evaluation</strong><br/>First, members of Cruciferae possess four free clawed petals arranged diagonally like a cross (cruciform) and six stamens arranged in two whorls (two short outer and four long inner, termed tetradynamous), which is correct. Second, members of Gramineae have highly reduced flowers where the perianth is represented by two or three tiny scales called lodicules, and the single-seeded indehiscent fruit with fused pericarp and seed coat is a caryopsis, which is also correct.</p><p><strong>Step 3: Application</strong><br/>Third, while Compositae (Asteraceae) is indeed characterized by a capitulum (head) inflorescence subtended by an involucre of bracts and basal placentation, its bicarpellary syncarpous unilocular ovary is strictly <em>inferior</em> (epigynous flower), not superior. Therefore, the claim of a superior ovary in Compositae is false.</p><p><strong>Step 4: Final Conclusion</strong><br/>Only the propositions describing Cruciferae and Gramineae are correct, whereas the proposition claiming a superior ovary for Compositae is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1 and 3 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2 and 3 only</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1 and 2 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 2, and 3</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:structural_organisation_in_animals_and_plants</text></tag>
+    <tag><text>typology:statement_based_3</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch002-unit-2-structural-organisation-in-animals-and-plants] NEET_UG_BIOLOGY_Q08 - Morphology and anatomy of plant organs</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Evaluate the following four statements about the morphology and anatomy of flowering plants:</p>
+<ol>
+  <li>In <em>Pisum sativum</em> (Leguminosae), the corolla shows vexillary aestivation, where the largest posterior petal overlaps two lateral wings, which in turn overlap the two smallest anterior petals.</li>
+  <li>In a dorsiventral (dicotyledonous) leaf, the mesophyll is differentiated into palisade parenchyma situated toward the abaxial epidermis and spongy parenchyma situated toward the adaxial epidermis.</li>
+  <li>In a maize grain, the outer proteinaceous layer of the endosperm is the aleurone layer, and the single shield-shaped cotyledon of the embryo is called the scutellum.</li>
+  <li>In a dicotyledonous root, the vascular bundles are radial and exarch, and the central pith is large and well-developed.</li>
+</ol>
+<p>Which of the above statements are correct?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Structural organisation in angiosperms involves specific floral aestivation patterns, leaf mesophyll polarity, monocot seed structure, and root vascular anatomy.</p><p><strong>Step 2: Evaluation</strong><br/>In <em>Pisum sativum</em>, papilionaceous corolla exhibits vexillary (descending imbricate) aestivation: the large posterior standard (vexillum) overlaps two lateral wings (alae), which overlap the two anterior fused petals forming the keel (carina); hence, this proposition is true. Similarly, in a maize grain (monocot seed), the endosperm is bordered externally by a protein-rich aleurone layer, and the embryo possesses one large, shield-shaped cotyledon called the scutellum; hence, this proposition is also true.</p><p><strong>Step 3: Application</strong><br/>In a dorsiventral dicot leaf, the upper (adaxial) epidermis receives direct sunlight, so the elongated, chloroplast-rich palisade parenchyma lies beneath the adaxial epidermis, while the loosely arranged spongy parenchyma lies toward the lower (abaxial) epidermis; reversing these positions makes the leaf proposition false. Furthermore, in a dicot root, although the vascular bundles are radial and exarch (protoxylem toward the periphery), the central pith is small or inconspicuous, whereas a large, well-developed pith is characteristic of a monocot root; hence, the root proposition is false.</p><p><strong>Step 4: Final Conclusion</strong><br/>Only the propositions concerning vexillary aestivation in <em>Pisum sativum</em> and the structure of the maize grain are correct.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1 and 2 only</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1 and 3 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2 and 4 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 3, and 4 only</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:structural_organisation_in_animals_and_plants</text></tag>
+    <tag><text>typology:statement_based_4</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch002-unit-2-structural-organisation-in-animals-and-plants] NEET_UG_BIOLOGY_Q09 - Matching angiosperm families with diagnostic features</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Match the angiosperm families in List-I with their corresponding diagnostic features in List-II:</p>
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>List-I (Family)</th>
+      <th>List-II (Diagnostic Feature)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A. Malvaceae</td>
+      <td>I. Tetradynamous stamens, siliqua fruit, parietal placentation with replum</td>
+    </tr>
+    <tr>
+      <td>B. Cruciferae</td>
+      <td>II. Versatile anthers, feathery stigma, caryopsis fruit, lodicules</td>
+    </tr>
+    <tr>
+      <td>C. Compositae</td>
+      <td>III. Monadelphous stamens, monothecous reniform anthers, epicalyx</td>
+    </tr>
+    <tr>
+      <td>D. Gramineae</td>
+      <td>IV. Syngenesious anthers, capitulum inflorescence, cypsela fruit with pappus</td>
+    </tr>
+  </tbody>
+</table>
+<p>Choose the correct answer from the options given below.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Each major angiosperm family possesses a distinct set of reproductive structures, including characteristic stamen cohesion, anther attachment, fruit type, and inflorescence.</p><p><strong>Step 2: Evaluation</strong><br/>Family Malvaceae is characterized by an epicalyx below the calyx, monadelphous stamens forming a staminal tube, and monothecous reniform anthers. Family Cruciferae (Brassicaceae) is distinguished by tetradynamous stamens (four long inner, two short outer), parietal placentation with a false septum (replum), and a siliqua fruit.</p><p><strong>Step 3: Application</strong><br/>Family Compositae (Asteraceae) features a capitulum (head) inflorescence, syngenesious anthers (anthers fused into a tube around the style with free filaments), and a cypsela fruit often crowned by a hairy pappus. Family Gramineae (Poaceae) is adapted for wind pollination, exhibiting reduced perianth scales (lodicules), versatile anthers, feathery stigmas, and a caryopsis fruit.</p><p><strong>Step 4: Final Conclusion</strong><br/>Malvaceae pairs with monadelphous stamens and monothecous reniform anthers; Cruciferae pairs with tetradynamous stamens and siliqua fruit; Compositae pairs with syngenesious anthers and capitulum inflorescence; and Gramineae pairs with versatile anthers, feathery stigma, and caryopsis fruit.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-I, B-III, C-IV, D-II</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-III, B-I, C-II, D-IV</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-IV, B-II, C-I, D-III</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>A-III, B-I, C-IV, D-II</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:structural_organisation_in_animals_and_plants</text></tag>
+    <tag><text>typology:matching_mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:table</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>

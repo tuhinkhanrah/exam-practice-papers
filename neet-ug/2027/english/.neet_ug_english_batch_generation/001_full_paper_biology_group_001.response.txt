@@ -1,0 +1,223 @@
+<question type="multichoice">
+  <name><text>[ch001-unit-1-diversity-in-living-world] NEET_UG_BIOLOGY_MCQ_Q01 - Binomial nomenclature conventions and author citation</text></name>
+  <questiontext format="html"><text><![CDATA[<p>In the biological name <em>Mangifera indica</em> Linn., what does the abbreviation &ldquo;Linn.&rdquo; at the end signify according to the universal rules of binomial nomenclature?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Binomial nomenclature, introduced by Carolus Linnaeus, assigns each organism a two-part Latinized scientific name consisting of a generic name followed by a specific epithet.</p><p><strong>Step 2: Evaluation</strong><br/>According to international nomenclature conventions, the name of the author who first validly described and published the species appears after the specific epithet and is written in an abbreviated form.</p><p><strong>Step 3: Application and Conclusion</strong><br/>In <em>Mangifera indica</em> Linn., the abbreviation &ldquo;Linn.&rdquo; indicates that this species was first described by Linnaeus. It does not represent a subspecies, variety, or geographical origin.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>The plant is native to the Linnaean botanical garden</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>The species was first described by Carolus Linnaeus</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>The name is derived from a Latinized vernacular dialect</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>It denotes a cultivated variety of mango</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:diversity_in_living_world</text></tag>
+    <tag><text>chapter:unit_1_diversity_in_living_world</text></tag>
+    <tag><text>typology:mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch001-unit-1-diversity-in-living-world] NEET_UG_BIOLOGY_MCQ_Q02 - Characteristic features of chrysophytes and diatoms</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which of the following features accurately distinguishes diatoms (Chrysophytes) from dinoflagellates under Kingdom Protista?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Kingdom Protista includes diverse unicellular eukaryotes such as Chrysophytes (diatoms and golden algae) and Dinoflagellates, which differ markedly in cell wall composition and ecological roles.</p><p><strong>Step 2: Evaluation</strong><br/>In diatoms, the cell walls form two thin overlapping shells that fit together like a soap box. These walls are embedded with silica, making them indestructible and leading to large deposits of diatomaceous earth over billions of years. In contrast, dinoflagellates have stiff cellulose plates on the outer surface and typically possess two flagella (one longitudinal and one transverse).</p><p><strong>Step 3: Final Conclusion</strong><br/>Diatoms are the chief &lsquo;producers&rsquo; in the oceans and are characterized by silica-impregnated overlapping cell walls that form diatomaceous earth.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Presence of stiff cellulose plates on the outer surface of the cell wall</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Presence of two unequal flagella, one lying longitudinally and the other transversely</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A protein-rich flexible layer called pellicle instead of a rigid cell wall</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Silica-embedded overlapping shells that leave behind diatomaceous earth</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:diversity_in_living_world</text></tag>
+    <tag><text>chapter:unit_1_diversity_in_living_world</text></tag>
+    <tag><text>typology:mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch001-unit-1-diversity-in-living-world] NEET_UG_BIOLOGY_MCQ_Q03 - Heterospory and precursor to seed habit</text></name>
+  <questiontext format="html"><text><![CDATA[<p>In heterosporous pteridophytes such as <em>Selaginella</em> and <em>Salvinia</em>, which evolutionary event is directly regarded as a precursor to the seed habit?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Most pteridophytes are homosporous, producing spores of similar kinds. However, genera such as <em>Selaginella</em> and <em>Salvinia</em> are heterosporous, producing two distinct types of spores: larger megaspores and smaller microspores.</p><p><strong>Step 2: Evaluation</strong><br/>Megaspores and microspores germinate to give rise to female and male gametophytes, respectively. In these heterosporous pteridophytes, the female gametophytes are retained on the parent sporophytes for variable periods rather than being shed freely.</p><p><strong>Step 3: Application and Conclusion</strong><br/>The development of the zygotes into young embryos takes place within the female gametophytes while still attached to the parent sporophyte. This retention and protected embryonic development represent a crucial step in evolution that is considered a precursor to the seed habit.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Retention of the female gametophyte on the parent sporophyte with zygote development into a young embryo inside it</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Formation of a dominant, free-living, photosynthetic prothallus that bears both antheridia and archegonia</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Complete independence of fertilization from external water through the formation of a pollen tube</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Enclosure of the megasporangium within a protective integument to form a true ovule after fertilization</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:diversity_in_living_world</text></tag>
+    <tag><text>chapter:unit_1_diversity_in_living_world</text></tag>
+    <tag><text>typology:mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch001-unit-1-diversity-in-living-world] NEET_UG_BIOLOGY_AR_Q04 - Symbiotic association and pollution sensitivity in lichens</text></name>
+  <questiontext format="html"><text><![CDATA[<p><strong>Assertion (A):</strong> Lichens are very good pollution indicators as they do not grow in polluted areas.</p><p><strong>Reason (R):</strong> In lichens, the algal component (phycobiont) prepares food for the fungal component (mycobiont), while the fungus provides shelter and absorbs mineral nutrients and water for its partner.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Evaluation of the Assertion</strong><br/>Lichens are extremely sensitive to atmospheric pollutants, particularly sulphur dioxide, and therefore fail to grow in polluted regions. Thus, the assertion that lichens serve as reliable pollution indicators is scientifically correct.</p><p><strong>Step 2: Evaluation of the Reason</strong><br/>Lichens represent a mutually beneficial symbiotic association between algae and fungi. The autotrophic phycobiont synthesizes food for the fungus, whereas the heterotrophic mycobiont provides structural shelter and absorbs water and mineral nutrients for the alga. Thus, the reason is also scientifically correct.</p><p><strong>Step 3: Relationship Analysis and Conclusion</strong><br/>Although both propositions are individually true, the mutualistic exchange of nutrients and shelter does not explain why lichens are intolerant to air pollutants such as sulphur dioxide. Hence, both the assertion and the reason are correct, but the reason is not the correct explanation of the assertion.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct and (R) is the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is correct but (R) is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is incorrect but (R) is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:diversity_in_living_world</text></tag>
+    <tag><text>chapter:unit_1_diversity_in_living_world</text></tag>
+    <tag><text>typology:assertion-reason</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch001-unit-1-diversity-in-living-world] NEET_UG_BIOLOGY_SB2_Q05 - Taxonomic hierarchy and shared characteristics across taxa</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Read the following two statements carefully and choose the correct conclusion:</p><p><strong>Statement I:</strong> As we go higher from species to kingdom in the taxonomic hierarchy, the number of common characteristics goes on decreasing.</p><p><strong>Statement II:</strong> Lower the taxa, more are the characteristics that the members within the taxon share.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Taxonomic hierarchy arranges organisms in ascending or descending ranks from species (the lowest obligatory category) up to kingdom (the highest category).</p><p><strong>Step 2: Evaluation of Both Propositions</strong><br/>Members of a lower taxon, such as a species or genus, are closely related and share a large number of morphological and anatomical similarities. As one ascends from species toward kingdom, each broader category encompasses a wider variety of organisms, so the number of shared characteristics progressively decreases and determining relationships with other taxa at the same level becomes more complex.</p><p><strong>Step 3: Final Conclusion</strong><br/>Both the proposition that common characteristics decrease from species to kingdom and the proposition that lower taxa share more characteristics among their members are correct.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is correct, but Statement II is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is incorrect, but Statement II is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:diversity_in_living_world</text></tag>
+    <tag><text>chapter:unit_1_diversity_in_living_world</text></tag>
+    <tag><text>typology:statement-based</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch001-unit-1-diversity-in-living-world] NEET_UG_BIOLOGY_SB3_Q06 - Sexual reproduction and classification in Kingdom Fungi</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Consider the following three statements regarding Kingdom Fungi:</p><ol><li>In Ascomycetes and Basidiomycetes, an intervening dikaryotic stage (\(n + n\)) occurs between plasmogamy and karyogamy.</li><li><em>Neurospora</em> is used extensively in biochemical and genetic work and belongs to class Deuteromycetes.</li><li>In Basidiomycetes, sex organs are absent, and plasmogamy is brought about by fusion of two vegetative or somatic cells of different strains or genotypes.</li></ol><p>Which of the above statements are correct?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Fungi are classified into Phycomycetes, Ascomycetes, Basidiomycetes, and Deuteromycetes based on mycelial morphology, mode of spore formation, and fruiting bodies.</p><p><strong>Step 2: Evaluation of Each Proposition</strong><br/>In Ascomycetes and Basidiomycetes, fusion of protoplasms (plasmogamy) is not immediately followed by nuclear fusion (karyogamy), resulting in an intervening dikaryotic phase (\(n + n\)) with two nuclei per cell; thus, this proposition is correct. <em>Neurospora</em>, a widely used model organism in biochemical and genetic research, belongs to Ascomycetes rather than Deuteromycetes (which comprise imperfect fungi lacking known sexual stages); thus, the proposition assigning <em>Neurospora</em> to Deuteromycetes is incorrect. In Basidiomycetes, specialized sex organs are generally absent, and plasmogamy occurs through somatogamy—the fusion of two vegetative or somatic cells of different strains or genotypes; thus, this proposition is correct.</p><p><strong>Step 3: Final Conclusion</strong><br/>Only the propositions describing the dikaryotic stage in Ascomycetes and Basidiomycetes and somatogamy in Basidiomycetes are correct.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1 and 2 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2 and 3 only</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1 and 3 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 2, and 3</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:diversity_in_living_world</text></tag>
+    <tag><text>chapter:unit_1_diversity_in_living_world</text></tag>
+    <tag><text>typology:statement-based</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch001-unit-1-diversity-in-living-world] NEET_UG_BIOLOGY_SB4_Q07 - Comparative features of non-chordate and chordate taxa</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Evaluate the following four statements about the Animal Kingdom:</p><ol><li>In Ctenophora, reproduction takes place only by sexual means, with external fertilisation and indirect development.</li><li>In Aschelminthes, the body cavity is not lined by mesoderm; instead, the mesoderm is present as scattered pouches in between the ectoderm and endoderm.</li><li>All chordates possess a notochord at some stage of life, and all chordates are vertebrates.</li><li>Cyclostomes are jawless vertebrates with a sucking and circular mouth, devoid of scales and paired fins, and possess 6&ndash;15 pairs of gill slits for respiration.</li></ol><p>Which of the above statements are correct?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Animal classification relies on fundamental features such as body symmetry, coelom organization, mode of reproduction, and chordate characteristics.</p><p><strong>Step 2: Evaluation of Each Proposition</strong><br/>Ctenophores (comb jellies) reproduce exclusively by sexual means, and fertilisation is external with indirect development involving a larval stage; hence, this proposition is correct. Aschelminthes are pseudocoelomates in which the body cavity is not lined by mesoderm, and mesoderm occurs as scattered pouches between ectoderm and endoderm; hence, this proposition is correct. While all vertebrates are chordates, not all chordates are vertebrates because protochordates (Urochordata and Cephalochordata) possess a notochord without developing a vertebral column; hence, the claim that all chordates are vertebrates is incorrect. Members of class Cyclostomata are ectoparasitic jawless vertebrates bearing 6&ndash;15 pairs of gill slits, a sucking circular mouth, and bodies devoid of scales and paired fins; hence, this proposition is correct.</p><p><strong>Step 3: Final Conclusion</strong><br/>Three propositions—those concerning Ctenophora reproduction, pseudocoelomate organization in Aschelminthes, and diagnostic features of Cyclostomata—are correct, while the claim that all chordates are vertebrates is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 2, and 3 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2, 3, and 4 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 3, and 4 only</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1, 2, and 4 only</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:diversity_in_living_world</text></tag>
+    <tag><text>chapter:unit_1_diversity_in_living_world</text></tag>
+    <tag><text>typology:statement-based</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch001-unit-1-diversity-in-living-world] NEET_UG_BIOLOGY_MATCH_Q08 - Non-chordate phyla and their specialized structures</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Match <strong>List-I</strong> (Animal Phylum) with <strong>List-II</strong> (Characteristic Structure):</p><table><thead><tr><th>List-I</th><th>List-II</th></tr></thead><tbody><tr><td>A. Platyhelminthes</td><td>I. Malpighian tubules</td></tr><tr><td>B. Annelida</td><td>II. Radula</td></tr><tr><td>C. Arthropoda</td><td>III. Flame cells</td></tr><tr><td>D. Mollusca</td><td>IV. Nephridia</td></tr></tbody></table><p>Choose the <strong>correct</strong> answer from the options given below:</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Each non-chordate phylum exhibits specialized anatomical structures for osmoregulation, excretion, or feeding that serve as key diagnostic traits.</p><p><strong>Step 2: Evaluation of Pairings</strong><br/>Platyhelminthes (flatworms) possess specialized excretory and osmoregulatory cells known as flame cells. Annelids possess coiled tubular structures called nephridia that help in osmoregulation and excretion. Arthropods typically excrete metabolic wastes through Malpighian tubules. Molluscs feature a file-like rasping organ for feeding in the mouth called a radula.</p><p><strong>Step 3: Final Conclusion</strong><br/>The accurate biological pairings are Platyhelminthes with flame cells, Annelida with nephridia, Arthropoda with Malpighian tubules, and Mollusca with radula.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-III, B-I, C-IV, D-II</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-IV, B-III, C-I, D-II</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>A-III, B-IV, C-I, D-II</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-II, B-IV, C-I, D-III</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>topic:diversity_in_living_world</text></tag>
+    <tag><text>chapter:unit_1_diversity_in_living_world</text></tag>
+    <tag><text>typology:matching-mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>media:table</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>

@@ -1,0 +1,590 @@
+<question type="multichoice">
+  <name><text>[ch007-unit-7-redox-reactions-and-electrochemistry] NEET_UG_CHEMISTRY_MCQ_Q01 - Moles of permanganate oxidizing ferrous oxalate</text></name>
+  <questiontext format="html"><![CDATA[<p>The number of moles of \(\mathrm{KMnO_4}\) required to oxidize one mole of ferrous oxalate (\(\mathrm{FeC_2O_4}\)) completely in an acidic medium is:</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>One mole of ferrous oxalate (\(\mathrm{FeC_2O_4}\)) is oxidized completely by potassium permanganate (\(\mathrm{KMnO_4}\)) in an acidic medium.</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>In an acidic medium, the permanganate ion (\(\mathrm{MnO_4^-}\)) acts as a strong oxidizing agent and is reduced to \(\mathrm{Mn^{2+}}\). In \(\mathrm{FeC_2O_4}\), iron is in the \(+2\) oxidation state and carbon is in the \(+3\) oxidation state; both are oxidized to their higher stable oxidation states.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>The principle of equivalence requires that the total number of moles of electrons lost by the reducing agent equals the total number of moles of electrons gained by the oxidizing agent:<br/>
+\[n_{\text{ox}} \times n\text{-factor}_{\text{ox}} = n_{\text{red}} \times n\text{-factor}_{\text{red}}\]</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>For the oxidation of \(\mathrm{FeC_2O_4}\):<br/>
+\[\mathrm{Fe^{2+} \rightarrow Fe^{3+} + e^-}\]
+\[\mathrm{C_2O_4^{2-} \rightarrow 2CO_2 + 2e^-}\]
+Adding both half-reactions gives the total electrons lost per mole of \(\mathrm{FeC_2O_4}\):<br/>
+\[\mathrm{FeC_2O_4 \rightarrow Fe^{3+} + 2CO_2 + 3e^-}\]
+Thus, the \(n\)-factor of \(\mathrm{FeC_2O_4}\) is \(3\).<br/>
+For the reduction of \(\mathrm{MnO_4^-}\) in acidic medium:<br/>
+\[\mathrm{MnO_4^- + 8H^+ + 5e^- \rightarrow Mn^{2+} + 4H_2O}\]
+Thus, the \(n\)-factor of \(\mathrm{KMnO_4}\) is \(5\).<br/>
+Equating gram equivalents:<br/>
+\[n_{\mathrm{KMnO_4}} \times 5 = 1 \times 3 \implies n_{\mathrm{KMnO_4}} = \frac{3}{5} = 0.6\text{ mol}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>The balanced ionic equation is \(3\mathrm{MnO_4^-} + 5\mathrm{FeC_2O_4} + 24\mathrm{H^+} \rightarrow 3\mathrm{Mn^{2+}} + 5\mathrm{Fe^{3+}} + 10\mathrm{CO_2} + 12\mathrm{H_2O}\), confirming that \(3/5 = 0.6\text{ mol}\) of \(\mathrm{KMnO_4}\) is required per mole of \(\mathrm{FeC_2O_4}\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(0.6\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(0.4\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(0.2\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(1.0\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:redox_reactions_and_electrochemistry</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch007-unit-7-redox-reactions-and-electrochemistry] NEET_UG_CHEMISTRY_MCQ_Q02 - Limiting molar conductivity and dissociation degree</text></name>
+  <questiontext format="html"><![CDATA[<p>At \(298\text{ K}\), the limiting molar conductivities (\(\Lambda_m^\circ\)) of \(\mathrm{CH_3COONa}\), \(\mathrm{HCl}\), and \(\mathrm{NaCl}\) are \(91.0\), \(426.0\), and \(126.0\text{ S cm}^2\text{ mol}^{-1}\), respectively. If the molar conductivity (\(\Lambda_m\)) of a \(0.01\text{ M}\) \(\mathrm{CH_3COOH}\) solution at \(298\text{ K}\) is \(39.1\text{ S cm}^2\text{ mol}^{-1}\), the degree of dissociation (\(\alpha\)) of \(\mathrm{CH_3COOH}\) at this concentration is:</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>At \(298\text{ K}\):<br/>
+\(\Lambda_m^\circ(\mathrm{CH_3COONa}) = 91.0\text{ S cm}^2\text{ mol}^{-1}\)<br/>
+\(\Lambda_m^\circ(\mathrm{HCl}) = 426.0\text{ S cm}^2\text{ mol}^{-1}\)<br/>
+\(\Lambda_m^\circ(\mathrm{NaCl}) = 126.0\text{ S cm}^2\text{ mol}^{-1}\)<br/>
+\(\Lambda_m(\mathrm{CH_3COOH}) = 39.1\text{ S cm}^2\text{ mol}^{-1}\) at \(c = 0.01\text{ M}\).</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>\(\mathrm{CH_3COONa}\), \(\mathrm{HCl}\), and \(\mathrm{NaCl}\) are strong electrolytes that dissociate completely at infinite dilution, while \(\mathrm{CH_3COOH}\) is a weak electrolyte.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>By Kohlrausch's law of independent migration of ions:<br/>
+\[\Lambda_m^\circ(\mathrm{CH_3COOH}) = \Lambda_m^\circ(\mathrm{CH_3COONa}) + \Lambda_m^\circ(\mathrm{HCl}) - \Lambda_m^\circ(\mathrm{NaCl})\]
+The degree of dissociation \(\alpha\) is given by:<br/>
+\[\alpha = \frac{\Lambda_m}{\Lambda_m^\circ}\]</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>Calculate \(\Lambda_m^\circ(\mathrm{CH_3COOH})\):<br/>
+\[\Lambda_m^\circ(\mathrm{CH_3COOH}) = 91.0 + 426.0 - 126.0 = 391.0\text{ S cm}^2\text{ mol}^{-1}\]
+Now compute \(\alpha\):<br/>
+\[\alpha = \frac{39.1\text{ S cm}^2\text{ mol}^{-1}}{391.0\text{ S cm}^2\text{ mol}^{-1}} = 0.10\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>Since \(\alpha\) is a dimensionless ratio between \(0\) and \(1\), \(\alpha = 0.10\) is physically reasonable for a \(0.01\text{ M}\) weak acid solution. The degree of dissociation is \(0.10\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(0.01\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(0.10\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(0.25\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(0.50\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:redox_reactions_and_electrochemistry</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch007-unit-7-redox-reactions-and-electrochemistry] NEET_UG_CHEMISTRY_MCQ_Q03 - Standard reduction potential from Gibbs energy</text></name>
+  <questiontext format="html"><![CDATA[<p>Given the standard reduction potentials at \(298\text{ K}\):<br/>
+\(E^\circ_{\mathrm{Cu^{2+}/Cu}} = +0.34\text{ V}\) and \(E^\circ_{\mathrm{Cu^{2+}/Cu^+}} = +0.15\text{ V}\).<br/>
+The standard reduction potential \(E^\circ_{\mathrm{Cu^+/Cu}}\) is:</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Two standard half-cell reduction potentials are given at \(298\text{ K}\):<br/>
+\(E^\circ_1 = E^\circ_{\mathrm{Cu^{2+}/Cu}} = +0.34\text{ V}\) for \(\mathrm{Cu^{2+}} + 2\mathrm{e^-} \rightarrow \mathrm{Cu}\) (\(n_1 = 2\))<br/>
+\(E^\circ_2 = E^\circ_{\mathrm{Cu^{2+}/Cu^+}} = +0.15\text{ V}\) for \(\mathrm{Cu^{2+}} + \mathrm{e^-} \rightarrow \mathrm{Cu^+}\) (\(n_2 = 1\)).</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Standard electrode potential \(E^\circ\) is an intensive property and is not directly additive. However, standard Gibbs energy change \(\Delta G^\circ\) is an extensive state function and can be added or subtracted when half-reactions are combined.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>The relationship between standard Gibbs energy change and standard electrode potential is:<br/>
+\[\Delta G^\circ = -nFE^\circ\]
+where \(n\) is the number of moles of electrons transferred and \(F\) is the Faraday constant.</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>Write the target half-reaction \(\mathrm{Cu^+} + \mathrm{e^-} \rightarrow \mathrm{Cu}\) (\(n_3 = 1\)) by subtracting the second half-reaction from the first:<br/>
+\[(\mathrm{Cu^{2+}} + 2\mathrm{e^-} \rightarrow \mathrm{Cu}) - (\mathrm{Cu^{2+}} + \mathrm{e^-} \rightarrow \mathrm{Cu^+}) \implies \mathrm{Cu^+} + \mathrm{e^-} \rightarrow \mathrm{Cu}\]
+Applying Hess's law to \(\Delta G^\circ\):<br/>
+\[\Delta G^\circ_3 = \Delta G^\circ_1 - \Delta G^\circ_2\]
+\[-n_3 F E^\circ_3 = -n_1 F E^\circ_1 - (-n_2 F E^\circ_2)\]
+Dividing throughout by \(-F\):<br/>
+\[1 \times E^\circ_3 = (2 \times 0.34) - (1 \times 0.15) = 0.68 - 0.15 = +0.53\text{ V}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>Since \(E^\circ_{\mathrm{Cu^+/Cu}} (+0.53\text{ V}) &gt; E^\circ_{\mathrm{Cu^{2+}/Cu^+}} (+0.15\text{ V})\), \(\mathrm{Cu^+}\) is unstable in aqueous solution and disproportionates to \(\mathrm{Cu^{2+}}\) and \(\mathrm{Cu}\), which is chemically consistent. The standard reduction potential \(E^\circ_{\mathrm{Cu^+/Cu}}\) is \(+0.53\text{ V}\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(+0.19\text{ V}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(+0.49\text{ V}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(+0.53\text{ V}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(-0.53\text{ V}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:redox_reactions_and_electrochemistry</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch008-unit-8-chemical-kinetics] NEET_UG_CHEMISTRY_DIAGRAM_Q04 - Activation energy from Arrhenius plot</text></name>
+  <questiontext format="html"><![CDATA[<p>For a first-order reaction, the Arrhenius plot of \(\ln k\) versus \(1/T\) is shown below. Given \(R = 8.3\text{ J K}^{-1}\text{ mol}^{-1}\), the activation energy (\(E_a\)) of the reaction is:</p>
+<p><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 280" width="420" height="280" style="background:#ffffff;font-family:Arial,sans-serif;">
+  <line x1="70" y1="230" x2="380" y2="230" stroke="#222" stroke-width="2"/>
+  <line x1="70" y1="230" x2="70" y2="30" stroke="#222" stroke-width="2"/>
+  <polygon points="380,226 390,230 380,234" fill="#222"/>
+  <polygon points="66,30 70,20 74,30" fill="#222"/>
+  <text x="200" y="268" font-size="14" fill="#111" text-anchor="middle">1/T (× 10⁻³ K⁻¹)</text>
+  <text x="24" y="130" font-size="14" fill="#111" text-anchor="middle" transform="rotate(-90 24,130)">ln k</text>
+  <line x1="150" y1="230" x2="150" y2="236" stroke="#222" stroke-width="1.5"/>
+  <text x="150" y="250" font-size="12" fill="#111" text-anchor="middle">2.0</text>
+  <line x1="310" y1="230" x2="310" y2="236" stroke="#222" stroke-width="1.5"/>
+  <text x="310" y="250" font-size="12" fill="#111" text-anchor="middle">4.0</text>
+  <line x1="64" y1="170" x2="70" y2="170" stroke="#222" stroke-width="1.5"/>
+  <text x="58" y="174" font-size="12" fill="#111" text-anchor="end">2.0</text>
+  <line x1="64" y1="70" x2="70" y2="70" stroke="#222" stroke-width="1.5"/>
+  <text x="58" y="74" font-size="12" fill="#111" text-anchor="end">6.0</text>
+  <line x1="150" y1="70" x2="150" y2="230" stroke="#888" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="70" y1="70" x2="150" y2="70" stroke="#888" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="310" y1="170" x2="310" y2="230" stroke="#888" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="70" y1="170" x2="310" y2="170" stroke="#888" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="110" y1="45" x2="350" y2="195" stroke="#0056b3" stroke-width="2.5"/>
+  <circle cx="150" cy="70" r="4.5" fill="#d93025"/>
+  <circle cx="310" cy="170" r="4.5" fill="#d93025"/>
+  <text x="160" y="64" font-size="12" fill="#111">(2.0, 6.0)</text>
+  <text x="318" y="164" font-size="12" fill="#111">(4.0, 2.0)</text>
+</svg></p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>From the Arrhenius plot of \(\ln k\) versus \(1/T\) (where the horizontal axis is scaled in units of \(10^{-3}\text{ K}^{-1}\)), two points on the straight line are:<br/>
+At \((1/T)_1 = 2.0 \times 10^{-3}\text{ K}^{-1}\), \(\ln k_1 = 6.0\).<br/>
+At \((1/T)_2 = 4.0 \times 10^{-3}\text{ K}^{-1}\), \(\ln k_2 = 2.0\).<br/>
+The universal gas constant is \(R = 8.3\text{ J K}^{-1}\text{ mol}^{-1}\).</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>The reaction obeys the Arrhenius equation over the plotted temperature range, so \(\ln k\) varies linearly with \(1/T\) with a negative slope.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>Taking the natural logarithm of the Arrhenius equation \(k = A e^{-E_a / (RT)}\) gives:<br/>
+\[\ln k = \ln A - \frac{E_a}{R}\left(\frac{1}{T}\right)\]
+Comparing this with \(y = c + mx\), the slope of the \(\ln k\) versus \(1/T\) line is:<br/>
+\[\text{Slope} = -\frac{E_a}{R}\]</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>Compute the slope using the two coordinates:<br/>
+\[\text{Slope} = \frac{\ln k_2 - \ln k_1}{(1/T)_2 - (1/T)_1} = \frac{2.0 - 6.0}{(4.0 - 2.0) \times 10^{-3}\text{ K}^{-1}} = \frac{-4.0}{2.0 \times 10^{-3}\text{ K}^{-1}} = -2000\text{ K}\]
+Equating the slope to \(-E_a / R\):<br/>
+\[-\frac{E_a}{R} = -2000\text{ K} \implies E_a = 2000\text{ K} \times 8.3\text{ J K}^{-1}\text{ mol}^{-1} = 16600\text{ J mol}^{-1} = 16.6\text{ kJ mol}^{-1}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>The activation energy is positive and in the typical \(\text{kJ mol}^{-1}\) range, with units cancelling properly. Therefore, \(E_a = 16.6\text{ kJ mol}^{-1}\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(8.3\text{ kJ mol}^{-1}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(33.2\text{ kJ mol}^{-1}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(4.15\text{ kJ mol}^{-1}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(16.6\text{ kJ mol}^{-1}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:chemical_kinetics</text></tag>
+    <tag><text>typology:diagram_image</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>calculation:moderate</text></tag>
+    <tag><text>media:graph</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch008-unit-8-chemical-kinetics] NEET_UG_CHEMISTRY_MCQ_Q05 - Completion time for first-order reaction</text></name>
+  <questiontext format="html"><![CDATA[<p>A first-order reaction is \(75\%\) completed in \(40\text{ minutes}\). How much time will it take for \(87.5\%\) completion of the same reaction at the same temperature?</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Order of reaction \(= 1\).<br/>Time for \(75\%\) completion, \(t_{75\%} = 40\text{ min}\).</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>Temperature remains constant, so the rate constant \(k\) and half-life \(t_{1/2}\) remain constant throughout the reaction.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>For a first-order reaction, the fraction of reactant remaining after \(n\) half-lives is \((1/2)^n\), and the half-life is independent of initial concentration:<br/>
+\[t = n \times t_{1/2}\]</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>At \(75\%\) completion, the fraction of reactant remaining is \(1 - 0.75 = 0.25 = \frac{1}{4} = \left(\frac{1}{2}\right)^2\), which corresponds to \(2\) half-lives.<br/>
+\[2 \times t_{1/2} = 40\text{ min} \implies t_{1/2} = 20\text{ min}\]
+At \(87.5\%\) completion, the fraction of reactant remaining is \(1 - 0.875 = 0.125 = \frac{1}{8} = \left(\frac{1}{2}\right)^3\), which corresponds to \(3\) half-lives.<br/>
+\[t_{87.5\%} = 3 \times t_{1/2} = 3 \times 20\text{ min} = 60\text{ min}\]</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>Since \(87.5\%\) completion requires one more half-life beyond \(75\%\) completion, \(40\text{ min} + 20\text{ min} = 60\text{ min}\). Thus, the time required is \(60\text{ minutes}\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(60\text{ minutes}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(80\text{ minutes}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(50\text{ minutes}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(120\text{ minutes}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:chemical_kinetics</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch009-unit-9-classification-of-elements-and-periodicity-in-properties] NEET_UG_CHEMISTRY_AR_Q06 - First ionization enthalpy of nitrogen and oxygen</text></name>
+  <questiontext format="html"><![CDATA[<p><strong>Assertion (A):</strong> The first ionization enthalpy of nitrogen is greater than that of oxygen.</p>
+<p><strong>Reason (R):</strong> Nitrogen has an exactly half-filled \(2p^3\) electronic configuration, which imparts extra stability compared to the \(2p^4\) configuration of oxygen.</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Across a period from left to right, first ionization enthalpy generally increases due to increasing effective nuclear charge. However, atoms with exactly half-filled or completely filled subshells exhibit extra exchange energy stability.</p>
+<p><strong>Step 2: Evaluation of the First Proposition</strong><br/>Although oxygen (\(Z = 8\)) has a higher nuclear charge than nitrogen (\(Z = 7\)), the first ionization enthalpy of nitrogen (\(1402\text{ kJ mol}^{-1}\)) is greater than that of oxygen (\(1314\text{ kJ mol}^{-1}\)). Hence, the assertion is true.</p>
+<p><strong>Step 3: Evaluation of the Second Proposition and Link</strong><br/>The ground-state valence configuration of nitrogen is \(2s^2 2p^3\) (an exactly half-filled \(p\)-subshell with maximum exchange energy and symmetrical distribution), whereas oxygen has \(2s^2 2p^4\), where removing one \(2p\) electron relieves inter-electronic repulsion in a doubly occupied \(2p\) orbital and leaves a stable half-filled \(2p^3\) core. Therefore, the reason is true and directly explains the assertion.</p>
+<p><strong>Step 4: Final Conclusion</strong><br/>Both the assertion and the reason are correct, and the reason is the correct explanation of the assertion.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both (A) and (R) are correct and (R) is the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is correct but (R) is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is incorrect but (R) is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:classification_of_elements_and_periodicity_in_properties</text></tag>
+    <tag><text>typology:assertion-reason</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch010-unit-10-p-block-elements] NEET_UG_CHEMISTRY_STMT2_Q07 - Covalency of nitrogen versus phosphorus</text></name>
+  <questiontext format="html"><![CDATA[<p>Given below are two statements:</p>
+<p><strong>Statement I:</strong> Nitrogen does not form pentahalides such as \(\mathrm{NCl_5}\), whereas phosphorus forms \(\mathrm{PCl_5}\).</p>
+<p><strong>Statement II:</strong> Nitrogen lacks vacant \(d\)-orbitals in its valence shell to expand its covalency beyond four.</p>
+<p>In the light of the above statements, choose the most appropriate answer from the options given below.</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Elements of the second period possess only \(2s\) and \(2p\) orbitals in their valence shell (maximum \(4\) orbitals), limiting their maximum covalency to \(4\). Elements of the third period and beyond have accessible vacant \(d\)-orbitals in their valence shell.</p>
+<p><strong>Step 2: Evaluation of the First Proposition</strong><br/>Nitrogen (\(Z = 7\)) cannot form pentahalides like \(\mathrm{NCl_5}\) because it cannot accommodate five covalent bonds around its valence shell, whereas phosphorus (\(Z = 15\)) readily forms \(\mathrm{PCl_5}\) using \(sp^3d\) hybridization. Thus, the first proposition is correct.</p>
+<p><strong>Step 3: Evaluation of the Second Proposition</strong><br/>The valence shell of nitrogen is \(n = 2\), which contains only \(2s\) and \(2p\) subshells and has no \(2d\) orbitals. Consequently, nitrogen cannot expand its octet or covalency beyond \(4\). Thus, the second proposition is also correct.</p>
+<p><strong>Step 4: Final Conclusion</strong><br/>Both statements are correct.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is correct but Statement II is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is incorrect but Statement II is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:p_block_elements</text></tag>
+    <tag><text>typology:statement_based_2</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch010-unit-10-p-block-elements] NEET_UG_CHEMISTRY_SEQ_Q08 - Acidic strength order of chlorine oxoacids</text></name>
+  <questiontext format="html"><![CDATA[<p>Arrange the following oxoacids of chlorine in the increasing order of their acidic strength:</p>
+<ol type="I">
+  <li>\(\mathrm{HClO_3}\)</li>
+  <li>\(\mathrm{HClO}\)</li>
+  <li>\(\mathrm{HClO_4}\)</li>
+  <li>\(\mathrm{HClO_2}\)</li>
+</ol>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>For oxoacids of the same central halogen atom, acidic strength increases with an increase in the oxidation state of the central atom and the number of terminal oxygen atoms, because greater electronegative withdrawal weakens the \(\mathrm{O-H}\) bond and stabilizes the conjugate base through resonance delocalization.</p>
+<p><strong>Step 2: Evaluation of Oxidation States and Conjugate Bases</strong><br/>The oxidation states of chlorine in the given oxoacids are:<br/>
+In \(\mathrm{HClO}\): \(\mathrm{Cl}\) is in \(+1\) (conjugate base \(\mathrm{ClO}^-\), \(0\) terminal \(\mathrm{O}\) atoms).<br/>
+In \(\mathrm{HClO_2}\): \(\mathrm{Cl}\) is in \(+3\) (conjugate base \(\mathrm{ClO_2^-}\), \(1\) terminal \(\mathrm{O}\) atom).<br/>
+In \(\mathrm{HClO_3}\): \(\mathrm{Cl}\) is in \(+5\) (conjugate base \(\mathrm{ClO_3^-}\), \(2\) terminal \(\mathrm{O}\) atoms).<br/>
+In \(\mathrm{HClO_4}\): \(\mathrm{Cl}\) is in \(+7\) (conjugate base \(\mathrm{ClO_4^-}\), \(3\) terminal \(\mathrm{O}\) atoms).</p>
+<p><strong>Step 3: Application</strong><br/>As the number of oxygen atoms increases from \(\mathrm{ClO^-}\) to \(\mathrm{ClO_4^-}\), the negative charge is delocalized over more oxygen atoms, increasing conjugate base stability and acid strength accordingly.</p>
+<p><strong>Step 4: Final Conclusion</strong><br/>The increasing order of acidic strength is \(\mathrm{HClO} &lt; \mathrm{HClO_2} &lt; \mathrm{HClO_3} &lt; \mathrm{HClO_4}\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\text{III} &lt; \text{I} &lt; \text{IV} &lt; \text{II}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(\text{II} &lt; \text{IV} &lt; \text{I} &lt; \text{III}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\text{II} &lt; \text{I} &lt; \text{IV} &lt; \text{III}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\text{IV} &lt; \text{II} &lt; \text{I} &lt; \text{III}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:p_block_elements</text></tag>
+    <tag><text>typology:sequencing</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch010-unit-10-p-block-elements] NEET_UG_CHEMISTRY_MCQ_Q09 - Lone pairs and geometry of xenon tetrafluoride</text></name>
+  <questiontext format="html"><![CDATA[<p>The number of lone pairs of electrons on the central xenon atom and the molecular geometry of \(\mathrm{XeF_4}\) are, respectively:</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>According to VSEPR theory, the electron-pair geometry is determined by the total number of steric domains (bond pairs + lone pairs) around the central atom, while the molecular geometry is determined by the spatial arrangement of the bonded atoms.</p>
+<p><strong>Step 2: Evaluation of Valence Electrons</strong><br/>Xenon belongs to Group \(18\) and has \(8\) valence electrons. In \(\mathrm{XeF_4}\), \(4\) valence electrons form \(4\) single covalent \(\mathrm{Xe-F}\) bonds with four fluorine atoms, leaving \(8 - 4 = 4\) non-bonding valence electrons, which constitute \(2\) lone pairs.</p>
+<p><strong>Step 3: Application to Geometry</strong><br/>With \(4\) bond pairs and \(2\) lone pairs (total \(6\) electron pairs), the hybridization of \(\mathrm{Xe}\) is \(sp^3d^2\) and the electron-pair arrangement is octahedral. To minimize lone pair–lone pair repulsion, the two lone pairs occupy opposite axial positions, leaving the four fluorine atoms in a single plane.</p>
+<p><strong>Step 4: Final Conclusion</strong><br/>\(\mathrm{XeF_4}\) has \(2\) lone pairs on the central xenon atom and a square planar molecular geometry.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(1\), see-saw</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(2\), tetrahedral</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(2\), square planar</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(0\), tetrahedral</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:p_block_elements</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch011-unit-11-d-and-f-block-elements] NEET_UG_CHEMISTRY_MATCH_Q10 - Spin-only magnetic moments of transition ions</text></name>
+  <questiontext format="html"><![CDATA[<p>Match the transition metal ions in List-I with their spin-only magnetic moment values in List-II.</p>
+<table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;">
+  <thead>
+    <tr><th>List-I (Ion)</th><th>List-II (Spin-only magnetic moment)</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>(P) \(\mathrm{Ti^{3+}}\)</td><td>(1) \(3.87\text{ BM}\)</td></tr>
+    <tr><td>(Q) \(\mathrm{V^{3+}}\)</td><td>(2) \(5.92\text{ BM}\)</td></tr>
+    <tr><td>(R) \(\mathrm{Cr^{3+}}\)</td><td>(3) \(1.73\text{ BM}\)</td></tr>
+    <tr><td>(S) \(\mathrm{Mn^{2+}}\)</td><td>(4) \(2.83\text{ BM}\)</td></tr>
+  </tbody>
+</table>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Given Data and Conditions</strong><br/>Four first-row transition metal ions are given: \(\mathrm{Ti^{3+}}\) (\(Z = 22\)), \(\mathrm{V^{3+}}\) (\(Z = 23\)), \(\mathrm{Cr^{3+}}\) (\(Z = 24\)), and \(\mathrm{Mn^{2+}}\) (\(Z = 25\)).</p>
+<p><strong>Step 2: Assumptions and Sign Conventions</strong><br/>For first-row (\(3d\)) transition metal ions, orbital angular momentum is largely quenched, so the magnetic moment is accurately given by the spin-only formula.</p>
+<p><strong>Step 3: Relevant Formulae and Principles</strong><br/>The spin-only magnetic moment \(\mu\) (in Bohr magnetons, \(\text{BM}\)) is:<br/>
+\[\mu = \sqrt{n(n+2)}\text{ BM}\]
+where \(n\) is the number of unpaired electrons.</p>
+<p><strong>Step 4: Step-by-Step Working</strong><br/>1. \(\mathrm{Ti^{3+}}\): Electronic configuration is \([\mathrm{Ar}]3d^1\), so \(n = 1\).<br/>
+\(\mu = \sqrt{1(1+2)} = \sqrt{3} \approx 1.73\text{ BM}\).<br/>
+2. \(\mathrm{V^{3+}}\): Electronic configuration is \([\mathrm{Ar}]3d^2\), so \(n = 2\).<br/>
+\(\mu = \sqrt{2(2+2)} = \sqrt{8} \approx 2.83\text{ BM}\).<br/>
+3. \(\mathrm{Cr^{3+}}\): Electronic configuration is \([\mathrm{Ar}]3d^3\), so \(n = 3\).<br/>
+\(\mu = \sqrt{3(3+2)} = \sqrt{15} \approx 3.87\text{ BM}\).<br/>
+4. \(\mathrm{Mn^{2+}}\): Electronic configuration is \([\mathrm{Ar}]3d^5\), so \(n = 5\).<br/>
+\(\mu = \sqrt{5(5+2)} = \sqrt{35} \approx 5.92\text{ BM}\).</p>
+<p><strong>Step 5: Check and Final Answer</strong><br/>The correct pairings are \(\mathrm{Ti^{3+}} \rightarrow 1.73\text{ BM}\), \(\mathrm{V^{3+}} \rightarrow 2.83\text{ BM}\), \(\mathrm{Cr^{3+}} \rightarrow 3.87\text{ BM}\), and \(\mathrm{Mn^{2+}} \rightarrow 5.92\text{ BM}\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>P-3, Q-1, R-4, S-2</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>P-3, Q-4, R-1, S-2</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>P-4, Q-3, R-1, S-2</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>P-2, Q-4, R-1, S-3</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:d_and_f_block_elements</text></tag>
+    <tag><text>typology:matching-mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:table</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch011-unit-11-d-and-f-block-elements] NEET_UG_CHEMISTRY_MCQ_Q11 - Permanganate oxidation of iodide in neutral medium</text></name>
+  <questiontext format="html"><![CDATA[<p>When potassium permanganate (\(\mathrm{KMnO_4}\)) reacts with potassium iodide (\(\mathrm{KI}\)) in a neutral or faintly alkaline aqueous solution, the manganese- and iodine-containing products formed are, respectively:</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>The oxidizing power and reduction products of \(\mathrm{MnO_4^-}\) depend strongly on the \(\mathrm{pH}\) of the medium. In acidic medium, \(\mathrm{MnO_4^-}\) is reduced to \(\mathrm{Mn^{2+}}\); in neutral or faintly alkaline medium, it is reduced to insoluble manganese dioxide (\(\mathrm{MnO_2}\)).</p>
+<p><strong>Step 2: Evaluation of Products</strong><br/>In a neutral or faintly alkaline solution, \(\mathrm{MnO_4^-}\) (\(\mathrm{Mn}\) in \(+7\)) gains \(3\) electrons per ion to form \(\mathrm{MnO_2}\) (\(\mathrm{Mn}\) in \(+4\)). Simultaneously, iodide ion (\(\mathrm{I^-}\), oxidation state \(-1\)) is oxidized all the way to iodate ion (\(\mathrm{IO_3^-}\), oxidation state \(+5\)), losing \(6\) electrons per ion (unlike in acidic medium, where \(\mathrm{I^-}\) is oxidized to \(\mathrm{I_2}\)).</p>
+<p><strong>Step 3: Balanced Chemical Equation</strong><br/>
+\[2\mathrm{MnO_4^-} + \mathrm{H_2O} + \mathrm{I^-} \rightarrow 2\mathrm{MnO_2} + 2\mathrm{OH^-} + \mathrm{IO_3^-}\]</p>
+<p><strong>Step 4: Final Conclusion</strong><br/>In neutral or faintly alkaline medium, \(\mathrm{KMnO_4}\) oxidizes \(\mathrm{KI}\) to form \(\mathrm{MnO_2}\) and \(\mathrm{IO_3^-}\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\mathrm{Mn^{2+}}\) and \(\mathrm{I_2}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\mathrm{MnO_4^{2-}}\) and \(\mathrm{I_2}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\mathrm{MnO_2}\) and \(\mathrm{I_2}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(\mathrm{MnO_2}\) and \(\mathrm{IO_3^-}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:d_and_f_block_elements</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch012-unit-12-co-ordination-compounds] NEET_UG_CHEMISTRY_STMT4_Q12 - Geometry and magnetism of nickel complexes</text></name>
+  <questiontext format="html"><![CDATA[<p>Consider the following four statements regarding the coordination complexes \([\mathrm{Ni(CN)_4}]^{2-}\) and \([\mathrm{NiCl_4}]^{2-}\):</p>
+<ol>
+  <li>\([\mathrm{Ni(CN)_4}]^{2-}\) has a square planar geometry and is diamagnetic.</li>
+  <li>\([\mathrm{NiCl_4}]^{2-}\) has a tetrahedral geometry and is paramagnetic with two unpaired electrons.</li>
+  <li>In \([\mathrm{Ni(CN)_4}]^{2-}\), the central nickel ion undergoes \(dsp^2\) hybridization.</li>
+  <li>Both \([\mathrm{Ni(CN)_4}]^{2-}\) and \([\mathrm{NiCl_4}]^{2-}\) are inner-orbital complexes.</li>
+</ol>
+<p>Which of the above statements are correct?</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>In both \([\mathrm{Ni(CN)_4}]^{2-}\) and \([\mathrm{NiCl_4}]^{2-}\), nickel is in the \(+2\) oxidation state with a \(3d^8\) valence configuration. The geometry and magnetic behaviour depend on the ligand field strength.</p>
+<p><strong>Step 2: Evaluation of \([\mathrm{Ni(CN)_4}]^{2-}\)</strong><br/>Cyanide (\(\mathrm{CN^-}\)) is a strong-field ligand, so it causes pairing of the two unpaired \(3d\) electrons in \(\mathrm{Ni^{2+}}\) (\(3d^8\)), vacating one \(3d\) orbital. Consequently, \(\mathrm{Ni^{2+}}\) undergoes \(dsp^2\) hybridization, giving a square planar geometry with zero unpaired electrons (diamagnetic). Because an inner \(3d\) orbital is used in hybridization, \([\mathrm{Ni(CN)_4}]^{2-}\) is an inner-orbital complex.</p>
+<p><strong>Step 3: Evaluation of \([\mathrm{NiCl_4}]^{2-}\)</strong><br/>Chloride (\(\mathrm{Cl^-}\)) is a weak-field ligand and cannot pair the \(3d\) electrons of \(\mathrm{Ni^{2+}}\). Thus, \(\mathrm{Ni^{2+}}\) uses one \(4s\) and three \(4p\) orbitals to undergo \(sp^3\) hybridization, resulting in a tetrahedral geometry with two unpaired electrons (paramagnetic). Since it uses outer \(4s\) and \(4p\) orbitals rather than an inner \(3d\) orbital, \([\mathrm{NiCl_4}]^{2-}\) is not an inner-orbital complex.</p>
+<p><strong>Step 4: Final Conclusion</strong><br/>The propositions describing \([\mathrm{Ni(CN)_4}]^{2-}\) as square planar, diamagnetic, and \(dsp^2\)-hybridized, and \([\mathrm{NiCl_4}]^{2-}\) as tetrahedral and paramagnetic with two unpaired electrons, are correct, whereas claiming that both are inner-orbital complexes is incorrect.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1, 2 and 3 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 3 and 4 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2 and 4 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 2, 3 and 4</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:co_ordination_compounds</text></tag>
+    <tag><text>typology:statement_based_4</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch012-unit-12-co-ordination-compounds] NEET_UG_CHEMISTRY_MATCH_Q13 - Structural isomerism in coordination compounds</text></name>
+  <questiontext format="html"><![CDATA[<p>Match the pairs of coordination compounds in List-I with the type of structural isomerism they exhibit in List-II.</p>
+<table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;">
+  <thead>
+    <tr><th>List-I (Complex Pair)</th><th>List-II (Type of Isomerism)</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>(P) \([\mathrm{Co(NH_3)_5(NO_2)}]\mathrm{Cl_2}\) and \([\mathrm{Co(NH_3)_5(ONO)}]\mathrm{Cl_2}\)</td><td>(1) Coordination isomerism</td></tr>
+    <tr><td>(Q) \([\mathrm{Co(NH_3)_5SO_4}]\mathrm{Br}\) and \([\mathrm{Co(NH_3)_5Br}]\mathrm{SO_4}\)</td><td>(2) Solvate (hydrate) isomerism</td></tr>
+    <tr><td>(R) \([\mathrm{Cr(H_2O)_6}]\mathrm{Cl_3}\) and \([\mathrm{Cr(H_2O)_5Cl}]\mathrm{Cl_2\cdot H_2O}\)</td><td>(3) Linkage isomerism</td></tr>
+    <tr><td>(S) \([\mathrm{Co(NH_3)_6}][\mathrm{Cr(CN)_6}]\) and \([\mathrm{Cr(NH_3)_6}][\mathrm{Co(CN)_6}]\)</td><td>(4) Ionization isomerism</td></tr>
+  </tbody>
+</table>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Structural isomerism in coordination compounds arises from differences in ligand connectivity, exchange of groups between the coordination sphere and the ionization sphere, solvent distribution, or ligand exchange between cationic and anionic complexes.</p>
+<p><strong>Step 2: Evaluation of Each Complex Pair</strong><br/>1. \([\mathrm{Co(NH_3)_5(NO_2)}]\mathrm{Cl_2}\) and \([\mathrm{Co(NH_3)_5(ONO)}]\mathrm{Cl_2}\): The ambidentate \(\mathrm{NO_2^-}\) ligand coordinates through nitrogen in the nitro form and through oxygen in the nitrito form, which is linkage isomerism.<br/>
+2. \([\mathrm{Co(NH_3)_5SO_4}]\mathrm{Br}\) and \([\mathrm{Co(NH_3)_5Br}]\mathrm{SO_4}\): These compounds have the same formula but yield different ions in aqueous solution (\(\mathrm{Br^-}\) versus \(\mathrm{SO_4^{2-}}\)), which is ionization isomerism.<br/>
+3. \([\mathrm{Cr(H_2O)_6}]\mathrm{Cl_3}\) and \([\mathrm{Cr(H_2O)_5Cl}]\mathrm{Cl_2\cdot H_2O}\): They differ in whether water molecules are directly coordinated to the metal ion or present as free solvent molecules in the crystal lattice, which is solvate (hydrate) isomerism.<br/>
+4. \([\mathrm{Co(NH_3)_6}][\mathrm{Cr(CN)_6}]\) and \([\mathrm{Cr(NH_3)_6}][\mathrm{Co(CN)_6}]\): The \(\mathrm{NH_3}\) and \(\mathrm{CN^-}\) ligands are interchanged between the cationic and anionic coordination entities of the two different metal centres, which is coordination isomerism.</p>
+<p><strong>Step 3: Final Conclusion</strong><br/>The nitro/nitrito pair exhibits linkage isomerism, the \(\mathrm{SO_4^{2-}}/\mathrm{Br^-}\) pair exhibits ionization isomerism, the hexaaqua/pentaaquachlorido pair exhibits solvate (hydrate) isomerism, and the bimetallic salt pair exhibits coordination isomerism.</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>P-4, Q-3, R-2, S-1</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>P-3, Q-2, R-4, S-1</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>P-3, Q-4, R-2, S-1</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>P-1, Q-4, R-2, S-3</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:co_ordination_compounds</text></tag>
+    <tag><text>typology:matching-mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:table</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch012-unit-12-co-ordination-compounds] NEET_UG_CHEMISTRY_MCQ_Q14 - IUPAC name of potassium trioxalatoferrate</text></name>
+  <questiontext format="html"><![CDATA[<p>The correct IUPAC name of the coordination compound \(\mathrm{K_3[Fe(C_2O_4)_3]}\) is:</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>In IUPAC nomenclature of coordination compounds, the cation is named first followed by the anion. Within an anionic coordination sphere, ligands are named in alphabetical order with multiplicative prefixes (tri-, tetra-, etc.), and the central metal name ends in "-ate" followed by its oxidation state in Roman numerals in parentheses.</p>
+<p><strong>Step 2: Evaluation of Oxidation State and Ligands</strong><br/>Each potassium counter-ion carries a \(+1\) charge, so the complex anion \([\mathrm{Fe(C_2O_4)_3}]^{3-}\) carries a \(-3\) charge. Each oxalate ligand (\(\mathrm{C_2O_4^{2-}}\)) has a charge of \(-2\) and is named "oxalato". Let the oxidation state of \(\mathrm{Fe}\) be \(x\):<br/>
+\[x + 3(-2) = -3 \implies x = +3\]</p>
+<p><strong>Step 3: Application</strong><br/>Naming the cation "Potassium" (without a multiplicative prefix for counter-ions), followed by three oxalate ligands ("trioxalato"), and iron in an anionic complex ("ferrate(III)") gives the complete name.</p>
+<p><strong>Step 4: Final Conclusion</strong><br/>The IUPAC name of \(\mathrm{K_3[Fe(C_2O_4)_3]}\) is Potassium trioxalatoferrate(III).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Potassium trioxalatoferrate(III)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Tripotassium trioxalatoferrate(III)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Potassium trioxalatoiron(III)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Potassium tris(oxalato)ferrate(II)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:co_ordination_compounds</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch013-unit-13-purification-and-characterisation-of-organic-compounds] NEET_UG_CHEMISTRY_MCQ_Q15 - Blood-red colour in Lassaigne test</text></name>
+  <questiontext format="html"><![CDATA[<p>When an organic compound containing both nitrogen and sulphur is fused with metallic sodium, and the resulting sodium fusion extract is treated with neutral \(\mathrm{FeCl_3}\) solution, a blood-red colouration is observed. This blood-red colour is due to the formation of:</p>]]></questiontext>
+  <generalfeedback format="html"><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>In Lassaigne's test, fusing an organic compound containing both nitrogen and sulphur with metallic sodium converts these elements into water-soluble sodium thiocyanate (\(\mathrm{NaSCN}\)):<br/>
+\[\mathrm{Na + C + N + S \xrightarrow{\Delta} NaSCN}\]</p>
+<p><strong>Step 2: Evaluation of Colour Reaction</strong><br/>When the sodium fusion extract containing \(\mathrm{SCN^-}\) ions is treated with \(\mathrm{Fe^{3+}}\) ions from \(\mathrm{FeCl_3}\), a soluble blood-red complex ion, \([\mathrm{Fe(SCN)}]^{2+}\), is formed:<br/>
+\[\mathrm{Fe^{3+} + SCN^- \rightarrow [Fe(SCN)]^{2+}}\]</p>
+<p><strong>Step 3: Ruling Out Other Species</strong><br/>Prussian blue \(\mathrm{Fe_4[Fe(CN)_6]_3}\) forms when nitrogen alone is present (as \(\mathrm{NaCN}\)), and violet \(\mathrm{Na_4[Fe(CN)_5NOS]}\) forms when \(\mathrm{Na_2S}\) reacts with sodium nitroprusside.</p>
+<p><strong>Step 4: Final Conclusion</strong><br/>The blood-red colouration is due to the formation of \([\mathrm{Fe(SCN)}]^{2+}\).</p>]]></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>ABCD</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\mathrm{Fe_4[Fe(CN)_6]_3}\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\([\mathrm{Fe(SCN)}]^{2+}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\mathrm{Na_4[Fe(CN)_5NOS]}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(\mathrm{Fe_2S_3}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:chemistry</text></tag>
+    <tag><text>chapter:purification_and_characterisation_of_organic_compounds</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>

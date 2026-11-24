@@ -1,0 +1,379 @@
+{
+  "identity": {
+    "version": 3,
+    "reference": {
+      "format": ".pdf",
+      "sha256": "31eb21a95d4c238f787d4bb62e4eaaec355f2da73903e3e37b34dee362075454"
+    },
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Biology"
+    ],
+    "chapter_titles": {
+      "Physics": [
+        "UNIT 1: PHYSICS AND MEASUREMENT",
+        "UNIT 2: KINEMATICS",
+        "UNIT 3: LAWS OF MOTION",
+        "UNIT 4: WORK, ENERGY, AND POWER",
+        "UNIT 5: ROTATIONAL MOTION",
+        "UNIT 6: GRAVITATION",
+        "UNIT 7: PROPERTIES OF SOLIDS AND LIQUIDS",
+        "UNIT 8: THERMODYNAMICS",
+        "UNIT 9: KINETIC THEORY OF GASES",
+        "UNIT 10: OSCILLATIONS AND WAVES",
+        "UNIT 11: ELECTROSTATICS",
+        "UNIT 12: CURRENT ELECTRICITY",
+        "UNIT 13: MAGNETIC EFFECTS OF CURRENT AND MAGNETISM",
+        "UNIT 14: ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENTS",
+        "UNIT 15: ELECTROMAGNETIC WAVES",
+        "UNIT 16: OPTICS",
+        "UNIT 17: DUAL NATURE OF MATTER AND RADIATION",
+        "UNIT 18: ATOMS AND NUCLEI",
+        "UNIT 19: ELECTRONIC DEVICES",
+        "UNIT 20: EXPERIMENTAL SKILLS"
+      ],
+      "Chemistry": [
+        "UNIT 1: SOME BASIC CONCEPTS IN CHEMISTRY",
+        "UNIT 2: ATOMIC STRUCTURE",
+        "UNIT 3: CHEMICAL BONDING AND MOLECULAR STRUCTURE",
+        "UNIT 4: CHEMICAL THERMODYNAMICS",
+        "UNIT 5: SOLUTIONS",
+        "UNIT 6: EQUILIBRIUM",
+        "UNIT 7: REDOX REACTIONS AND ELECTROCHEMISTRY",
+        "UNIT 8: CHEMICAL KINETICS",
+        "UNIT 9: CLASSIFICATION OF ELEMENTS AND PERIODICITY IN PROPERTIES",
+        "UNIT 10: p-BLOCK ELEMENTS",
+        "UNIT 11: d and f-BLOCK ELEMENTS",
+        "UNIT 12: CO-ORDINATION COMPOUNDS",
+        "UNIT 13: PURIFICATION AND CHARACTERISATION OF ORGANIC COMPOUNDS",
+        "UNIT 14: SOME BASIC PRINCIPLES OF ORGANIC CHEMISTRY",
+        "UNIT 15: HYDROCARBONS",
+        "UNIT 16: ORGANIC COMPOUNDS CONTAINING HALOGENS",
+        "UNIT 17: ORGANIC COMPOUNDS CONTAINING OXYGEN",
+        "UNIT 18: ORGANIC COMPOUNDS CONTAINING NITROGEN",
+        "UNIT 19: BIOMOLECULES",
+        "UNIT 20: PRINCIPLES RELATED TO PRACTICAL CHEMISTRY"
+      ],
+      "Biology": [
+        "UNIT 1: DIVERSITY IN LIVING WORLD",
+        "UNIT 2: STRUCTURAL ORGANISATION IN ANIMALS AND PLANTS",
+        "UNIT 3: CELL STRUCTURE AND FUNCTION",
+        "UNIT 4: PLANT PHYSIOLOGY",
+        "UNIT 5: HUMAN PHYSIOLOGY",
+        "UNIT 6: REPRODUCTION",
+        "UNIT 7: GENETICS AND EVOLUTION",
+        "UNIT 8: BIOLOGY AND HUMAN WELFARE",
+        "UNIT 9: BIOTECHNOLOGY AND ITS APPLICATIONS",
+        "UNIT 10: ECOLOGY AND ENVIRONMENT"
+      ]
+    },
+    "mode": "full",
+    "batch_pages": 20,
+    "batch_questions": 20,
+    "analysis_communicator": {
+      "backend": "SingleShotBackend",
+      "model_name": "gemini-4-hydrogen",
+      "agent_name": null
+    }
+  },
+  "status": "completed",
+  "input_sha256": "aac4888ccbe1b392e3fae6a28455d5d62ffa078a7e6426f05cff85a06239a85a",
+  "batches": [
+    {
+      "subjects": {
+        "Physics": {
+          "style": "45 single-correct 4-option MCQs (+4/-1 marking, no calculator). Moderate to moderately high difficulty blending conceptual reasoning, multi-step symbolic derivations, and clean arithmetic. Calculations emphasize proportionalities, ratios, algebraic substitutions, and occasional simple integration with round constants. Frequent schematic setups (circuits, optics, mechanics, thermodynamic cycles) and 4-panel qualitative graph-selection options, plus occasional table-matching.",
+          "chapters": {
+            "UNIT 1: PHYSICS AND MEASUREMENT": "Tests dimensional analysis of composite physical constants and zero-error instrument readings.",
+            "UNIT 2: KINEMATICS": "Tests average speed over a time interval from a quadratic position-time function involving a direction reversal.",
+            "UNIT 3: LAWS OF MOTION": "Tests banked circular motion conditions using inverse trigonometric angle expressions.",
+            "UNIT 4: WORK, ENERGY, AND POWER": "Tests work done by spatially varying friction via integration and elastic collision height transfer.",
+            "UNIT 5: ROTATIONAL MOTION": "Tests parallel-axis comparisons of moments of inertia and angular momentum about off-center reference points with diagrams.",
+            "UNIT 6: GRAVITATION": "Tests symbolic ratio and power-law scaling for escape speeds and orbital time periods.",
+            "UNIT 7: PROPERTIES OF SOLIDS AND LIQUIDS": "Tests qualitative graph identification for terminal velocity versus density ratio, thermal volume expansion, and continuity-Bernoulli flow rates.",
+            "UNIT 8: THERMODYNAMICS": "Tests net heat over rectangular P-V cycle diagrams and adiabatic expansion work from temperature drop.",
+            "UNIT 9: KINETIC THEORY OF GASES": "Tests vibrational degrees of freedom from specific heat ratios and mean free path scaling.",
+            "UNIT 10: OSCILLATIONS AND WAVES": "Tests phase-space trajectory conditions, harmonic node-count ratios in pipes, and buoyancy oscillation periods.",
+            "UNIT 11: ELECTROSTATICS": "Tests conservation of energy in non-uniform fields, work done through charged spheres, conductor cavity shielding, and capacitor energy ratios.",
+            "UNIT 12: CURRENT ELECTRICITY": "Tests qualitative current trends in series and parallel resistor circuits with opposing temperature coefficients.",
+            "UNIT 13: MAGNETIC EFFECTS OF CURRENT AND MAGNETISM": "Tests force balance between parallel current-carrying wires and net magnetic field from asymmetric circular loop branches.",
+            "UNIT 14: ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENTS": "Tests series LCR current amplitude, solenoid inductance formulas, inductor emf ratios, and power-versus-time waveform identification.",
+            "UNIT 15: ELECTROMAGNETIC WAVES": "Tests identifying an incorrect wave property from a dielectric wave equation and matching spectral bands to applications.",
+            "UNIT 16: OPTICS": "Tests apparent depth differences across layered media and sequential thin-lens image positioning using ray-setup diagrams.",
+            "UNIT 17: DUAL NATURE OF MATTER AND RADIATION": "Tests qualitative photocurrent/stopping-potential time plots, threshold wavelength inequalities, and electron-photon momentum ratios.",
+            "UNIT 18: ATOMS AND NUCLEI": "Tests Rutherford scattering plot recognition, nuclear decay Q-value arithmetic, and Bohr orbit parameter calculation.",
+            "UNIT 19: ELECTRONIC DEVICES": "Tests depletion-width ranking across biased diode branches and reverse-biased Zener voltage drops from circuit diagrams.",
+            "UNIT 20: EXPERIMENTAL SKILLS": "Tests identifying which classic laboratory experiments require index correction and zero-error instrument compensation."
+          },
+          "examples": [
+            {
+              "text": "9. Consider that $\\sigma_{\\mathrm{s}}$, $\\mathrm{k}_{\\mathrm{B}}$, b represent Stefan-Boltzmann constant, Boltzmann constant and Wien's displacement law constant, respectively. The dimension of $\\sigma_{\\mathrm{s}}\\mathrm{k}_{\\mathrm{B}}^{-1}\\mathrm{b}$ is:\n\n(1) $[\\mathrm{L}^{-1}\\mathrm{K}^{-2}]$\n\n(2) $[\\mathrm{L}^{-1}\\mathrm{T}^{-1}\\mathrm{K}^{-3}]$\n\n(3) $[\\mathrm{L}^{-1}\\mathrm{T}^{-1}\\mathrm{K}^{-4}]$\n\n(4) $[\\mathrm{L}^{-1}\\mathrm{T}^{-1}\\mathrm{K}^{-2}]$",
+              "chapter": "UNIT 1: PHYSICS AND MEASUREMENT"
+            },
+            {
+              "text": "3. Three identical p-n junction diodes $D_1$, $D_2$ and $D_3$ are connected across a battery as shown in the figure. If the width of the depletion regions of $D_1$, $D_2$ and $D_3$ are $W_1$, $W_2$ and $W_3$, respectively, then the correct option is:\n\n[reference diagram]\n\n(1) \\(\\mathrm{W}_3 = \\mathrm{W}_1 > \\mathrm{W}_2\\)\n(2) \\(\\mathrm{W}_3 > \\mathrm{W}_2 > \\mathrm{W}_1\\)\n(3) \\(\\mathrm{W}_2 > \\mathrm{W}_1 = \\mathrm{W}_3\\)\n(4) \\(\\mathrm{W}_1 > \\mathrm{W}_2 > \\mathrm{W}_3\\)",
+              "chapter": "UNIT 19: ELECTRONIC DEVICES"
+            },
+            {
+              "text": "8. Consider three media P, Q and R with refractive indices 1, 1.25, and 1.5, respectively. The medium Q having a thickness of 5 cm is placed between extended media P and R as shown in the figure. An object O is placed at the center of medium Q. If viewed from medium P near the normal direction, the apparent depth of O is $h_1$. For similar observation from medium R, the apparent depth is $h_2$. The value of $|h_1 - h_2|$, in cm, is:\n\n[reference diagram]\n\n(1) 1 (2) 2\n(3) 3 (4) 0\n\n80\n\n6",
+              "chapter": "UNIT 16: OPTICS"
+            },
+            {
+              "text": "12. An ac voltage $V = 220 \\sin(2 \\times 10^3 t)$ Volt is applied to a series LCR circuit. Then the current amplitude in this circuit is: (Given: $L = 10 \\, \\text{mH}$, $C = 25 \\, \\mu\\text{F}$, $R = 100 \\, \\Omega$)\n\n(1) 5.5 A\n\n(2) 11.0 A\n\n(3) 22.0 A\n\n(4) 2.2 A",
+              "chapter": "UNIT 14: ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENTS"
+            },
+            {
+              "text": "17. One mole of an ideal monatomic gas undergoes a cyclic process as shown in the figure. The total heat supplied to the gas is:\n\n[reference diagram]\n\n(1) 500 J\n\n(2) 600 J\n\n(3) 800 J\n\n(4) 400 J",
+              "chapter": "UNIT 8: THERMODYNAMICS"
+            },
+            {
+              "text": "22. In the measurement of viscosity of liquids using terminal velocity experiment, spherical balls of same radius but having different densities are used. The variation of the terminal velocity ($v$) with the ratio of density of spherical ball ($\\sigma$) to density of the liquid ($\\rho$), is best represented by\n\n[reference diagram]\n\n[reference diagram]\n\n[reference diagram]\n\n[reference diagram]",
+              "chapter": "UNIT 7: PROPERTIES OF SOLIDS AND LIQUIDS"
+            }
+          ]
+        },
+        "Chemistry": {
+          "style": "45 single-correct 4-option MCQs (+4/-1 marking, no calculator). Moderate difficulty spanning physical chemistry numericals, inorganic trends/coordination chemistry, and mechanistic/stereochemical organic chemistry. Mixes direct stems, Statement-I/II pairs, Assertion-Reason pairs, multi-statement subset selection, and List-I/II matching. Calculations use clean mental math (linear plots, simple exponents, titration stoichiometry, rounding). Visuals include reaction schemes, Newman projections, orbital plots, Arrhenius/P-V graphs, and data tables.",
+          "chapters": {
+            "UNIT 1: SOME BASIC CONCEPTS IN CHEMISTRY": "Tests combustion mass stoichiometry and decimal-place rounding rules.",
+            "UNIT 2: ATOMIC STRUCTURE": "Tests identifying radial node counts from schematic radial wavefunction plots.",
+            "UNIT 3: CHEMICAL BONDING AND MOLECULAR STRUCTURE": "Tests List-matching molecular/complex geometries and identifying the HOMO from molecular orbital theory.",
+            "UNIT 4: CHEMICAL THERMODYNAMICS": "Tests equilibrium denaturation entropy, free-expansion entropy changes, and reversible ideal-gas cycle P-V work relations.",
+            "UNIT 5: SOLUTIONS": "Tests multi-statement evaluation of Raoult's law deviations and Assertion-Reason checks on ideal solution mixing enthalpy and volume.",
+            "UNIT 6: EQUILIBRIUM": "Tests ranking aqueous solubility across salts of differing stoichiometry from a given Ksp table.",
+            "UNIT 7: REDOX REACTIONS AND ELECTROCHEMISTRY": "Tests Hess-like combination of half-cell potentials, Kohlrausch plot limiting conductivity, redox titration molarity, and oxidation-state ranking.",
+            "UNIT 8: CHEMICAL KINETICS": "Tests temperature extraction from an Arrhenius plot and zero-order reaction completion time.",
+            "UNIT 9: CLASSIFICATION OF ELEMENTS AND PERIODICITY IN PROPERTIES": "Tests Assertion-Reason on periodic ionization enthalpy anomalies and halogen electron gain enthalpy order.",
+            "UNIT 10: p-BLOCK ELEMENTS": "Tests conceptual statement verification on valence orbitals and maximum covalency of main-group elements.",
+            "UNIT 11: d and f-BLOCK ELEMENTS": "Tests thermal decomposition products, Assertion-Reason on metallic bonding and melting points, and lanthanide unpaired electron counts.",
+            "UNIT 12: CO-ORDINATION COMPOUNDS": "Tests spectrochemical field-strength ranking, complex chirality statements, spin-only magnetic moment comparisons, fac-mer isomerism, electrolyte ratios, and IUPAC formula writing.",
+            "UNIT 13: PURIFICATION AND CHARACTERISATION OF ORGANIC COMPOUNDS": "Tests elemental detection outcomes via sodium fusion extract color reactions.",
+            "UNIT 14: SOME BASIC PRINCIPLES OF ORGANIC CHEMISTRY": "Tests molecular polarity ranking, orbital hyperconjugation/resonance stabilization diagrams, and identifying conjugated dienes by IUPAC name.",
+            "UNIT 15: HYDROCARBONS": "Tests stereospecific alkene additions checked against Newman projections and stereoselective alkyne reduction/addition sequences.",
+            "UNIT 17: ORGANIC COMPOUNDS CONTAINING OXYGEN": "Tests impossible aldol condensation products via structural options, multi-step electrophilic/haloform reaction sequences, and named aromatic oxidation reactions.",
+            "UNIT 18: ORGANIC COMPOUNDS CONTAINING NITROGEN": "Tests Statement-I/II comparisons of substituent effects on acidity/basicity and identifying reactions yielding an aromatic amine.",
+            "UNIT 19: BIOMOLECULES": "Tests structural statements on protein folding and List-matching vitamins to dietary sources.",
+            "UNIT 20: PRINCIPLES RELATED TO PRACTICAL CHEMISTRY": "Tests Statement-I/II evaluation of halide oxidation behavior in qualitative inorganic heating tests."
+          },
+          "examples": [
+            {
+              "text": "69. Consider the following schematic plots of orbital wavefunction $(\\psi_r)$ against distance $(r)$ from the nucleus.\n\n[reference diagram]\n\n[reference diagram]\n\n[reference diagram]\n\n[reference diagram]\n\nThe figure representing two radial nodes in the orbital is\n\n(1) B\n\n(2) C\n\n(3) D\n\n(4) A\n\n17\n\n80",
+              "chapter": "UNIT 2: ATOMIC STRUCTURE"
+            },
+            {
+              "text": "51. For a salt **XY**, which is a strong electrolyte, the plot of $\\Lambda_{\\mathrm{m}}$ versus $\\sqrt{\\mathrm{c}}$ has a slope of $-90.0 \\text{ S cm}^2 \\text{ mol}^{-3/2} \\text{ L}^{1/2}$ at 298 K. At 0.01 M concentration of **XY**, the value of $\\Lambda_{\\mathrm{m}}$ is $145.0 \\text{ S cm}^2 \\text{ mol}^{-1}$. The limiting molar conductivity of $\\mathbf{Y}$-ion ($\\lambda_{\\mathrm{Y}^-}^0$, in $\\text{S cm}^2 \\text{ mol}^{-1}$) at 298 K will be\n\n(Given: $\\lambda_{\\mathrm{X}^+}^0 = 74.0 \\text{ S cm}^2 \\text{ mol}^{-1}$)\n\n(1) 100.0 (2) 90.0\n(3) 76.0 (4) 80.0\n\n80\n\n14",
+              "chapter": "UNIT 7: REDOX REACTIONS AND ELECTROCHEMISTRY"
+            },
+            {
+              "text": "56. For an elementary chemical reaction, the Arrhenius plot is given below.\n\n[reference diagram]\n\nIf the energy of activation is $6.64\\ \\mathrm{kJ\\ mol^{-1}}$ and $\\mathrm{R} = 8.3\\ \\mathrm{J\\ K^{-1}\\ mol^{-1}}$, the temperature at which the rate constant becomes $\\mathrm{e}^2\\ \\mathrm{min}^{-1}$, is\n\n(1) \\(150\\mathrm{K}\\) (2) \\(200\\mathrm{K}\\)\n(3) \\(250\\mathrm{K}\\) (4) \\(125\\mathrm{K}\\)",
+              "chapter": "UNIT 8: CHEMICAL KINETICS"
+            },
+            {
+              "text": "53. According to crystal field theory, the correct order of ligands with respect to their decreasing order of field strength is\n\n(1) \\(\\mathrm{CO} > \\mathrm{H}_2\\mathrm{O} > \\mathrm{NH}_3 > \\mathrm{Cl}^-\\)\n(2) \\(\\mathrm{Cl}^{-} > \\mathrm{H}_{2}\\mathrm{O} > \\mathrm{NH}_{3} > \\mathrm{CO}\\)\n(3) \\(\\mathrm{Cl}^{-} > \\mathrm{NH}_{3} > \\mathrm{H}_{2}\\mathrm{O} > \\mathrm{CO}\\)\n(4) \\(\\mathrm{CO} > \\mathrm{NH}_3 > \\mathrm{H}_2\\mathrm{O} > \\mathrm{Cl}^-\\)",
+              "chapter": "UNIT 12: CO-ORDINATION COMPOUNDS"
+            },
+            {
+              "text": "61. Given below are two statements:\n\n# Statement I:\n\n*trans*-But-2-ene upon treatment with $\\mathrm{Br}_2$ in $\\mathrm{CCl}_4$ gives the following product\n\n[reference diagram]\n\n# Statement II:\n\n*cis*-But-2-ene upon treatment with alkaline $\\mathrm{KMnO}_4$ gives the following product\n\n[reference diagram]\n\nIn the light of the above statements, choose the **most appropriate** answer from the options given below.\n\n(1) Both Statement I and Statement II are incorrect\n(2) Statement I is correct but Statement II is incorrect\n(3) Statement I is incorrect but Statement II is correct\n(4) Both Statement ",
+              "chapter": "UNIT 15: HYDROCARBONS"
+            },
+            {
+              "text": "70. Identify the reactions which give aniline as the major product.\n\n[reference diagram]\n\n[reference diagram]\n\n[reference diagram]\n\n[reference diagram]\n\nChoose the correct answer from the options given below.\n\n(1) B and D only (2) A and C only\n(3) C and D only (4) A and B only",
+              "chapter": "UNIT 18: ORGANIC COMPOUNDS CONTAINING NITROGEN"
+            }
+          ]
+        },
+        "Biology": {
+          "style": "90 single-correct 4-option MCQs covering Botany and Zoology (+4/-1 marking). Easy to moderate difficulty emphasizing precise curriculum recall, taxonomic/physiological exceptions, and sequential processes. Heavy reliance on Statement-I/II pairs, Assertion-Reason pairs, multi-statement subset options, List-I/II matching tables, fill-in-the-blank stems, and negative ('incorrect'/'not') phrasing. Calculations are sparse and elementary (ploidy, glycolysis stoichiometry, linear growth, Hardy-Weinberg, zero-growth population). No diagrams or visual figures appear in this section.",
+          "chapters": {
+            "UNIT 1: DIVERSITY IN LIVING WORLD": "Tests taxonomic hierarchy ordering and matching, symmetry/chamber exceptions in animal phyla, microbial/fungal/plant-group classification, and infectious agent definitions.",
+            "UNIT 2: STRUCTURAL ORGANISATION IN ANIMALS AND PLANTS": "Tests frog respiration and cranial nerve counts, plant morphology definitions, placentation matching, and floral family trait subsets.",
+            "UNIT 3: CELL STRUCTURE AND FUNCTION": "Tests organelle structure-function matching, prokaryotic vs endomembrane features, cell-cycle phase sequencing, biomolecule roles, and elemental weight ranking.",
+            "UNIT 4: PLANT PHYSIOLOGY": "Tests arithmetic growth calculation, glycolysis/Calvin-cycle stoichiometry, photorespiration reactants and statements, pigment/experiment sequencing, and plant growth regulator roles.",
+            "UNIT 5: HUMAN PHYSIOLOGY": "Tests endocrine gland/hormone matching and multi-statement checks, skeletal/vertebral ordering, cardiac pacemaker rates and valves, nephron reabsorption, neural coverings, and neuromuscular signaling.",
+            "UNIT 6: REPRODUCTION": "Tests angiosperm anther/gametophyte/seed traits, endosperm ploidy calculation, gamete/placental hormones, ovarian cycle Statement pairs, and assisted reproductive methods.",
+            "UNIT 7: GENETICS AND EVOLUTION": "Tests Mendelian Assertion-Reason, ABO blood-group parental exclusions, chromosomal disorder pairs, operon/transcription enzyme recall, Hardy-Weinberg frequency math, and evolution evidence/homology/human-origin items.",
+            "UNIT 8: BIOLOGY AND HUMAN WELFARE": "Tests bioactive therapeutic agents, secondary lymphoid organ subsets, parasite life-cycle statements, colostrum antibodies, and analgesic drugs.",
+            "UNIT 9: BIOTECHNOLOGY AND ITS APPLICATIONS": "Tests Bt-toxin activation mechanism, PCR step sequencing, plasmid Statement pairs, cell-lysis enzymes, and vector feature matching.",
+            "UNIT 10: ECOLOGY AND ENVIRONMENT": "Tests biodiversity species-richness ordering, species-interaction matching, trophic roles, logistic vs exponential growth Assertion-Reason, energy pyramid statements, and zero-net-growth population math."
+          },
+          "examples": [
+            {
+              "text": "114. Match **List-I** with **List-II**.\n\n**List-I** **List-II**\n\nA. Family I. Sapindales\nB. Genus II. Dicotyledonae\nC. Class III. Anacardiaceae\nD. Phylum IV. Angiospermae\nE. Order V. Mangifera\n\nChoose the **correct** answer from the options given below :\n\n(1) A-II, B-I, C-III, D-IV, E-V\n(2) A-II, B-III, C-V, D-I, E-IV\n(3) A-III, B-V, C-II, D-IV, E-I\n(4) A-I, B-V, C-II, D-IV, E-III",
+              "chapter": "UNIT 1: DIVERSITY IN LIVING WORLD"
+            },
+            {
+              "text": "97. Match **List-I** with **List-II**.\n\n# List-I\n\n# List-II\n\nA. Cristae I. Flat membrane sacs in stroma of chloroplast\nB. Cisternae II. Infoldings in mitochondria\nC. Thylakoids III. Cell membrane\nD. Phospholipid IV. Disc shaped sacs in the Golgi apparatus\n\nChoose the **correct** answer from the options given below :\n\n(1) A-II, B-IV, C-I, D-III\n(2) A-II, B-IV, C-III, D-I\n(3) A-IV, B-III, C-I, D-II\n(4) A-III, B-IV, C-I, D-II",
+              "chapter": "UNIT 3: CELL STRUCTURE AND FUNCTION"
+            },
+            {
+              "text": "101. Length of the stem at time 0 is 20 cm. The arithmetic growth rate is 30 cm per day. What is the length of the stem at the end of the 7$^{th}$ day ?\n\n- (1) 170 cm\n- (2) 230 cm\n- (3) 460 cm\n- (4) 50 cm",
+              "chapter": "UNIT 4: PLANT PHYSIOLOGY"
+            },
+            {
+              "text": "94. Which of the following statements related to pituitary gland are **correct** ?\n\n(a) It is divided anatomically into adenohypophysis and neurohypophysis\n(b) It secretes follicle stimulating hormone\n(c) It secretes melanocyte stimulating hormone\n(d) It does not secrete prolactin\n\nChoose the **correct** answer from the options given below :\n\n(1) (a), (b) and (c) only\n(2) (c) and (d) only\n(3) (b) and (c) only\n(4) (a) and (b) only",
+              "chapter": "UNIT 5: HUMAN PHYSIOLOGY"
+            },
+            {
+              "text": "153. If the diploid chromosome number of typical angiosperm is 36, what would be the chromosome number in its endosperm ?\n\n(1) 36\n(2) 54\n(3) 72\n(4) 18",
+              "chapter": "UNIT 6: REPRODUCTION"
+            },
+            {
+              "text": "165. A population of diploid organisms is at Hardy-Weinberg equilibrium. If the frequency of allele A is 0.1, the frequency of AA is\n\n(1) 0.02 (2) 0.10\n(3) 0.99 (4) 0.01",
+              "chapter": "UNIT 7: GENETICS AND EVOLUTION"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "batch_analysis_models": [
+    "gemini-4-hydrogen"
+  ],
+  "profile": {
+    "subjects": {
+      "Physics": {
+        "style": "45 single-correct 4-option MCQs (+4/-1 marking, no calculator). Moderate to moderately high difficulty blending conceptual reasoning, multi-step symbolic derivations, and clean arithmetic. Calculations emphasize proportionalities, ratios, algebraic substitutions, and occasional simple integration with round constants. Frequent schematic setups (circuits, optics, mechanics, thermodynamic cycles) and 4-panel qualitative graph-selection options, plus occasional table-matching.",
+        "chapters": {
+          "UNIT 1: PHYSICS AND MEASUREMENT": "Tests dimensional analysis of composite physical constants and zero-error instrument readings.",
+          "UNIT 2: KINEMATICS": "Tests average speed over a time interval from a quadratic position-time function involving a direction reversal.",
+          "UNIT 3: LAWS OF MOTION": "Tests banked circular motion conditions using inverse trigonometric angle expressions.",
+          "UNIT 4: WORK, ENERGY, AND POWER": "Tests work done by spatially varying friction via integration and elastic collision height transfer.",
+          "UNIT 5: ROTATIONAL MOTION": "Tests parallel-axis comparisons of moments of inertia and angular momentum about off-center reference points with diagrams.",
+          "UNIT 6: GRAVITATION": "Tests symbolic ratio and power-law scaling for escape speeds and orbital time periods.",
+          "UNIT 7: PROPERTIES OF SOLIDS AND LIQUIDS": "Tests qualitative graph identification for terminal velocity versus density ratio, thermal volume expansion, and continuity-Bernoulli flow rates.",
+          "UNIT 8: THERMODYNAMICS": "Tests net heat over rectangular P-V cycle diagrams and adiabatic expansion work from temperature drop.",
+          "UNIT 9: KINETIC THEORY OF GASES": "Tests vibrational degrees of freedom from specific heat ratios and mean free path scaling.",
+          "UNIT 10: OSCILLATIONS AND WAVES": "Tests phase-space trajectory conditions, harmonic node-count ratios in pipes, and buoyancy oscillation periods.",
+          "UNIT 11: ELECTROSTATICS": "Tests conservation of energy in non-uniform fields, work done through charged spheres, conductor cavity shielding, and capacitor energy ratios.",
+          "UNIT 12: CURRENT ELECTRICITY": "Tests qualitative current trends in series and parallel resistor circuits with opposing temperature coefficients.",
+          "UNIT 13: MAGNETIC EFFECTS OF CURRENT AND MAGNETISM": "Tests force balance between parallel current-carrying wires and net magnetic field from asymmetric circular loop branches.",
+          "UNIT 14: ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENTS": "Tests series LCR current amplitude, solenoid inductance formulas, inductor emf ratios, and power-versus-time waveform identification.",
+          "UNIT 15: ELECTROMAGNETIC WAVES": "Tests identifying an incorrect wave property from a dielectric wave equation and matching spectral bands to applications.",
+          "UNIT 16: OPTICS": "Tests apparent depth differences across layered media and sequential thin-lens image positioning using ray-setup diagrams.",
+          "UNIT 17: DUAL NATURE OF MATTER AND RADIATION": "Tests qualitative photocurrent/stopping-potential time plots, threshold wavelength inequalities, and electron-photon momentum ratios.",
+          "UNIT 18: ATOMS AND NUCLEI": "Tests Rutherford scattering plot recognition, nuclear decay Q-value arithmetic, and Bohr orbit parameter calculation.",
+          "UNIT 19: ELECTRONIC DEVICES": "Tests depletion-width ranking across biased diode branches and reverse-biased Zener voltage drops from circuit diagrams.",
+          "UNIT 20: EXPERIMENTAL SKILLS": "Tests identifying which classic laboratory experiments require index correction and zero-error instrument compensation."
+        },
+        "examples": [
+          {
+            "text": "9. Consider that $\\sigma_{\\mathrm{s}}$, $\\mathrm{k}_{\\mathrm{B}}$, b represent Stefan-Boltzmann constant, Boltzmann constant and Wien's displacement law constant, respectively. The dimension of $\\sigma_{\\mathrm{s}}\\mathrm{k}_{\\mathrm{B}}^{-1}\\mathrm{b}$ is:\n\n(1) $[\\mathrm{L}^{-1}\\mathrm{K}^{-2}]$\n\n(2) $[\\mathrm{L}^{-1}\\mathrm{T}^{-1}\\mathrm{K}^{-3}]$\n\n(3) $[\\mathrm{L}^{-1}\\mathrm{T}^{-1}\\mathrm{K}^{-4}]$\n\n(4) $[\\mathrm{L}^{-1}\\mathrm{T}^{-1}\\mathrm{K}^{-2}]$",
+            "chapter": "UNIT 1: PHYSICS AND MEASUREMENT"
+          },
+          {
+            "text": "3. Three identical p-n junction diodes $D_1$, $D_2$ and $D_3$ are connected across a battery as shown in the figure. If the width of the depletion regions of $D_1$, $D_2$ and $D_3$ are $W_1$, $W_2$ and $W_3$, respectively, then the correct option is:\n\n[reference diagram]\n\n(1) \\(\\mathrm{W}_3 = \\mathrm{W}_1 > \\mathrm{W}_2\\)\n(2) \\(\\mathrm{W}_3 > \\mathrm{W}_2 > \\mathrm{W}_1\\)\n(3) \\(\\mathrm{W}_2 > \\mathrm{W}_1 = \\mathrm{W}_3\\)\n(4) \\(\\mathrm{W}_1 > \\mathrm{W}_2 > \\mathrm{W}_3\\)",
+            "chapter": "UNIT 19: ELECTRONIC DEVICES"
+          },
+          {
+            "text": "8. Consider three media P, Q and R with refractive indices 1, 1.25, and 1.5, respectively. The medium Q having a thickness of 5 cm is placed between extended media P and R as shown in the figure. An object O is placed at the center of medium Q. If viewed from medium P near the normal direction, the apparent depth of O is $h_1$. For similar observation from medium R, the apparent depth is $h_2$. The value of $|h_1 - h_2|$, in cm, is:\n\n[reference diagram]\n\n(1) 1 (2) 2\n(3) 3 (4) 0\n\n80\n\n6",
+            "chapter": "UNIT 16: OPTICS"
+          },
+          {
+            "text": "12. An ac voltage $V = 220 \\sin(2 \\times 10^3 t)$ Volt is applied to a series LCR circuit. Then the current amplitude in this circuit is: (Given: $L = 10 \\, \\text{mH}$, $C = 25 \\, \\mu\\text{F}$, $R = 100 \\, \\Omega$)\n\n(1) 5.5 A\n\n(2) 11.0 A\n\n(3) 22.0 A\n\n(4) 2.2 A",
+            "chapter": "UNIT 14: ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENTS"
+          },
+          {
+            "text": "17. One mole of an ideal monatomic gas undergoes a cyclic process as shown in the figure. The total heat supplied to the gas is:\n\n[reference diagram]\n\n(1) 500 J\n\n(2) 600 J\n\n(3) 800 J\n\n(4) 400 J",
+            "chapter": "UNIT 8: THERMODYNAMICS"
+          },
+          {
+            "text": "22. In the measurement of viscosity of liquids using terminal velocity experiment, spherical balls of same radius but having different densities are used. The variation of the terminal velocity ($v$) with the ratio of density of spherical ball ($\\sigma$) to density of the liquid ($\\rho$), is best represented by\n\n[reference diagram]\n\n[reference diagram]\n\n[reference diagram]\n\n[reference diagram]",
+            "chapter": "UNIT 7: PROPERTIES OF SOLIDS AND LIQUIDS"
+          }
+        ]
+      },
+      "Chemistry": {
+        "style": "45 single-correct 4-option MCQs (+4/-1 marking, no calculator). Moderate difficulty spanning physical chemistry numericals, inorganic trends/coordination chemistry, and mechanistic/stereochemical organic chemistry. Mixes direct stems, Statement-I/II pairs, Assertion-Reason pairs, multi-statement subset selection, and List-I/II matching. Calculations use clean mental math (linear plots, simple exponents, titration stoichiometry, rounding). Visuals include reaction schemes, Newman projections, orbital plots, Arrhenius/P-V graphs, and data tables.",
+        "chapters": {
+          "UNIT 1: SOME BASIC CONCEPTS IN CHEMISTRY": "Tests combustion mass stoichiometry and decimal-place rounding rules.",
+          "UNIT 2: ATOMIC STRUCTURE": "Tests identifying radial node counts from schematic radial wavefunction plots.",
+          "UNIT 3: CHEMICAL BONDING AND MOLECULAR STRUCTURE": "Tests List-matching molecular/complex geometries and identifying the HOMO from molecular orbital theory.",
+          "UNIT 4: CHEMICAL THERMODYNAMICS": "Tests equilibrium denaturation entropy, free-expansion entropy changes, and reversible ideal-gas cycle P-V work relations.",
+          "UNIT 5: SOLUTIONS": "Tests multi-statement evaluation of Raoult's law deviations and Assertion-Reason checks on ideal solution mixing enthalpy and volume.",
+          "UNIT 6: EQUILIBRIUM": "Tests ranking aqueous solubility across salts of differing stoichiometry from a given Ksp table.",
+          "UNIT 7: REDOX REACTIONS AND ELECTROCHEMISTRY": "Tests Hess-like combination of half-cell potentials, Kohlrausch plot limiting conductivity, redox titration molarity, and oxidation-state ranking.",
+          "UNIT 8: CHEMICAL KINETICS": "Tests temperature extraction from an Arrhenius plot and zero-order reaction completion time.",
+          "UNIT 9: CLASSIFICATION OF ELEMENTS AND PERIODICITY IN PROPERTIES": "Tests Assertion-Reason on periodic ionization enthalpy anomalies and halogen electron gain enthalpy order.",
+          "UNIT 10: p-BLOCK ELEMENTS": "Tests conceptual statement verification on valence orbitals and maximum covalency of main-group elements.",
+          "UNIT 11: d and f-BLOCK ELEMENTS": "Tests thermal decomposition products, Assertion-Reason on metallic bonding and melting points, and lanthanide unpaired electron counts.",
+          "UNIT 12: CO-ORDINATION COMPOUNDS": "Tests spectrochemical field-strength ranking, complex chirality statements, spin-only magnetic moment comparisons, fac-mer isomerism, electrolyte ratios, and IUPAC formula writing.",
+          "UNIT 13: PURIFICATION AND CHARACTERISATION OF ORGANIC COMPOUNDS": "Tests elemental detection outcomes via sodium fusion extract color reactions.",
+          "UNIT 14: SOME BASIC PRINCIPLES OF ORGANIC CHEMISTRY": "Tests molecular polarity ranking, orbital hyperconjugation/resonance stabilization diagrams, and identifying conjugated dienes by IUPAC name.",
+          "UNIT 15: HYDROCARBONS": "Tests stereospecific alkene additions checked against Newman projections and stereoselective alkyne reduction/addition sequences.",
+          "UNIT 17: ORGANIC COMPOUNDS CONTAINING OXYGEN": "Tests impossible aldol condensation products via structural options, multi-step electrophilic/haloform reaction sequences, and named aromatic oxidation reactions.",
+          "UNIT 18: ORGANIC COMPOUNDS CONTAINING NITROGEN": "Tests Statement-I/II comparisons of substituent effects on acidity/basicity and identifying reactions yielding an aromatic amine.",
+          "UNIT 19: BIOMOLECULES": "Tests structural statements on protein folding and List-matching vitamins to dietary sources.",
+          "UNIT 20: PRINCIPLES RELATED TO PRACTICAL CHEMISTRY": "Tests Statement-I/II evaluation of halide oxidation behavior in qualitative inorganic heating tests."
+        },
+        "examples": [
+          {
+            "text": "69. Consider the following schematic plots of orbital wavefunction $(\\psi_r)$ against distance $(r)$ from the nucleus.\n\n[reference diagram]\n\n[reference diagram]\n\n[reference diagram]\n\n[reference diagram]\n\nThe figure representing two radial nodes in the orbital is\n\n(1) B\n\n(2) C\n\n(3) D\n\n(4) A\n\n17\n\n80",
+            "chapter": "UNIT 2: ATOMIC STRUCTURE"
+          },
+          {
+            "text": "51. For a salt **XY**, which is a strong electrolyte, the plot of $\\Lambda_{\\mathrm{m}}$ versus $\\sqrt{\\mathrm{c}}$ has a slope of $-90.0 \\text{ S cm}^2 \\text{ mol}^{-3/2} \\text{ L}^{1/2}$ at 298 K. At 0.01 M concentration of **XY**, the value of $\\Lambda_{\\mathrm{m}}$ is $145.0 \\text{ S cm}^2 \\text{ mol}^{-1}$. The limiting molar conductivity of $\\mathbf{Y}$-ion ($\\lambda_{\\mathrm{Y}^-}^0$, in $\\text{S cm}^2 \\text{ mol}^{-1}$) at 298 K will be\n\n(Given: $\\lambda_{\\mathrm{X}^+}^0 = 74.0 \\text{ S cm}^2 \\text{ mol}^{-1}$)\n\n(1) 100.0 (2) 90.0\n(3) 76.0 (4) 80.0\n\n80\n\n14",
+            "chapter": "UNIT 7: REDOX REACTIONS AND ELECTROCHEMISTRY"
+          },
+          {
+            "text": "56. For an elementary chemical reaction, the Arrhenius plot is given below.\n\n[reference diagram]\n\nIf the energy of activation is $6.64\\ \\mathrm{kJ\\ mol^{-1}}$ and $\\mathrm{R} = 8.3\\ \\mathrm{J\\ K^{-1}\\ mol^{-1}}$, the temperature at which the rate constant becomes $\\mathrm{e}^2\\ \\mathrm{min}^{-1}$, is\n\n(1) \\(150\\mathrm{K}\\) (2) \\(200\\mathrm{K}\\)\n(3) \\(250\\mathrm{K}\\) (4) \\(125\\mathrm{K}\\)",
+            "chapter": "UNIT 8: CHEMICAL KINETICS"
+          },
+          {
+            "text": "53. According to crystal field theory, the correct order of ligands with respect to their decreasing order of field strength is\n\n(1) \\(\\mathrm{CO} > \\mathrm{H}_2\\mathrm{O} > \\mathrm{NH}_3 > \\mathrm{Cl}^-\\)\n(2) \\(\\mathrm{Cl}^{-} > \\mathrm{H}_{2}\\mathrm{O} > \\mathrm{NH}_{3} > \\mathrm{CO}\\)\n(3) \\(\\mathrm{Cl}^{-} > \\mathrm{NH}_{3} > \\mathrm{H}_{2}\\mathrm{O} > \\mathrm{CO}\\)\n(4) \\(\\mathrm{CO} > \\mathrm{NH}_3 > \\mathrm{H}_2\\mathrm{O} > \\mathrm{Cl}^-\\)",
+            "chapter": "UNIT 12: CO-ORDINATION COMPOUNDS"
+          },
+          {
+            "text": "61. Given below are two statements:\n\n# Statement I:\n\n*trans*-But-2-ene upon treatment with $\\mathrm{Br}_2$ in $\\mathrm{CCl}_4$ gives the following product\n\n[reference diagram]\n\n# Statement II:\n\n*cis*-But-2-ene upon treatment with alkaline $\\mathrm{KMnO}_4$ gives the following product\n\n[reference diagram]\n\nIn the light of the above statements, choose the **most appropriate** answer from the options given below.\n\n(1) Both Statement I and Statement II are incorrect\n(2) Statement I is correct but Statement II is incorrect\n(3) Statement I is incorrect but Statement II is correct\n(4) Both Statement ",
+            "chapter": "UNIT 15: HYDROCARBONS"
+          },
+          {
+            "text": "70. Identify the reactions which give aniline as the major product.\n\n[reference diagram]\n\n[reference diagram]\n\n[reference diagram]\n\n[reference diagram]\n\nChoose the correct answer from the options given below.\n\n(1) B and D only (2) A and C only\n(3) C and D only (4) A and B only",
+            "chapter": "UNIT 18: ORGANIC COMPOUNDS CONTAINING NITROGEN"
+          }
+        ]
+      },
+      "Biology": {
+        "style": "90 single-correct 4-option MCQs covering Botany and Zoology (+4/-1 marking). Easy to moderate difficulty emphasizing precise curriculum recall, taxonomic/physiological exceptions, and sequential processes. Heavy reliance on Statement-I/II pairs, Assertion-Reason pairs, multi-statement subset options, List-I/II matching tables, fill-in-the-blank stems, and negative ('incorrect'/'not') phrasing. Calculations are sparse and elementary (ploidy, glycolysis stoichiometry, linear growth, Hardy-Weinberg, zero-growth population). No diagrams or visual figures appear in this section.",
+        "chapters": {
+          "UNIT 1: DIVERSITY IN LIVING WORLD": "Tests taxonomic hierarchy ordering and matching, symmetry/chamber exceptions in animal phyla, microbial/fungal/plant-group classification, and infectious agent definitions.",
+          "UNIT 2: STRUCTURAL ORGANISATION IN ANIMALS AND PLANTS": "Tests frog respiration and cranial nerve counts, plant morphology definitions, placentation matching, and floral family trait subsets.",
+          "UNIT 3: CELL STRUCTURE AND FUNCTION": "Tests organelle structure-function matching, prokaryotic vs endomembrane features, cell-cycle phase sequencing, biomolecule roles, and elemental weight ranking.",
+          "UNIT 4: PLANT PHYSIOLOGY": "Tests arithmetic growth calculation, glycolysis/Calvin-cycle stoichiometry, photorespiration reactants and statements, pigment/experiment sequencing, and plant growth regulator roles.",
+          "UNIT 5: HUMAN PHYSIOLOGY": "Tests endocrine gland/hormone matching and multi-statement checks, skeletal/vertebral ordering, cardiac pacemaker rates and valves, nephron reabsorption, neural coverings, and neuromuscular signaling.",
+          "UNIT 6: REPRODUCTION": "Tests angiosperm anther/gametophyte/seed traits, endosperm ploidy calculation, gamete/placental hormones, ovarian cycle Statement pairs, and assisted reproductive methods.",
+          "UNIT 7: GENETICS AND EVOLUTION": "Tests Mendelian Assertion-Reason, ABO blood-group parental exclusions, chromosomal disorder pairs, operon/transcription enzyme recall, Hardy-Weinberg frequency math, and evolution evidence/homology/human-origin items.",
+          "UNIT 8: BIOLOGY AND HUMAN WELFARE": "Tests bioactive therapeutic agents, secondary lymphoid organ subsets, parasite life-cycle statements, colostrum antibodies, and analgesic drugs.",
+          "UNIT 9: BIOTECHNOLOGY AND ITS APPLICATIONS": "Tests Bt-toxin activation mechanism, PCR step sequencing, plasmid Statement pairs, cell-lysis enzymes, and vector feature matching.",
+          "UNIT 10: ECOLOGY AND ENVIRONMENT": "Tests biodiversity species-richness ordering, species-interaction matching, trophic roles, logistic vs exponential growth Assertion-Reason, energy pyramid statements, and zero-net-growth population math."
+        },
+        "examples": [
+          {
+            "text": "114. Match **List-I** with **List-II**.\n\n**List-I** **List-II**\n\nA. Family I. Sapindales\nB. Genus II. Dicotyledonae\nC. Class III. Anacardiaceae\nD. Phylum IV. Angiospermae\nE. Order V. Mangifera\n\nChoose the **correct** answer from the options given below :\n\n(1) A-II, B-I, C-III, D-IV, E-V\n(2) A-II, B-III, C-V, D-I, E-IV\n(3) A-III, B-V, C-II, D-IV, E-I\n(4) A-I, B-V, C-II, D-IV, E-III",
+            "chapter": "UNIT 1: DIVERSITY IN LIVING WORLD"
+          },
+          {
+            "text": "97. Match **List-I** with **List-II**.\n\n# List-I\n\n# List-II\n\nA. Cristae I. Flat membrane sacs in stroma of chloroplast\nB. Cisternae II. Infoldings in mitochondria\nC. Thylakoids III. Cell membrane\nD. Phospholipid IV. Disc shaped sacs in the Golgi apparatus\n\nChoose the **correct** answer from the options given below :\n\n(1) A-II, B-IV, C-I, D-III\n(2) A-II, B-IV, C-III, D-I\n(3) A-IV, B-III, C-I, D-II\n(4) A-III, B-IV, C-I, D-II",
+            "chapter": "UNIT 3: CELL STRUCTURE AND FUNCTION"
+          },
+          {
+            "text": "101. Length of the stem at time 0 is 20 cm. The arithmetic growth rate is 30 cm per day. What is the length of the stem at the end of the 7$^{th}$ day ?\n\n- (1) 170 cm\n- (2) 230 cm\n- (3) 460 cm\n- (4) 50 cm",
+            "chapter": "UNIT 4: PLANT PHYSIOLOGY"
+          },
+          {
+            "text": "94. Which of the following statements related to pituitary gland are **correct** ?\n\n(a) It is divided anatomically into adenohypophysis and neurohypophysis\n(b) It secretes follicle stimulating hormone\n(c) It secretes melanocyte stimulating hormone\n(d) It does not secrete prolactin\n\nChoose the **correct** answer from the options given below :\n\n(1) (a), (b) and (c) only\n(2) (c) and (d) only\n(3) (b) and (c) only\n(4) (a) and (b) only",
+            "chapter": "UNIT 5: HUMAN PHYSIOLOGY"
+          },
+          {
+            "text": "153. If the diploid chromosome number of typical angiosperm is 36, what would be the chromosome number in its endosperm ?\n\n(1) 36\n(2) 54\n(3) 72\n(4) 18",
+            "chapter": "UNIT 6: REPRODUCTION"
+          },
+          {
+            "text": "165. A population of diploid organisms is at Hardy-Weinberg equilibrium. If the frequency of allele A is 0.1, the frequency of AA is\n\n(1) 0.02 (2) 0.10\n(3) 0.99 (4) 0.01",
+            "chapter": "UNIT 7: GENETICS AND EVOLUTION"
+          }
+        ]
+      }
+    }
+  }
+}

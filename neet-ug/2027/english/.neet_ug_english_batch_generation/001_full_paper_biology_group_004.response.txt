@@ -1,0 +1,293 @@
+<question type="multichoice">
+  <name><text>[ch004-unit-4-plant-physiology] NEET_UG_BIOLOGY_Q01 - Chief reaction centre pigment in photosynthesis</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Which photosynthetic pigment acts as the chief reaction-centre molecule directly responsible for converting light energy into chemical energy during the photochemical phase of photosynthesis?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Higher plants contain multiple photosynthetic pigments—chlorophyll \(a\), chlorophyll \(b\), xanthophylls, and carotenoids—organized into light-harvesting complexes (antennae) and a reaction centre within photosystems.</p><p><strong>Step 2: Evaluation</strong><br/>Accessory pigments such as chlorophyll \(b\), xanthophylls, and carotenoids absorb light at different wavelengths and transfer the absorbed energy to the reaction centre, broadening the spectrum of light utilized and protecting chlorophyll \(a\) from photo-oxidation.</p><p><strong>Step 3: Application</strong><br/>A single specialized molecule of chlorophyll \(a\) forms the reaction centre in both Photosystem I (\(\text{P}_{700}\)) and Photosystem II (\(\text{P}_{680}\)), where photoexcitation directly triggers primary electron transfer.</p><p><strong>Step 4: Final Conclusion</strong><br/>Chlorophyll \(a\) is the chief reaction-centre pigment directly involved in converting light energy into chemical energy.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Chlorophyll \(b\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Chlorophyll \(a\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Xanthophyll</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Carotenoid</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:plant_physiology</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:remember</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch004-unit-4-plant-physiology] NEET_UG_BIOLOGY_Q02 - Respiratory quotient for tripalmitin oxidation</text></name>
+  <questiontext format="html"><text><![CDATA[<p>What is the respiratory quotient (\(\text{RQ}\)) when the fatty acid tripalmitin is completely oxidised as a respiratory substrate according to the equation below?</p><p>\[2(\text{C}_{51}\text{H}_{98}\text{O}_6) + 145\text{O}_2 \rightarrow 102\text{CO}_2 + 98\text{H}_2\text{O} + \text{Energy}\]</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>The respiratory quotient (\(\text{RQ}\)) is defined as the ratio of the volume of \(\text{CO}_2\) evolved to the volume of \(\text{O}_2\) consumed during cellular respiration.</p><p><strong>Step 2: Formula</strong><br/>\[\text{RQ} = \frac{\text{Volume of }\text{CO}_2\text{ evolved}}{\text{Volume of }\text{O}_2\text{ consumed}}\]</p><p><strong>Step 3: Calculation</strong><br/>From the balanced stoichiometric equation for tripalmitin oxidation, \(102\) moles of \(\text{CO}_2\) are evolved for every \(145\) moles of \(\text{O}_2\) consumed:
+\[\text{RQ} = \frac{102}{145} \approx 0.703 \approx 0.7\]</p><p><strong>Step 4: Final Conclusion</strong><br/>The respiratory quotient for the complete oxidation of tripalmitin is \(0.7\).</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(1.0\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(0.9\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(1.42\)</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(0.7\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:plant_physiology</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:easy</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:false</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch004-unit-4-plant-physiology] NEET_UG_BIOLOGY_Q03 - Energy stoichiometry of glucose synthesis in C4 plants</text></name>
+  <questiontext format="html"><text><![CDATA[<p>How many molecules of \(\text{ATP}\) and \(\text{NADPH}\), respectively, are consumed in a \(\text{C}_4\) plant to synthesize one molecule of glucose from \(\text{CO}_2\)?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>In \(\text{C}_4\) plants, \(\text{CO}_2\) fixation occurs twice: initial carboxylation of \(\text{PEP}\) in mesophyll cells (which requires energy to regenerate \(\text{PEP}\) from pyruvate) followed by the Calvin cycle in bundle sheath cells.</p><p><strong>Step 2: Evaluation</strong><br/>Regenerating one molecule of \(\text{PEP}\) from pyruvate in mesophyll cells consumes \(2\text{ ATP}\) equivalents per \(\text{CO}_2\) fixed. Inside the bundle sheath cells, the Calvin cycle consumes \(3\text{ ATP}\) and \(2\text{ NADPH}\) per \(\text{CO}_2\) fixed.</p><p><strong>Step 3: Calculation</strong><br/>Thus, fixing \(1\text{ CO}_2\) in a \(\text{C}_4\) plant requires \(2 + 3 = 5\text{ ATP}\) and \(2\text{ NADPH}\). Synthesizing one molecule of glucose (\(\text{C}_6\text{H}_{12}\text{O}_6\)) requires \(6\) turns of the cycle (fixing \(6\text{ CO}_2\)):
+\[\text{Total }\text{ATP} = 6 \times 5 = 30\text{ ATP}\]
+\[\text{Total }\text{NADPH} = 6 \times 2 = 12\text{ NADPH}\]</p><p><strong>Step 4: Final Conclusion</strong><br/>A \(\text{C}_4\) plant consumes \(30\text{ ATP}\) and \(12\text{ NADPH}\) to synthesize one molecule of glucose.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>\(30\text{ ATP}\) and \(12\text{ NADPH}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(18\text{ ATP}\) and \(12\text{ NADPH}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(30\text{ ATP}\) and \(18\text{ NADPH}\)</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>\(24\text{ ATP}\) and \(12\text{ NADPH}\)</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:plant_physiology</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:apply</text></tag>
+    <tag><text>calculation:light</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch004-unit-4-plant-physiology] NEET_UG_BIOLOGY_Q04 - Incorrect statement on cellular respiration pathways</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Identify the <strong>incorrect</strong> statement regarding cellular respiration pathways.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Cellular respiration involves glycolysis in the cytoplasm, followed by either anaerobic fermentation or aerobic oxidation via the tricarboxylic acid (TCA) cycle and mitochondrial electron transport system (ETS).</p><p><strong>Step 2: Evaluation</strong><br/>Glycolysis partially oxidizes glucose into two molecules of pyruvic acid without requiring molecular oxygen. In yeast, alcoholic fermentation converts pyruvic acid into \(\text{CO}_2\) and ethanol using pyruvic acid decarboxylase and alcohol dehydrogenase. In the mitochondrial ETS, cytochrome \(c\) acts as a small, mobile protein carrier transferring electrons between Complex III and Complex IV.</p><p><strong>Step 3: Application</strong><br/>In the TCA cycle, the conversion of isocitrate to \(\alpha\)-ketoglutarate is an oxidative decarboxylation step that generates \(\text{NADH} + \text{H}^+\), not substrate-level phosphorylation. Substrate-level phosphorylation in the TCA cycle actually occurs during the conversion of succinyl-\(\text{CoA}\) to succinic acid, where \(\text{GTP}\) (subsequently converted to \(\text{ATP}\)) is synthesized.</p><p><strong>Step 4: Final Conclusion</strong><br/>Claiming that substrate-level phosphorylation in the TCA cycle occurs during the conversion of isocitrate to \(\alpha\)-ketoglutarate is incorrect.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>In glycolysis, glucose undergoes partial oxidation to form two molecules of pyruvic acid without utilizing molecular oxygen.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>During alcoholic fermentation in yeast, pyruvic acid is converted to \(\text{CO}_2\) and ethanol by pyruvic acid decarboxylase and alcohol dehydrogenase.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Substrate-level phosphorylation in the TCA cycle occurs during the conversion of isocitrate to \(\alpha\)-ketoglutarate.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>In the mitochondrial electron transport system, cytochrome \(c\) acts as a mobile carrier transferring electrons between Complex III and Complex IV.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:plant_physiology</text></tag>
+    <tag><text>typology:standard_mcq</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch004-unit-4-plant-physiology] NEET_UG_BIOLOGY_Q05 - Chemiosmotic proton gradient in chloroplasts</text></name>
+  <questiontext format="html"><text><![CDATA[
+    <p><strong>Assertion (A):</strong> During the light reaction of photosynthesis, a proton gradient is established across the thylakoid membrane with a higher concentration of protons in the thylakoid lumen than in the stroma.</p>
+    <p><strong>Reason (R):</strong> Splitting of water occurs on the inner side of the thylakoid membrane, plastoquinone transfers protons from the stroma to the lumen during electron transport, and \(\text{NADP}\) reductase consumes stromal protons.</p>
+  ]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>According to Peter Mitchell's chemiosmotic hypothesis, \(\text{ATP}\) synthesis in chloroplasts is driven by a proton motive force generated across the thylakoid membrane.</p><p><strong>Step 2: Evaluation</strong><br/>During the photochemical phase, protons accumulate inside the thylakoid lumen while their concentration decreases in the stroma, creating a steep proton gradient (lower \(\text{pH}\) in the lumen). Thus, the proposition describing the proton gradient across the thylakoid membrane is correct.</p><p><strong>Step 3: Application</strong><br/>Three coordinated processes establish this gradient: first, photolysis of water occurs on the luminal (inner) side of the thylakoid membrane, releasing protons directly into the lumen; second, the primary electron acceptor transfers electrons to a hydrogen carrier (plastoquinone) that picks up protons from the stroma and releases them into the lumen; third, \(\text{NADP}\) reductase located on the stromal side removes protons from the stroma to reduce \(\text{NADP}^+\) to \(\text{NADPH} + \text{H}^+\). Therefore, the mechanistic explanation directly accounts for the luminal proton accumulation.</p><p><strong>Step 4: Final Conclusion</strong><br/>Both propositions are correct, and the mechanistic description of water splitting, plastoquinone proton translocation, and stromal proton consumption by \(\text{NADP}\) reductase is the correct explanation of the proton gradient.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both (A) and (R) are correct and (R) is the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is correct but (R) is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>(A) is incorrect but (R) is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:plant_physiology</text></tag>
+    <tag><text>typology:assertion_reason</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch004-unit-4-plant-physiology] NEET_UG_BIOLOGY_Q06 - Photorespiration in C3 and C4 plants</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Read the following two statements regarding carbon fixation in plants:</p>
+<p><strong>Statement I:</strong> In \(\text{C}_3\) plants, photorespiration occurs when \(\text{RuBisCO}\) binds to \(\text{O}_2\) instead of \(\text{CO}_2\), forming one molecule of phosphoglycerate and one molecule of phosphoglycolate without synthesizing \(\text{ATP}\) or \(\text{NADPH}\).</p>
+<p><strong>Statement II:</strong> In \(\text{C}_4\) plants, photorespiration is negligible because decarboxylation of \(\text{C}_4\) acids in bundle sheath cells elevates the intracellular \(\text{CO}_2\) concentration around \(\text{RuBisCO}\), minimizing its oxygenase activity.</p>
+<p>In the light of the above statements, choose the most appropriate answer from the options given below.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>\(\text{RuBisCO}\) possesses an active site capable of binding both \(\text{CO}_2\) and \(\text{O}_2\), with its relative affinity determined by the local \(\text{CO}_2:\text{O}_2\) concentration ratio.</p><p><strong>Step 2: Evaluation</strong><br/>In \(\text{C}_3\) plants, when \(\text{O}_2\) binds to \(\text{RuBisCO}\), \(\text{RuBP}\) is converted into one \(3\)-carbon molecule (phosphoglycerate) and one \(2\)-carbon molecule (phosphoglycolate). This photorespiratory pathway releases \(\text{CO}_2\), consumes \(\text{ATP}\), and produces neither sugars nor \(\text{ATP}/\text{NADPH}\). Thus, the description of photorespiration in \(\text{C}_3\) plants is accurate.</p><p><strong>Step 3: Application</strong><br/>\(\text{C}_4\) plants overcome this wasteful process via Kranz anatomy: \(\text{C}_4\) acids (malic or aspartic acid) formed in mesophyll cells are transported to bundle sheath cells and decarboxylated, generating high intracellular \(\text{CO}_2\) levels around \(\text{RuBisCO}\). This ensures \(\text{RuBisCO}\) operates predominantly as a carboxylase. Thus, the explanation for negligible photorespiration in \(\text{C}_4\) plants is also accurate.</p><p><strong>Step 4: Final Conclusion</strong><br/>Both propositions regarding photorespiration in \(\text{C}_3\) plants and its suppression in \(\text{C}_4\) plants are correct.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Both Statement I and Statement II are incorrect.</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>Both Statement I and Statement II are correct.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is correct but Statement II is incorrect.</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>Statement I is incorrect but Statement II is correct.</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:plant_physiology</text></tag>
+    <tag><text>typology:statement_based_2</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:understand</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch004-unit-4-plant-physiology] NEET_UG_BIOLOGY_Q07 - Dedifferentiation, plasticity, and geometric growth</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Consider the following three statements regarding plant growth and development:</p>
+<ol>
+  <li>The formation of interfascicular cambium and cork cambium from fully differentiated parenchyma cells is an example of dedifferentiation.</li>
+  <li>Plasticity in plants is the ability to follow different developmental pathways in response to the environment or phases of life, as seen in heterophylly in cotton, coriander, and larkspur.</li>
+  <li>In geometric growth, the initial lag phase is immediately followed by a stationary phase during which the growth rate increases exponentially at a constant rate.</li>
+</ol>
+<p>Which of the above statements are correct?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Plant development encompasses cell differentiation, reacquisition of meristematic capacity, phenotypic plasticity, and characteristic growth kinetics.</p><p><strong>Step 2: Evaluation</strong><br/>Living differentiated cells that have lost the capacity to divide can regain the ability to divide under certain conditions—a phenomenon termed dedifferentiation, exemplified by the formation of interfascicular cambium and cork cambium from parenchyma cells. Similarly, plants exhibit developmental plasticity by producing different leaf shapes (heterophylly) in response to environmental conditions or life phases, as observed in cotton, coriander, and larkspur. Both of these propositions are accurate.</p><p><strong>Step 3: Application</strong><br/>In geometric growth (yielding a sigmoid curve), the initial slow lag phase is followed by an <em>exponential (log) phase</em> during which growth increases rapidly at an exponential rate. The stationary phase occurs last, when growth slows down due to limited nutrient supply. Describing the stationary phase as having exponential growth is incorrect.</p><p><strong>Step 4: Final Conclusion</strong><br/>Only the propositions describing dedifferentiation and developmental plasticity are correct.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1 and 3 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2 and 3 only</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1 and 2 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 2, and 3</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:plant_physiology</text></tag>
+    <tag><text>typology:statement_based_3</text></tag>
+    <tag><text>difficulty:medium</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch004-unit-4-plant-physiology] NEET_UG_BIOLOGY_Q08 - Physiological roles of plant growth regulators</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Evaluate the following four statements regarding plant growth regulators (PGRs):</p>
+<ol>
+  <li>Synthetic auxins such as \(\text{2,4-D}\) are widely used to kill dicotyledonous weeds without harming mature monocotyledonous plants.</li>
+  <li>Gibberellins promote bolting in rosette plants such as beet and cabbages and delay senescence so fruits can remain on the tree longer.</li>
+  <li>Cytokinins promote apical dominance by inhibiting lateral bud growth, whereas auxins help overcome apical dominance.</li>
+  <li>Abscisic acid (\(\text{ABA}\)) acts as an antagonist to gibberellins in most physiological situations and stimulates stomatal closure under water stress.</li>
+</ol>
+<p>Which of the above statements are correct?</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>Plant growth regulators coordinate growth, morphogenesis, and stress responses through distinct and sometimes antagonistic physiological actions.</p><p><strong>Step 2: Evaluation</strong><br/>\(\text{2,4-D}\) is a synthetic auxin widely employed as a selective herbicide to eliminate broad-leaved dicot weeds from monocot lawns and cereal fields. Gibberellins induce bolting (rapid internode elongation prior to flowering) in rosette plants like beet and cabbages and delay fruit senescence to extend the market period. Abscisic acid acts as a stress hormone, stimulating stomatal closure during water deficit and generally antagonizing gibberellic acid actions (such as seed germination). These three propositions are true.</p><p><strong>Step 3: Application</strong><br/>In contrast, apical dominance—the inhibition of lateral (axillary) bud growth by the growing apical bud—is promoted by <em>auxin</em>, whereas <em>cytokinins</em> promote lateral shoot growth and help overcome apical dominance. Reversing the roles of auxin and cytokinin in apical dominance makes that proposition false.</p><p><strong>Step 4: Final Conclusion</strong><br/>Only the propositions concerning \(\text{2,4-D}\) weed control, gibberellin-induced bolting and delayed senescence, and abscisic acid antagonism/stomatal closure are correct.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>false</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1 and 2 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>1, 3, and 4 only</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>2 and 4 only</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>1, 2, and 4 only</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:plant_physiology</text></tag>
+    <tag><text>typology:statement_based_4</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:text</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>
+
+<question type="multichoice">
+  <name><text>[ch004-unit-4-plant-physiology] NEET_UG_BIOLOGY_Q09 - Matching plant growth regulators with chemical nature and effects</text></name>
+  <questiontext format="html"><text><![CDATA[<p>Match the plant growth regulators in List-I with their chemical nature and physiological roles in List-II:</p>
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>List-I (Plant Growth Regulator)</th>
+      <th>List-II (Chemical Nature &amp; Role)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A. Auxin (\(\text{IAA}\))</td>
+      <td>I. Adenine derivative; promotes nutrient mobilisation and delays leaf senescence</td>
+    </tr>
+    <tr>
+      <td>B. Gibberellic acid (\(\text{GA}_3\))</td>
+      <td>II. Gaseous hormone; induces horizontal growth of seedlings, swelling of axis, and apical hook formation</td>
+    </tr>
+    <tr>
+      <td>C. Cytokinin (Kinetin)</td>
+      <td>III. Indole compound; initiates rooting in stem cuttings and promotes flowering in pineapples</td>
+    </tr>
+    <tr>
+      <td>D. Ethylene</td>
+      <td>IV. Terpene derivative; speeds up the malting process in the brewing industry</td>
+    </tr>
+  </tbody>
+</table>
+<p>Choose the correct answer from the options given below.</p>]]></text></questiontext>
+  <generalfeedback format="html"><text><![CDATA[<p><strong>Step 1: Conceptual Principle</strong><br/>The five major classes of plant growth regulators belong to distinct chemical families and mediate specific agricultural and developmental effects.</p><p><strong>Step 2: Evaluation</strong><br/>Indole-3-acetic acid (\(\text{IAA}\)), a natural auxin, is an indole compound that initiates adventitious rooting in stem cuttings and promotes flowering in pineapples. Gibberellic acid (\(\text{GA}_3\)) is a terpene derivative widely used to accelerate the malting process in the brewing industry by inducing \(\alpha\)-amylase synthesis.</p><p><strong>Step 3: Application</strong><br/>Kinetin (a cytokinin) is an adenine derivative (\(N^6\)-furfurylamino purine) that promotes nutrient mobilisation, thereby delaying leaf senescence. Ethylene is a gaseous hormone that elicits the triple response in dicot seedlings: horizontal growth, swelling of the axis, and apical hook formation.</p><p><strong>Step 4: Final Conclusion</strong><br/>Auxin pairs with the indole compound initiating rooting and pineapple flowering; gibberellic acid pairs with the terpene derivative accelerating malting; cytokinin pairs with the adenine derivative delaying senescence; and ethylene pairs with the gaseous hormone inducing horizontal seedling growth and apical hook formation.</p>]]></text></generalfeedback>
+  <defaultgrade>4.0000000</defaultgrade>
+  <penalty>0.2500000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>true</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-III, B-I, C-IV, D-II</p>]]></text></answer>
+  <answer fraction="100" format="html"><text><![CDATA[<p>A-III, B-IV, C-I, D-II</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-IV, B-III, C-I, D-II</p>]]></text></answer>
+  <answer fraction="0" format="html"><text><![CDATA[<p>A-II, B-IV, C-I, D-III</p>]]></text></answer>
+  <tags>
+    <tag><text>standard:neet_ug</text></tag>
+    <tag><text>lang:en</text></tag>
+    <tag><text>subject:biology</text></tag>
+    <tag><text>chapter:plant_physiology</text></tag>
+    <tag><text>typology:matching_mcq</text></tag>
+    <tag><text>difficulty:hard</text></tag>
+    <tag><text>blooms:analyze</text></tag>
+    <tag><text>media:table</text></tag>
+    <tag><text>multiconcept:true</text></tag>
+  </tags>
+</question>

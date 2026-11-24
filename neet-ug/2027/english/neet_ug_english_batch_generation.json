@@ -1,0 +1,1294 @@
+{
+  "schema_version": 2,
+  "status": "completed",
+  "exam_name": "NEET UG",
+  "test_count": 1,
+  "uniqueness_scope": "all_papers",
+  "configuration": {
+    "generation_strategy": "chapter-grouped",
+    "test_count": 1,
+    "uniqueness_scope": "all_papers",
+    "papers": [
+      {
+        "id": "full_paper",
+        "spec_path": "src/academic_content_pipeline/resources/spec_templates/neet_ug/neet_ug.template.yaml",
+        "question_count": 180
+      }
+    ],
+    "source_fingerprints": {
+      "prompts/generator/syllabus/neet_ug/biology.md": "93609798f4c0f37e3c72329bfc6f4f7825cc986e3c6e88a465954afbb9f658ce",
+      "prompts/generator/syllabus/neet_ug/chemistry.md": "4e81548d0cf88b8cbef008feda6b936947880cf9f86712ffe7b35d5918e69dd6",
+      "prompts/generator/syllabus/neet_ug/physics.md": "8807793f2415a7b41c1f891f5922bcb32621adadb4d939fa5511b8e04378fccd",
+      "src/academic_content_pipeline/resources/spec_templates/neet_ug/batch.template.yaml": "9120eb03147b8b89179ea5238ca8ed931a8bf7016e62bc0b56e4795a88df66c4",
+      "src/academic_content_pipeline/resources/spec_templates/neet_ug/neet_ug.template.yaml": "102ff01bd2d5fa2cb751b1c9ba50e63894f2cce75f63910f6f37ee0c9225ccaa"
+    },
+    "model_name": "gemini-4-hydrogen",
+    "agent_name": "antigravity-preview-09-2026",
+    "communicator": "AgentSessionBackend",
+    "languages": [
+      "english"
+    ],
+    "standards": "neet_ug",
+    "tags": "",
+    "difficulty_mix": "easy:0.2,medium:0.5,hard:0.3",
+    "output_format": "xml",
+    "pdf_engine": "html",
+    "exam_duration_minutes": null,
+    "batch_spec": {
+      "exam_name": "NEET UG",
+      "test_count": 50,
+      "uniqueness_scope": "all_papers",
+      "papers": [
+        {
+          "id": "full_paper",
+          "spec": "neet_ug.template.yaml",
+          "reference_paper": "..external/paper-20260623155537.pdf"
+        }
+      ]
+    },
+    "category_path": "$module$/top/full-length-mock-papers/neet-ug/2027/english",
+    "category_scheme": "test_set_paper_v1",
+    "analysis_communicator": {
+      "backend": "SingleShotBackend",
+      "model_name": "gemini-3.5-flash-lite",
+      "agent_name": null
+    },
+    "reference_paper": {
+      "format": ".pdf",
+      "sha256": "31eb21a95d4c238f787d4bb62e4eaaec355f2da73903e3e37b34dee362075454"
+    },
+    "reference_analysis": {
+      "mode": "full",
+      "batch_pages": 20,
+      "batch_questions": 20
+    }
+  },
+  "configuration_sha256": "dd05f01fc61e460323afad551102e87deb28c95536f07eb629bd6c230161b9ce",
+  "chapter_plans": {
+    "full_paper:physics": {
+      "ch001-unit-1-physics-and-measurement": 2,
+      "ch002-unit-2-kinematics": 3,
+      "ch003-unit-3-laws-of-motion": 3,
+      "ch004-unit-4-work-energy-and-power": 2,
+      "ch005-unit-5-rotational-motion": 3,
+      "ch006-unit-6-gravitation": 2,
+      "ch007-unit-7-properties-of-solids-and-liquids": 3,
+      "ch008-unit-8-thermodynamics": 2,
+      "ch009-unit-9-kinetic-theory-of-gases": 2,
+      "ch010-unit-10-oscillations-and-waves": 3,
+      "ch011-unit-11-electrostatics": 3,
+      "ch012-unit-12-current-electricity": 3,
+      "ch013-unit-13-magnetic-effects-of-current-and-magnetism": 2,
+      "ch014-unit-14-electromagnetic-induction-and-alternating-currents": 2,
+      "ch015-unit-15-electromagnetic-waves": 1,
+      "ch016-unit-16-optics": 3,
+      "ch017-unit-17-dual-nature-of-matter-and-radiation": 1,
+      "ch018-unit-18-atoms-and-nuclei": 2,
+      "ch019-unit-19-electronic-devices": 2,
+      "ch020-unit-20-experimental-skills": 1
+    },
+    "full_paper:chemistry": {
+      "ch001-unit-1-some-basic-concepts-in-chemistry": 2,
+      "ch002-unit-2-atomic-structure": 2,
+      "ch003-unit-3-chemical-bonding-and-molecular-structure": 3,
+      "ch004-unit-4-chemical-thermodynamics": 3,
+      "ch005-unit-5-solutions": 2,
+      "ch006-unit-6-equilibrium": 3,
+      "ch007-unit-7-redox-reactions-and-electrochemistry": 3,
+      "ch008-unit-8-chemical-kinetics": 2,
+      "ch009-unit-9-classification-of-elements-and-periodicity-in-properties": 1,
+      "ch010-unit-10-p-block-elements": 3,
+      "ch011-unit-11-d-and-f-block-elements": 2,
+      "ch012-unit-12-co-ordination-compounds": 3,
+      "ch013-unit-13-purification-and-characterisation-of-organic-compounds": 1,
+      "ch014-unit-14-some-basic-principles-of-organic-chemistry": 2,
+      "ch015-unit-15-hydrocarbons": 2,
+      "ch016-unit-16-organic-compounds-containing-halogens": 1,
+      "ch017-unit-17-organic-compounds-containing-oxygen": 3,
+      "ch018-unit-18-organic-compounds-containing-nitrogen": 2,
+      "ch019-unit-19-biomolecules": 2,
+      "ch020-unit-20-principles-related-to-practical-chemistry": 3
+    },
+    "full_paper:biology": {
+      "ch001-unit-1-diversity-in-living-world": 8,
+      "ch002-unit-2-structural-organisation-in-animals-and-plants": 9,
+      "ch003-unit-3-cell-structure-and-function": 9,
+      "ch004-unit-4-plant-physiology": 9,
+      "ch005-unit-5-human-physiology": 14,
+      "ch006-unit-6-reproduction": 9,
+      "ch007-unit-7-genetics-and-evolution": 14,
+      "ch008-unit-8-biology-and-human-welfare": 6,
+      "ch009-unit-9-biotechnology-and-its-applications": 6,
+      "ch010-unit-10-ecology-and-environment": 6
+    }
+  },
+  "items": [
+    {
+      "test_index": 1,
+      "paper_id": "full_paper",
+      "question_count": 180,
+      "output_file": "neet_ug_english_test_001_full_paper.xml",
+      "status": "completed",
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": "invalid",
+          "response_files": {
+            "physics_group_001": "001_full_paper_physics_group_001.response.txt",
+            "physics_group_002": "001_full_paper_physics_group_002.response.txt",
+            "physics_group_003": "001_full_paper_physics_group_003.response.txt",
+            "physics_group_004": "001_full_paper_physics_group_004.response.txt",
+            "chemistry_group_001": "001_full_paper_chemistry_group_001.response.txt",
+            "chemistry_group_002": "001_full_paper_chemistry_group_002.response.txt",
+            "chemistry_group_003": "001_full_paper_chemistry_group_003.response.txt",
+            "biology_group_001": "001_full_paper_biology_group_001.response.txt",
+            "biology_group_002": "001_full_paper_biology_group_002.response.txt",
+            "biology_group_003": "001_full_paper_biology_group_003.response.txt",
+            "biology_group_004": "001_full_paper_biology_group_004.response.txt",
+            "biology_group_005": "001_full_paper_biology_group_005.response.txt",
+            "biology_group_006": "001_full_paper_biology_group_006.response.txt",
+            "biology_group_007": "001_full_paper_biology_group_007.response.txt",
+            "biology_group_008": "001_full_paper_biology_group_008.response.txt",
+            "biology_group_009": "001_full_paper_biology_group_009.response.txt"
+          },
+          "error": "Malformed Biology group XML: mismatched tag: line 140, column 670",
+          "invalid_unit": "biology_group_008"
+        },
+        {
+          "attempt": 2,
+          "status": "invalid",
+          "response_files": {
+            "physics_group_001": "001_full_paper_physics_group_001.response.txt",
+            "physics_group_002": "001_full_paper_physics_group_002.response.txt",
+            "physics_group_003": "001_full_paper_physics_group_003.response.txt",
+            "physics_group_004": "001_full_paper_physics_group_004.response.txt",
+            "chemistry_group_001": "001_full_paper_chemistry_group_001.response.txt",
+            "chemistry_group_002": "001_full_paper_chemistry_group_002.response.txt",
+            "chemistry_group_003": "001_full_paper_chemistry_group_003.response.txt",
+            "biology_group_001": "001_full_paper_biology_group_001.response.txt",
+            "biology_group_002": "001_full_paper_biology_group_002.response.txt",
+            "biology_group_003": "001_full_paper_biology_group_003.response.txt",
+            "biology_group_004": "001_full_paper_biology_group_004.response.txt",
+            "biology_group_005": "001_full_paper_biology_group_005.response.txt",
+            "biology_group_006": "001_full_paper_biology_group_006.response.txt",
+            "biology_group_007": "001_full_paper_biology_group_007.response.txt",
+            "biology_group_008": "001_full_paper_biology_group_008.response.txt",
+            "biology_group_009": "001_full_paper_biology_group_009.response.txt"
+          },
+          "error": "Malformed Biology group XML: mismatched tag: line 164, column 2",
+          "invalid_unit": "biology_group_009"
+        },
+        {
+          "attempt": 3,
+          "status": "completed",
+          "response_files": {
+            "physics_group_001": "001_full_paper_physics_group_001.response.txt",
+            "physics_group_002": "001_full_paper_physics_group_002.response.txt",
+            "physics_group_003": "001_full_paper_physics_group_003.response.txt",
+            "physics_group_004": "001_full_paper_physics_group_004.response.txt",
+            "chemistry_group_001": "001_full_paper_chemistry_group_001.response.txt",
+            "chemistry_group_002": "001_full_paper_chemistry_group_002.response.txt",
+            "chemistry_group_003": "001_full_paper_chemistry_group_003.response.txt",
+            "biology_group_001": "001_full_paper_biology_group_001.response.txt",
+            "biology_group_002": "001_full_paper_biology_group_002.response.txt",
+            "biology_group_003": "001_full_paper_biology_group_003.response.txt",
+            "biology_group_004": "001_full_paper_biology_group_004.response.txt",
+            "biology_group_005": "001_full_paper_biology_group_005.response.txt",
+            "biology_group_006": "001_full_paper_biology_group_006.response.txt",
+            "biology_group_007": "001_full_paper_biology_group_007.response.txt",
+            "biology_group_008": "001_full_paper_biology_group_008.response.txt",
+            "biology_group_009": "001_full_paper_biology_group_009.response.txt"
+          },
+          "error": null
+        }
+      ],
+      "question_fingerprints": [
+        "74f482e938797460eb1ac594cb6bce4e44ba2b858e0115de3ce815cbc5c868c6",
+        "432989c4a54ebf529901015a17582fa51b524b054dbdf2995f3851f090cc1c1c",
+        "0c030c57abfa66990f8ef0ae6a007b62ad2b0101f1015bc70db81c5b08b2dc5e",
+        "dcf1e94485582c5936e0eae660da4c0d7c34521a3c3424515b612e7d4f02676b",
+        "3b273d68f73ab758f9d846d58ea181ae424f1c1031b436d17b4fd06f4c47e6d1",
+        "62b83c40d522f3f1dede3374ac9556556ac41a42361d16d81300a7f297a06246",
+        "8405dea30c1bca81bc32b167f9d2b6b7b5e0d2d46cd200248df95035e24e2a03",
+        "f83f5285d83bb4336f3e6eb29ecf827f42959d1da239938a40c5a022350fada3",
+        "8c104baa2b1f561a0d23a39c3fcf6e1204a262a996f302406743454e71cb16ed",
+        "5b37f9f8ef89e749dfff6cabd3c23c5dd2ff38cad095b8a7f4bd8a7b419c6bd5",
+        "038ea68abd7d7e9ee4c8f109301948c0d2f2c8d580c5fb930c0f6858f7534166",
+        "18c17f4b5ed0eb08ede7c264f64670af830865f6fc1204a6cb39d31528a19bc7",
+        "f35237d8ba971e7170670ecaea04c38ae8fa422beccb24fd917d47dce49a8e2a",
+        "30708bdba4f12f4d7072832f9f0c5828c48065d577973789305e3c4101b74e08",
+        "0ab5d1562eb479937fcc1f0c506c524c265c722b868f3c8e4680b888f9e68b9f",
+        "407f5af2b6cabcd8f68d55aca8fe6d06560ebe74743ea6d235a860714db0e953",
+        "63a1aa8ea7a8061c8d8e381544aecc69f0b9e4baf011e947a564d0dabca18d23",
+        "75221771e37201602be6965b87e9e7113e45224cb2519f8700cfbdb5eb5268fa",
+        "2ad0471a41ef3fcee4dd710271bd9ea13dbdb2d25bff2611c143d25e0288bb40",
+        "91af64c7a5c26633497ab2e000ce36521678c38b6d9c7f8fd15621e19b524efc",
+        "25e2d5cb3be323263ac87fff392a649e6ee3fb39b5e888ebe5cbc6295c0f4dc8",
+        "148a8262ff646adfde8bdcf1ce8b404817b534cce27f94425b2d0dd65a31bd75",
+        "dfc3b75966b73bb91a080928c1a7afd560a6168e14794ac89f552269d8aff95b",
+        "9f654e3453cfd11621ffdde733adcc6fedebec083d72a0d94adaf15b6535dc1e",
+        "3ba459c0d779c8ed51c02826384ffd6085e72b385341487d5a87987a5ab28c10",
+        "28df9ddb5e7e449a940805abcfa47fc49bb84f924cb8497ed204b937b71f8a83",
+        "a8362af7ad8e0e749d0059abffa39aff31a700d2e126ec72c5ee4ed2532a746e",
+        "4b1c8dcb03b4af668edcbfb9a8862ff4dfee31d4e5563763b31861729949e3c5",
+        "def356841229111267bdc1c6d8446d81dd4800b91c2f96cdf89f2e7cadd82538",
+        "797593baa12786c83ccdbabd9b4838a995f64e00299bf5298b5f6a2d4b52288b",
+        "212ad92dfb38e72268cdc1f2c52e13422ed112e0f6ffb205aa6bd6cf91445720",
+        "0591210e9257c090f10b705ab6e485425acb066ecba8c3c096de5cd0c57e78ed",
+        "3ae873d23aadf77c10b46a1e1369b5e7665c45971bc18fd2b58ca144baf7e854",
+        "3f5023b6842c91635ae8040bde0edff5dd37cc3de4e4cc4d6b2c66051e462778",
+        "202de93e35b1ee5b40549399963f19dcfcea601ff7c8a0213140925858ede2ef",
+        "61e1898462a4362a7fab890079a0cd6d32ee65b9fc817de81de47f82794778b0",
+        "2fe66411e8bc06d14d39d642ebf784c35e260d15b1ed8ef702609bf603a91526",
+        "d7337fe9fa75b44e30115510699c607f796fdc2b67c6b03d62a65c927a22cc1f",
+        "6ce6169ea340ae853fa1caf9d2b2629b10a5720c4a3bea9a073c002d948773e7",
+        "e34d05cf2bb8c79e0f10a7fa8072d7d050a7a0efadf9cb4be8b34a1ba380edd8",
+        "d470da5a6ece4e56dbf6fff463bda8575eb9423a48ab200e3f1dfe3435793246",
+        "52c7740edf083860ac11bf1a75bf16748b3f4a3ecb800121c7fad222511ff334",
+        "d9b1ff40fe1592399a43d6797eb24ee2666a1f5a7b5e517709e166e0aaf9bb39",
+        "f257343edbcbda11cc335dbc37c541ca61a43c4c319a0abae4adc1f6d26057ad",
+        "85b2a003508781a62d9efbaac758c9e2fa2f6912cacfdcbaa3e92e46813e5a07",
+        "bd618deb1af1877d596fe9dc64d35b1fb8e1d583b4595835ddca4b1a70f88004",
+        "971b74f8e24f0208e8a3e88d90d7a74127c75985249c565fb9e1afd865709fc1",
+        "e5eb6241184e2cd4564c6c9469263a4299a74fb6f80658ddcfa5e8d48e770b87",
+        "7046b7c8cc88050080aa6c393a532ca616b230caa2b84c7fe457641a025606cd",
+        "d88e7d0dbeff952617d8ce65395db837a93af269f6e145a8e2c73c59f27a7291",
+        "b67a723f882a69e8689f3b161fc4abf41ebedf7dc9d2a583fda2ae369a0882d9",
+        "57fc49f82c973afaec3415ade6a85a65a03985c2ee044d239e9efbcb7f75e710",
+        "c78584702f1a75077797c940013cab0d309538e00c9883ff6081bf4939bc07bb",
+        "7e4220caca111b8e42ff078e86e4e3385fdafa539497cd11f1b0c85e6b5b7858",
+        "fc3326b228a938856abe846e5df3149231c220933d997ab3588ede2d289636af",
+        "c387855137308e5ddee0a7d7a5e6474a7602d6247de26db1ab7fe9684890abac",
+        "281654a1337893c1c3206aca690df3526990aaefc3bea6057a5e84b035630618",
+        "3a0f085203b3a78386b9b4aebc2f34bc25d970c5aabbcb267dc45c4799392439",
+        "64dd94eccd45f5c95c1773a1994a6296fe4aaed080ab73a2cc228d52c137f0d8",
+        "196cc74c9e03415be9d8e11f83750530c6ce5e54f46484d5339f9de5cd7d444d",
+        "b550413ac169d4c7fbd698e126db9a75873ac48a864d8c9e1b72ef2f901d70df",
+        "427ed80162863ce5652dcffbfaadd24d95499cf6e05405f534d5e9461e5fefec",
+        "9be80a58474577667704ec682603152736176df7c9b31b526dad08f623b31d0d",
+        "500a6babe7b79c579e30cae09436c1cd82abacbd44b5369322af3ce3fd4582a4",
+        "b78129d4aac0e64eb6248524178f171cbb160e36af1130a9dce4870216073aa2",
+        "92d19a9476645a34f289283c4a82b5fc731138379f93864d4c47a153c1007d23",
+        "d16088255284daa594bcce4d8e523f50bfa46c40099957ae7f17283b29c78306",
+        "e75133c46a6979b32e30d62609132381f5f12385859d720160fe42e2c49fe7ae",
+        "c4b0f5c8505495f12bb32a3b46813fe7faf8beb2beae50a4d70bc2cb68c6703f",
+        "452e27883ecf51bfd7a27d08daa52f670c7d20558ccedc20d0663c8e6bf494e0",
+        "038551b2a0bf9fafd9fbf8859a37f1a212addb64f79148fec47b5a5d63673a6d",
+        "e3961fb90b42739ba3d6f0ef783bf14a8f3c2967b59253c4605e04cdb9363de1",
+        "23d1f06f6933fe998f71ba05f68367f231e44497864d05a225f90486825ffe99",
+        "876fc9a8574a1485ecd196bfba2a2dba9d9a3235e9cdea56a04f8b7309d721ff",
+        "6893186b80e67b852f00b13a50db30fcc65ed0a815e230a44d8775a9f45f07c9",
+        "1d76a6e97161aa22fb1ee8b97479ec4eb5f08d0d7ea252ccbd357c66c850e602",
+        "b43f352dd9f753b7a2f164ecf71295597d8c8e46100f86b11695628ccc546308",
+        "0babf6f302f75c6a814f237692bc3986ee9772f003137827476434ba1457f5e1",
+        "fa870bf24183aa8369f30881af2caaeb75db478b86c211eec897bfe44c6a2478",
+        "7efbba1179f7a4de5da005999dc03e898e1583aee41a02e9bce7a80404aaf888",
+        "11b66c16267ecfd18ef8063636eb70edbfdf9495ca3eecab73cb75a4dbf2991f",
+        "0031321de2aca781b17112cde3a77d6411bccaadc33ba5389c1374060fd9902e",
+        "fb6c12b83635a650dcd4b0df06b388da13aec0b0bdc8577bbd6eb71678d19548",
+        "d08254dbc58b492ad6ad96a25ecd12ec817605f0195a9a850d3bc0b0de8c3342",
+        "75c927cd0862e5fa49ba00a14da139da0102df7f20e696183f69fdd7d7e312ad",
+        "1c5e6d9fe73495102f96e01ed50f5e6b0676e169a82cf7f066b322e8d903ea8e",
+        "8dad2b530b8d3509ce2614e5fbef624f28ab0a95b450f3ffceaa477d0d2be83c",
+        "57f979d57b960b44896e4a7f98c2839160509ff1186b3031cafc15c70c791e2b",
+        "776cc5b19807bac10c595a4e5b27df86c49313b7652076a74d9a57731e80f43b",
+        "8a4aeb4125dac0cad9080428028aaf4539f57629c3d2f78b5aff77c65bab79a5",
+        "55f9f28f215062d8998ec8b7a03b2b8b44774ac3b81215962bcd8c0cac8151db",
+        "07fef1ccca1bae37f79d6937fb583bb9d7099ef9548e29d5b55b1af85b021ea7",
+        "148175e8cfebf9dc089e5cc7d9be273990bd9c7de0f0d3244536f3cebd483b2c",
+        "ce4644927c019552c00caa1418c6c45870246f9c865f2f06f0bf9ea3a064e204",
+        "81a2bc47672a0d0f22d3ad3b7d61936de1189ffaec6cd15bd00df33976e7b499",
+        "820e00528bfdc7970a6d7f3a3698b5875cf32793406eadcc24f250e567849a8b",
+        "d68d366efbc8ebe3f809cc1b079cf8ab2bbc5a05663eb67da118faa86e520e92",
+        "2f9886af4bd8138f4375108a6348ab637d7940847f9873aff656737505ca5ea5",
+        "bf6b9222289211f3efb9b05682e5134ac1b6d0bd455d2951f2691f172e880794",
+        "af96e0c044f4f251d1ccab8a83482fadca237addb22441c4f21569fb0942b0a1",
+        "e43af2ff45ac4b79aac555a22f3b73a1b4fc62ecb0fa389df2ad2aab3aade3d3",
+        "81b3f4222d85f71e5b91cda477952888fd50e8a873859c940a95780282f7bc82",
+        "b1b427f47416d4f3e134247279b7bdcad5facd451fa3f2fd2a9c2988beed37a5",
+        "06d2439445ff8cda0fd9f32cd4ef6c50f883984b8d71c237f620b6d6eeb5d0d7",
+        "2d141f322e5079f18cc782d83440454b448ec2a6688040620bff2388fb7c3747",
+        "81e01fa35c48fb9b5806f072dcd48fc6330f6a2bd9c5e99f4e7077f6db078f75",
+        "efe5a9d34eb77920c7a7f98dffcb9417865ceae5e826f447b43e59016ef2e1f0",
+        "c0401702b9cc27640bc9a188aabe84f3a8cd30c16dcb7a5a3737fc791a341268",
+        "589427e482bb406268ac44845b4004773a84522f7eb6cfa35df947795bfc6d66",
+        "2098c45face0e56247ec47f7f42568bafe86795b8b6dca98457fed27ac250bea",
+        "ab656d9091ab619ae926f3958128b8ad7245a6f97b2fe08fbaf614e84c26217e",
+        "5bc90c9986565bfb0d272049f3d68e6eee9ac65048caadd0e34def5d5d1fd7b5",
+        "d858cb60fa2fb01b2450641e64b941bf1981217c25debadc0b044657b3c3494c",
+        "7ccfbf80f50aa56c5020d8dd401dfc2afa81ed88116b1acf8d48a16cb0b1b226",
+        "2352d75b7f25102fa2efc0d0fb60ed8276ed5b2795c0fdb4c90710ca44eb0d19",
+        "857c6be90ab37954c63167e0f30f157f2150d8f4d762db5753b71a9e0db63491",
+        "ea2326b1c3907a8a0b7b3f401d87a6ef6dffb680b92cc5a4a20f6b58f852e52b",
+        "6847f0e42e3936b266b2ec4eaeb1e84b639f28a75aee1318df4c79a65cf414cc",
+        "6a55d7b9bc3b6b9bb538d35ab9be3a48527f50924304b246573d0b645d5f661a",
+        "1ff770add77aa86770004f6699377e15f0ec22a9eb3fb836651b55cd4364d0ee",
+        "95f13e32f21fffe7778850546f743a410ca96b895535676ad76e67db453d6512",
+        "ff708620c628c20f5a5ab23a7525da13a8a93455e27754a19cc5850d73ac6dc5",
+        "983fb88714bbf61b8ab1391680dfc8dd4b9de752aa9e0e451ebf519a1e5c9cf7",
+        "d920d0ac2ab4e2394f44e68cc109f04c3b42ee94697123dcc650fdeedd04dfb1",
+        "7b9b54ea8687b041984444faed87331cd12e7e479f6740f77ac197dae82a65d2",
+        "34b57e8fa9656f359f0e3434882bcf7bca1824b6e4b698c4e450b48903b7c0b5",
+        "0e96937a8da65b20068aeda809c93328d9a9a4bd0e19aca713120c6db1e2ddc2",
+        "3f1a0786e9487a80a4586b9972d46e784d68dd65b26715e386ec51fe693466fe",
+        "31549c5d32b3c90125556bbfe4ff56dd6fa0fa32107f298eeaabcd4195c0b31f",
+        "eb46bbd54b1a8c20b05ec7e198dab81e8bf83a14f7abec29ebc295a78b60da3b",
+        "445246219f0758c2ec621e8c8e828845ae44eb1705e1c86e4d91ad1e18cbc74b",
+        "4afc914b3599fd5ef0a723664126a0d5072f4d72657efcb6c9cd677e7678b632",
+        "4ac675a0b556d14aab5572f48d39ca18ac2a0d06909c52c8a2a80d4e4a9117c7",
+        "346f1e66fe787c137cf59938742003e47fb74f99b27035957d73e0b47470afd1",
+        "4cd1200af9de9b8937c502960291cc069dad8961218f730a7d2c452661a7af79",
+        "ec0f379308b5bda21b79cae15e865ce10bf83360260b9c93395288a72822881c",
+        "286b60f2f9c4849607b81577b746480b9e846d2fbd93b89fde9cc0aad0f69da4",
+        "7dee31dd72919a5420a1462ea6651e99b6da3178cf774229624ca0d0412c99f9",
+        "721b1ede45dc3de03b65ebca6e01d8be0c367af0db6b9fca06517d08c2878bf1",
+        "6262c5e8ad2bde11675eca6533c084d4fd7ac34221610fad076e77d045a63e7c",
+        "d4efa52ed69cba1657c9af20a23f46392d86095a3b8f72154110b75fdd1806d1",
+        "6b73e6dd2b6ee82c793d8211dd38fcee3136be57a6953e0fcd93d205c3e7c946",
+        "3ce530fa721d91caf38edf61bda33381ba72881c0ace7ff85d9f8ed408d6568e",
+        "472ca4318fb70b4e0c4729073635626140cbd06aefd51a00a83b9628cd5f42be",
+        "672a3ffe1e1673242c62a35df350b95770792f6fd87fb6943ea2a3958f7263cf",
+        "9d6c2a9618f02996299a815b044fd1d8369bc2a0ae184ceace8cc9e6c32b2afd",
+        "c8fd564aad7fa455fd2fc4b42861cb64547e96a7dd9fb12a5be3bfb443dcc3e3",
+        "e6b76270d8e21f13b9596b5296f6b2c92d8955cf32ad84eb7b84f13696cee732",
+        "e38700210e5458d7667b7ab110d4522e0f6f4b8fa85cff2ab4dcc009c6feda3e",
+        "fd47dac864a8ef01d2f059cfbad0e167b5060c35c772117bdef2b80a5a661dfa",
+        "68d9b19e70152236b05cb1412fa9013391218ff97f26eed9ab1f0002aa9ea2b6",
+        "aaa7defa94e9d26c7e63433fc8e70c786de47dcbdfe71945b856073b7041371b",
+        "831fbc81e5aef2f8954f0de86b59cdfc20a931a56fd900224d9b0e82c17b4416",
+        "07f639cdd7af256128c17b3a8ced066f85a6fc818c0600a52f9d237286e6e783",
+        "881a89aea1d5400689ef4b2c0f900cb2e50597741b828774a528c60bd0c6f127",
+        "963a8c79b541540cd36d222c2352bd06d2f8ab70f2ed6312467ea2e24d35073a",
+        "0842e6a5773bf98aa5c1bb05d234e450823a87a428022355807400b7092b7f3a",
+        "758d1461c13305eec185f8f9568d4e82232df6ada115da8a0113d2c7f359b671",
+        "877e46057bc96e099ce4fdb2bb6a3b07d43436448d735039cdc7fdc5d465aa9f",
+        "e69220014ba8fbce7668a2cc371c69c06769a4f9385c5b6be9ebd0709f45e32e",
+        "3f9634b48ccb1365e044d94ebb7279b2cfc61165eae634d1c9eca4a491ecd426",
+        "d5f4988736568616202f317f6c5c51c04e92e0e999719ed2ef0ba58cd900b09e",
+        "62942299887a79cd3143607278aae262818fb037bd31bedd8efa604bc2cc2256",
+        "3b993e910b3f22707fc7da73a3cb68124bd51e21a007d8bca0256d6517d95eaf",
+        "abcb70e84bbfc5e48897a14f630355905d64817e3ccdff5192319b0a8da1b203",
+        "d054cf3206d58ee5b61752037ffeb0475b6ebb362cddd5b550b02614f462f4c9",
+        "aa4750986c7a38e02bdcef166241e519d7c434daa1ece776362b97653c6a66cf",
+        "0ee403b56e727d60ddc37be6365b29c3859896d7ec416dc6bc68602a187b1985",
+        "0441981fcf4f6a627fd69a96af5aea70b865cf3b3b4df1de28789b072c30fde9",
+        "ef6000dcb81f2365b117af24b93d8cae54b6853ccfb34062c93a85e9415f4506",
+        "3175a88b19ac7e53686169874689a262e1df5e0ebf50b1216742f4c33bcca3eb",
+        "a4f4dc8005d99c3f48e11c39cc1bbcab271a6da3829cff448d865d93cd7c3e7e",
+        "4e6e5a88d7cb5252c6624b0d718173bd2b1bbc02a55ef496712917bdbeecd667",
+        "b32645340bfd7b4fd5698039864df457a972b07c915be8fa54dde99f0d375dbe",
+        "b91c5ea6ff8df8bd0716448ff4b3fa2d7a91996a7d3c6085275b2d136ffc9813",
+        "76d15596b4c144488143677e67896ffc2744bd9f72d3186cc31530d351be080d",
+        "143d4bc7731ff86a52a849d77134b779dc3873537e11728f433c32a120aa52c0",
+        "30c7a0b2642eea0781b076adbe93d6c318600a5c55b371e079f8449faeaf7cfd",
+        "52b351ddbe7a529ff3b90e313dcba420fa353735ac52c25c85c9f30b25db7cf5",
+        "cb639201af010361fe632763722d0d4890b817d5510263bb761c115f7adffd77"
+      ],
+      "question_summaries": [
+        {
+          "fingerprint": "74f482e938797460eb1ac594cb6bce4e44ba2b858e0115de3ce815cbc5c868c6",
+          "name": "[ch001-unit-1-physics-and-measurement] NEET_UG_PHYSICS_UNIT1_MCQ_Q01 - Dimensional analysis of composite fundamental constants",
+          "summary": "if \\(h\\) is planck's constant, \\(c\\) is the speed of light in vacuum, and \\(g\\) is the universal gravitational constant, then the physical quantity having the same dimensions as \\(\\sqrt{\\frac{h c}{g}}\\) is: length time mass energy"
+        },
+        {
+          "fingerprint": "432989c4a54ebf529901015a17582fa51b524b054dbdf2995f3851f090cc1c1c",
+          "name": "[ch001-unit-1-physics-and-measurement] NEET_UG_PHYSICS_UNIT1_DIAGRAM_Q02 - Vernier calipers reading with positive zero error",
+          "summary": "a student uses a vernier calipers in which \\(10\\) divisions of the vernier scale coincide with \\(9\\) divisions of the main scale (\\(1\\text{ msd} = 1\\text{ mm}\\)). figure (i) shows the scales when the jaws are closed, and figure (ii) shows t"
+        },
+        {
+          "fingerprint": "0c030c57abfa66990f8ef0ae6a007b62ad2b0101f1015bc70db81c5b08b2dc5e",
+          "name": "[ch002-unit-2-kinematics] NEET_UG_PHYSICS_UNIT2_DIAGRAM_Q03 - Distance to displacement ratio from velocity-time graph",
+          "summary": "the velocity-time (\\(v\\)-\\(t\\)) graph of a particle moving along a straight line from \\(t = 0\\) to \\(t = 8\\text{ s}\\) is shown below. what is the ratio of the total distance travelled by the particle to the magnitude of its net displacement"
+        },
+        {
+          "fingerprint": "dcf1e94485582c5936e0eae660da4c0d7c34521a3c3424515b612e7d4f02676b",
+          "name": "[ch002-unit-2-kinematics] NEET_UG_PHYSICS_UNIT2_MCQ_Q04 - Average speed with direction reversals from cubic position",
+          "summary": "a particle moves along the \\(x\\)-axis such that its position \\(x\\) (in metres) varies with time \\(t\\) (in seconds) according to the relation \\(x(t) = t^3 - 6t^2 + 9t + 4\\). what is the average speed of the particle during the time interval "
+        },
+        {
+          "fingerprint": "3b273d68f73ab758f9d846d58ea181ae424f1c1031b436d17b4fd06f4c47e6d1",
+          "name": "[ch002-unit-2-kinematics] NEET_UG_PHYSICS_UNIT2_STMT2_Q05 - Uniform circular motion and projectile motion statements",
+          "summary": "given below are two statements: statement i: in uniform circular motion, the acceleration of the particle is constant in magnitude and is always directed towards the centre of the circular path. statement ii: at the highest point of an obli"
+        },
+        {
+          "fingerprint": "62b83c40d522f3f1dede3374ac9556556ac41a42361d16d81300a7f297a06246",
+          "name": "[ch003-unit-3-laws-of-motion] NEET_UG_PHYSICS_UNIT3_DIAGRAM_Q06 - Tension in pulley-block system with friction",
+          "summary": "a block of mass \\(m_1 = 4\\text{ kg}\\) resting on a rough horizontal table is connected by a light inextensible string passing over a smooth, massless pulley at the edge to a hanging block of mass \\(m_2 = 2\\text{ kg}\\), as shown in the figur"
+        },
+        {
+          "fingerprint": "8405dea30c1bca81bc32b167f9d2b6b7b5e0d2d46cd200248df95035e24e2a03",
+          "name": "[ch003-unit-3-laws-of-motion] NEET_UG_PHYSICS_UNIT3_MCQ_Q07 - Maximum safe speed on a banked circular road",
+          "summary": "a circular road of radius \\(r = 40\\text{ m}\\) is banked at an angle \\(\\theta\\) such that the optimum speed for negotiating the turn without relying on friction is \\(20\\text{ m/s}\\). if the coefficient of static friction between the tyres of"
+        },
+        {
+          "fingerprint": "f83f5285d83bb4336f3e6eb29ecf827f42959d1da239938a40c5a022350fada3",
+          "name": "[ch003-unit-3-laws-of-motion] NEET_UG_PHYSICS_UNIT3_AR_Q08 - Impulse-momentum relation in catching a ball",
+          "summary": "assertion (a): a cricketer pulls his hands backward while catching a fast-moving cricket ball. reason (r): increasing the time duration of impact reduces the average impulsive force exerted by the ball on the hands for a given change in mom"
+        },
+        {
+          "fingerprint": "8c104baa2b1f561a0d23a39c3fcf6e1204a262a996f302406743454e71cb16ed",
+          "name": "[ch004-unit-4-work-energy-and-power] NEET_UG_PHYSICS_UNIT4_DIAGRAM_Q09 - Stopping distance with spatially varying friction",
+          "summary": "a block of mass \\(m = 2\\text{ kg}\\) is released from rest from the top of a smooth curved track at a height \\(h = 5\\text{ m}\\) and slides smoothly onto a rough horizontal surface starting at \\(x = 0\\), as shown in the figure. on the rough s"
+        },
+        {
+          "fingerprint": "5b37f9f8ef89e749dfff6cabd3c23c5dd2ff38cad095b8a7f4bd8a7b419c6bd5",
+          "name": "[ch004-unit-4-work-energy-and-power] NEET_UG_PHYSICS_UNIT4_MCQ_Q10 - Rebound height after elastic pendulum collision",
+          "summary": "a small bob of mass \\(m\\) suspended by a light inextensible string of length \\(l = 1.8\\text{ m}\\) is released from rest from a horizontal position. at the lowest point of its swing, it undergoes a head-on elastic collision with a stationary"
+        },
+        {
+          "fingerprint": "038ea68abd7d7e9ee4c8f109301948c0d2f2c8d580c5fb930c0f6858f7534166",
+          "name": "[ch005-unit-5-rotational-motion] NEET_UG_PHYSICS_UNIT5_DIAGRAM_Q11 - Moment of inertia of square frame about corner",
+          "summary": "four identical thin uniform rods, each of mass \\(m\\) and length \\(l\\), are joined to form a rigid square frame \\(abcd\\), as shown in the figure. what is the moment of inertia of the square frame about an axis passing through corner \\(a\\) an"
+        },
+        {
+          "fingerprint": "18c17f4b5ed0eb08ede7c264f64670af830865f6fc1204a6cb39d31528a19bc7",
+          "name": "[ch005-unit-5-rotational-motion] NEET_UG_PHYSICS_UNIT5_MATCH_Q12 - Matching rigid bodies with moments of inertia",
+          "summary": "match list i (rigid body of mass \\(m\\) and radius \\(r\\) with specified axis) with list ii (moment of inertia) and select the correct combination: list i list ii (p) thin circular ring about a diameter (i) \\(\\frac{7}{5} m r^2\\) (q) uniform c"
+        },
+        {
+          "fingerprint": "f35237d8ba971e7170670ecaea04c38ae8fa422beccb24fd917d47dce49a8e2a",
+          "name": "[ch005-unit-5-rotational-motion] NEET_UG_PHYSICS_UNIT5_SEQ_Q13 - Ordering rolling bodies by translational acceleration",
+          "summary": "four bodies of equal mass \\(m\\) and equal radius \\(r\\) roll without slipping down the same rough inclined plane of inclination \\(\\theta\\): (p) solid sphere (q) solid cylinder (r) hollow spherical shell (s) thin circular ring arrange these b"
+        },
+        {
+          "fingerprint": "30708bdba4f12f4d7072832f9f0c5828c48065d577973789305e3c4101b74e08",
+          "name": "[ch006-unit-6-gravitation] NEET_UG_PHYSICS_UNIT6_MCQ_Q14 - Scaling of escape velocity with mass and radius",
+          "summary": "a planet has a mass \\(8\\) times the mass of the earth and a radius \\(2\\) times the radius of the earth. if the escape speed from the surface of the earth is \\(11.2\\text{ km/s}\\), what is the escape speed from the surface of this planet? \\(4"
+        },
+        {
+          "fingerprint": "0ab5d1562eb479937fcc1f0c506c524c265c722b868f3c8e4680b888f9e68b9f",
+          "name": "[ch006-unit-6-gravitation] NEET_UG_PHYSICS_UNIT6_DIAGRAM_Q15 - Kinetic energy ratio in elliptical satellite orbit",
+          "summary": "a satellite orbits a planet of mass \\(m\\) in an elliptical orbit with perigee distance \\(r_p = r\\) and apogee distance \\(r_a = 3r\\) from the centre of the planet, as shown in the figure. what is the ratio of the kinetic energy of the satell"
+        },
+        {
+          "fingerprint": "407f5af2b6cabcd8f68d55aca8fe6d06560ebe74743ea6d235a860714db0e953",
+          "name": "[ch007-unit-7-properties-of-solids-and-liquids] NEET_UG_PHYSICS_PROPERTIES_OF_SOLIDS_AND_LIQUIDS_DIAGRAM_Q01 - Volume flow rate in horizontal venturi tube",
+          "summary": "water of density \\(\\rho = 1000\\text{ kg m}^{-3}\\) flows steadily through a horizontal pipe whose cross-sectional area decreases from \\(a_1 = 4\\text{ cm}^2\\) to \\(a_2 = 2\\text{ cm}^2\\), as shown in the figure. two vertical piezometer tubes c"
+        },
+        {
+          "fingerprint": "63a1aa8ea7a8061c8d8e381544aecc69f0b9e4baf011e947a564d0dabca18d23",
+          "name": "[ch007-unit-7-properties-of-solids-and-liquids] NEET_UG_PHYSICS_PROPERTIES_OF_SOLIDS_AND_LIQUIDS_MCQ_Q02 - Coalescence of two soap bubbles in vacuum",
+          "summary": "two soap bubbles of radii \\(3\\text{ cm}\\) and \\(4\\text{ cm}\\) coalesce isothermally in vacuum to form a single spherical soap bubble. what is the radius of the resulting soap bubble? \\(3.5\\text{ cm}\\) \\(4.5\\text{ cm}\\) \\(5.0\\text{ cm}\\) \\(7"
+        },
+        {
+          "fingerprint": "75221771e37201602be6965b87e9e7113e45224cb2519f8700cfbdb5eb5268fa",
+          "name": "[ch007-unit-7-properties-of-solids-and-liquids] NEET_UG_PHYSICS_PROPERTIES_OF_SOLIDS_AND_LIQUIDS_DIAGRAM_Q03 - Steady-state junction temperature of three conducting rods",
+          "summary": "three cylindrical rods of identical length and cross-sectional area are joined at a common junction \\(j\\), as shown in the figure. their thermal conductivities are \\(2k\\), \\(k\\), and \\(3k\\), and their free ends are maintained at constant te"
+        },
+        {
+          "fingerprint": "2ad0471a41ef3fcee4dd710271bd9ea13dbdb2d25bff2611c143d25e0288bb40",
+          "name": "[ch008-unit-8-thermodynamics] NEET_UG_PHYSICS_THERMODYNAMICS_DIAGRAM_Q04 - Net heat absorbed in triangular P-V cycle",
+          "summary": "an ideal gas undergoes a cyclic process \\(abca\\) as shown in the \\(p\\text{-}v\\) diagram below. given \\(p_0 = 1.0 \\times 10^5\\text{ pa}\\) and \\(v_0 = 2.0 \\times 10^{-3}\\text{ m}^3\\), what is the net heat absorbed by the gas during one comple"
+        },
+        {
+          "fingerprint": "91af64c7a5c26633497ab2e000ce36521678c38b6d9c7f8fd15621e19b524efc",
+          "name": "[ch008-unit-8-thermodynamics] NEET_UG_PHYSICS_THERMODYNAMICS_AR_Q05 - Temperature drop during adiabatic expansion",
+          "summary": "assertion (a): during an adiabatic expansion of an ideal gas, the temperature of the gas decreases. reason (r): in an adiabatic process, no heat is exchanged between the system and the surroundings, so the positive work done by the expandin"
+        },
+        {
+          "fingerprint": "25e2d5cb3be323263ac87fff392a649e6ee3fb39b5e888ebe5cbc6295c0f4dc8",
+          "name": "[ch009-unit-9-kinetic-theory-of-gases] NEET_UG_PHYSICS_KINETIC_THEORY_OF_GASES_MATCH_Q06 - Specific heat ratio for ideal gases",
+          "summary": "match the ideal gas types listed in list i with their corresponding values of the specific heat ratio \\(\\gamma = c_p / c_v\\) in list ii: list i (gas type) list ii (value of \\(\\gamma\\)) 1. monatomic gas p. \\(\\frac{9}{7}\\) 2. rigid diatomic g"
+        },
+        {
+          "fingerprint": "148a8262ff646adfde8bdcf1ce8b404817b534cce27f94425b2d0dd65a31bd75",
+          "name": "[ch009-unit-9-kinetic-theory-of-gases] NEET_UG_PHYSICS_KINETIC_THEORY_OF_GASES_MCQ_Q07 - Equal RMS speed of oxygen and hydrogen molecules",
+          "summary": "at what absolute temperature will the root-mean-square speed of oxygen molecules (\\(\\text{o}_2\\), molar mass \\(32\\text{ g mol}^{-1}\\)) be equal to the root-mean-square speed of hydrogen molecules (\\(\\text{h}_2\\), molar mass \\(2\\text{ g mol}"
+        },
+        {
+          "fingerprint": "dfc3b75966b73bb91a080928c1a7afd560a6168e14794ac89f552269d8aff95b",
+          "name": "[ch010-unit-10-oscillations-and-waves] NEET_UG_PHYSICS_OSCILLATIONS_AND_WAVES_DIAGRAM_Q08 - Angular frequency of spring-block combination",
+          "summary": "a block of mass \\(m = 1\\text{ kg}\\) rests on a frictionless horizontal surface and is connected between two rigid walls by massless springs of force constants \\(k_1 = 300\\text{ n m}^{-1}\\), \\(k_2 = 600\\text{ n m}^{-1}\\), and \\(k_3 = 200\\tex"
+        },
+        {
+          "fingerprint": "9f654e3453cfd11621ffdde733adcc6fedebec083d72a0d94adaf15b6535dc1e",
+          "name": "[ch010-unit-10-oscillations-and-waves] NEET_UG_PHYSICS_OSCILLATIONS_AND_WAVES_SEQ_Q09 - Increasing order of organ pipe frequencies",
+          "summary": "consider four organ pipes of identical length \\(l\\) containing air at the same temperature (speed of sound \\(v\\)), each oscillating in a specific mode: p: closed organ pipe oscillating in its fundamental mode q: open organ pipe oscillating "
+        },
+        {
+          "fingerprint": "3ba459c0d779c8ed51c02826384ffd6085e72b385341487d5a87987a5ab28c10",
+          "name": "[ch010-unit-10-oscillations-and-waves] NEET_UG_PHYSICS_OSCILLATIONS_AND_WAVES_MCQ_Q10 - Sonometer wire beats with tuning fork",
+          "summary": "a sonometer wire of length \\(50\\text{ cm}\\) vibrates in its fundamental mode in unison with a tuning fork of frequency \\(f\\). when the length of the wire is increased by \\(2\\text{ cm}\\) while keeping the tension constant, the wire produces "
+        },
+        {
+          "fingerprint": "28df9ddb5e7e449a940805abcfa47fc49bb84f924cb8497ed204b937b71f8a83",
+          "name": "[ch011-unit-11-electrostatics] NEET_UG_PHYSICS_ELECTROSTATICS_SB2_Q11 - Electric field and potential inside charged spherical shell",
+          "summary": "given below are two statements regarding a uniformly charged thin spherical shell of radius \\(r\\) carrying a total charge \\(+q\\): statement i: the electric field at every point inside the spherical shell is zero. statement ii: the electrost"
+        },
+        {
+          "fingerprint": "a8362af7ad8e0e749d0059abffa39aff31a700d2e126ec72c5ee4ed2532a746e",
+          "name": "[ch011-unit-11-electrostatics] NEET_UG_PHYSICS_ELECTROSTATICS_DIAGRAM_Q12 - Energy stored in capacitor network",
+          "summary": "three capacitors \\(c_1 = 3\\ \\mu\\text{f}\\), \\(c_2 = 6\\ \\mu\\text{f}\\), and \\(c_3 = 4\\ \\mu\\text{f}\\) are connected to a \\(10\\text{ v}\\) ideal battery as shown in the circuit diagram. what is the total electrostatic energy stored in the capacit"
+        },
+        {
+          "fingerprint": "4b1c8dcb03b4af668edcbfb9a8862ff4dfee31d4e5563763b31861729949e3c5",
+          "name": "[ch011-unit-11-electrostatics] NEET_UG_PHYSICS_ELECTROSTATICS_MCQ_Q13 - Work done moving charge between two charged rings",
+          "summary": "two identical thin circular rings, each of radius \\(r\\), are placed coaxially at a separation \\(r\\) between their centers. they carry uniformly distributed charges \\(+q\\) and \\(-q\\), respectively. what is the work done by an external agent "
+        },
+        {
+          "fingerprint": "def356841229111267bdc1c6d8446d81dd4800b91c2f96cdf89f2e7cadd82538",
+          "name": "[ch012-unit-12-current-electricity] NEET_UG_PHYSICS_Q01 - Current through a resistor in series-parallel network",
+          "summary": "in the circuit shown below, a cell of emf \\(12\\text{ v}\\) and internal resistance \\(r = 1\\ \\omega\\) is connected to a network of three resistors of resistances \\(3\\ \\omega\\), \\(6\\ \\omega\\), and \\(3\\ \\omega\\). what is the current flowing thr"
+        },
+        {
+          "fingerprint": "797593baa12786c83ccdbabd9b4838a995f64e00299bf5298b5f6a2d4b52288b",
+          "name": "[ch012-unit-12-current-electricity] NEET_UG_PHYSICS_Q02 - Temperature dependence of drift velocity and resistivity",
+          "summary": "given below are two statements: statement i: for a metallic conductor under a constant applied electric field, the drift velocity of free electrons increases with an increase in temperature. statement ii: the resistivity of an intrinsic sem"
+        },
+        {
+          "fingerprint": "212ad92dfb38e72268cdc1f2c52e13422ed112e0f6ffb205aa6bd6cf91445720",
+          "name": "[ch012-unit-12-current-electricity] NEET_UG_PHYSICS_Q03 - Effective temperature coefficient of series resistors",
+          "summary": "two resistors have resistances \\(r_1 = 100\\ \\omega\\) and \\(r_2 = 300\\ \\omega\\) at \\(0^\\circ\\text{c}\\). their temperature coefficients of resistance are \\(\\alpha_1 = 4 \\times 10^{-3}\\ ^\\circ\\text{c}^{-1}\\) and \\(\\alpha_2 = -1 \\times 10^{-3}\\"
+        },
+        {
+          "fingerprint": "0591210e9257c090f10b705ab6e485425acb066ecba8c3c096de5cd0c57e78ed",
+          "name": "[ch013-unit-13-magnetic-effects-of-current-and-magnetism] NEET_UG_PHYSICS_Q04 - Magnetic field at centre of concentric arcs",
+          "summary": "a conducting loop lies in the plane of the page and consists of two concentric semicircular arcs of radii \\(r\\) and \\(2r\\) with a common centre \\(o\\), joined by two radial straight segments, as shown in the figure. if a steady current \\(i\\)"
+        },
+        {
+          "fingerprint": "3ae873d23aadf77c10b46a1e1369b5e7665c45971bc18fd2b58ca144baf7e854",
+          "name": "[ch013-unit-13-magnetic-effects-of-current-and-magnetism] NEET_UG_PHYSICS_Q05 - Matching magnetic materials and galvanometer properties",
+          "summary": "match list-i with list-ii: list-i list-ii (a) diamagnetic substance (i) susceptibility varies inversely with absolute temperature (b) paramagnetic substance (ii) radial magnetic field makes deflection proportional to current (c) ferromagnet"
+        },
+        {
+          "fingerprint": "3f5023b6842c91635ae8040bde0edff5dd37cc3de4e4cc4d6b2c66051e462778",
+          "name": "[ch014-unit-14-electromagnetic-induction-and-alternating-currents] NEET_UG_PHYSICS_Q06 - Average power dissipated in series LCR circuit",
+          "summary": "an alternating voltage \\(v = 200\\sqrt{2}\\sin(100\\pi t)\\text{ v}\\) is applied across a series \\(lcr\\) circuit having resistance \\(r = 30\\ \\omega\\), inductive reactance \\(x_l = 80\\ \\omega\\), and capacitive reactance \\(x_c = 40\\ \\omega\\). what"
+        },
+        {
+          "fingerprint": "202de93e35b1ee5b40549399963f19dcfcea601ff7c8a0213140925858ede2ef",
+          "name": "[ch014-unit-14-electromagnetic-induction-and-alternating-currents] NEET_UG_PHYSICS_Q07 - Heat dissipated from magnetic flux versus time graph",
+          "summary": "the magnetic flux \\(\\phi\\) (in \\(\\text{wb}\\)) linked with a closed conducting loop of resistance \\(4\\ \\omega\\) varies with time \\(t\\) (in \\(\\text{s}\\)) as shown in the graph below. what is the total heat dissipated in the loop during the ti"
+        },
+        {
+          "fingerprint": "61e1898462a4362a7fab890079a0cd6d32ee65b9fc817de81de47f82794778b0",
+          "name": "[ch015-unit-15-electromagnetic-waves] NEET_UG_PHYSICS_Q08 - Matching electromagnetic waves with their applications",
+          "summary": "match list-i (electromagnetic wave) with list-ii (primary application): list-i list-ii (a) microwaves (i) water purifiers to kill germs (b) infrared waves (ii) radar systems for aircraft navigation (c) ultraviolet rays (iii) medical diagnos"
+        },
+        {
+          "fingerprint": "2fe66411e8bc06d14d39d642ebf784c35e260d15b1ed8ef702609bf603a91526",
+          "name": "[ch016-unit-16-optics] NEET_UG_PHYSICS_Q09 - Final image position for coaxial thin lenses",
+          "summary": "a thin converging lens \\(l_1\\) of focal length \\(f_1 = +20\\text{ cm}\\) and a thin diverging lens \\(l_2\\) of focal length \\(f_2 = -20\\text{ cm}\\) are placed coaxially at a separation of \\(d = 20\\text{ cm}\\), as shown in the figure. a point o"
+        },
+        {
+          "fingerprint": "d7337fe9fa75b44e30115510699c607f796fdc2b67c6b03d62a65c927a22cc1f",
+          "name": "[ch016-unit-16-optics] NEET_UG_PHYSICS_Q10 - Interference, diffraction, and Brewster's law statements",
+          "summary": "consider the following three statements regarding wave optics: statement i: in young's double-slit experiment, if the entire apparatus is immersed in water (refractive index \\(\\mu = 4/3\\)), the fringe width becomes \\(\\frac{3}{4}\\) of its va"
+        },
+        {
+          "fingerprint": "6ce6169ea340ae853fa1caf9d2b2629b10a5720c4a3bea9a073c002d948773e7",
+          "name": "[ch016-unit-16-optics] NEET_UG_PHYSICS_Q11 - Angle of minimum deviation through a prism",
+          "summary": "a glass prism has a refracting angle of \\(a = 60^\\circ\\) and is made of a material of refractive index \\(\\mu = \\sqrt{2}\\). what is the angle of minimum deviation produced by this prism for light travelling in air? \\(45^\\circ\\) \\(60^\\circ\\) "
+        },
+        {
+          "fingerprint": "e34d05cf2bb8c79e0f10a7fa8072d7d050a7a0efadf9cb4be8b34a1ba380edd8",
+          "name": "[ch017-unit-17-dual-nature-of-matter-and-radiation] NEET_UG_PHYSICS_Q12 - Independence of stopping potential from light intensity",
+          "summary": "assertion (a): when the intensity of incident monochromatic light (having frequency greater than the threshold frequency) on a photosensitive metal plate is doubled, the stopping potential remains unchanged. reason (r): the maximum kinetic "
+        },
+        {
+          "fingerprint": "d470da5a6ece4e56dbf6fff463bda8575eb9423a48ab200e3f1dfe3435793246",
+          "name": "[ch018-unit-18-atoms-and-nuclei] NEET_UG_PHYSICS_Q13 - Wavelength ratio of Lyman series transitions in hydrogen",
+          "summary": "in a hydrogen atom, an electron transitions from the \\(n = 3\\) state to the \\(n = 1\\) state, emitting a photon of wavelength \\(\\lambda_1\\). in another transition from the \\(n = 2\\) state to the \\(n = 1\\) state, a photon of wavelength \\(\\lam"
+        },
+        {
+          "fingerprint": "52c7740edf083860ac11bf1a75bf16748b3f4a3ecb800121c7fad222511ff334",
+          "name": "[ch018-unit-18-atoms-and-nuclei] NEET_UG_PHYSICS_Q14 - Energy released in deuterium nuclear fusion reaction",
+          "summary": "in a nuclear fusion reaction, two deuterons (\\({}^{2}_{1}\\text{h}\\)) combine to form a helium nucleus (\\({}^{4}_{2}\\text{he}\\)). if the binding energy per nucleon of \\({}^{2}_{1}\\text{h}\\) is \\(1.1\\text{ mev}\\) and that of \\({}^{4}_{2}\\text"
+        },
+        {
+          "fingerprint": "d9b1ff40fe1592399a43d6797eb24ee2666a1f5a7b5e517709e166e0aaf9bb39",
+          "name": "[ch019-unit-19-electronic-devices] NEET_UG_PHYSICS_ELECTRONIC_DEVICES_DIAGRAM_Q01 - Current through Zener diode in voltage regulator",
+          "summary": "in the voltage regulator circuit shown below, a zener diode with breakdown voltage \\(v_z = 6.0\\text{ v}\\) (and negligible knee current) is connected across a load resistor \\(r_l = 1.2\\text{ k}\\omega\\) and in series with a limiting resistor "
+        },
+        {
+          "fingerprint": "f257343edbcbda11cc335dbc37c541ca61a43c4c319a0abae4adc1f6d26057ad",
+          "name": "[ch019-unit-19-electronic-devices] NEET_UG_PHYSICS_ELECTRONIC_DEVICES_AR_Q02 - Depletion region behavior under reverse bias",
+          "summary": "assertion (a): when a p-n junction diode is reverse biased, the width of the depletion region increases and the effective barrier potential increases. reason (r): under reverse bias, majority charge carriers from both the p-side and n-side "
+        },
+        {
+          "fingerprint": "85b2a003508781a62d9efbaac758c9e2fa2f6912cacfdcbaa3e92e46813e5a07",
+          "name": "[ch020-unit-20-experimental-skills] NEET_UG_PHYSICS_EXPERIMENTAL_SKILLS_MCQ_Q03 - Youngs modulus using screw gauge diameter measurement",
+          "summary": "a screw gauge with a pitch of \\(0.5\\text{ mm}\\) and \\(50\\) divisions on its circular scale has a positive zero error of \\(+4\\) circular scale divisions. when used to measure the diameter of a uniform metallic wire, the main scale reads \\(2."
+        },
+        {
+          "fingerprint": "bd618deb1af1877d596fe9dc64d35b1fb8e1d583b4595835ddca4b1a70f88004",
+          "name": "[ch001-unit-1-some-basic-concepts-in-chemistry] NEET_UG_CHEMISTRY_MCQ_Q01 - Empirical formula from combustion analysis data",
+          "summary": "complete combustion of \\(1.5\\text{ g}\\) of an organic compound containing carbon, hydrogen, and oxygen produces \\(2.2\\text{ g}\\) of \\(\\text{co}_2\\) and \\(0.9\\text{ g}\\) of \\(\\text{h}_2\\text{o}\\). what is the empirical formula of the compoun"
+        },
+        {
+          "fingerprint": "971b74f8e24f0208e8a3e88d90d7a74127c75985249c565fb9e1afd865709fc1",
+          "name": "[ch001-unit-1-some-basic-concepts-in-chemistry] NEET_UG_CHEMISTRY_MCQ_Q02 - Limiting reagent mass of barium sulphate precipitate",
+          "summary": "when \\(20\\text{ ml}\\) of \\(0.1\\text{ m}\\) aqueous \\(\\text{bacl}_2\\) is mixed with \\(30\\text{ ml}\\) of \\(0.2\\text{ m}\\) aqueous \\(\\text{na}_2\\text{so}_4\\), what is the maximum mass of \\(\\text{baso}_4\\) precipitated? (molar mass of \\(\\text{ba"
+        },
+        {
+          "fingerprint": "e5eb6241184e2cd4564c6c9469263a4299a74fb6f80658ddcfa5e8d48e770b87",
+          "name": "[ch002-unit-2-atomic-structure] NEET_UG_CHEMISTRY_DIAGRAM_Q03 - Identifying atomic orbital from radial wavefunction plot",
+          "summary": "the schematic plot below shows the variation of the radial wavefunction \\(\\psi(r)\\) of a hydrogenic orbital with distance \\(r\\) from the nucleus. ψ(r) r 0 which of the following orbitals is represented by this plot? \\(2s\\) \\(3p\\) \\(3s\\) \\(4"
+        },
+        {
+          "fingerprint": "7046b7c8cc88050080aa6c393a532ca616b230caa2b84c7fe457641a025606cd",
+          "name": "[ch002-unit-2-atomic-structure] NEET_UG_CHEMISTRY_MCQ_Q04 - Photoelectric kinetic energy from helium ion transition",
+          "summary": "electromagnetic radiation emitted during the electronic transition from \\(n = 4\\) to \\(n = 2\\) in a \\(\\text{he}^+\\) ion is incident on a metal surface having a work function of \\(2.2\\text{ ev}\\). what is the maximum kinetic energy of the ej"
+        },
+        {
+          "fingerprint": "d88e7d0dbeff952617d8ce65395db837a93af269f6e145a8e2c73c59f27a7291",
+          "name": "[ch003-unit-3-chemical-bonding-and-molecular-structure] NEET_UG_CHEMISTRY_MATCH_Q05 - Matching interhalogen and xenon compounds to shapes",
+          "summary": "match the chemical species in list i with their molecular shapes in list ii according to vsepr theory: list i (species) list ii (shape) (a) \\(\\text{xef}_4\\) (i) square pyramidal (b) \\(\\text{brf}_5\\) (ii) linear (c) \\(\\text{sf}_4\\) (iii) squ"
+        },
+        {
+          "fingerprint": "b67a723f882a69e8689f3b161fc4abf41ebedf7dc9d2a583fda2ae369a0882d9",
+          "name": "[ch003-unit-3-chemical-bonding-and-molecular-structure] NEET_UG_CHEMISTRY_MCQ_Q06 - Bond order, paramagnetism, and HOMO in MOT",
+          "summary": "which of the following diatomic species has a bond order of \\(2.5\\), is paramagnetic, and has its highest occupied molecular orbital (homo) as a \\(\\pi^*_{2p}\\) orbital? \\(\\text{n}_2^+\\) \\(\\text{o}_2^+\\) \\(\\text{o}_2^-\\) \\(\\text{no}^+\\)"
+        },
+        {
+          "fingerprint": "57fc49f82c973afaec3415ade6a85a65a03985c2ee044d239e9efbcb7f75e710",
+          "name": "[ch003-unit-3-chemical-bonding-and-molecular-structure] NEET_UG_CHEMISTRY_MCQ_Q07 - Zero net dipole moment in symmetric molecule",
+          "summary": "which of the following molecules has a zero net dipole moment despite containing polar covalent bonds? \\(\\text{nf}_3\\) \\(\\text{nh}_3\\) \\(\\text{bf}_3\\) \\(\\text{h}_2\\text{o}\\)"
+        },
+        {
+          "fingerprint": "c78584702f1a75077797c940013cab0d309538e00c9883ff6081bf4939bc07bb",
+          "name": "[ch004-unit-4-chemical-thermodynamics] NEET_UG_CHEMISTRY_DIAGRAM_Q08 - Net heat absorbed in reversible cyclic P-V process",
+          "summary": "one mole of an ideal gas undergoes a reversible cyclic process \\(a \\rightarrow b \\rightarrow c \\rightarrow a\\) as shown in the \\(p\\)-\\(v\\) diagram below. p (atm) v (l) 3 1 2 6 a b c what is the net heat exchanged (\\(q_{\\text{net}}\\)) by the"
+        },
+        {
+          "fingerprint": "7e4220caca111b8e42ff078e86e4e3385fdafa539497cd11f1b0c85e6b5b7858",
+          "name": "[ch004-unit-4-chemical-thermodynamics] NEET_UG_CHEMISTRY_MCQ_Q09 - Enthalpy of hydrogenation using Hess's law",
+          "summary": "at \\(298\\text{ k}\\), the standard enthalpies of combustion of \\(\\text{c}_2\\text{h}_4(g)\\), \\(\\text{h}_2(g)\\), and \\(\\text{c}_2\\text{h}_6(g)\\) are \\(-1410\\text{ kj mol}^{-1}\\), \\(-286\\text{ kj mol}^{-1}\\), and \\(-1560\\text{ kj mol}^{-1}\\), r"
+        },
+        {
+          "fingerprint": "fc3326b228a938856abe846e5df3149231c220933d997ab3588ede2d289636af",
+          "name": "[ch004-unit-4-chemical-thermodynamics] NEET_UG_CHEMISTRY_MCQ_Q10 - Entropy changes during isothermal free expansion",
+          "summary": "two moles of an ideal gas undergo isothermal free expansion from \\(10\\text{ l}\\) to \\(40\\text{ l}\\) against vacuum at \\(300\\text{ k}\\). what are the entropy changes \\(\\delta s_{\\text{sys}}\\), \\(\\delta s_{\\text{surr}}\\), and \\(\\delta s_{\\tex"
+        },
+        {
+          "fingerprint": "c387855137308e5ddee0a7d7a5e6474a7602d6247de26db1ab7fe9684890abac",
+          "name": "[ch005-unit-5-solutions] NEET_UG_CHEMISTRY_AR_Q11 - Gibbs energy and entropy of ideal mixing",
+          "summary": "assertion (a): for an ideal solution formed by mixing two miscible liquids at constant temperature and pressure, \\(\\delta_{\\text{mix}}h = 0\\) and \\(\\delta_{\\text{mix}}v = 0\\), yet \\(\\delta_{\\text{mix}}g reason (r): mixing of two ideal liqui"
+        },
+        {
+          "fingerprint": "281654a1337893c1c3206aca690df3526990aaefc3bea6057a5e84b035630618",
+          "name": "[ch005-unit-5-solutions] NEET_UG_CHEMISTRY_STMT_Q12 - Colligative boiling point elevation and Raoult deviations",
+          "summary": "given below are two statements: statement i: assuming complete dissociation, an aqueous \\(0.1\\text{ m}\\) \\(\\text{k}_4[\\text{fe(cn)}_6]\\) solution exhibits a higher boiling point than an aqueous \\(0.1\\text{ m}\\) \\(\\text{cacl}_2\\) solution. s"
+        },
+        {
+          "fingerprint": "3a0f085203b3a78386b9b4aebc2f34bc25d970c5aabbcb267dc45c4799392439",
+          "name": "[ch006-unit-6-equilibrium] NEET_UG_CHEMISTRY_SEQ_Q13 - Ranking molar solubility of sparingly soluble salts",
+          "summary": "the solubility product constants (\\(k_{sp}\\)) of four sparingly soluble salts in pure water at \\(298\\text{ k}\\) are given below: \\(\\text{agcl}:\\ k_{sp} = 1.0 \\times 10^{-10}\\) \\(\\text{ag}_2\\text{cro}_4:\\ k_{sp} = 4.0 \\times 10^{-12}\\) \\(\\te"
+        },
+        {
+          "fingerprint": "64dd94eccd45f5c95c1773a1994a6296fe4aaed080ab73a2cc228d52c137f0d8",
+          "name": "[ch006-unit-6-equilibrium] NEET_UG_CHEMISTRY_MATCH_Q14 - Le Chatelier perturbations on ammonia synthesis",
+          "summary": "consider the haber-process equilibrium: \\(\\text{n}_2(g) + 3\\text{h}_2(g) \\rightleftharpoons 2\\text{nh}_3(g),\\ \\delta h = -92.4\\text{ kj mol}^{-1}\\). match each change in list i with its effect in list ii: list i (change applied) list ii (ef"
+        },
+        {
+          "fingerprint": "196cc74c9e03415be9d8e11f83750530c6ce5e54f46484d5339f9de5cd7d444d",
+          "name": "[ch006-unit-6-equilibrium] NEET_UG_CHEMISTRY_MCQ_Q15 - pH of acidic buffer at half-neutralization",
+          "summary": "what is the \\(\\text{ph}\\) of the resulting solution when \\(100\\text{ ml}\\) of \\(0.2\\text{ m}\\) \\(\\text{ch}_3\\text{cooh}\\) (\\(pk_a = 4.74\\)) is mixed with \\(100\\text{ ml}\\) of \\(0.1\\text{ m}\\) \\(\\text{naoh}\\) at \\(298\\text{ k}\\)? \\(5.04\\) \\("
+        },
+        {
+          "fingerprint": "b550413ac169d4c7fbd698e126db9a75873ac48a864d8c9e1b72ef2f901d70df",
+          "name": "[ch007-unit-7-redox-reactions-and-electrochemistry] NEET_UG_CHEMISTRY_MCQ_Q01 - Moles of permanganate oxidizing ferrous oxalate",
+          "summary": "the number of moles of \\(\\mathrm{kmno_4}\\) required to oxidize one mole of ferrous oxalate (\\(\\mathrm{fec_2o_4}\\)) completely in an acidic medium is: \\(0.6\\) \\(0.4\\) \\(0.2\\) \\(1.0\\)"
+        },
+        {
+          "fingerprint": "427ed80162863ce5652dcffbfaadd24d95499cf6e05405f534d5e9461e5fefec",
+          "name": "[ch007-unit-7-redox-reactions-and-electrochemistry] NEET_UG_CHEMISTRY_MCQ_Q02 - Limiting molar conductivity and dissociation degree",
+          "summary": "at \\(298\\text{ k}\\), the limiting molar conductivities (\\(\\lambda_m^\\circ\\)) of \\(\\mathrm{ch_3coona}\\), \\(\\mathrm{hcl}\\), and \\(\\mathrm{nacl}\\) are \\(91.0\\), \\(426.0\\), and \\(126.0\\text{ s cm}^2\\text{ mol}^{-1}\\), respectively. if the molar"
+        },
+        {
+          "fingerprint": "9be80a58474577667704ec682603152736176df7c9b31b526dad08f623b31d0d",
+          "name": "[ch007-unit-7-redox-reactions-and-electrochemistry] NEET_UG_CHEMISTRY_MCQ_Q03 - Standard reduction potential from Gibbs energy",
+          "summary": "given the standard reduction potentials at \\(298\\text{ k}\\): \\(e^\\circ_{\\mathrm{cu^{2+}external/cu}} = +0.34\\text{ v}\\) and \\(e^\\circ_{\\mathrm{cu^{2+}external/cu^+}} = +0.15\\text{ v}\\). the standard reduction potential \\(e^\\circ_{\\mathrm{cu^+external/cu}}) is: \\("
+        },
+        {
+          "fingerprint": "500a6babe7b79c579e30cae09436c1cd82abacbd44b5369322af3ce3fd4582a4",
+          "name": "[ch008-unit-8-chemical-kinetics] NEET_UG_CHEMISTRY_DIAGRAM_Q04 - Activation energy from Arrhenius plot",
+          "summary": "for a first-order reaction, the arrhenius plot of \\(\\ln k\\) versus \\(1/t\\) is shown below. given \\(r = 8.3\\text{ j k}^{-1}\\text{ mol}^{-1}\\), the activation energy (\\(e_a\\)) of the reaction is: 1/t (× 10−3 k−1) ln k 2.0 4.0 2.0 6.0 (2.0, 6."
+        },
+        {
+          "fingerprint": "b78129d4aac0e64eb6248524178f171cbb160e36af1130a9dce4870216073aa2",
+          "name": "[ch008-unit-8-chemical-kinetics] NEET_UG_CHEMISTRY_MCQ_Q05 - Completion time for first-order reaction",
+          "summary": "a first-order reaction is \\(75\\%\\) completed in \\(40\\text{ minutes}\\). how much time will it take for \\(87.5\\%\\) completion of the same reaction at the same temperature? \\(60\\text{ minutes}\\) \\(80\\text{ minutes}\\) \\(50\\text{ minutes}\\) \\(12"
+        },
+        {
+          "fingerprint": "92d19a9476645a34f289283c4a82b5fc731138379f93864d4c47a153c1007d23",
+          "name": "[ch009-unit-9-classification-of-elements-and-periodicity-in-properties] NEET_UG_CHEMISTRY_AR_Q06 - First ionization enthalpy of nitrogen and oxygen",
+          "summary": "assertion (a): the first ionization enthalpy of nitrogen is greater than that of oxygen. reason (r): nitrogen has an exactly half-filled \\(2p^3\\) electronic configuration, which imparts extra stability compared to the \\(2p^4\\) configuration"
+        },
+        {
+          "fingerprint": "d16088255284daa594bcce4d8e523f50bfa46c40099957ae7f17283b29c78306",
+          "name": "[ch010-unit-10-p-block-elements] NEET_UG_CHEMISTRY_STMT2_Q07 - Covalency of nitrogen versus phosphorus",
+          "summary": "given below are two statements: statement i: nitrogen does not form pentahalides such as \\(\\mathrm{ncl_5}\\), whereas phosphorus forms \\(\\mathrm{pcl_5}\\). statement ii: nitrogen lacks vacant \\(d\\)-orbitals in its valence shell to expand its "
+        },
+        {
+          "fingerprint": "e75133c46a6979b32e30d62609132381f5f12385859d720160fe42e2c49fe7ae",
+          "name": "[ch010-unit-10-p-block-elements] NEET_UG_CHEMISTRY_SEQ_Q08 - Acidic strength order of chlorine oxoacids",
+          "summary": "arrange the following oxoacids of chlorine in the increasing order of their acidic strength: \\(\\mathrm{hclo_3}\\) \\(\\mathrm{hclo}\\) \\(\\mathrm{hclo_4}\\) \\(\\mathrm{hclo_2}\\) \\(\\text{iii} \\(\\text{ii} \\(\\text{ii} \\(\\text{iv}"
+        },
+        {
+          "fingerprint": "c4b0f5c8505495f12bb32a3b46813fe7faf8beb2beae50a4d70bc2cb68c6703f",
+          "name": "[ch010-unit-10-p-block-elements] NEET_UG_CHEMISTRY_MCQ_Q09 - Lone pairs and geometry of xenon tetrafluoride",
+          "summary": "the number of lone pairs of electrons on the central xenon atom and the molecular geometry of \\(\\mathrm{xef_4}\\) are, respectively: \\(1\\), see-saw \\(2\\), tetrahedral \\(2\\), square planar \\(0\\), tetrahedral"
+        },
+        {
+          "fingerprint": "452e27883ecf51bfd7a27d08daa52f670c7d20558ccedc20d0663c8e6bf494e0",
+          "name": "[ch011-unit-11-d-and-f-block-elements] NEET_UG_CHEMISTRY_MATCH_Q10 - Spin-only magnetic moments of transition ions",
+          "summary": "match the transition metal ions in list-i with their spin-only magnetic moment values in list-ii. list-i (ion) list-ii (spin-only magnetic moment) (p) \\(\\mathrm{ti^{3+}}\\) (1) \\(3.87\\text{ bm}\\) (q) \\(\\mathrm{v^{3+}}\\) (2) \\(5.92\\text{ bm}\\"
+        },
+        {
+          "fingerprint": "038551b2a0bf9fafd9fbf8859a37f1a212addb64f79148fec47b5a5d63673a6d",
+          "name": "[ch011-unit-11-d-and-f-block-elements] NEET_UG_CHEMISTRY_MCQ_Q11 - Permanganate oxidation of iodide in neutral medium",
+          "summary": "when potassium permanganate (\\(\\mathrm{kmno_4}\\)) reacts with potassium iodide (\\(\\mathrm{ki}\\)) in a neutral or faintly alkaline aqueous solution, the manganese- and iodine-containing products formed are, respectively: \\(\\mathrm{mn^{2+}}\\)"
+        },
+        {
+          "fingerprint": "e3961fb90b42739ba3d6f0ef783bf14a8f3c2967b59253c4605e04cdb9363de1",
+          "name": "[ch012-unit-12-co-ordination-compounds] NEET_UG_CHEMISTRY_STMT4_Q12 - Geometry and magnetism of nickel complexes",
+          "summary": "consider the following four statements regarding the coordination complexes \\([\\mathrm{ni(cn)_4}]^{2-}\\) and \\([\\mathrm{nicl_4}]^{2-}\\): \\([\\mathrm{ni(cn)_4}]^{2-}\\) has a square planar geometry and is diamagnetic. \\([\\mathrm{nicl_4}]^{2-}\\"
+        },
+        {
+          "fingerprint": "23d1f06f6933fe998f71ba05f68367f231e44497864d05a225f90486825ffe99",
+          "name": "[ch012-unit-12-co-ordination-compounds] NEET_UG_CHEMISTRY_MATCH_Q13 - Structural isomerism in coordination compounds",
+          "summary": "match the pairs of coordination compounds in list-i with the type of structural isomerism they exhibit in list-ii. list-i (complex pair) list-ii (type of isomerism) (p) \\([\\mathrm{co(nh_3)_5(no_2)}]\\mathrm{cl_2}\\) and \\([\\mathrm{co(nh_3)_5("
+        },
+        {
+          "fingerprint": "876fc9a8574a1485ecd196bfba2a2dba9d9a3235e9cdea56a04f8b7309d721ff",
+          "name": "[ch012-unit-12-co-ordination-compounds] NEET_UG_CHEMISTRY_MCQ_Q14 - IUPAC name of potassium trioxalatoferrate",
+          "summary": "the correct iupac name of the coordination compound \\(\\mathrm{k_3[fe(c_2o_4)_3]}\\) is: potassium trioxalatoferrate(iii) tripotassium trioxalatoferrate(iii) potassium trioxalatoiron(iii) potassium tris(oxalato)ferrate(ii)"
+        },
+        {
+          "fingerprint": "6893186b80e67b852f00b13a50db30fcc65ed0a815e230a44d8775a9f45f07c9",
+          "name": "[ch013-unit-13-purification-and-characterisation-of-organic-compounds] NEET_UG_CHEMISTRY_MCQ_Q15 - Blood-red colour in Lassaigne test",
+          "summary": "when an organic compound containing both nitrogen and sulphur is fused with metallic sodium, and the resulting sodium fusion extract is treated with neutral \\(\\mathrm{fecl_3}\\) solution, a blood-red colouration is observed. this blood-red c"
+        },
+        {
+          "fingerprint": "1d76a6e97161aa22fb1ee8b97479ec4eb5f08d0d7ea252ccbd357c66c850e602",
+          "name": "[ch014-unit-14-some-basic-principles-of-organic-chemistry] NEET_UG_CHEMISTRY_MCQ_Q01 - IUPAC name of a keto carboxylic acid",
+          "summary": "what is the correct iupac name of the organic compound having the structural formula \\(\\text{ch}_3-\\text{co}-\\text{ch}_2-\\text{ch}_2-\\text{cooh}\\)? 2-oxopentanoic acid 4-oxopentanoic acid 4-carboxypentan-2-one 1-hydroxy-4-oxopentan-1-one"
+        },
+        {
+          "fingerprint": "b43f352dd9f753b7a2f164ecf71295597d8c8e46100f86b11695628ccc546308",
+          "name": "[ch014-unit-14-some-basic-principles-of-organic-chemistry] NEET_UG_CHEMISTRY_DIAGRAM_Q02 - Potential energy diagram for carbocation stability",
+          "summary": "the potential energy diagram below represents the heterolytic \\(\\text{c}-\\text{cl}\\) bond cleavage of two alkyl chlorides, \\(\\text{p}\\) (\\((\\text{ch}_3)_3\\text{c}-\\text{cl}\\)) and \\(\\text{q}\\) (\\((\\text{ch}_3)_2\\text{ch}-\\text{cl}\\)), to fo"
+        },
+        {
+          "fingerprint": "0babf6f302f75c6a814f237692bc3986ee9772f003137827476434ba1457f5e1",
+          "name": "[ch015-unit-15-hydrocarbons] NEET_UG_CHEMISTRY_MCQ_Q03 - Reductive ozonolysis of an alkene",
+          "summary": "an alkene \\(\\text{x}\\) (\\(\\text{c}_6\\text{h}_{12}\\)) upon reductive ozonolysis (\\(\\text{o}_3\\), followed by \\(\\text{zn}external/text{o})) yields an equimolar mixture of ethanal and 2-methylpropanal. what is the iupac name of alkene \\(\\t"
+        },
+        {
+          "fingerprint": "fa870bf24183aa8369f30881af2caaeb75db478b86c211eec897bfe44c6a2478",
+          "name": "[ch015-unit-15-hydrocarbons] NEET_UG_CHEMISTRY_STMT2_Q04 - Reactions of terminal alkynes and Friedel-Crafts alkylation",
+          "summary": "given below are two statements: statement i: terminal alkynes react with sodamide (\\(\\text{nanh}_2\\)) in liquid ammonia to liberate \\(\\text{h}_2\\) gas and form sodium alkynide. statement ii: treatment of benzene with 1-chloropropane in the "
+        },
+        {
+          "fingerprint": "7efbba1179f7a4de5da005999dc03e898e1583aee41a02e9bce7a80404aaf888",
+          "name": "[ch016-unit-16-organic-compounds-containing-halogens] NEET_UG_CHEMISTRY_AR_Q05 - Stereochemistry of SN1 hydrolysis",
+          "summary": "assertion (a): racemization occurs during the \\(s_n1\\) hydrolysis of optically active 2-bromobutane in aqueous acetone. reason (r): the \\(s_n1\\) reaction proceeds through the formation of a planar \\(sp^2\\)-hybridized carbocation intermediat"
+        },
+        {
+          "fingerprint": "11b66c16267ecfd18ef8063636eb70edbfdf9495ca3eecab73cb75a4dbf2991f",
+          "name": "[ch017-unit-17-organic-compounds-containing-oxygen] NEET_UG_CHEMISTRY_MCQ_Q06 - Distinguishing tests for aldehydes and ketones",
+          "summary": "which of the following carbonyl compounds gives a yellow precipitate of iodoform on warming with \\(\\text{i}_2\\) and \\(\\text{naoh}\\), and also forms a silver mirror with tollens' reagent? propanone benzaldehyde propanal ethanal"
+        },
+        {
+          "fingerprint": "0031321de2aca781b17112cde3a77d6411bccaadc33ba5389c1374060fd9902e",
+          "name": "[ch017-unit-17-organic-compounds-containing-oxygen] NEET_UG_CHEMISTRY_SEQ_Q07 - Increasing order of acidic strength",
+          "summary": "arrange the following organic compounds in the increasing order of their acidic strength: (1) phenol (2) \\(p\\)-nitrophenol (3) \\(p\\)-cresol (4) ethanol (5) benzoic acid (4) (3) (4) (4)"
+        },
+        {
+          "fingerprint": "fb6c12b83635a650dcd4b0df06b388da13aec0b0bdc8577bbd6eb71678d19548",
+          "name": "[ch017-unit-17-organic-compounds-containing-oxygen] NEET_UG_CHEMISTRY_MCQ_Q08 - Lucas test and dehydration reaction sequence",
+          "summary": "an alcohol \\(\\text{a}\\) (\\(\\text{c}_4\\text{h}_{10}\\text{o}\\)) produces immediate turbidity upon treatment with lucas reagent (anhydrous \\(\\text{zncl}_2\\) and concentrated \\(\\text{hcl}\\)). when \\(\\text{a}\\) is passed over heated copper at \\("
+        },
+        {
+          "fingerprint": "d08254dbc58b492ad6ad96a25ecd12ec817605f0195a9a850d3bc0b0de8c3342",
+          "name": "[ch018-unit-18-organic-compounds-containing-nitrogen] NEET_UG_CHEMISTRY_MCQ_Q09 - Basic strength of ethylamines in aqueous solution",
+          "summary": "which of the following represents the correct decreasing order of basic strength (\\(k_b\\)) of ethyl-substituted amines and ammonia in aqueous solution? \\((\\text{c}_2\\text{h}_5)_2\\text{nh} > (\\text{c}_2\\text{h}_5)_3\\text{n} > \\text{c}_2\\text"
+        },
+        {
+          "fingerprint": "75c927cd0862e5fa49ba00a14da139da0102df7f20e696183f69fdd7d7e312ad",
+          "name": "[ch018-unit-18-organic-compounds-containing-nitrogen] NEET_UG_CHEMISTRY_MATCH_Q10 - Reactions and tests of amines and diazonium salts",
+          "summary": "match list i with list ii: list i (reaction / test) list ii (reagent / characteristic product) (a) gabriel phthalimide synthesis (i) foul-smelling isocyanide (b) carbylamine reaction (ii) benzenesulphonyl chloride (c) hinsberg's test (iii) "
+        },
+        {
+          "fingerprint": "1c5e6d9fe73495102f96e01ed50f5e6b0676e169a82cf7f066b322e8d903ea8e",
+          "name": "[ch019-unit-19-biomolecules] NEET_UG_CHEMISTRY_MATCH_Q11 - Vitamins and their deficiency diseases",
+          "summary": "match list i with list ii: list i (vitamin) list ii (deficiency disease) (a) vitamin a (i) scurvy (b) vitamin \\(\\text{b}_1\\) (ii) rickets (c) vitamin c (iii) xerophthalmia (d) vitamin d (iv) beri-beri choose the correct answer from the opti"
+        },
+        {
+          "fingerprint": "8dad2b530b8d3509ce2614e5fbef624f28ab0a95b450f3ffceaa477d0d2be83c",
+          "name": "[ch019-unit-19-biomolecules] NEET_UG_CHEMISTRY_STMT3_Q12 - Carbohydrates proteins and nucleic acids",
+          "summary": "consider the following three statements regarding biomolecules: statement i: sucrose is a non-reducing sugar because the glycosidic linkage is formed between \\(\\text{c}1\\) of \\(\\alpha\\)-d-glucose and \\(\\text{c}2\\) of \\(\\beta\\)-d-fructose, l"
+        },
+        {
+          "fingerprint": "57f979d57b960b44896e4a7f98c2839160509ff1186b3031cafc15c70c791e2b",
+          "name": "[ch020-unit-20-principles-related-to-practical-chemistry] NEET_UG_CHEMISTRY_AR_Q13 - Titration of oxalic acid against KMnO4",
+          "summary": "assertion (a): in the titration of oxalic acid against \\(\\text{kmno}_4\\) in acidic medium, the oxalic acid solution is warmed to about \\(60^\\circ\\text{c}\\) before adding \\(\\text{kmno}_4\\), and \\(\\text{kmno}_4\\) acts as a self-indicator. rea"
+        },
+        {
+          "fingerprint": "776cc5b19807bac10c595a4e5b27df86c49313b7652076a74d9a57731e80f43b",
+          "name": "[ch020-unit-20-principles-related-to-practical-chemistry] NEET_UG_CHEMISTRY_MCQ_Q14 - Confirmatory test for nickel ions",
+          "summary": "which of the following reagents is used in qualitative salt analysis to confirm the presence of \\(\\text{ni}^{2+}\\) ions by forming a bright rosy-red precipitate? dimethylglyoxime in ammoniacal medium potassium ferrocyanide in acetic acid me"
+        },
+        {
+          "fingerprint": "8a4aeb4125dac0cad9080428028aaf4539f57629c3d2f78b5aff77c65bab79a5",
+          "name": "[ch020-unit-20-principles-related-to-practical-chemistry] NEET_UG_CHEMISTRY_MCQ_Q15 - Titration stoichiometry of Mohrs salt and KMnO4",
+          "summary": "what volume (in \\(\\text{ml}\\)) of \\(0.02\\text{ m}\\) \\(\\text{kmno}_4\\) solution is required to completely oxidize \\(20\\text{ ml}\\) of \\(0.1\\text{ m}\\) mohr's salt (\\(\\text{feso}_4\\cdot(\\text{nh}_4)_2\\text{so}_4\\cdot 6\\text{h}_2\\text{o}\\)) so"
+        },
+        {
+          "fingerprint": "55f9f28f215062d8998ec8b7a03b2b8b44774ac3b81215962bcd8c0cac8151db",
+          "name": "[ch001-unit-1-diversity-in-living-world] NEET_UG_BIOLOGY_MCQ_Q01 - Binomial nomenclature conventions and author citation",
+          "summary": "in the biological name mangifera indica linn., what does the abbreviation “linn.” at the end signify according to the universal rules of binomial nomenclature? the plant is native to the linnaean botanical garden the species was first descr"
+        },
+        {
+          "fingerprint": "07fef1ccca1bae37f79d6937fb583bb9d7099ef9548e29d5b55b1af85b021ea7",
+          "name": "[ch001-unit-1-diversity-in-living-world] NEET_UG_BIOLOGY_MCQ_Q02 - Characteristic features of chrysophytes and diatoms",
+          "summary": "which of the following features accurately distinguishes diatoms (chrysophytes) from dinoflagellates under kingdom protista? presence of stiff cellulose plates on the outer surface of the cell wall presence of two unequal flagella, one lyin"
+        },
+        {
+          "fingerprint": "148175e8cfebf9dc089e5cc7d9be273990bd9c7de0f0d3244536f3cebd483b2c",
+          "name": "[ch001-unit-1-diversity-in-living-world] NEET_UG_BIOLOGY_MCQ_Q03 - Heterospory and precursor to seed habit",
+          "summary": "in heterosporous pteridophytes such as selaginella and salvinia , which evolutionary event is directly regarded as a precursor to the seed habit? retention of the female gametophyte on the parent sporophyte with zygote development into a yo"
+        },
+        {
+          "fingerprint": "ce4644927c019552c00caa1418c6c45870246f9c865f2f06f0bf9ea3a064e204",
+          "name": "[ch001-unit-1-diversity-in-living-world] NEET_UG_BIOLOGY_AR_Q04 - Symbiotic association and pollution sensitivity in lichens",
+          "summary": "assertion (a): lichens are very good pollution indicators as they do not grow in polluted areas. reason (r): in lichens, the algal component (phycobiont) prepares food for the fungal component (mycobiont), while the fungus provides shelter "
+        },
+        {
+          "fingerprint": "81a2bc47672a0d0f22d3ad3b7d61936de1189ffaec6cd15bd00df33976e7b499",
+          "name": "[ch001-unit-1-diversity-in-living-world] NEET_UG_BIOLOGY_SB2_Q05 - Taxonomic hierarchy and shared characteristics across taxa",
+          "summary": "read the following two statements carefully and choose the correct conclusion: statement i: as we go higher from species to kingdom in the taxonomic hierarchy, the number of common characteristics goes on decreasing. statement ii: lower the"
+        },
+        {
+          "fingerprint": "820e00528bfdc7970a6d7f3a3698b5875cf32793406eadcc24f250e567849a8b",
+          "name": "[ch001-unit-1-diversity-in-living-world] NEET_UG_BIOLOGY_SB3_Q06 - Sexual reproduction and classification in Kingdom Fungi",
+          "summary": "consider the following three statements regarding kingdom fungi: in ascomycetes and basidiomycetes, an intervening dikaryotic stage (\\(n + n\\)) occurs between plasmogamy and karyogamy. neurospora is used extensively in biochemical and genet"
+        },
+        {
+          "fingerprint": "d68d366efbc8ebe3f809cc1b079cf8ab2bbc5a05663eb67da118faa86e520e92",
+          "name": "[ch001-unit-1-diversity-in-living-world] NEET_UG_BIOLOGY_SB4_Q07 - Comparative features of non-chordate and chordate taxa",
+          "summary": "evaluate the following four statements about the animal kingdom: in ctenophora, reproduction takes place only by sexual means, with external fertilisation and indirect development. in aschelminthes, the body cavity is not lined by mesoderm;"
+        },
+        {
+          "fingerprint": "2f9886af4bd8138f4375108a6348ab637d7940847f9873aff656737505ca5ea5",
+          "name": "[ch001-unit-1-diversity-in-living-world] NEET_UG_BIOLOGY_MATCH_Q08 - Non-chordate phyla and their specialized structures",
+          "summary": "match list-i (animal phylum) with list-ii (characteristic structure): list-i list-ii a. platyhelminthes i. malpighian tubules b. annelida ii. radula c. arthropoda iii. flame cells d. mollusca iv. nephridia choose the correct answer from the"
+        },
+        {
+          "fingerprint": "bf6b9222289211f3efb9b05682e5134ac1b6d0bd455d2951f2691f172e880794",
+          "name": "[ch002-unit-2-structural-organisation-in-animals-and-plants] NEET_UG_BIOLOGY_Q01 - Mode of respiration during frog aestivation",
+          "summary": "during aestivation and hibernation in the common indian frog ( rana tigrina ), gaseous exchange occurs exclusively through which of the following structures? lungs skin buccal cavity external gills"
+        },
+        {
+          "fingerprint": "af96e0c044f4f251d1ccab8a83482fadca237addb22441c4f21569fb0942b0a1",
+          "name": "[ch002-unit-2-structural-organisation-in-animals-and-plants] NEET_UG_BIOLOGY_Q02 - Distinguishing feature of collenchyma in plants",
+          "summary": "which of the following characteristics accurately distinguishes collenchyma from sclerenchyma in flowering plants? presence of dead cells devoid of protoplasts at maturity uniformly thickened secondary walls impregnated with lignin presence"
+        },
+        {
+          "fingerprint": "e43af2ff45ac4b79aac555a22f3b73a1b4fc62ecb0fa389df2ad2aab3aade3d3",
+          "name": "[ch002-unit-2-structural-organisation-in-animals-and-plants] NEET_UG_BIOLOGY_Q03 - Diagnostic floral characters of family Malvaceae",
+          "summary": "which combination of floral characters is diagnostic of the family malvaceae? cruciform corolla, tetradynamous stamens, and parietal placentation papilionaceous corolla, diadelphous stamens, and marginal placentation epicalyx present, monad"
+        },
+        {
+          "fingerprint": "81b3f4222d85f71e5b91cda477952888fd50e8a873859c940a95780282f7bc82",
+          "name": "[ch002-unit-2-structural-organisation-in-animals-and-plants] NEET_UG_BIOLOGY_Q04 - Incorrect statement about animal tissues",
+          "summary": "identify the incorrect statement regarding animal tissues and intercellular junctions. cartilage possesses a hard and non-pliable ground substance rich in calcium salts and collagen fibres. tight junctions help to stop substances from leaki"
+        },
+        {
+          "fingerprint": "b1b427f47416d4f3e134247279b7bdcad5facd451fa3f2fd2a9c2988beed37a5",
+          "name": "[ch002-unit-2-structural-organisation-in-animals-and-plants] NEET_UG_BIOLOGY_Q05 - Vascular bundle anatomy in monocot stems",
+          "summary": "assertion (a): in a monocotyledonous stem, vascular bundles are conjoint and closed, and water-containing cavities are present within them. reason (r): vascular bundles in a monocotyledonous stem lack cambium and are each surrounded by a pa"
+        },
+        {
+          "fingerprint": "06d2439445ff8cda0fd9f32cd4ef6c50f883984b8d71c237f620b6d6eeb5d0d7",
+          "name": "[ch002-unit-2-structural-organisation-in-animals-and-plants] NEET_UG_BIOLOGY_Q06 - Circulatory and nervous systems of frog",
+          "summary": "read the following two statements regarding the anatomy of a frog ( rana tigrina ): statement i: the heart is three-chambered with two atria and one ventricle, and a triangular structure called the sinus venosus joins the right atrium. stat"
+        },
+        {
+          "fingerprint": "2d141f322e5079f18cc782d83440454b448ec2a6688040620bff2388fb7c3747",
+          "name": "[ch002-unit-2-structural-organisation-in-animals-and-plants] NEET_UG_BIOLOGY_Q07 - Floral characteristics of angiosperm families",
+          "summary": "consider the following three statements regarding floral characteristics of angiosperm families: in cruciferae (brassicaceae), the corolla consists of four clawed petals arranged in a cruciform manner, and the androecium exhibits a tetradyn"
+        },
+        {
+          "fingerprint": "81e01fa35c48fb9b5806f072dcd48fc6330f6a2bd9c5e99f4e7077f6db078f75",
+          "name": "[ch002-unit-2-structural-organisation-in-animals-and-plants] NEET_UG_BIOLOGY_Q08 - Morphology and anatomy of plant organs",
+          "summary": "evaluate the following four statements about the morphology and anatomy of flowering plants: in pisum sativum (leguminosae), the corolla shows vexillary aestivation, where the largest posterior petal overlaps two lateral wings, which in tur"
+        },
+        {
+          "fingerprint": "efe5a9d34eb77920c7a7f98dffcb9417865ceae5e826f447b43e59016ef2e1f0",
+          "name": "[ch002-unit-2-structural-organisation-in-animals-and-plants] NEET_UG_BIOLOGY_Q09 - Matching angiosperm families with diagnostic features",
+          "summary": "match the angiosperm families in list-i with their corresponding diagnostic features in list-ii: list-i (family) list-ii (diagnostic feature) a. malvaceae i. tetradynamous stamens, siliqua fruit, parietal placentation with replum b. crucife"
+        },
+        {
+          "fingerprint": "c0401702b9cc27640bc9a188aabe84f3a8cd30c16dcb7a5a3737fc791a341268",
+          "name": "[ch003-unit-3-cell-structure-and-function] NEET_UG_BIOLOGY_Q01 - Non-membranous reserve storage in prokaryotes",
+          "summary": "which structure in prokaryotic cells stores reserve materials such as phosphate granules, cyanophycean granules, and glycogen granules without being enclosed by any membrane system? inclusion bodies mesosomes polysomes chromatophores"
+        },
+        {
+          "fingerprint": "589427e482bb406268ac44845b4004773a84522f7eb6cfa35df947795bfc6d66",
+          "name": "[ch003-unit-3-cell-structure-and-function] NEET_UG_BIOLOGY_Q02 - Chromosome number and DNA content after S phase",
+          "summary": "if a diploid somatic cell has \\(2n = 16\\) chromosomes and \\(2c\\) amount of dna in the \\(g_1\\) phase, what will be the chromosome number and dna content, respectively, at the end of the s phase? \\(32\\) chromosomes and \\(4c\\) dna \\(32\\) chrom"
+        },
+        {
+          "fingerprint": "2098c45face0e56247ec47f7f42568bafe86795b8b6dca98457fed27ac250bea",
+          "name": "[ch003-unit-3-cell-structure-and-function] NEET_UG_BIOLOGY_Q03 - Enzyme classification and catalytic properties",
+          "summary": "which of the following statements is incorrect regarding enzymes and their classification? competitive inhibition occurs when an inhibitor closely resembles the substrate in its molecular structure and binds to the active site. malonate inh"
+        },
+        {
+          "fingerprint": "ab656d9091ab619ae926f3958128b8ad7245a6f97b2fe08fbaf614e84c26217e",
+          "name": "[ch003-unit-3-cell-structure-and-function] NEET_UG_BIOLOGY_Q04 - Structural features of proteins, lipids, and DNA",
+          "summary": "which of the following statements accurately describes the structure of biomolecules? the secondary structure of a protein is stabilized exclusively by covalent disulphide bridges between cysteine residues. in a b-dna double helix, each hel"
+        },
+        {
+          "fingerprint": "5bc90c9986565bfb0d272049f3d68e6eee9ac65048caadd0e34def5d5d1fd7b5",
+          "name": "[ch003-unit-3-cell-structure-and-function] NEET_UG_BIOLOGY_Q05 - Recombination and chiasmata in meiotic prophase I",
+          "summary": "assertion (a): during pachytene of meiotic prophase i, recombination nodules appear as the sites at which crossing over occurs between non-sister chromatids of homologous chromosomes, mediated by the enzyme recombinase. reason (r): terminal"
+        },
+        {
+          "fingerprint": "d858cb60fa2fb01b2450641e64b941bf1981217c25debadc0b044657b3c3494c",
+          "name": "[ch003-unit-3-cell-structure-and-function] NEET_UG_BIOLOGY_Q06 - Components and roles of the endomembrane system",
+          "summary": "read the following two statements regarding eukaryotic cell organelles: statement i: the smooth endoplasmic reticulum is the major site for synthesis of lipids and steroidal hormones in animal cells, whereas the rough endoplasmic reticulum "
+        },
+        {
+          "fingerprint": "7ccfbf80f50aa56c5020d8dd401dfc2afa81ed88116b1acf8d48a16cb0b1b226",
+          "name": "[ch003-unit-3-cell-structure-and-function] NEET_UG_BIOLOGY_Q07 - Membrane fluidity, middle lamella, and axoneme structure",
+          "summary": "consider the following three statements regarding eukaryotic cell structures: according to the fluid mosaic model proposed by singer and nicolson, the quasi-fluid nature of lipids enables lateral movement of proteins within the overall bila"
+        },
+        {
+          "fingerprint": "2352d75b7f25102fa2efc0d0fb60ed8276ed5b2795c0fdb4c90710ca44eb0d19",
+          "name": "[ch003-unit-3-cell-structure-and-function] NEET_UG_BIOLOGY_Q08 - Synthesis of biomolecules, cofactors, and meiosis",
+          "summary": "evaluate the following four statements regarding biomolecules, enzymes, and cell division: inulin is a homopolymer of fructose, whereas glycogen is a branched polymer of glucose containing \\(\\alpha\\text{-}1,4\\) linkages in straight chains a"
+        },
+        {
+          "fingerprint": "857c6be90ab37954c63167e0f30f157f2150d8f4d762db5753b71a9e0db63491",
+          "name": "[ch003-unit-3-cell-structure-and-function] NEET_UG_BIOLOGY_Q09 - Matching biomolecules with biochemical characteristics",
+          "summary": "match the biomolecules in list-i with their corresponding biochemical characteristics in list-ii: list-i (biomolecule) list-ii (biochemical characteristic) a. palmitic acid i. most abundant protein in the whole of the biosphere b. rubisco i"
+        },
+        {
+          "fingerprint": "ea2326b1c3907a8a0b7b3f401d87a6ef6dffb680b92cc5a4a20f6b58f852e52b",
+          "name": "[ch004-unit-4-plant-physiology] NEET_UG_BIOLOGY_Q01 - Chief reaction centre pigment in photosynthesis",
+          "summary": "which photosynthetic pigment acts as the chief reaction-centre molecule directly responsible for converting light energy into chemical energy during the photochemical phase of photosynthesis? chlorophyll \\(b\\) chlorophyll \\(a\\) xanthophyll "
+        },
+        {
+          "fingerprint": "6847f0e42e3936b266b2ec4eaeb1e84b639f28a75aee1318df4c79a65cf414cc",
+          "name": "[ch004-unit-4-plant-physiology] NEET_UG_BIOLOGY_Q02 - Respiratory quotient for tripalmitin oxidation",
+          "summary": "what is the respiratory quotient (\\(\\text{rq}\\)) when the fatty acid tripalmitin is completely oxidised as a respiratory substrate according to the equation below? \\[2(\\text{c}_{51}\\text{h}_{98}\\text{o}_6) + 145\\text{o}_2 \\rightarrow 102\\te"
+        },
+        {
+          "fingerprint": "6a55d7b9bc3b6b9bb538d35ab9be3a48527f50924304b246573d0b645d5f661a",
+          "name": "[ch004-unit-4-plant-physiology] NEET_UG_BIOLOGY_Q03 - Energy stoichiometry of glucose synthesis in C4 plants",
+          "summary": "how many molecules of \\(\\text{atp}\\) and \\(\\text{nadph}\\), respectively, are consumed in a \\(\\text{c}_4\\) plant to synthesize one molecule of glucose from \\(\\text{co}_2\\)? \\(30\\text{ atp}\\) and \\(12\\text{ nadph}\\) \\(18\\text{ atp}\\) and \\(12"
+        },
+        {
+          "fingerprint": "1ff770add77aa86770004f6699377e15f0ec22a9eb3fb836651b55cd4364d0ee",
+          "name": "[ch004-unit-4-plant-physiology] NEET_UG_BIOLOGY_Q04 - Incorrect statement on cellular respiration pathways",
+          "summary": "identify the incorrect statement regarding cellular respiration pathways. in glycolysis, glucose undergoes partial oxidation to form two molecules of pyruvic acid without utilizing molecular oxygen. during alcoholic fermentation in yeast, p"
+        },
+        {
+          "fingerprint": "95f13e32f21fffe7778850546f743a410ca96b895535676ad76e67db453d6512",
+          "name": "[ch004-unit-4-plant-physiology] NEET_UG_BIOLOGY_Q05 - Chemiosmotic proton gradient in chloroplasts",
+          "summary": "assertion (a): during the light reaction of photosynthesis, a proton gradient is established across the thylakoid membrane with a higher concentration of protons in the thylakoid lumen than in the stroma. reason (r): splitting of water occu"
+        },
+        {
+          "fingerprint": "ff708620c628c20f5a5ab23a7525da13a8a93455e27754a19cc5850d73ac6dc5",
+          "name": "[ch004-unit-4-plant-physiology] NEET_UG_BIOLOGY_Q06 - Photorespiration in C3 and C4 plants",
+          "summary": "read the following two statements regarding carbon fixation in plants: statement i: in \\(\\text{c}_3\\) plants, photorespiration occurs when \\(\\text{rubisco}\\) binds to \\(\\text{o}_2\\) instead of \\(\\text{co}_2\\), forming one molecule of phosph"
+        },
+        {
+          "fingerprint": "983fb88714bbf61b8ab1391680dfc8dd4b9de752aa9e0e451ebf519a1e5c9cf7",
+          "name": "[ch004-unit-4-plant-physiology] NEET_UG_BIOLOGY_Q07 - Dedifferentiation, plasticity, and geometric growth",
+          "summary": "consider the following three statements regarding plant growth and development: the formation of interfascicular cambium and cork cambium from fully differentiated parenchyma cells is an example of dedifferentiation. plasticity in plants is"
+        },
+        {
+          "fingerprint": "d920d0ac2ab4e2394f44e68cc109f04c3b42ee94697123dcc650fdeedd04dfb1",
+          "name": "[ch004-unit-4-plant-physiology] NEET_UG_BIOLOGY_Q08 - Physiological roles of plant growth regulators",
+          "summary": "evaluate the following four statements regarding plant growth regulators (pgrs): synthetic auxins such as \\(\\text{2,4-d}\\) are widely used to kill dicotyledonous weeds without harming mature monocotyledonous plants. gibberellins promote bol"
+        },
+        {
+          "fingerprint": "7b9b54ea8687b041984444faed87331cd12e7e479f6740f77ac197dae82a65d2",
+          "name": "[ch004-unit-4-plant-physiology] NEET_UG_BIOLOGY_Q09 - Matching plant growth regulators with chemical nature and effects",
+          "summary": "match the plant growth regulators in list-i with their chemical nature and physiological roles in list-ii: list-i (plant growth regulator) list-ii (chemical nature & role) a. auxin (\\(\\text{iaa}\\)) i. adenine derivative; promotes nutrient m"
+        },
+        {
+          "fingerprint": "34b57e8fa9656f359f0e3434882bcf7bca1824b6e4b698c4e450b48903b7c0b5",
+          "name": "[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_MCQ_Q01 - Calculation of vital capacity from respiratory volumes",
+          "summary": "a healthy adult male has a tidal volume (tv) of \\(500\\text{ ml}\\), an inspiratory reserve volume (irv) of \\(2800\\text{ ml}\\), an expiratory reserve volume (erv) of \\(1100\\text{ ml}\\), and a residual volume (rv) of \\(1200\\text{ ml}\\). what i"
+        },
+        {
+          "fingerprint": "0e96937a8da65b20068aeda809c93328d9a9a4bd0e19aca713120c6db1e2ddc2",
+          "name": "[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_MCQ_Q02 - Myelinated nerve fibres and nodes of Ranvier",
+          "summary": "which of the following statements accurately describes the structure of myelinated nerve fibres in the human nervous system? unmyelinated nerve fibres completely lack schwann cells around their axons. nodes of ranvier are continuous stretch"
+        },
+        {
+          "fingerprint": "3f1a0786e9487a80a4586b9972d46e784d68dd65b26715e386ec51fe693466fe",
+          "name": "[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_MCQ_Q03 - Mechanism of action of peptide hormones",
+          "summary": "which of the following hormones binds to a membrane-bound receptor on its target cell and generates a second messenger such as cyclic amp (\\(\\text{camp}\\)) rather than directly entering the nucleus? follicle-stimulating hormone (fsh) cortis"
+        },
+        {
+          "fingerprint": "31549c5d32b3c90125556bbfe4ff56dd6fa0fa32107f298eeaabcd4195c0b31f",
+          "name": "[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_MCQ_Q04 - Correlation of ECG waves with cardiac cycle",
+          "summary": "during a standard electrocardiogram (ecg) recording of a healthy human heart, which electrical event immediately precedes ventricular systole and marks the depolarisation of the ventricles? the p-wave, representing atrial repolarisation the"
+        },
+        {
+          "fingerprint": "eb46bbd54b1a8c20b05ec7e198dab81e8bf83a14f7abec29ebc295a78b60da3b",
+          "name": "[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_MCQ_Q05 - Regulation of kidney function via RAAS and ANF",
+          "summary": "a fall in glomerular blood flow activates the juxtaglomerular (jg) cells to initiate the renin-angiotensin mechanism. which of the following physiological responses directly counteracts this mechanism when blood flow to the atria of the hea"
+        },
+        {
+          "fingerprint": "445246219f0758c2ec621e8c8e828845ae44eb1705e1c86e4d91ad1e18cbc74b",
+          "name": "[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_MCQ_Q06 - Sarcomere band changes during skeletal muscle contraction",
+          "summary": "during maximal contraction of a skeletal muscle fibre according to the sliding filament theory, what happens to the lengths of the a-band, i-band, and h-zone? a-band shortens, i-band retains its length, and h-zone widens a-band, i-band, and"
+        },
+        {
+          "fingerprint": "4afc914b3599fd5ef0a723664126a0d5072f4d72657efcb6c9cd677e7678b632",
+          "name": "[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_AR_Q07 - Rh incompatibility and erythroblastosis foetalis",
+          "summary": "assertion (a): in an \\(\\text{rh}\\)-negative mother carrying an \\(\\text{rh}\\)-positive foetus in her second pregnancy, the foetus is at risk of developing erythroblastosis foetalis if no preventive treatment was given after the first deliver"
+        },
+        {
+          "fingerprint": "4ac675a0b556d14aab5572f48d39ca18ac2a0d06909c52c8a2a80d4e4a9117c7",
+          "name": "[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_STMT2_Q08 - Oxygen dissociation curve and carbon dioxide transport",
+          "summary": "given below are two statements: statement i: in metabolically active tissues, high \\(p\\text{co}_2\\), high \\(\\text{h}^+\\) concentration, and higher temperature shift the oxygen-haemoglobin dissociation curve to the right, favouring the disso"
+        },
+        {
+          "fingerprint": "346f1e66fe787c137cf59938742003e47fb74f99b27035957d73e0b47470afd1",
+          "name": "[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_STMT2_Q09 - Ionic basis of resting membrane potential and depolarisation",
+          "summary": "given below are two statements: statement i: when a neuron is not conducting any impulse (resting state), the axonal membrane is comparatively more permeable to sodium ions (\\(\\text{na}^+\\)) and nearly impermeable to potassium ions (\\(\\text"
+        },
+        {
+          "fingerprint": "4cd1200af9de9b8937c502960291cc069dad8961218f730a7d2c452661a7af79",
+          "name": "[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_STMT3_Q10 - Reabsorption and secretion across nephron segments",
+          "summary": "read the following three statements regarding urine formation in the human nephron: nearly \\(70\\text{--}80\\%\\) of electrolytes and water are reabsorbed in the proximal convoluted tubule (pct). the descending limb of the loop of henle is per"
+        },
+        {
+          "fingerprint": "ec0f379308b5bda21b79cae15e865ce10bf83360260b9c93395288a72822881c",
+          "name": "[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_STMT3_Q11 - Adrenal cortex zones and pancreatic islet hormones",
+          "summary": "evaluate the following three statements regarding endocrine glands in humans: the adrenal cortex is organised into three layers from inner to outer: zona reticularis, zona fasciculata, and zona glomerulosa. glucagon secreted by \\(\\alpha\\)-c"
+        },
+        {
+          "fingerprint": "286b60f2f9c4849607b81577b746480b9e846d2fbd93b89fde9cc0aad0f69da4",
+          "name": "[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_STMT4_Q12 - Blood coagulation cascade and cardiac valves",
+          "summary": "consider the following four statements about blood coagulation and the human heart: an enzyme complex called thrombokinase converts inactive prothrombin in the plasma into active thrombin. calcium ions (\\(\\text{ca}^{2+}\\)) play a crucial ro"
+        },
+        {
+          "fingerprint": "7dee31dd72919a5420a1462ea6651e99b6da3178cf774229624ca0d0412c99f9",
+          "name": "[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_STMTMULTI_Q13 - Joints and disorders of muscular and skeletal systems",
+          "summary": "read the following five statements regarding human joints and disorders of the muscular and skeletal systems: fibrous joints, such as those between flat skull bones, do not allow any movement. the joint between the atlas and axis is a pivot"
+        },
+        {
+          "fingerprint": "721b1ede45dc3de03b65ebca6e01d8be0c367af0db6b9fca06517d08c2878bf1",
+          "name": "[ch005-unit-5-human-physiology] NEET_UG_BIOLOGY_HUMANPHYSIOLOGY_MATCH_Q14 - Matching endocrine disorders with their hormonal causes",
+          "summary": "match the endocrine disorders in list-i with their corresponding hormonal causes in list-ii: list-i (disorder) list-ii (hormonal cause) (a) acromegaly (i) hyposecretion of adrenal cortex hormones (b) cretinism (ii) hypersecretion of growth "
+        },
+        {
+          "fingerprint": "6262c5e8ad2bde11675eca6533c084d4fd7ac34221610fad076e77d045a63e7c",
+          "name": "[ch006-unit-6-reproduction] NEET_UG_BIOLOGY_MCQ_Q01 - Cleistogamous flowers reproductive advantage and limitation",
+          "summary": "which of the following correctly describes an advantage and a disadvantage of cleistogamous flowers, such as those found in viola and oxalis ? they require biotic pollinators for seed-set, but promote high genetic variation. they ensure ass"
+        },
+        {
+          "fingerprint": "d4efa52ed69cba1657c9af20a23f46392d86095a3b8f72154110b75fdd1806d1",
+          "name": "[ch006-unit-6-reproduction] NEET_UG_BIOLOGY_MCQ_Q02 - Chromosome number in zygote and endosperm",
+          "summary": "in an experimental cross, a tetraploid female angiosperm plant (\\(4n = 48\\)) is pollinated by a diploid male plant (\\(2n = 24\\)) of a compatible variety. what will be the chromosome numbers in the zygote and the primary endosperm nucleus, r"
+        },
+        {
+          "fingerprint": "6b73e6dd2b6ee82c793d8211dd38fcee3136be57a6953e0fcd93d205c3e7c946",
+          "name": "[ch006-unit-6-reproduction] NEET_UG_BIOLOGY_MCQ_Q03 - Apomixis polyembryony and parthenocarpy evaluation",
+          "summary": "read the following three statements regarding special modes of reproduction in flowering plants: statement i: in citrus and mango , some nucellar cells surrounding the embryo sac start dividing, protrude into the embryo sac, and develop int"
+        },
+        {
+          "fingerprint": "3ce530fa721d91caf38edf61bda33381ba72881c0ace7ff85d9f8ed408d6568e",
+          "name": "[ch006-unit-6-reproduction] NEET_UG_BIOLOGY_MCQ_Q04 - Release of spermatozoa during spermatogenesis",
+          "summary": "during spermatogenesis in human males, which term specifically refers to the release of mature spermatozoa from the sertoli cells into the lumen of the seminiferous tubules? spermiation spermiogenesis spermatocytogenesis capacitation"
+        },
+        {
+          "fingerprint": "472ca4318fb70b4e0c4729073635626140cbd06aefd51a00a83b9628cd5f42be",
+          "name": "[ch006-unit-6-reproduction] NEET_UG_BIOLOGY_MCQ_Q05 - Corpus luteum degeneration and menstrual cycle",
+          "summary": "assertion (a): in the absence of fertilisation, the corpus luteum degenerates into the corpus albicans, which precipitates the menstrual phase of the ovarian-uterine cycle. reason (r): progesterone secreted by the corpus luteum is essential"
+        },
+        {
+          "fingerprint": "672a3ffe1e1673242c62a35df350b95770792f6fd87fb6943ea2a3958f7263cf",
+          "name": "[ch006-unit-6-reproduction] NEET_UG_BIOLOGY_MCQ_Q06 - Meiotic progression during human oogenesis",
+          "summary": "consider the following two statements regarding human oogenesis: statement i: the primary oocyte within the tertiary follicle grows in size and completes its first unequal meiotic division prior to ovulation, forming a large haploid seconda"
+        },
+        {
+          "fingerprint": "9d6c2a9618f02996299a815b044fd1d8369bc2a0ae184ceace8cc9e6c32b2afd",
+          "name": "[ch006-unit-6-reproduction] NEET_UG_BIOLOGY_MCQ_Q07 - Fertilisation blastocyst implantation and parturition",
+          "summary": "evaluate the following four statements about human embryonic development and pregnancy: upon contact of a sperm with the zona pellucida layer of the ovum, changes are induced in the membrane that block the entry of additional sperms. the em"
+        },
+        {
+          "fingerprint": "c8fd564aad7fa455fd2fc4b42861cb64547e96a7dd9fb12a5be3bfb443dcc3e3",
+          "name": "[ch006-unit-6-reproduction] NEET_UG_BIOLOGY_MCQ_Q08 - Mechanism of copper releasing intrauterine devices",
+          "summary": "which of the following statements regarding copper-releasing intrauterine devices (iuds), such as cut and multiload 375, is incorrect ? they increase phagocytosis of sperms within the uterus. the released copper ions suppress sperm motility"
+        },
+        {
+          "fingerprint": "e6b76270d8e21f13b9596b5296f6b2c92d8955cf32ad84eb7b84f13696cee732",
+          "name": "[ch006-unit-6-reproduction] NEET_UG_BIOLOGY_MCQ_Q09 - Assisted reproductive technologies procedure matching",
+          "summary": "match the assisted reproductive technologies (art) in list-i with their corresponding descriptions in list-ii: list-i list-ii a. zift 1. direct injection of a single sperm into the cytoplasm of an ovum in the laboratory. b. gift 2. artifici"
+        },
+        {
+          "fingerprint": "e38700210e5458d7667b7ab110d4522e0f6f4b8fa85cff2ab4dcc009c6feda3e",
+          "name": "[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_MCQ_Q01 - Inheritance of ABO blood groups in humans",
+          "summary": "which of the following parental blood group combinations can produce a biological child with blood group o? ab and o a and b ab and a ab and ab"
+        },
+        {
+          "fingerprint": "fd47dac864a8ef01d2f059cfbad0e167b5060c35c772117bdef2b80a5a661dfa",
+          "name": "[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_MCQ_Q02 - Haplodiploid sex determination in honey bees",
+          "summary": "in the haplodiploid sex-determination system of honey bees ( apis mellifera ), which of the following statements is correct regarding male honey bees (drones)? they are diploid and produce sperms by meiosis. they develop from fertilised egg"
+        },
+        {
+          "fingerprint": "68d9b19e70152236b05cb1412fa9013391218ff97f26eed9ab1f0002aa9ea2b6",
+          "name": "[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_MCQ_Q03 - Genetic basis of alpha and beta thalassemia",
+          "summary": "which of the following correctly distinguishes \\(\\alpha\\)-thalassemia from \\(\\beta\\)-thalassemia in humans? \\(\\alpha\\)-thalassemia is controlled by two closely linked genes on chromosome 16, whereas \\(\\beta\\)-thalassemia is controlled by a "
+        },
+        {
+          "fingerprint": "aaa7defa94e9d26c7e63433fc8e70c786de47dcbdfe71945b856073b7041371b",
+          "name": "[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_MCQ_Q04 - Meselson and Stahl semiconservative DNA replication",
+          "summary": "escherichia coli cells with completely heavy (\\(^{15}\\text{n}external/text{n})) dna are transferred to a medium containing only \\(^{14}\\text{nh}_4\\text{cl}\\) and allowed to divide for 60 minutes. assuming a generation time of 20 minutes, wha"
+        },
+        {
+          "fingerprint": "831fbc81e5aef2f8954f0de86b59cdfc20a931a56fd900224d9b0e82c17b4416",
+          "name": "[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_MCQ_Q05 - Hardy-Weinberg carrier frequency calculation",
+          "summary": "in a large, randomly mating population of \\(10{,}000\\) individuals at hardy-weinberg equilibrium, \\(1{,}600\\) individuals exhibit an autosomal recessive trait. how many individuals in this population are expected to be phenotypically normal"
+        },
+        {
+          "fingerprint": "07f639cdd7af256128c17b3a8ced066f85a6fc818c0600a52f9d237286e6e783",
+          "name": "[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_AR_Q06 - Degeneracy of the genetic code",
+          "summary": "assertion (a): the genetic code is degenerate in nature. reason (r): most amino acids are coded by more than one codon. both (a) and (r) are correct and (r) is the correct explanation of (a). both (a) and (r) are correct but (r) is not the "
+        },
+        {
+          "fingerprint": "881a89aea1d5400689ef4b2c0f900cb2e50597741b828774a528c60bd0c6f127",
+          "name": "[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_AR_Q07 - Linkage and recombination frequency in Drosophila",
+          "summary": "assertion (a): in t.h. morgan's dihybrid crosses in drosophila , when two genes were situated on the same chromosome, the proportion of parental gene combinations was always equal to that of non-parental combinations. reason (r): tightly li"
+        },
+        {
+          "fingerprint": "963a8c79b541540cd36d222c2352bd06d2f8ab70f2ed6312467ea2e24d35073a",
+          "name": "[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_STMT2_Q08 - Chemical evolution and Miller-Urey experiment",
+          "summary": "given below are two statements: statement i: s.l. miller created an electric discharge in a closed flask containing \\(\\text{ch}_4\\), \\(\\text{h}_2\\), \\(\\text{nh}_3\\), and water vapour at \\(800^\\circ\\text{c}\\) and observed the formation of am"
+        },
+        {
+          "fingerprint": "0842e6a5773bf98aa5c1bb05d234e450823a87a428022355807400b7092b7f3a",
+          "name": "[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_STMT2_Q09 - Regulation of the lac operon in bacteria",
+          "summary": "given below are two statements: statement i: in the lac operon, the z gene codes for \\(\\beta\\)-galactosidase, which is primarily responsible for the hydrolysis of lactose into galactose and glucose. statement ii: in the presence of an induc"
+        },
+        {
+          "fingerprint": "758d1461c13305eec185f8f9568d4e82232df6ada115da8a0113d2c7f359b671",
+          "name": "[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_STMT3_Q10 - Human Genome Project and DNA fingerprinting",
+          "summary": "read the following three statements carefully: the human genome contains \\(3164.7\\text{ million bp}\\), and less than \\(2\\%\\) of the genome codes for proteins. chromosome 1 has the most genes (\\(2968\\)), and the y chromosome has the fewest ("
+        },
+        {
+          "fingerprint": "877e46057bc96e099ce4fdb2bb6a3b07d43436448d735039cdc7fdc5d465aa9f",
+          "name": "[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_STMT3_Q11 - Evidences and mechanisms of biological evolution",
+          "summary": "consider the following three statements regarding biological evolution: sweet potato (root modification) and potato (stem modification) are examples of analogous structures resulting from convergent evolution. in directional natural selecti"
+        },
+        {
+          "fingerprint": "e69220014ba8fbce7668a2cc371c69c06769a4f9385c5b6be9ebd0709f45e32e",
+          "name": "[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_MULTI_Q12 - DNA replication, transcription, and translation",
+          "summary": "evaluate the following five statements regarding the molecular basis of inheritance: dna-dependent dna polymerase catalyses polymerisation only in the \\(5' \\to 3'\\) direction. during dna replication, synthesis is continuous on the template "
+        },
+        {
+          "fingerprint": "3f9634b48ccb1365e044d94ebb7279b2cfc61165eae634d1c9eca4a491ecd426",
+          "name": "[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_MATCH_Q13 - Human evolution stages and characteristics",
+          "summary": "match list i with list ii regarding human evolution: list i (hominin) list ii (characteristic / brain capacity) a. homo habilis i. cranial capacity of \\(1400\\text{ cc}\\); used hides to protect body and buried their dead b. homo erectus ii. "
+        },
+        {
+          "fingerprint": "d5f4988736568616202f317f6c5c51c04e92e0e999719ed2ef0ba58cd900b09e",
+          "name": "[ch007-unit-7-genetics-and-evolution] NEET_UG_BIOLOGY_DIAG_Q14 - Pedigree analysis of Mendelian inheritance",
+          "summary": "study the pedigree chart shown below for a genetic trait in a human family, where shaded symbols represent affected individuals and unshaded symbols represent unaffected individuals. i ii unaffected male unaffected female affected female sq"
+        },
+        {
+          "fingerprint": "62942299887a79cd3143607278aae262818fb037bd31bedd8efa604bc2cc2256",
+          "name": "[ch008-unit-8-biology-and-human-welfare] NEET_UG_BIOLOGY_MCQ_Q01 - Bioactive agent used as immunosuppressive drug",
+          "summary": "which of the following bioactive molecules is produced by the fungus trichoderma polysporum and is used as an immunosuppressive agent in organ-transplant patients? streptokinase cyclosporin a statin citric acid"
+        },
+        {
+          "fingerprint": "3b993e910b3f22707fc7da73a3cb68124bd51e21a007d8bca0256d6517d95eaf",
+          "name": "[ch008-unit-8-biology-and-human-welfare] NEET_UG_BIOLOGY_MCQ_Q02 - Life cycle and pathogenesis of Plasmodium",
+          "summary": "during the life cycle of plasmodium in a human host, the recurring chill and high fever every three to four days is directly associated with which of the following events? entry of sporozoites into the human bloodstream via mosquito bite as"
+        },
+        {
+          "fingerprint": "abcb70e84bbfc5e48897a14f630355905d64817e3ccdff5192319b0a8da1b203",
+          "name": "[ch008-unit-8-biology-and-human-welfare] NEET_UG_BIOLOGY_SB2_Q03 - Passive and active immunity mechanisms",
+          "summary": "given below are two statements regarding human immunology: statement i: the yellowish fluid colostrum secreted by the mother during the initial days of lactation has abundant iga antibodies to protect the infant, which is an example of pass"
+        },
+        {
+          "fingerprint": "d054cf3206d58ee5b61752037ffeb0475b6ebb362cddd5b550b02614f462f4c9",
+          "name": "[ch008-unit-8-biology-and-human-welfare] NEET_UG_BIOLOGY_SB3_Q04 - Sewage treatment stages and biogas production",
+          "summary": "evaluate the following three statements regarding municipal sewage treatment: primary treatment involves the physical removal of large and small particles from sewage through sequential filtration and sedimentation. during secondary treatme"
+        },
+        {
+          "fingerprint": "aa4750986c7a38e02bdcef166241e519d7c434daa1ece776362b97653c6a66cf",
+          "name": "[ch008-unit-8-biology-and-human-welfare] NEET_UG_BIOLOGY_AR_Q05 - Contact inhibition and metastasis in cancer",
+          "summary": "assertion (a): cancerous cells lose the property of contact inhibition and continue to divide, giving rise to masses of cells called tumours. reason (r): metastasis is the most feared property of benign tumours, in which cells slough off fr"
+        },
+        {
+          "fingerprint": "0ee403b56e727d60ddc37be6365b29c3859896d7ec416dc6bc68602a187b1985",
+          "name": "[ch008-unit-8-biology-and-human-welfare] NEET_UG_BIOLOGY_SBM_Q06 - Pathogens, drugs, and microbial biocontrol agents",
+          "summary": "read the following five statements carefully: typhoid fever, caused by the pathogenic bacterium salmonella typhi , can be confirmed by the widal test. wuchereria bancrofti causes slowly developing chronic inflammation of the organs in which"
+        },
+        {
+          "fingerprint": "0441981fcf4f6a627fd69a96af5aea70b865cf3b3b4df1de28789b072c30fde9",
+          "name": "[ch009-unit-9-biotechnology-and-its-applications] NEET_UG_BIOLOGY_MCQ_Q07 - Activation of Bt toxin in insect gut",
+          "summary": "why does the bt toxin protein produced by bacillus thuringiensis not kill the bacterium itself, but kills the target insect upon ingestion? the toxin exists as an inactive protoxin in the bacterium and is activated by the alkaline ph of the"
+        },
+        {
+          "fingerprint": "ef6000dcb81f2365b117af24b93d8cae54b6853ccfb34062c93a85e9415f4506",
+          "name": "[ch009-unit-9-biotechnology-and-its-applications] NEET_UG_BIOLOGY_MCQ_Q08 - Gene therapy for ADA deficiency",
+          "summary": "in the first clinical gene therapy given to a 4-year-old girl with adenosine deaminase (ada) deficiency, why did the patient require periodic infusions of genetically engineered lymphocytes? the retroviral vector is degraded by restriction "
+        },
+        {
+          "fingerprint": "3175a88b19ac7e53686169874689a262e1df5e0ebf50b1216742f4c33bcca3eb",
+          "name": "[ch009-unit-9-biotechnology-and-its-applications] NEET_UG_BIOLOGY_SB2_Q09 - Recombinant human insulin synthesis by Eli Lilly",
+          "summary": "given below are two statements regarding recombinant human insulin: statement i: in mammals, insulin is synthesized as a pro-hormone containing an extra stretch called the c-peptide, which is removed during maturation into functional insuli"
+        },
+        {
+          "fingerprint": "a4f4dc8005d99c3f48e11c39cc1bbcab271a6da3829cff448d865d93cd7c3e7e",
+          "name": "[ch009-unit-9-biotechnology-and-its-applications] NEET_UG_BIOLOGY_SB3_Q10 - Restriction enzymes, electrophoresis, and insertional inactivation",
+          "summary": "consider the following three statements regarding tools of recombinant dna technology: the restriction endonuclease eco ri recognizes the palindromic sequence \\(5'\\text{-gaattc-}3'\\) and cuts each of the two strands of the dna double helix "
+        },
+        {
+          "fingerprint": "4e6e5a88d7cb5252c6624b0d718173bd2b1bbc02a55ef496712917bdbeecd667",
+          "name": "[ch009-unit-9-biotechnology-and-its-applications] NEET_UG_BIOLOGY_DIAG_Q11 - Selection of recombinants in pBR322 cloning vector",
+          "summary": "observe the schematic diagram of the cloning vector pbr322 shown below. if a foreign dna fragment is ligated at the bam hi restriction site, what will be the growth phenotype of the host e. coli cells carrying this recombinant plasmid? ampr"
+        },
+        {
+          "fingerprint": "b32645340bfd7b4fd5698039864df457a972b07c915be8fa54dde99f0d375dbe",
+          "name": "[ch009-unit-9-biotechnology-and-its-applications] NEET_UG_BIOLOGY_SEQ_Q12 - Chronological steps of recombinant DNA technology",
+          "summary": "arrange the following steps of recombinant dna technology in the correct chronological sequence: ligation of the desired dna fragment into a cloning vector fragmentation of isolated dna by restriction endonucleases isolation of pure genetic"
+        },
+        {
+          "fingerprint": "b91c5ea6ff8df8bd0716448ff4b3fa2d7a91996a7d3c6085275b2d136ffc9813",
+          "name": "[ch010-unit-10-ecology-and-environment] NEET_UG_BIOLOGY_MCQ_Q01 - Sacred groves as in-situ biodiversity conservation",
+          "summary": "which of the following regions in india is a well-known example of sacred groves, where tracts of forest are set aside and all the trees and wildlife within are venerated and given total protection? khasi and jaintia hills in meghalaya kazi"
+        },
+        {
+          "fingerprint": "76d15596b4c144488143677e67896ffc2744bd9f72d3186cc31530d351be080d",
+          "name": "[ch010-unit-10-ecology-and-environment] NEET_UG_BIOLOGY_MCQ_Q02 - Intrinsic rate of natural increase calculation",
+          "summary": "in a freshwater pond, a population of \\(800\\) hydrilla individuals experiences \\(120\\) new individuals added through natality and \\(40\\) individuals lost through mortality over a period of one year, while immigration equals emigration. assu"
+        },
+        {
+          "fingerprint": "143d4bc7731ff86a52a849d77134b779dc3873537e11728f433c32a120aa52c0",
+          "name": "[ch010-unit-10-ecology-and-environment] NEET_UG_BIOLOGY_STATEMENT_Q03 - Ecological pyramids of energy and biomass",
+          "summary": "given below are two statements: statement i: in most terrestrial and aquatic ecosystems, the pyramid of energy is always upright and can never be inverted. statement ii: in a deep ocean ecosystem, the pyramid of biomass is typically upright"
+        },
+        {
+          "fingerprint": "30c7a0b2642eea0781b076adbe93d6c318600a5c55b371e079f8449faeaf7cfd",
+          "name": "[ch010-unit-10-ecology-and-environment] NEET_UG_BIOLOGY_MULTISTATEMENT_Q04 - Population interactions and ecological principles",
+          "summary": "read the following five statements regarding population interactions and choose the option that identifies all the correct statements: a. in brood parasitism, the parasitic bird lays its eggs in the nest of its host, and during evolution th"
+        },
+        {
+          "fingerprint": "52b351ddbe7a529ff3b90e313dcba420fa353735ac52c25c85c9f30b25db7cf5",
+          "name": "[ch010-unit-10-ecology-and-environment] NEET_UG_BIOLOGY_DIAGRAM_Q05 - Logistic population growth rate and carrying capacity",
+          "summary": "observe the population growth curves shown below, where curve \\(p\\) represents exponential growth and curve \\(q\\) represents verhulst-pearl logistic growth with carrying capacity \\(k = 1200\\). k = 1200 curve p curve q time (t) population de"
+        },
+        {
+          "fingerprint": "cb639201af010361fe632763722d0d4890b817d5510263bb761c115f7adffd77",
+          "name": "[ch010-unit-10-ecology-and-environment] NEET_UG_BIOLOGY_SEQUENCING_Q06 - Sequential steps of detritus decomposition",
+          "summary": "which of the following represents the correct logical sequence of the five key steps involved in the decomposition of detritus in a terrestrial ecosystem, from the initial breakdown of detritus to the release of inorganic nutrients? fragmen"
+        }
+      ],
+      "output_sha256": "43bcfd4a53a62beccd92061bccb208826cf57f603b1b34f9db29ea87b7e772b9"
+    }
+  ],
+  "updated_at": "2026-11-19T10:26:01.194435+05:30",
+  "reference_profile_sha256": "9a0fd4d469e12f92eb96fc95f1824df84a5d31d19909a743b7070dc9012dc2d0"
+}
